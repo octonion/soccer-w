@@ -17,6 +17,7 @@ class String
   end
 end
 
+
 base_url = 'http://stats.ncaa.org'
 #base_url = 'http://anonymouse.org/cgi-bin/anon-www.cgi/stats.ncaa.org'
 
@@ -55,6 +56,9 @@ ncaa_games_boxscores << boxscores_header
 
 game_ids = []
 ncaa_team_schedules.each do |game|
+#  if not(game["game_id"].to_i==3495039)
+#    next
+#  end
   game_ids << game["game_id"]
 end
 
@@ -93,11 +97,16 @@ game_ids.each_slice(gpt).with_index do |ids,i|
       game_url = 'http://stats.ncaa.org/game/box_score/%d' % [game_id]
 
 #      print "Thread #{thread_id}, sleep #{sleep_time} ... "
-#      sleep sleep_time
+      #      sleep sleep_time
 
+      broken1 = "\\\">\r\n      <SHOTS G="
+      broken2 = "\\\"><SHOTS G="
       tries = 0
       begin
-        page = Nokogiri::HTML(agent.get(game_url).body)
+        doc = agent.get(game_url).body
+        doc = doc.gsub(broken1,"")
+        doc = doc.gsub(broken2,"")
+        page = Nokogiri::HTML(doc)
       rescue
         sleep_time += sleep_increment
 #        print "sleep #{sleep_time} ... "
