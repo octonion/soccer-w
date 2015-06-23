@@ -45,10 +45,10 @@ rm /tmp/rosters.csv
 
 # Boxscores
 
-#cp csv/ncaa_boxscores_*.csv.gz /tmp
-#gzip -d /tmp/ncaa_boxscores_*.csv.gz
-tail -q -n+2 csv/ncaa_boxscores_*.csv >> /tmp/boxscores.csv
-#tail -q -n+2 /tmp/ncaa_boxscores_*.csv >> /tmp/boxscores.csv
+cp csv/ncaa_boxscores_*.csv.gz /tmp
+gzip -d /tmp/ncaa_boxscores_*.csv.gz
+#tail -q -n+2 csv/ncaa_boxscores_*.csv >> /tmp/boxscores.csv
+tail -q -n+2 /tmp/ncaa_boxscores_*.csv >> /tmp/boxscores.csv
 psql soccer-w -f loaders/load_boxscores.sql
 rm /tmp/boxscores.csv
 rm /tmp/ncaa_boxscores_*.csv
@@ -88,10 +88,10 @@ rm /tmp/periods.csv
 
 # Load play_by_play data
 
-#cp csv/ncaa_games_play_by_play_*.csv.gz /tmp
-#gzip -d /tmp/ncaa_games_play_by_play_*.csv.gz
-#tail -q -n+2 /tmp/ncaa_games_play_by_play_*.csv >> /tmp/play_by_play.csv
-tail -q -n+2 csv/ncaa_games_play_by_play_*.csv >> /tmp/play_by_play.csv
+cp csv/ncaa_games_play_by_play_*.csv.gz /tmp
+gzip -d /tmp/ncaa_games_play_by_play_*.csv.gz
+tail -q -n+2 /tmp/ncaa_games_play_by_play_*.csv >> /tmp/play_by_play.csv
+#tail -q -n+2 csv/ncaa_games_play_by_play_*.csv >> /tmp/play_by_play.csv
 psql soccer-w -f loaders/load_play_by_play.sql
 rm /tmp/play_by_play.csv
 rm /tmp/ncaa_games_play_by_play_*.csv

@@ -133,7 +133,7 @@ game_ids.each_slice(gpt).with_index do |ids,i|
 
             #"\u00A0"
             #gsub(/\302\240/,"")
-            #player_name = element.text.strip.gsub("\u00A0","") rescue nil
+            player_name = element.text.strip.gsub("\u00A0","") rescue nil
             link = element.search("a").first
 
             if not(link.nil?)
