@@ -1,0 +1,584 @@
+year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	player_url	class_year	gp	gs	goals	assists	points	sh_att	fouls	red_cards	yellow_cards	gc	goal_app	ggs	goalie_min_played	ga	gaa	saves	save_pct	shutouts	g_wins	g_loss	d_saves	corners	ps	psa	gwg
+2015	11720	3	4	Adrian	10	1259238	Rammal, Sophie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1259238	Sr	20	18	3	3.00	9.00	17	7	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	2
+2015	11720	3	4	Adrian	5	1583875	Badalamente, Lauren	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583875	Jr	20	10	2	3.00	7.00	29	20	 	2	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	4	Adrian	8	1259233	Karsten, Ellery	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1259233	Sr	20	9	2	1.00	5.00	18	2	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	4	Adrian	13	1259235	Masciovecchio, Aly	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1259235	Sr	20	19	1	1.00	3.00	3	7	 	1	 	 	 	 	""	""	 	""	 	 	 	1	 	 	 	 
+2015	11720	3	4	Adrian	14	1259236	Weide, Erin	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1259236	Sr	20	19	11	2.00	24.00	53	5	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	3
+2015	11720	3	4	Adrian	21	1583880	Donaghy, Madi	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583880	Fr	20	11	 	 	0.00	4	7	 	 	 	 	 	 	""	""	 	""	 	 	 	1	 	 	 	 
+2015	11720	3	4	Adrian	18	1259239	Reynolds, Becky	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1259239	Sr	20	16	 	1.00	1.00	6	2	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	4	Adrian	23	1259241	Crowell, Christine	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1259241	Sr	20	20	 	 	0.00	1	2	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	4	Adrian	20	1476431	Farah, Sofia	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1476431	So	20	10	1	 	2.00	32	4	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	4	Adrian	3	1476426	O'Malley, Carlin	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1476426	So	20	15	3	2.00	8.00	15	8	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	4	Adrian	26	1378270	Foote, Tori	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1378270	Jr	20	19	 	1.00	1.00	1	1	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	4	Adrian	9	1583878	Jarrett, Sam	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583878	Jr	19	14	 	1.00	1.00	5	1	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	4	Adrian	17	1378268	Sutherland, Katt	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1378268	Jr	18	9	3	 	6.00	23	8	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	4	Adrian	00	1378264	Lewandowski, Lexi	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1378264	Jr	17	16	 	 	0.00	 	 	 	 	 	17	16	1535:26	30	1.758	99.00	0.767	1	7	8	 	 	 	 	 
+2015	11720	3	4	Adrian	6	1583876	Wilcox, Mackenzie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583876	Fr	17	1	 	 	0.00	4	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	4	Adrian	19	1476430	Theisen, Emily	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1476430	So	15	2	1	1.00	3.00	5	2	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	1	 
+2015	11720	3	4	Adrian	16	1259244	Lizyness, Carmina	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1259244	Sr	14	5	2	1.00	5.00	10	1	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	4	Adrian	12	1583879	Chambers, Kirsten	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583879	Fr	9	0	 	1.00	1.00	1	1	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	4	Adrian	0	1378265	Royce, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1378265	Jr	8	4	 	 	0.00	 	1	 	 	 	7	4	372:07	7	1.693	16.00	0.696	 	2	 	 	 	 	 	 
+2015	11720	3	4	Adrian	25	1476429	Miller, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1476429	So	7	0	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	4	Adrian	15	1476433	Simpson, Amanda	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1476433	So	7	0	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	4	Adrian	24	1259243	Stempky, Cara	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1259243	Sr	6	3	 	 	0.00	 	3	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	4	Adrian	11	1476428	Berka, Chloe	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1476428	So	5	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	4	Adrian	4	1583874	Sarka, Bailey	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583874	Fr	5	0	 	 	0.00	1	1	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	4	Adrian	7	1583877	McLauglin, Maggie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583877	Jr	2	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	11324	Agnes Scott	21	1592033	Innis, Erin	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1592033	Fr	17	16	1	2.00	4.00	7	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	11324	Agnes Scott	9	1367198	Micacchione, Ciara	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1367198	Jr	17	17	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	11324	Agnes Scott	12	1592031	Fisher, Sarah	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1592031	Fr	17	17	3	 	6.00	19	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	11324	Agnes Scott	19	1592032	Dodson, Rachel	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1592032	Fr	17	17	 	 	0.00	 	 	 	2	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	11324	Agnes Scott	20	1486004	Pereira, Staci	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1486004	Sr	17	2	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	11324	Agnes Scott	14	1258878	Somda, Helene	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1258878	Sr	16	16	4	2.00	10.00	46	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	11324	Agnes Scott	23	1592034	Tilahun, Meklit	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1592034	Fr	16	15	 	1.00	1.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	11324	Agnes Scott	11	1592030	Hoel, Morgan	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1592030	Fr	16	12	4	2.00	10.00	23	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	3
+2015	11720	3	11324	Agnes Scott	4	1462856	Pratt, Catherine	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1462856	So	16	16	 	 	0.00	3	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	11324	Agnes Scott	13	1390550	Hicks, Stephanie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1390550	So	15	13	2	1.00	5.00	14	 	 	3	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	11324	Agnes Scott	6	1486006	Moite, Courtney	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1486006	Jr	15	3	1	1.00	3.00	8	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	11324	Agnes Scott	7	1228880	Shaul, Maddie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1228880	Sr	15	14	6	1.00	13.00	30	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	3
+2015	11720	3	11324	Agnes Scott	15	1486005	Zepeda, Natalie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1486005	So	12	1	 	 	0.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	11324	Agnes Scott	3	1367196	Hernandez, Camila	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1367196	Jr	11	10	 	 	0.00	4	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	11324	Agnes Scott	0	1462855	MacIntyre, Ivy	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1462855	So	11	9	 	 	0.00	 	 	 	 	 	11	9	922:01	17	1.659	68.00	0.800	3	2	1	 	 	 	 	 
+2015	11720	3	11324	Agnes Scott	1	1367195	Holstad, Sydney	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1367195	Jr	9	7	 	 	0.00	 	 	 	 	 	8	6	630:00	11	1.571	52.00	0.825	2	2	3	 	 	 	 	 
+2015	11720	3	11324	Agnes Scott	8	1486003	Figueroa, Maria	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1486003	So	6	0	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	11324	Agnes Scott	18	1592037	Williams, Adeia	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1592037	So	4	1	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	11324	Agnes Scott	17	1592028	Glover, Jo	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1592028	So	3	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	11324	Agnes Scott	26	1592035	Lane, Jazmyne	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1592035	Fr	2	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	2798	Albertus Magnus	19	1464179	Jagoe, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1464179	Sr	20	20	2	1.00	5.00	12	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	2798	Albertus Magnus	3	1388748	Nelson, Acacia	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1388748	Jr	20	13	6	3.00	15.00	37	 	 	2	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	2798	Albertus Magnus	11	1464180	Piroscafo, Lauren	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1464180	Jr	20	20	1	1.00	3.00	4	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	2798	Albertus Magnus	23	1600756	Kern, Nikki	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1600756	Fr	20	20	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	2798	Albertus Magnus	24	1600757	Piccirillo, Angelina	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1600757	Fr	20	20	1	6.00	8.00	18	1	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	2798	Albertus Magnus	6	1464188	Fedumenti, Kaitlyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1464188	So	20	20	5	8.00	18.00	41	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	2798	Albertus Magnus	1	1361410	Case, Maria	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1361410	Jr	19	19	 	 	0.00	 	 	 	 	 	19	17	1582:01	21	1.195	82.00	0.796	4	10	8	 	 	 	 	 
+2015	11720	3	2798	Albertus Magnus	7	1255962	Slivinsky, Rebecca	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1255962	Sr	19	19	4	1.00	9.00	17	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	2
+2015	11720	3	2798	Albertus Magnus	15	1464183	Polvan, Danielle	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1464183	So	19	19	11	3.00	25.00	64	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	1	4
+2015	11720	3	2798	Albertus Magnus	13	1464186	Mack, Alexis	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1464186	So	19	19	 	1.00	1.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	2798	Albertus Magnus	18	1464187	Judd, Bridget	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1464187	So	18	9	1	1.00	3.00	14	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	2798	Albertus Magnus	20	1464182	Kennedy, Kelly	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1464182	Jr	18	0	3	2.00	8.00	18	2	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	1	1	 
+2015	11720	3	2798	Albertus Magnus	4	1600750	Murphy, Shannon	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1600750	Fr	17	13	1	2.00	4.00	10	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	2798	Albertus Magnus	17	1600754	Rotella, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1600754	Fr	13	0	1	1.00	3.00	13	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	2798	Albertus Magnus	10	1464185	Nagy, Liz	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1464185	So	12	8	 	 	0.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	2798	Albertus Magnus	14	1361412	Sobiech, Dakotah	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1361412	Jr	12	0	1	1.00	3.00	10	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	2798	Albertus Magnus	21	1464181	Jassill, Miranda	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1464181	Jr	12	0	 	1.00	1.00	4	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	2798	Albertus Magnus	27	1600758	Silva, Liziana	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1600758	Fr	10	0	2	1.00	5.00	9	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	2798	Albertus Magnus	12	1600752	Gigliotti, Morgan	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1600752	Fr	10	0	2	 	4.00	7	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	2798	Albertus Magnus	16	1600753	Stefanacci, Bianca	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1600753	Fr	8	0	2	1.00	5.00	5	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	2798	Albertus Magnus	8	1361411	Johnson, Renae	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1361411	Jr	7	0	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	2798	Albertus Magnus	9	1600751	Ubaldi, Bailey	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1600751	Fr	7	0	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	2798	Albertus Magnus	0	1361409	Clark, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1361409	Jr	6	1	 	 	0.00	 	 	 	 	 	6	1	217:22	1	0.414	6.00	0.857	 	1	 	 	 	 	 	 
+2015	11720	3	2798	Albertus Magnus	99	1600759	Grajeda, Karla	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1600759	Fr	3	0	 	 	0.00	 	 	 	 	 	3	 	34:37	0	0.000	1.00	1.000	 	 	 	 	 	 	 	 
+2015	11720	3	15	Albion	22	1582542	Ray, Mikaela	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1582542	Fr	21	21	 	1.00	1.00	4	9	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	15	Albion	20	1582541	Urso, Jenna	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1582541	Fr	21	20	11	3.00	25.00	47	7	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	3
+2015	11720	3	15	Albion	16	1582540	LaRocca, Sam	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1582540	Fr	21	21	4	4.00	12.00	42	15	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	1	1	1
+2015	11720	3	15	Albion	14	1469174	Sarnecky, Domenique	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1469174	So	21	21	9	4.00	22.00	57	9	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	4
+2015	11720	3	15	Albion	6	1469173	Quasunella, Amanda	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1469173	So	21	20	 	1.00	1.00	 	7	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	15	Albion	27	1379913	Bensley, Lauren	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1379913	Jr	21	21	 	 	0.00	 	2	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	15	Albion	18	1469166	Allen, Amanda	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1469166	So	20	14	 	 	0.00	7	1	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	15	Albion	3	1469172	Paquette, Kayla	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1469172	So	20	10	1	1.00	3.00	7	3	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	15	Albion	9	1469169	Eagan, Caroline	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1469169	Jr	19	18	6	4.00	16.00	34	3	 	2	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	2
+2015	11720	3	15	Albion	28	1582545	Hancock, Molly	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1582545	Fr	18	9	5	1.00	11.00	12	3	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	15	Albion	4	1582538	Paquette, Olivia	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1582538	Fr	18	1	 	1.00	1.00	 	1	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	15	Albion	0	1582537	Troost, Maggie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1582537	Fr	18	18	 	 	0.00	 	 	 	 	 	18	18	1575:06	24	1.371	85.00	0.780	5	10	5	 	 	 	 	 
+2015	11720	3	15	Albion	5	1469176	Wright, Kelly	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1469176	So	18	13	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	15	Albion	12	1469175	Schrader, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1469175	So	17	5	2	 	4.00	7	3	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	15	Albion	10	1469168	Cross, Lauren	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1469168	So	16	2	2	 	4.00	4	2	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	15	Albion	19	1507380	Kondor, Courtney	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1507380	Fr	14	2	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	15	Albion	7	1379896	Montgomery, Victoria	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1379896	Jr	12	11	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	15	Albion	15	1469167	Button, Morgan	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1469167	So	11	0	1	 	2.00	1	1	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	15	Albion	1	1469177	Schmidt, Cameron	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1469177	So	6	3	 	 	0.00	 	 	 	 	 	5	3	404:07	6	1.336	24.00	0.800	1	1	1	 	 	 	 	 
+2015	11720	3	15	Albion	24	1582544	Minardi, Maddie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1582544	Fr	6	1	 	1.00	1.00	3	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	15	Albion	21	1379916	Lalone, Alice	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1379916	Jr	4	0	 	 	0.00	 	1	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	15	Albion	2	1379892	Sullivan, Meaghan	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1379892	Jr	3	0	 	 	0.00	 	1	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	15	Albion	13	1582539	Willerer, Maddie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1582539	Fr	3	0	 	 	0.00	1	1	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	15	Albion	11	1379909	Willoughby, Erica	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1379909	Jr	1	0	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	15	Albion	23	1582543	Balcoff, Athena	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1582543	Fr	1	0	 	 	0.00	 	2	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	16	Albright	25	1585042	Biancamano, Lyra	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585042	Fr	19	16	1	 	2.00	13	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	16	Albright	6	1585036	Terraces, Crissy	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585036	Fr	19	13	 	1.00	1.00	18	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	16	Albright	2	1375299	Diaz, Emily	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1375299	Jr	19	18	1	2.00	4.00	25	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	16	Albright	4	1375300	Sartorio, Rebecca	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1375300	Jr	19	19	3	 	6.00	14	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	16	Albright	5	1585035	Valera, Morgan	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585035	Fr	19	15	1	1.00	3.00	3	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	1	1	1
+2015	11720	3	16	Albright	10	1585038	Glatzhofer, Sara	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585038	Fr	19	4	 	1.00	1.00	6	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	16	Albright	20	1487114	O'Brien, Megan	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1487114	So	19	19	 	 	0.00	13	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	16	Albright	19	1585039	Pennington, Karis	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585039	Fr	19	1	3	 	6.00	10	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	16	Albright	12	1487109	Kuhrmann, Suzanne	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1487109	So	19	19	1	1.00	3.00	2	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	16	Albright	21	1585040	Saxon, Emily	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585040	Fr	19	19	 	1.00	1.00	5	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	1	 
+2015	11720	3	16	Albright	11	1487108	Sousa, Emily	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1487108	So	18	18	9	3.00	21.00	46	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	1	1	1
+2015	11720	3	16	Albright	9	1487107	Mallon, Rebecca	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1487107	So	18	17	 	 	0.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	16	Albright	30	1487116	Snyder, Rachel	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1487116	So	17	1	 	 	0.00	4	 	1	2	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	16	Albright	15	1487111	Wilson, Natalie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1487111	So	17	11	3	1.00	7.00	22	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	16	Albright	24	1487115	Jean-Simon, Rebecca	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1487115	So	15	0	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	16	Albright	35	1375305	Stepp, Jaymee	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1375305	Jr	15	14	 	 	0.00	 	 	 	 	 	15	14	1279:51	22	1.547	76.00	0.776	2	5	6	 	 	 	 	 
+2015	11720	3	16	Albright	3	1585034	Wagner, Elysia	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585034	So	13	0	 	 	0.00	3	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	16	Albright	18	1375303	Cassedy, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1375303	Jr	12	0	1	 	2.00	4	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	16	Albright	23	1585041	Brett, Allie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585041	So	8	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	16	Albright	1	1585033	Sears, Emily	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585033	Fr	7	5	 	 	0.00	 	 	 	 	 	7	5	372:42	15	3.622	27.00	0.643	 	1	3	 	 	 	 	 
+2015	11720	3	16	Albright	17	1487113	Shipe, Dylan	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1487113	So	5	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	16	Albright	7	1585037	Brown, Elena	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585037	Fr	4	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	16	Albright	22	1375306	Pierson, Paige	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1375306	Sr	2	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	18	Alfred	00	1583929	Shanahan, Sammy Jo	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583929	Fr	17	16	 	 	0.00	 	 	 	 	 	17	15	1476:58	41	2.498	166.00	0.802	1	3	12	 	 	 	 	 
+2015	11720	3	18	Alfred	13	1488020	Crevison, Mariana	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1488020	So	17	10	4	 	8.00	7	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	18	Alfred	11	1583933	Ball, Rachel	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583933	Jr	17	3	2	 	4.00	4	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	2
+2015	11720	3	18	Alfred	24	1583974	Wyant, Lauren	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583974	Fr	17	17	1	4.00	6.00	18	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	18	Alfred	25	1488018	Ramon, Jasmine	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1488018	Jr	17	17	 	 	0.00	3	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	18	Alfred	15	1583935	Martin, Delaney	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583935	Fr	17	5	2	 	4.00	14	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	18	Alfred	4	1380498	Hendee, Mary	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1380498	Jr	17	13	 	 	0.00	11	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	1	 
+2015	11720	3	18	Alfred	1	1488015	Banahene, Patricia	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1488015	Sr	16	14	 	 	0.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	18	Alfred	21	1266803	Heslop, Emily	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1266803	Sr	16	5	 	 	0.00	3	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	18	Alfred	8	1266797	Lobur, Nicole	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1266797	Sr	16	9	2	 	4.00	11	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	1	 
+2015	11720	3	18	Alfred	23	1583973	Oliviera, Kelsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583973	Fr	16	16	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	18	Alfred	16	1583936	Hillman, Ursula	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583936	Fr	16	15	 	2.00	2.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	18	Alfred	10	1583932	Gilbert, Miranda	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583932	Fr	15	2	 	 	0.00	4	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	18	Alfred	18	1583938	Faller, Samantha	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583938	Fr	15	8	 	1.00	1.00	9	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	18	Alfred	2	1488022	Gordon, Keturah	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1488022	So	14	9	1	1.00	3.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	18	Alfred	20	1583972	Dunham, Brooke	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583972	Fr	12	2	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	18	Alfred	9	1488021	Dezio, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1488021	Sr	12	1	1	 	2.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	18	Alfred	17	1583937	Piedmonte, Allison	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583937	Fr	11	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	18	Alfred	7	1583931	Houghton, Rachel	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583931	Fr	11	5	1	 	2.00	3	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	18	Alfred	3	1488019	Hammer, Hayley	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1488019	So	10	9	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	18	Alfred	12	1583934	Allen, Leigha	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583934	Fr	10	10	1	 	2.00	5	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	18	Alfred	6	1583930	Capwell, Barbara	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583930	Fr	8	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	18	Alfred	36	1266805	Hanes, Alicia	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1266805	Sr	5	1	 	 	0.00	 	 	 	 	 	5	1	93:02	3	2.902	11.00	0.786	 	 	 	 	 	 	 	 
+2015	11720	3	30170	Alfred St.	11	1605711	Huyler, Kaitlin	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1605711	N/A	15	14	10	9.00	29.00	48	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	2
+2015	11720	3	30170	Alfred St.	9	1506855	Rath, Anna	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1506855	Fr	15	14	 	3.00	3.00	11	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	30170	Alfred St.	19	1605714	Miller, Mckenzie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1605714	N/A	15	15	7	4.00	18.00	48	1	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	30170	Alfred St.	34	1495363	Muhleisen, Kali	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1495363	Fr	15	14	15	2.00	32.00	78	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	1	1	2
+2015	11720	3	30170	Alfred St.	22	1495361	Vargeson, Ally	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1495361	Fr	15	10	1	1.00	3.00	16	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	30170	Alfred St.	23	1605716	Vosburg, Haley	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1605716	N/A	15	12	7	3.00	17.00	22	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	30170	Alfred St.	6	1495351	Dunn, Chelsea	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1495351	Fr	15	4	4	1.00	9.00	16	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	30170	Alfred St.	7	1495352	Richardson, Danielle	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1495352	Fr	15	15	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	30170	Alfred St.	10	1495353	Krueger, Stormi	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1495353	Fr	15	9	1	1.00	3.00	11	1	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	30170	Alfred St.	16	1495354	Teufel, Keri	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1495354	Fr	15	10	2	5.00	9.00	8	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	30170	Alfred St.	2	1605710	White, Autumn	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1605710	N/A	14	6	 	1.00	1.00	4	1	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	30170	Alfred St.	13	1495371	Flint, Alexis	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1495371	Fr	14	8	2	2.00	6.00	10	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	30170	Alfred St.	12	1605712	Wood, Ashley	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1605712	N/A	14	12	 	1.00	1.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	30170	Alfred St.	99	1605718	Danielak, Allison	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1605718	N/A	14	13	 	1.00	1.00	 	 	 	 	 	14	9	912:11	25	2.467	76.00	0.752	2	4	6	 	 	 	 	 
+2015	11720	3	30170	Alfred St.	4	1495350	Reisdorf, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1495350	Fr	12	3	1	 	2.00	17	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	30170	Alfred St.	18	1605713	Plesums, Carissa	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1605713	N/A	10	3	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	30170	Alfred St.	15	1495372	Hill, Lacee	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1495372	Fr	9	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	30170	Alfred St.	24	1605717	Baier, Jessica	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1605717	N/A	9	1	1	 	2.00	6	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	30170	Alfred St.	20	1605715	Hint, Kylie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1605715	N/A	7	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	30170	Alfred St.	26	1615357	Mcallister, Sarah	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1615357	N/A	6	0	1	 	2.00	5	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	30170	Alfred St.	00	1605965	Schreiner, Morgan	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1605965	N/A	6	2	 	 	0.00	 	 	 	 	 	6	1	347:49	5	1.294	15.00	0.750	1	3	1	 	 	 	 	 
+2015	11720	3	30170	Alfred St.	27	1615358	VanNostrand, Alyssa	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1615358	N/A	4	0	 	2.00	2.00	12	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	30170	Alfred St.	14	1495355	Pierce, Hunter	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1495355	Fr	3	0	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	19	Allegheny	3	1483704	Thiessen, Jessie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1483704	So	22	22	9	9.00	27.00	59	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	5
+2015	11720	3	19	Allegheny	8	1356411	Miller, Lauren	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1356411	Jr	22	22	3	 	6.00	15	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	19	Allegheny	20	1483710	Layman, Brianna	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1483710	Jr	22	22	2	 	4.00	14	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	19	Allegheny	18	1577501	Donohue, Sarah	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1577501	Fr	22	12	2	1.00	5.00	22	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	19	Allegheny	21	1243258	Wallace, Jaymee	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1243258	Sr	22	22	2	3.00	7.00	32	 	 	2	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	19	Allegheny	5	1356413	Robinson, Faith	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1356413	Sr	21	6	4	2.00	10.00	18	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	19	Allegheny	16	1243257	Delzer, Tori	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1243257	Sr	21	19	3	1.00	7.00	29	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	19	Allegheny	1	1243253	Curtis, Gabrielle	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1243253	Sr	21	21	 	 	0.00	 	 	 	 	 	21	21	1937:48	20	0.929	68.00	0.773	11	14	6	 	 	 	 	 
+2015	11720	3	19	Allegheny	17	1356414	Augustine, Niki	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1356414	Jr	21	20	2	1.00	5.00	31	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	19	Allegheny	27	1483711	Leja, Liana	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1483711	So	21	8	2	1.00	5.00	22	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	19	Allegheny	14	1483709	Yates, Emma	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1483709	So	21	20	 	1.00	1.00	 	 	 	6	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	19	Allegheny	11	1356412	Zangara, Hannah	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1356412	Jr	20	11	6	2.00	14.00	25	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	4
+2015	11720	3	19	Allegheny	26	1356417	Cushman, Olivia	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1356417	Jr	20	9	1	1.00	3.00	12	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	19	Allegheny	2	1243254	Hilbrands, Greta	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1243254	Sr	19	14	3	2.00	8.00	31	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	1	1	1
+2015	11720	3	19	Allegheny	15	1577500	Weber, Fran	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1577500	Fr	19	2	 	 	0.00	5	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	19	Allegheny	9	1577498	Brooks, Sam	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1577498	Fr	19	7	 	 	0.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	19	Allegheny	22	1577503	Sherwood, Sarah	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1577503	Fr	17	0	 	1.00	1.00	3	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	19	Allegheny	12	1577499	Beaty, Sierra	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1577499	Fr	16	0	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	19	Allegheny	6	1577497	Hossler, Maura	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1577497	Fr	16	2	 	 	0.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	19	Allegheny	7	1483705	Fleming, Colleen	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1483705	So	12	1	 	1.00	1.00	7	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	19	Allegheny	10	1483707	Eisemann, Hannah	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1483707	So	7	0	 	 	0.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	19	Allegheny	30	1577505	Lynch, Tara	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1577505	Fr	1	1	 	 	0.00	 	 	 	 	 	1	1	90:00	0	0.000	7.00	1.000	1	1	 	 	 	 	 	 
+2015	11720	3	19	Allegheny	25	1577504	Munoz, Lara	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1577504	Fr	1	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	19	Allegheny	13	1483708	Dantona, Kayla	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1483708	So	1	1	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	21	Alma	4	1228835	Vlug, Kailey	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1228835	Sr	20	19	3	6.00	12.00	28	12	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	21	Alma	13	1479286	Greiner, Macayla	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1479286	So	20	18	3	1.00	7.00	31	2	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	21	Alma	9	1381326	Wilson, Kelly	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1381326	Jr	20	20	7	 	14.00	54	7	 	2	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	3
+2015	11720	3	21	Alma	7	1584607	Mladenovski, Amanda	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1584607	Fr	20	7	3	 	6.00	19	1	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	21	Alma	17	1228829	Huver, Quinn	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1228829	Sr	20	17	 	1.00	1.00	6	4	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	21	Alma	3	1228834	Smith, Mackenzie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1228834	Sr	20	11	1	1.00	3.00	27	2	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	1	1
+2015	11720	3	21	Alma	2	1479278	Burg, Jessica	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1479278	So	20	13	1	 	2.00	35	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	21	Alma	12	1479285	Kalanik, Megan	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1479285	So	19	5	4	 	8.00	18	3	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	2
+2015	11720	3	21	Alma	14	1228837	Waldrop, Samantha	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1228837	Sr	19	18	 	1.00	1.00	7	1	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	21	Alma	11	1584606	Foote, Whitnee	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1584606	Fr	19	0	2	1.00	5.00	14	2	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	2
+2015	11720	3	21	Alma	19	1584608	Neumann, Allysen	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1584608	Jr	18	4	3	 	6.00	12	2	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	21	Alma	25	1584613	Whalls, Olivia	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1584613	Fr	17	4	 	1.00	1.00	15	3	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	21	Alma	10	1381327	Weddle, Agatha	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1381327	Jr	17	13	4	1.00	9.00	25	2	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	1	1	 
+2015	11720	3	21	Alma	16	1479287	Lloyd, Lindsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1479287	So	17	8	 	 	0.00	4	3	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	21	Alma	24	1584615	Steed, Brooke	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1584615	Fr	16	11	1	1.00	3.00	12	1	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	21	Alma	8	1381325	Stephan, Katy	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1381325	Jr	16	8	 	 	0.00	7	1	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	21	Alma	20	1381332	Smith, Allison	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1381332	Jr	16	14	 	1.00	1.00	9	1	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	21	Alma	18	1479288	Russell, Brianna	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1479288	So	15	2	2	 	4.00	5	1	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	21	Alma	0	1584604	Fassbender, Jenna	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1584604	Fr	13	13	 	 	0.00	 	 	 	 	 	13	13	1157:52	18	1.399	69.00	0.793	4	7	4	 	 	 	 	 
+2015	11720	3	21	Alma	23	1618672	Linstruth, Kayla	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1618672	N/A	8	1	 	 	0.00	1	2	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	21	Alma	00	1584605	Fokken, Rachael	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1584605	Fr	7	6	 	 	0.00	 	 	 	 	 	7	6	585:00	14	2.154	34.00	0.708	1	3	4	 	 	 	 	 
+2015	11720	3	21	Alma	15	1619622	Kittle, Bryn	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1619622	N/A	7	2	1	 	2.00	5	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	21	Alma	5	1584603	Bonam, Ashley	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1584603	Fr	6	2	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	21	Alma	15	1492608	Lewandowski, Ashley	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1492608	Sr	6	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	21	Alma	22	1492607	Malson, Lyndsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1492607	Fr	6	0	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	21	Alma	21	1584611	Saucedo, Ana	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1584611	Jr	4	3	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	21	Alma	23	1584609	Oltman, Ashley	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1584609	Sr	3	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	21	Alma	20	1624782	Slavin, Lily	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1624782	N/A	3	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	21	Alma	1	1584610	Poniatoski, Logan	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1584610	So	3	1	 	 	0.00	 	 	 	 	 	2	1	90:00	2	2.000	2.00	0.500	 	 	 	 	 	 	 	 
+2015	11720	3	21	Alma	21	1629164	Jones, Sydney	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1629164	N/A	1	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	21	Alma	6	1396613	Simon, Mallory	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1396613	Jr	1	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	21	Alma	10	1629163	Vlug, Alexis	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1629163	N/A	1	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	938	Alvernia	24	1586109	Scott, Amber	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1586109	Fr	20	19	1	2.00	4.00	3	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	938	Alvernia	11	1586107	Landis, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1586107	So	20	16	5	 	10.00	31	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	3
+2015	11720	3	938	Alvernia	15	1486455	Wehrman, Chelsea	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1486455	So	20	5	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	938	Alvernia	16	1486453	Stover, Bailey	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1486453	So	20	19	2	3.00	7.00	14	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	938	Alvernia	19	1486452	Smith, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1486452	So	20	8	2	1.00	5.00	19	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	1	1	 
+2015	11720	3	938	Alvernia	14	1486450	Mallets, Hannah	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1486450	So	20	18	1	3.00	5.00	23	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	938	Alvernia	4	1486445	Dunkelberger, Erica	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1486445	So	20	20	1	 	2.00	10	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	938	Alvernia	3	1486444	Bernd, Jess	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1486444	So	20	0	1	 	2.00	4	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	938	Alvernia	9	1388623	Browne, Shannon	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1388623	Sr	20	15	3	3.00	9.00	28	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	938	Alvernia	12	1388621	Reeves, Devon	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1388621	Jr	20	14	1	1.00	3.00	8	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	938	Alvernia	18	1388615	Copeland, Raychel	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1388615	Sr	20	9	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	938	Alvernia	2	1388614	Benton, Alexis	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1388614	Sr	19	5	2	1.00	5.00	8	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	938	Alvernia	29	1586112	Sandoval, Aimee	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1586112	Fr	18	5	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	938	Alvernia	10	1586106	Balga, Madison	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1586106	Fr	18	4	 	 	0.00	4	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	938	Alvernia	17	1269973	Dearie, Jamie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1269973	Sr	17	9	 	 	0.00	10	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	938	Alvernia	31	1269979	Eckert, Kristen	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1269979	Sr	17	17	2	 	4.00	15	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	938	Alvernia	13	1269976	Kates, Myrisa	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1269976	Sr	16	2	 	 	0.00	3	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	938	Alvernia	1	1586103	Plunkett, Jessica	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1586103	Fr	16	13	 	 	0.00	 	 	 	 	 	15	12	1270:16	25	1.771	112.00	0.818	4	4	8	 	 	 	 	 
+2015	11720	3	938	Alvernia	6	1586104	Petrongolo, Maria	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1586104	Fr	14	11	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	938	Alvernia	23	1586108	Harris, Mady	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1586108	Fr	13	1	 	 	0.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	938	Alvernia	25	1486446	Fox, Hannah	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1486446	So	13	1	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	938	Alvernia	5	1388616	Gallagher, Tara	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1388616	Jr	9	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	938	Alvernia	21	1486448	Hanrahan, Meg	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1486448	So	9	2	 	 	0.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	938	Alvernia	88	1586113	Burnett, Margaret	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1586113	Fr	8	7	 	 	0.00	 	 	 	 	 	8	7	541:17	16	2.660	28.00	0.636	 	1	4	 	 	 	 	 
+2015	11720	3	938	Alvernia	26	1586110	Asroff, Brooke	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1586110	Fr	3	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	938	Alvernia	28	1586111	Hayes, Sara	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1586111	Fr	1	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	938	Alvernia	20	1618297	Cw,	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1618297	N/A	1	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	938	Alvernia	7	1586105	Read, Lily	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1586105	Fr	1	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	28746	Alverno	1	1474410	Ogas, Emily	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1474410	So	19	18	 	1.00	1.00	4	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	28746	Alverno	11	1280201	Thomas, Amber	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1280201	Sr	19	16	1	 	2.00	15	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	28746	Alverno	10	1372302	Diaz, Andrea	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1372302	Jr	19	19	1	9.00	11.00	21	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	28746	Alverno	3	1372298	Powell, Neysel	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1372298	Jr	19	19	 	 	0.00	8	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	28746	Alverno	7	1280200	Carpenter, Brittany	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1280200	Sr	19	19	2	 	4.00	27	 	 	2	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	28746	Alverno	9	1474414	Wisner, Sydney	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1474414	So	19	17	1	2.00	4.00	16	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	28746	Alverno	4	1474412	Serketich, Hayley	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1474412	So	18	18	4	8.00	16.00	31	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	28746	Alverno	6	1478811	Isaacson, Erica	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1478811	Sr	18	9	1	1.00	3.00	9	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	28746	Alverno	13	1589176	Schnell, Becca	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1589176	So	18	16	1	1.00	3.00	7	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	28746	Alverno	23	1474411	Reed, Jenna	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1474411	So	17	7	 	1.00	1.00	1	 	 	 	 	6	5	436:42	27	5.564	27.00	0.500	1	1	4	 	 	 	 	 
+2015	11720	3	28746	Alverno	16	1589178	Vanderkolk, Jackie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1589178	So	16	15	18	2.00	38.00	68	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	1	4
+2015	11720	3	28746	Alverno	14	1280204	Scheibengraber, Casey	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1280204	Sr	16	2	 	 	0.00	3	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	28746	Alverno	25	1589180	Bonikowske, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1589180	Fr	14	0	1	 	2.00	8	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	28746	Alverno	30	1280205	Gallinatti, Kaitlyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1280205	Sr	13	13	 	 	0.00	 	 	 	 	 	13	13	1179:22	53	4.045	106.00	0.667	 	4	8	 	 	 	 	 
+2015	11720	3	28746	Alverno	22	1615458	Davison, Annie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1615458	So	12	11	3	1.00	7.00	10	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	28746	Alverno	2	1615456	Martinez, Briguite	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1615456	Fr	10	7	4	4.00	12.00	24	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	28746	Alverno	18	1372304	Lopez, Yessy	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1372304	Jr	8	1	2	 	4.00	5	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	28746	Alverno	15	1589177	Hamann, Alison	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1589177	Fr	5	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	28746	Alverno	26	1589181	Zurcher, Lidia	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1589181	Fr	4	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	28746	Alverno	21	1615457	Bartlett, Katelyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1615457	Fr	2	1	 	 	0.00	 	 	 	 	 	2	1	135:00	8	5.333	15.00	0.652	 	 	1	 	 	 	 	 
+2015	11720	3	28746	Alverno	20	1589179	Collins, Eileen	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1589179	Fr	2	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	28746	Alverno	8	1474408	Devcich, Samantha	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1474408	So	1	1	 	1.00	1.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	24	Amherst	10	1612981	Guzzi, Hannah	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1612981	Fr	18	16	10	1.00	21.00	60	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	1	2	2
+2015	11720	3	24	Amherst	4	1612979	King, Delancey	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1612979	Fr	18	9	1	 	2.00	17	2	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	24	Amherst	29	1499277	Hester, Emily	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1499277	So	18	3	5	1.00	11.00	28	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	24	Amherst	24	1390954	Kim, Megan	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1390954	Jr	18	16	2	6.00	10.00	42	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	24	Amherst	20	1390953	Abernethy, Rachael	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1390953	Jr	18	6	7	2.00	16.00	25	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	4
+2015	11720	3	24	Amherst	16	1390952	Hale, Jessy	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1390952	Jr	18	18	 	2.00	2.00	9	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	24	Amherst	00	1390950	Burwick, Holly	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1390950	Jr	18	18	 	 	0.00	 	 	 	 	 	18	18	1618:29	11	0.612	82.00	0.882	9	12	5	 	 	 	 	 
+2015	11720	3	24	Amherst	6	1276993	Rothkopf, Emma	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1276993	Sr	18	17	1	1.00	3.00	19	3	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	24	Amherst	2	1276991	Stier, Mel	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1276991	Sr	18	17	 	3.00	3.00	8	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	24	Amherst	8	1499271	Phillips, Quinn	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1499271	So	17	12	2	4.00	8.00	14	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	24	Amherst	27	1499276	Masten, Emily	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1499276	So	17	17	1	 	2.00	8	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	24	Amherst	13	1499273	Zuckerman, Sarah	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1499273	So	16	4	1	 	2.00	6	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	24	Amherst	5	1276992	Twomey, Ariana	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1276992	Sr	15	15	 	2.00	2.00	10	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	24	Amherst	18	1276994	Hart, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1276994	Sr	15	5	 	1.00	1.00	6	2	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	24	Amherst	28	1276998	Jackson-Gibson, Maya	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1276998	Sr	15	15	 	 	0.00	3	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	24	Amherst	7	1612980	Manley, Meredith	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1612980	Fr	15	10	 	3.00	3.00	16	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	24	Amherst	9	1499272	Heller, Ashlyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1499272	So	14	0	 	 	0.00	8	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	24	Amherst	23	1499275	Frohman, Sarah	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1499275	So	12	0	 	1.00	1.00	3	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	24	Amherst	12	1612982	Greenberg, Kim	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1612982	So	9	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	24	Amherst	3	1612978	Neveu, Alison	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1612978	Fr	6	0	 	1.00	1.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	24	Amherst	11	1499274	Sotak, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1499274	So	2	0	1	 	2.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	24	Amherst	1	1276995	Mills, Meghan	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1276995	Sr	1	0	 	 	0.00	 	 	 	 	 	1	 	34:20	0	0.000	1.00	1.000	 	 	 	 	 	 	 	 
+2015	11720	3	24	Amherst	0	1276997	Broder, Caroline	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1276997	Sr	1	0	 	 	0.00	 	 	 	 	 	1	 	10:40	0	0.000	1.00	1.000	 	 	 	 	 	 	 	 
+2015	11720	3	939	Anderson (IN)	28	1583649	Brittingham, Beverly	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583649	Fr	18	17	5	1.00	11.00	52	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	1	1	2
+2015	11720	3	939	Anderson (IN)	5	1583641	Martin, Maddie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583641	Fr	18	17	1	1.00	3.00	19	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	939	Anderson (IN)	15	1583644	Crawford, Destiny	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583644	Fr	18	6	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	939	Anderson (IN)	23	1492707	Wegley, Hannah	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1492707	So	18	16	 	4.00	4.00	12	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	939	Anderson (IN)	22	1583647	Hassett, Chloe	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583647	Fr	18	12	3	 	6.00	24	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	939	Anderson (IN)	13	1492661	Hurley, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1492661	So	18	11	2	 	4.00	4	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	939	Anderson (IN)	7	1492659	Schoeneweis, Kelsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1492659	So	18	18	1	 	2.00	6	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	939	Anderson (IN)	20	1360618	Grabner, Alyssa	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1360618	Jr	18	16	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	939	Anderson (IN)	17	1360603	Sparks, Courtney	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1360603	Jr	18	2	1	 	2.00	9	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	939	Anderson (IN)	2	1245126	Martin, Page	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1245126	Sr	18	2	 	1.00	1.00	5	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	939	Anderson (IN)	6	1245128	O'Neal, Wynne	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1245128	Sr	18	18	 	 	0.00	15	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	939	Anderson (IN)	12	1583643	Bishop, Shania	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583643	Fr	17	13	 	 	0.00	12	1	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	939	Anderson (IN)	18	1583646	Smith, Tori	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583646	So	16	2	1	1.00	3.00	4	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	939	Anderson (IN)	4	1583640	Stevens, Tori	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583640	Fr	16	11	 	2.00	2.00	9	 	1	3	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	939	Anderson (IN)	11	1360599	Embree, Halley	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1360599	Jr	16	15	4	2.00	10.00	34	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	3
+2015	11720	3	939	Anderson (IN)	25	1583648	Simcox, Tiffany	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583648	Fr	14	1	2	 	4.00	4	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	939	Anderson (IN)	16	1583645	Hill, Ashley	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583645	Fr	12	0	 	 	0.00	4	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	939	Anderson (IN)	19	1492708	Takacs, Addy	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1492708	So	11	0	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	939	Anderson (IN)	9	1360598	Shoemake, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1360598	Jr	11	0	 	 	0.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	939	Anderson (IN)	00	1360597	Gilles, Danielle	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1360597	Jr	11	10	 	 	0.00	 	 	 	 	 	11	10	753:40	17	2.030	36.00	0.679	1	2	3	 	 	 	 	 
+2015	11720	3	939	Anderson (IN)	29	1583650	Murray, Colleen	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583650	Fr	10	3	 	 	0.00	3	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	939	Anderson (IN)	0	1583638	Roell, Rebecca	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583638	Fr	8	5	 	 	0.00	 	 	 	 	 	8	4	562:10	8	1.281	29.00	0.784	3	4	2	 	 	 	 	 
+2015	11720	3	939	Anderson (IN)	14	1360601	Sykes, Kasey	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1360601	Jr	5	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	939	Anderson (IN)	31	1583651	Wettering, Sydney	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583651	Fr	5	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	939	Anderson (IN)	21	1492662	Pries, Kaylie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1492662	So	4	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	939	Anderson (IN)	1	1583639	Nguyen, Vickie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583639	Fr	4	3	 	 	0.00	 	 	 	 	 	4	3	364:10	7	1.730	18.00	0.720	 	1	3	 	 	 	 	 
+2015	11720	3	939	Anderson (IN)	32	1492665	Ingebretsen, Marie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1492665	So	1	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	26	Anna Maria	13	1580245	Disco, Shannon	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1580245	Fr	18	14	1	 	2.00	11	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	26	Anna Maria	3	1580240	Gorrivan, Emily	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1580240	Fr	18	17	4	1.00	9.00	23	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	26	Anna Maria	1	1580239	Kneeland, Kate	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1580239	Fr	18	18	 	 	0.00	 	 	 	 	 	18	18	1628:34	39	2.155	195.00	0.833	3	6	11	 	 	 	 	 
+2015	11720	3	26	Anna Maria	26	1479632	Leighton, Paige	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1479632	So	18	17	 	3.00	3.00	9	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	26	Anna Maria	16	1479629	Masley, Arianna	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1479629	Sr	18	18	5	2.00	12.00	30	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	26	Anna Maria	11	1479626	Fogg, Sarah	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1479626	So	18	18	2	1.00	5.00	18	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	26	Anna Maria	2	1479621	Anderson, Melissa	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1479621	So	18	17	4	1.00	9.00	13	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	3
+2015	11720	3	26	Anna Maria	5	1479622	Krasowski, Rebecca	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1479622	So	17	13	 	 	0.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	26	Anna Maria	10	1479625	Kobus, Brianna	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1479625	So	17	9	 	 	0.00	5	 	1	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	26	Anna Maria	25	1265732	Turley, Cristina	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1265732	Sr	16	11	3	2.00	8.00	37	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	26	Anna Maria	15	1372799	Ryan, Teresa	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1372799	Jr	15	7	1	 	2.00	7	 	 	 	 	1	 	31:50	2	5.654	4.00	0.667	 	 	 	 	 	 	 	1
+2015	11720	3	26	Anna Maria	6	1479623	Ceccarini, Julianna	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1479623	So	15	1	 	1.00	1.00	4	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	26	Anna Maria	9	1500731	Price, Kaleigh	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1500731	So	15	2	 	 	0.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	26	Anna Maria	14	1479628	Mauricio, Rebecca	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1479628	So	14	8	1	 	2.00	12	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	26	Anna Maria	7	1580242	Begun, Alexandra	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1580242	Jr	14	4	 	 	0.00	8	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	26	Anna Maria	4	1580241	Catucci, Savanah	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1580241	Fr	14	14	2	2.00	6.00	24	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	26	Anna Maria	18	1580246	Taylor, Laura	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1580246	Fr	12	0	 	1.00	1.00	3	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	26	Anna Maria	20	1580247	Sparling, Mckenzie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1580247	Fr	10	2	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	26	Anna Maria	22	1580248	Casella, Elizabeth	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1580248	Fr	10	3	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	26	Anna Maria	12	1580244	Cremo, Richelle	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1580244	Fr	8	1	 	 	0.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	26	Anna Maria	8	1580243	Liakos, Emily	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1580243	Fr	5	2	1	1.00	3.00	9	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	26	Anna Maria	23	1580249	Cruz, Astrid	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1580249	Fr	2	0	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	26	Anna Maria	24	1580250	Smith, Reagan	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1580250	Fr	1	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	966	Arcadia	8	1580627	Glanfield, Jacqueline	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1580627	So	24	24	8	4.00	20.00	71	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	3
+2015	11720	3	966	Arcadia	21	1580624	Habersboch, Kayla	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1580624	Fr	24	11	5	2.00	12.00	42	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	2
+2015	11720	3	966	Arcadia	29	1483428	Ferraro, Alyssa	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1483428	So	24	18	2	1.00	5.00	7	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	966	Arcadia	3	1483423	Poore, Karis	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1483423	So	24	24	7	6.00	20.00	45	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	2
+2015	11720	3	966	Arcadia	10	1365737	Oschner, Melia	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1365737	Jr	24	24	3	 	6.00	24	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	966	Arcadia	2	1365732	Liscinski, Caitlin	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1365732	Jr	24	17	 	 	0.00	5	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	966	Arcadia	7	1272900	Stoner, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1272900	Sr	24	24	1	 	2.00	10	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	966	Arcadia	1	1272899	Canfield, Kim	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1272899	Sr	24	24	7	16.00	30.00	80	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	2
+2015	11720	3	966	Arcadia	18	1365741	Mirabelli, Jenna	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1365741	Jr	23	4	1	1.00	3.00	21	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	966	Arcadia	20	1272905	Wilig, Veronica	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1272905	Sr	23	22	 	 	0.00	1	 	 	 	 	23	22	1881:55	14	0.670	58.00	0.806	8	17	6	 	 	 	 	 
+2015	11720	3	966	Arcadia	26	1483427	Kramer, Lennon	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1483427	So	22	20	16	4.00	36.00	83	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	4
+2015	11720	3	966	Arcadia	14	1272901	Barbieri, Nina	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1272901	Sr	22	21	 	1.00	1.00	30	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	966	Arcadia	5	1483424	Horner, Madison	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1483424	So	21	7	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	966	Arcadia	11	1483425	Koch, Kelsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1483425	So	21	3	 	 	0.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	966	Arcadia	6	1580622	Connors, Erin	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1580622	Fr	18	10	 	1.00	1.00	12	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	966	Arcadia	12	1580628	Smith, Tara	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1580628	Fr	15	1	1	 	2.00	9	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	966	Arcadia	4	1580621	Carrete, Kristen	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1580621	Fr	15	0	1	 	2.00	8	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	966	Arcadia	9	1365736	Novak, Bailey	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1365736	Jr	9	0	 	 	0.00	3	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	966	Arcadia	16	1580629	Hanley, Sarah	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1580629	Fr	9	0	1	 	2.00	6	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	966	Arcadia	31	1580626	Toner, Natalie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1580626	So	8	2	 	 	0.00	 	 	 	 	 	8	2	294:43	0	0.000	10.00	1.000	1	1	 	 	 	 	 	 
+2015	11720	3	966	Arcadia	27	1580625	Kelly, Jessica	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1580625	Fr	8	8	 	2.00	2.00	8	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	38	Augsburg	5	1488649	Gregg, Emily	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1488649	So	22	21	1	2.00	4.00	11	2	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	38	Augsburg	22	1252130	Rodstein, Abi	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1252130	Sr	22	22	1	3.00	5.00	28	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	1	1	1
+2015	11720	3	38	Augsburg	16	1488648	Denison, Carter	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1488648	So	22	22	3	8.00	14.00	34	1	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	38	Augsburg	12	1488653	Waalen, Ashley	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1488653	So	22	9	6	1.00	13.00	31	1	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	1	1	 
+2015	11720	3	38	Augsburg	19	1488650	Kenny, Morgan	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1488650	So	21	3	2	8.00	12.00	18	1	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	38	Augsburg	17	1252125	Allen, Molly	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1252125	Sr	21	21	3	14.00	20.00	25	2	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	2
+2015	11720	3	38	Augsburg	11	1488645	Anderson, Marta	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1488645	So	21	21	4	6.00	14.00	28	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	38	Augsburg	7	1252129	Muyres, Olivia	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1252129	Sr	21	18	15	9.00	39.00	72	4	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	7
+2015	11720	3	38	Augsburg	23	1384066	Fitzgerald, Marie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1384066	Jr	21	21	14	3.00	31.00	50	2	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	4
+2015	11720	3	38	Augsburg	20	1585754	Weber, Chelsea	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585754	Fr	20	14	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	38	Augsburg	1	1585750	Guillou, Marissa	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585750	Fr	20	15	 	 	0.00	 	 	 	 	 	20	14	1547:15	15	0.873	78.00	0.839	7	12	4	 	 	 	 	 
+2015	11720	3	38	Augsburg	10	1384085	Kuramoto, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1384085	Sr	19	18	1	5.00	7.00	19	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	38	Augsburg	14	1488646	Bolender, Maris	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1488646	So	19	0	 	 	0.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	38	Augsburg	18	1585752	Pemble, Rayni	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585752	Fr	17	0	1	3.00	5.00	7	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	38	Augsburg	24	1488652	Terrio, Kaitlyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1488652	So	17	0	7	2.00	16.00	12	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	38	Augsburg	13	1488664	Whitington, Hannah	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1488664	So	16	2	1	3.00	5.00	4	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	38	Augsburg	27	1585749	Enrici, Abigale	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585749	Fr	14	10	 	2.00	2.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	1	 	 	 	 
+2015	11720	3	38	Augsburg	6	1252127	Felton, Bri	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1252127	Sr	13	7	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	38	Augsburg	26	1252133	Vroman, Brooke	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1252133	Sr	10	5	1	3.00	5.00	8	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	38	Augsburg	33	1384044	Bukowski, Lucy	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1384044	Jr	8	7	 	 	0.00	 	 	 	 	 	8	7	450:00	3	0.600	11.00	0.786	1	4	1	 	 	 	 	 
+2015	11720	3	38	Augsburg	8	1585748	Arvold, Hannah	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585748	Fr	7	0	2	 	4.00	8	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	38	Augsburg	3	1585755	Jennings, Lauren	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585755	Fr	6	6	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	38	Augsburg	25	1585751	Lamovec, Molly	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585751	Fr	5	0	 	2.00	2.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	38	Augsburg	9	1488665	Zook, Beth	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1488665	So	5	0	1	1.00	3.00	3	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	38	Augsburg	21	1384138	Tyllia, Ashley	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1384138	Jr	3	0	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	38	Augsburg	2	1585753	Peters, Ellie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585753	Fr	2	0	 	2.00	2.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	38	Augsburg	15	1488644	Addamo, Anna	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1488644	So	1	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	40	Augustana (IL)	94	1568196	Huber, Mady	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1568196	Fr	19	7	1	1.00	3.00	12	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	40	Augustana (IL)	17	1476892	Frys, Brianne	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1476892	So	19	12	3	2.00	8.00	11	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	40	Augustana (IL)	15	1476891	Lohmeier, Hannah	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1476891	So	19	19	 	1.00	1.00	12	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	40	Augustana (IL)	93	1568197	Iaquinta, Grace	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1568197	Fr	19	18	2	2.00	6.00	45	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	40	Augustana (IL)	23	1369238	Kras, Jessica	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1369238	Jr	19	19	7	3.00	17.00	38	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	2
+2015	11720	3	40	Augustana (IL)	11	1247412	Navarro, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1247412	Sr	19	3	3	1.00	7.00	41	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	40	Augustana (IL)	6	1247409	Grimmer, Kimberley	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1247409	Sr	19	19	 	 	0.00	 	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	40	Augustana (IL)	9	1369228	Druszkowski, Somer	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1369228	Jr	18	17	4	2.00	10.00	20	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	40	Augustana (IL)	32	1247413	Skotnicki, Kerri	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1247413	Sr	18	18	2	3.00	7.00	9	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	40	Augustana (IL)	20	1369234	Farell, Kelly	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1369234	Jr	18	18	7	8.00	22.00	72	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	1	1	1
+2015	11720	3	40	Augustana (IL)	24	1476902	Rizzo, Jessa	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1476902	So	18	18	8	2.00	18.00	71	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	6
+2015	11720	3	40	Augustana (IL)	12	1369230	Hamaker, Stef	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1369230	Jr	18	17	 	 	0.00	 	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	40	Augustana (IL)	97	1568193	Farkos, Sammi	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1568193	Fr	16	3	2	 	4.00	6	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	40	Augustana (IL)	92	1568198	Kirschner, Jodie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1568198	Fr	14	0	 	2.00	2.00	6	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	40	Augustana (IL)	90	1568200	Lepoudre, Corey	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1568200	Fr	12	0	 	 	0.00	6	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	40	Augustana (IL)	91	1568199	Lange, Caitlan	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1568199	Fr	12	0	1	 	2.00	11	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	40	Augustana (IL)	01	1369226	Chew, Meredith	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1369226	Jr	11	11	 	 	0.00	 	 	 	 	 	11	11	952:23	8	0.756	35.00	0.814	2	7	3	 	 	 	 	 
+2015	11720	3	40	Augustana (IL)	2	1247407	Luka, Jackie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1247407	Sr	9	1	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	40	Augustana (IL)	10	1369231	Hix, Kortney	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1369231	Jr	9	1	3	2.00	8.00	9	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	40	Augustana (IL)	00	1476888	Williams, Margaret	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1476888	So	8	8	 	 	0.00	 	 	 	 	 	8	8	740:00	11	1.338	25.00	0.694	2	5	2	 	 	 	 	 
+2015	11720	3	40	Augustana (IL)	98	1568192	Buga, Stephanie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1568192	Fr	7	0	 	1.00	1.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	40	Augustana (IL)	19	1369233	Stemplewski, Rachel	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1369233	Sr	6	0	 	1.00	1.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	40	Augustana (IL)	86	1568204	Tegge, Anna	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1568204	Fr	6	0	 	1.00	1.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	40	Augustana (IL)	14	1369229	Jones, Alexandra	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1369229	Jr	5	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	40	Augustana (IL)	95	1568195	Harvey, Emily	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1568195	Fr	5	0	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	40	Augustana (IL)	88	1568202	Potterton, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1568202	Fr	4	0	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	40	Augustana (IL)	99	1568191	Bradford, Bailey	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1568191	Fr	3	0	 	 	0.00	 	 	 	 	 	3	 	98:55	0	0.000	4.00	1.000	 	 	 	 	 	 	 	 
+2015	11720	3	40	Augustana (IL)	25	1476903	Cather, Elise	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1476903	So	3	0	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	42	Aurora	11	1585396	Roydhouse, Brittany	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585396	Sr	24	24	11	9.00	31.00	72	 	 	2	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	3
+2015	11720	3	42	Aurora	9	1350981	Coppes, Hunter	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1350981	Jr	24	24	2	3.00	7.00	13	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	42	Aurora	20	1233089	Rohling, Christine	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1233089	Sr	24	24	 	2.00	2.00	9	 	 	3	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	42	Aurora	12	1585398	Im Hof, Kaitlin	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585398	Fr	24	24	3	3.00	9.00	24	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	42	Aurora	3	1350976	Bermudes, Nicci	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1350976	Jr	24	24	35	12.00	82.00	188	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	12
+2015	11720	3	42	Aurora	6	1459379	Mok, Alyssa	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1459379	So	23	0	1	1.00	3.00	7	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	42	Aurora	1	1459377	Warnock, Rachael	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1459377	So	22	22	 	 	0.00	 	 	 	 	 	22	21	1799:35	14	0.700	82.00	0.854	5	17	2	 	 	 	 	 
+2015	11720	3	42	Aurora	22	1233090	Bajkowski, Lisa	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1233090	Sr	21	21	4	8.00	16.00	48	 	 	2	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	42	Aurora	8	1585394	Robbins, Beth	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585394	Fr	21	20	1	 	2.00	10	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	42	Aurora	7	1585393	Bejarano, Alexis	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585393	Fr	21	21	3	3.00	9.00	10	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	42	Aurora	16	1585399	McLaughlin, Samantha	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585399	So	20	6	1	1.00	3.00	6	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	42	Aurora	14	1350978	Oseguera, Alisha	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1350978	Jr	19	3	1	1.00	3.00	5	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	42	Aurora	18	1459375	Stacy, Mariah	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1459375	Sr	19	19	 	 	0.00	 	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	42	Aurora	17	1585400	Rotolo, Alicia	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585400	Fr	18	8	3	2.00	8.00	15	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	42	Aurora	10	1585395	Burke, Shannon	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585395	Fr	18	1	1	2.00	4.00	11	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	42	Aurora	19	1585401	Fleming, Shayla	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585401	Fr	14	3	 	 	0.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	42	Aurora	5	1459372	Ritzert, Lorelei	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1459372	Jr	12	9	2	4.00	8.00	13	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	42	Aurora	31	1585397	DeRuiter, Caitlin	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585397	Fr	10	2	 	 	0.00	 	 	 	 	 	9	2	462:18	2	0.389	7.00	0.778	2	2	 	 	 	 	 	 
+2015	11720	3	42	Aurora	2	1585392	Burger, Megan	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1585392	Sr	9	9	 	 	0.00	5	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	42	Aurora	15	1459378	Hoffmeister, Jaclyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1459378	So	8	0	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	42	Aurora	25	1619035	Gonzalez, Natalie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1619035	N/A	6	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	953	Austin	5	1600076	Wortham, Hassie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1600076	Fr	21	9	 	 	0.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	953	Austin	2	1285536	Cooke, Anna	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1285536	Jr	21	21	1	 	2.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	1	1	 
+2015	11720	3	953	Austin	12	1492785	Mavelian, Cami	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1492785	Jr	21	21	2	1.00	5.00	18	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	2	2	1
+2015	11720	3	953	Austin	9	1492784	Baumgartner, Myranda	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1492784	So	21	8	2	1.00	5.00	17	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	953	Austin	13	1492786	Rice, Ashley	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1492786	So	21	12	3	 	6.00	9	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	2
+2015	11720	3	953	Austin	18	1278592	Sherwood, Amanda	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1278592	Sr	21	21	4	2.00	10.00	29	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	3
+2015	11720	3	953	Austin	22	1278593	Marquez, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1278593	Sr	21	21	4	2.00	10.00	50	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	2	2	2
+2015	11720	3	953	Austin	3	1392603	Lozoya, Franchesca	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1392603	Jr	20	20	 	 	0.00	2	 	 	 	 	20	18	1688:52	29	1.545	113.00	0.796	5	10	9	 	 	 	 	 
+2015	11720	3	953	Austin	15	1388795	Webb, Ashley	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1388795	Jr	20	20	 	 	0.00	 	 	1	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	953	Austin	4	1600075	Rutherford, Victoria	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1600075	Fr	20	7	 	1.00	1.00	4	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	953	Austin	17	1278591	Martinez, Dominique	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1278591	Sr	20	19	 	 	0.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	953	Austin	24	1600080	Strunk, Tori	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1600080	Fr	19	1	1	 	2.00	3	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	953	Austin	6	1600077	Eckart, Erin	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1600077	Fr	19	18	3	2.00	8.00	49	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	2
+2015	11720	3	953	Austin	16	1492788	Williams, Erica	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1492788	So	18	17	 	 	0.00	6	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	953	Austin	14	1492787	Harrington, Kat	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1492787	Sr	18	5	 	1.00	1.00	6	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	953	Austin	10	1388794	Poenisch, Hannah	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1388794	So	17	0	 	 	0.00	6	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	953	Austin	8	1600078	Scott, Kyli	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1600078	Fr	16	5	2	 	4.00	11	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	953	Austin	25	1600081	Smith, Shannon	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1600081	Fr	15	4	 	1.00	1.00	5	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	953	Austin	11	1600079	Bond, Marykatherine	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1600079	Sr	9	1	1	 	2.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	953	Austin	0	1600074	McGee, Laura	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1600074	Fr	7	1	 	 	0.00	 	 	 	 	 	7	1	246:00	4	1.463	17.00	0.810	 	 	1	 	 	 	 	 
+2015	11720	3	953	Austin	19	1504065	Peterson, Kylie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1504065	So	6	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	953	Austin	20	1497037	Smith, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1497037	So	4	0	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	953	Austin	21	1492789	Ford, Sierra	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1492789	So	3	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	953	Austin	7	1497036	Chavez, Daniela	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1497036	Jr	1	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	44	Averett	29	1583917	Burge, Pippa	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583917	Fr	18	7	3	 	6.00	12	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	44	Averett	12	1583914	Ritcey, Julia	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583914	Fr	18	18	7	1.00	15.00	39	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	3
+2015	11720	3	44	Averett	4	1504248	Josephson, Kim	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1504248	So	18	12	 	2.00	2.00	2	 	 	 	 	11	10	900:00	17	1.700	63.00	0.787	2	5	6	 	 	 	 	 
+2015	11720	3	44	Averett	22	1492564	Yando, Ashleigh	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1492564	So	18	14	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	44	Averett	3	1251698	Onarheim, Cathrine	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1251698	Sr	18	18	1	2.00	4.00	18	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	44	Averett	5	1251696	Olsson, Emma	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1251696	Sr	18	18	 	2.00	2.00	3	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	44	Averett	20	1492563	Strother, Ebonee	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1492563	So	17	15	 	3.00	3.00	17	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	44	Averett	30	1583918	Gustavsson, Amanda	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583918	Fr	17	17	6	5.00	17.00	32	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	2
+2015	11720	3	44	Averett	8	1492565	Abelseth, Katie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1492565	So	17	8	1	1.00	3.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	44	Averett	23	1504247	Smith, Riley	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1504247	So	17	13	2	1.00	5.00	13	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	1	 
+2015	11720	3	44	Averett	2	1583910	Feldt, Cassidy	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583910	Fr	17	10	1	 	2.00	6	 	 	2	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	44	Averett	15	1492562	Jobsis, Annalies	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1492562	So	17	16	1	5.00	7.00	25	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	1	1	 
+2015	11720	3	44	Averett	35	1507769	Ohrnberg, Johanna	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1507769	Fr	17	2	5	 	10.00	19	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	44	Averett	21	1507770	Sanchez, Melissa	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1507770	Fr	16	4	 	 	0.00	 	 	 	 	 	1	 	 	2	""	8.00	0.800	 	 	 	 	 	 	 	 
+2015	11720	3	44	Averett	11	1251695	Thibault, Charlotte	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1251695	Sr	13	13	 	2.00	2.00	16	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	44	Averett	27	1251690	Antikainen, Minja	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1251690	Sr	11	4	1	1.00	3.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	44	Averett	7	1583911	Joyner, Kaniah	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583911	Fr	9	0	1	 	2.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	44	Averett	00	1583909	Jones, Ashley	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583909	Fr	9	6	 	 	0.00	2	 	 	 	 	9	5	720:00	32	4.000	54.00	0.628	 	 	7	 	 	 	 	 
+2015	11720	3	44	Averett	16	1583915	Johnson, Nia	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583915	Fr	7	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	44	Averett	9	1583912	Barringer, Katie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583912	Fr	6	0	 	 	0.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	44	Averett	17	1583916	Laukkanen, Aura	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1583916	Fr	2	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	45	Babson	20	1472105	Nardee, Jennifer	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1472105	So	19	19	2	1.00	5.00	30	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	2
+2015	11720	3	45	Babson	00	1255995	Kapotsis, Melina	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1255995	Sr	19	19	 	 	0.00	 	 	 	 	 	19	19	1790:44	21	1.055	63.00	0.750	7	12	4	 	 	 	 	 
+2015	11720	3	45	Babson	10	1587130	Penta, Victoria	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1587130	Fr	19	19	4	3.00	11.00	33	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	45	Babson	22	1379470	Tyson, Meghan	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1379470	Jr	19	15	7	2.00	16.00	70	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	45	Babson	27	1256001	Shah, Avika	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1256001	Sr	19	11	 	1.00	1.00	9	 	 	2	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	45	Babson	18	1472104	McKenna, Katie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1472104	So	19	13	 	2.00	2.00	4	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	45	Babson	14	1379472	Simonson, Kristina	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1379472	Jr	19	18	1	2.00	4.00	8	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	45	Babson	9	1379469	Bard, Leisl	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1379469	Jr	19	19	 	 	0.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	45	Babson	24	1256000	DiPhilippo, Jessica	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1256000	Sr	19	19	8	8.00	24.00	67	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	1	1	3
+2015	11720	3	45	Babson	17	1587132	Ford, Kelsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1587132	Fr	18	17	4	 	8.00	46	 	 	2	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	2
+2015	11720	3	45	Babson	3	1587127	Beggan, Colleen	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1587127	Fr	18	11	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	45	Babson	4	1472100	Endow, Marissa	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1472100	So	18	11	1	 	2.00	14	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	45	Babson	15	1379467	Kantor, Rachael	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1379467	Sr	15	3	 	1.00	1.00	11	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	45	Babson	7	1472101	Kerester, Olivia	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1472101	So	14	3	1	1.00	3.00	16	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	45	Babson	12	1587131	Lee, Meghan	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1587131	Fr	11	1	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	45	Babson	2	1255997	Moore, Jenny	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1255997	Sr	8	0	 	 	0.00	5	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	45	Babson	6	1472102	Siegel, Rachel	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1472102	Jr	8	5	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	45	Babson	11	1379465	Beatham, Nikki	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1379465	Jr	6	6	1	 	2.00	4	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	45	Babson	5	1587128	Arthur, Annie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1587128	Fr	3	0	 	 	0.00	3	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	45	Babson	23	1379471	Magel, Christina	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1379471	Jr	1	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	45	Babson	8	1587129	Paul, Jackie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1587129	Fr	1	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	46	Baldwin Wallace	2	1586062	Haynam, Lauren	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1586062	Fr	23	23	1	3.00	5.00	9	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	46	Baldwin Wallace	24	1586070	Schutz, Courtney	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1586070	Fr	23	23	5	11.00	21.00	49	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	3
+2015	11720	3	46	Baldwin Wallace	22	1342697	Tucker, Kadi	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1342697	Jr	23	23	 	 	0.00	 	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	46	Baldwin Wallace	23	1472901	Lee, Kristin	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1472901	So	23	22	1	1.00	3.00	15	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	46	Baldwin Wallace	6	1277103	Boyd, Nicole	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1277103	Sr	23	21	1	2.00	4.00	29	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	46	Baldwin Wallace	1	1342698	Tallmadge, Emily	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1342698	Jr	23	22	 	 	0.00	 	 	 	 	 	23	22	2097:16	28	1.202	99.00	0.780	7	11	9	 	 	 	 	 
+2015	11720	3	46	Baldwin Wallace	21	1586069	Miller, Kori	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1586069	Fr	23	15	2	4.00	8.00	15	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	46	Baldwin Wallace	19	1586068	Poptic, Anna	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1586068	Fr	22	20	3	1.00	7.00	25	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	46	Baldwin Wallace	14	1472900	Gough, Kelly	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1472900	So	22	22	7	 	14.00	33	 	1	2	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	4
+2015	11720	3	46	Baldwin Wallace	18	1342693	Bell, Cheryl	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1342693	Jr	20	4	6	2.00	14.00	33	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	46	Baldwin Wallace	33	1472919	Lehke, Allie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1472919	So	20	17	1	 	2.00	3	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	46	Baldwin Wallace	15	1586066	Elliott, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1586066	Jr	18	18	9	1.00	19.00	64	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	3
+2015	11720	3	46	Baldwin Wallace	8	1277100	Norman, Carly	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1277100	Sr	18	4	 	 	0.00	4	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	46	Baldwin Wallace	35	1472920	Ustaszewski, Natasha	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1472920	So	16	5	 	1.00	1.00	6	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	46	Baldwin Wallace	5	1472899	Gilliam, Bree	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1472899	So	15	8	1	1.00	3.00	13	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	46	Baldwin Wallace	3	1472906	Turk, Chelsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1472906	So	14	0	 	1.00	1.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	46	Baldwin Wallace	12	1342692	Klespies, Katie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1342692	Jr	14	0	1	 	2.00	4	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	46	Baldwin Wallace	10	1342696	Harding, Emma	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1342696	Jr	14	0	1	 	2.00	9	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	46	Baldwin Wallace	7	1277099	Stevens, Ashley	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1277099	Sr	14	2	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	46	Baldwin Wallace	4	1586063	Bilinovich, Megan	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1586063	Fr	13	2	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	46	Baldwin Wallace	9	1586064	Burdick, Jenny	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1586064	Fr	11	1	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	46	Baldwin Wallace	25	1472903	Painter, Kara	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1472903	So	10	0	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	46	Baldwin Wallace	16	1586067	Lundin, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1586067	Fr	6	0	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	46	Baldwin Wallace	30	1586080	Greene, Casey	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1586080	Fr	4	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	46	Baldwin Wallace	31	1472917	Rinkus, Cassie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1472917	So	3	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	46	Baldwin Wallace	20	1472905	Bennett, Miranda	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1472905	So	3	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	46	Baldwin Wallace	39	1586085	Yeager, Sydney	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1586085	Fr	2	0	 	 	0.00	 	 	 	 	 	1	 	3:57	0	0.000	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	46	Baldwin Wallace	0	1277097	Bodo, Gabrielle	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1277097	Sr	2	1	 	 	0.00	 	 	 	 	 	2	1	33:50	0	0.000	2.00	1.000	 	 	 	 	 	 	 	 
+2015	11720	3	46	Baldwin Wallace	32	1586081	Sieg, Nikki	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1586081	Fr	2	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	46	Baldwin Wallace	40	1586084	Rubin, Julianna	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1586084	Fr	1	0	 	 	0.00	 	 	 	 	 	1	 	2:12	0	0.000	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	46	Baldwin Wallace	11	1586065	Smith, Kelsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1586065	Fr	1	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	962	Bard	5	1366191	Calhoun, Mady	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1366191	Jr	18	12	2	2.00	6.00	7	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	962	Bard	17	1590029	Qian, Avalon	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1590029	Fr	18	18	5	1.00	11.00	21	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	962	Bard	13	1590030	Sanchez, Carla	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1590030	Fr	18	18	1	 	2.00	27	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	962	Bard	9	1256804	Regan, Joanna	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1256804	Sr	18	18	2	 	4.00	5	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	962	Bard	3	1256811	Castiglione, Victoria	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1256811	Sr	18	8	 	1.00	1.00	4	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	962	Bard	21	1256806	Nolan, Hallie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1256806	Sr	17	16	1	3.00	5.00	6	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	962	Bard	24	1590033	Godfrey, Gemma	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1590033	Fr	17	10	 	 	0.00	6	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	962	Bard	12	1594126	Jurkovic, Krysta	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1594126	Fr	17	10	 	 	0.00	10	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	962	Bard	14	1366195	Lewis, Gina	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1366195	Jr	16	16	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	962	Bard	1	1476058	O'Brien, Kelsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1476058	So	16	14	 	 	0.00	 	 	 	 	 	16	14	1247:45	24	1.731	99.00	0.805	1	3	8	 	 	 	 	 
+2015	11720	3	962	Bard	8	1366193	Keddy-Hector, Isabel	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1366193	Jr	16	15	5	1.00	11.00	29	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	962	Bard	11	1366194	Kalach Hanono, Margot	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1366194	Jr	16	15	 	 	0.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	962	Bard	7	1590027	Weisman, Emily	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1590027	Fr	12	3	 	1.00	1.00	11	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	962	Bard	20	1366198	Labrecque, Abbey	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1366198	Jr	11	11	5	1.00	11.00	20	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	2
+2015	11720	3	962	Bard	10	1590028	Kimball, Toni	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1590028	Fr	10	2	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	962	Bard	18	1256814	Leitner, Simone	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1256814	Sr	9	3	1	 	2.00	6	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	962	Bard	0	1476057	Harris, Lily	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1476057	So	7	4	 	 	0.00	 	 	 	 	 	7	4	394:07	12	2.740	23.00	0.657	 	2	2	 	 	 	 	 
+2015	11720	3	962	Bard	23	1366200	O'Connell, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1366200	Jr	6	5	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	962	Bard	00	1590026	Crowley, Shane	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1590026	Fr	2	0	 	 	0.00	 	 	 	 	 	2	 	35:11	0	0.000	1.00	1.000	 	 	 	 	 	 	 	 
+2015	11720	3	962	Bard	16	1476059	Lagville-Graham, Sam	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1476059	So	1	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	50	Bates	3	1389648	Coco, Maggie	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1389648	Jr	15	15	1	1.00	3.00	22	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	50	Bates	15	1605391	Behringer, Hannah	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1605391	Fr	15	5	 	 	0.00	26	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	50	Bates	12	1605390	Rosen, Julia	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1605390	Fr	15	13	5	4.00	14.00	29	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	50	Bates	7	1504737	Shea, Erin	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1504737	So	15	12	1	 	2.00	13	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	50	Bates	19	1502815	Rabb, Kyla	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1502815	So	15	12	 	 	0.00	3	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	50	Bates	18	1275747	Donovan, Dakota	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1275747	Sr	15	15	5	2.00	12.00	34	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	2
+2015	11720	3	50	Bates	21	1504738	Titcomb, Rebecca	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1504738	So	15	14	1	 	2.00	3	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	50	Bates	9	1275743	Johnson, Emily	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1275743	Sr	14	1	 	 	0.00	4	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	50	Bates	10	1504739	Urbina, Ana	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1504739	So	13	5	2	 	4.00	8	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	50	Bates	5	1504726	Hill, Allison	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1504726	So	12	12	 	 	0.00	1	 	 	1	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	50	Bates	13	1509267	Adams, Alexa	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1509267	Fr	12	2	 	 	0.00	1	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	50	Bates	6	1389650	Griffin, Caitrin	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1389650	Jr	11	11	 	1.00	1.00	2	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	50	Bates	4	1605389	Millstrom, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1605389	Sr	11	0	1	 	2.00	3	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	50	Bates	14	1502814	Graves, Hannah	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1502814	So	11	9	 	 	0.00	9	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	50	Bates	20	1605394	Andy, Caroline	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1605394	Fr	11	0	1	 	2.00	4	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	50	Bates	11	1275746	Brill, Nicki	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1275746	Sr	10	10	 	 	0.00	11	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	50	Bates	0	1605387	McCarthy, Sarah	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1605387	Fr	10	9	 	 	0.00	 	 	 	 	 	10	9	843:19	17	1.814	46.00	0.730	1	3	6	 	 	 	 	 
+2015	11720	3	50	Bates	22	1605398	Landwehrle, Lindsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1605398	Fr	9	0	 	 	0.00	4	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	50	Bates	2	1389647	Rice, Julia	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1389647	Jr	7	2	1	 	2.00	16	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	1
+2015	11720	3	50	Bates	8	1502813	Humes, Leah	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1502813	Jr	7	7	1	4.00	6.00	20	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	50	Bates	55	1275741	Morgosh, Alyssa	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1275741	Sr	6	5	 	 	0.00	 	 	 	 	 	6	5	435:00	2	0.414	20.00	0.909	2	4	 	 	 	 	 	 
+2015	11720	3	50	Bates	17	1605393	Malasky, Libby	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1605393	Fr	6	2	1	1.00	3.00	7	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	50	Bates	16	1605392	Jamieson, Ainsley	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1605392	Fr	6	3	 	 	0.00	8	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	50	Bates	1	1605388	Sacco, Allegra	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1605388	Fr	2	1	 	 	0.00	 	 	 	 	 	2	1	86:05	3	3.136	3.00	0.500	 	 	1	 	 	 	 	 
+2015	11720	3	50	Bates	28	1605396	Quinn, Brigid	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1605396	Fr	1	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	50	Bates	25	1605395	Goff, Emma	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1605395	Fr	1	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 
+2015	11720	3	50	Bates	24	1389649	Lockhart, Karen	http://stats.ncaa.org/player?game_sport_year_ctl_id=11720&stats_player_seq=1389649	Jr	1	0	 	 	0.00	 	 	 	 	 	 	 	 	""	""	 	""	 	 	 	 	 	 	 	 

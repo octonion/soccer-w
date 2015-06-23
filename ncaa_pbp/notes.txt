@@ -1,0 +1,30 @@
+Years page:
+
+http://stats.ncaa.org/team/inst_team_list?sport_code=WSO&academic_year=&division=&conf_id=-1&schedule_date=
+
+# Years
+
+//*[@id="root"]/li[3]/ul/li[1]/a
+
+# Divisions
+
+//*[@id="root"]/li[5]/ul/li[1]/a
+
+peel off game box scores into a separate file
+
+stat categories by year:
+
+year = 2011
+year_id = 10384
+
+year = 2012
+year_id = 10640
+
+year = 2013
+year_id = 11200
+
+year = 2014
+year_id = 11420
+
+year = 2015
+year_id = 11720
