@@ -56,9 +56,9 @@ ncaa_games_boxscores << boxscores_header
 
 game_ids = []
 ncaa_team_schedules.each do |game|
-#  if not(game["game_id"].to_i==3495039)
-#    next
-#  end
+  #if not(game["game_id"].to_i==1298460)
+  #  next
+  #end
   game_ids << game["game_id"]
 end
 
@@ -101,11 +101,13 @@ game_ids.each_slice(gpt).with_index do |ids,i|
 
       broken1 = "\\\">\r\n      <SHOTS G="
       broken2 = "\\\"><SHOTS G="
+      broken3 = "<td><F</td>"
       tries = 0
       begin
         doc = agent.get(game_url).body
         doc = doc.gsub(broken1,"")
         doc = doc.gsub(broken2,"")
+        doc = doc.gsub(broken3,"<td></td>")
         page = Nokogiri::HTML(doc)
       rescue
         sleep_time += sleep_increment
