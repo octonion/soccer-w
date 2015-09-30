@@ -1,0 +1,780 @@
+year,team_id,team_name,wins,losses,ties,total_games
+2003,929,Adams St.,7,11,1,19
+2003,3,Adelphi,17,2,2,21
+2003,11324,Agnes Scott,8,9,1,18
+2003,721,Air Force,7,12,0,19
+2003,5,Akron,5,11,1,17
+2003,10,Ala.-Huntsville,10,9,0,19
+2003,8,Alabama,12,6,2,20
+2003,6,Alabama A&M,5,11,0,16
+2003,14,Albany (NY),4,14,1,19
+2003,15,Albion,16,5,0,21
+2003,16,Albright,8,10,1,19
+2003,17,Alcorn,0,2,0,2
+2003,18,Alfred,3,13,1,17
+2003,21,Alma,9,9,2,20
+2003,938,Alvernia,1,16,0,17
+2003,23,American,10,9,2,21
+2003,22,American Int'l,3,12,0,15
+2003,24,Amherst,8,5,2,15
+2003,939,Anderson (IN),2,17,0,19
+2003,13028,Anderson (SC),8,12,0,20
+2003,25,Angelo St.,7,8,2,17
+2003,26,Anna Maria,6,11,0,17
+2003,27,Appalachian St.,6,12,1,19
+2003,966,Arcadia,12,6,1,19
+2003,29,Arizona,6,12,1,19
+2003,28,Arizona St.,12,7,2,21
+2003,31,Arkansas,7,12,1,20
+2003,30,Arkansas St.,4,14,1,19
+2003,725,Army West Point,12,3,2,17
+2003,35,Ashland,15,2,2,19
+2003,36,Assumption,8,9,2,19
+2003,37,Auburn,15,5,2,22
+2003,38,Augsburg,11,5,2,18
+2003,40,Augustana (IL),13,8,0,21
+2003,41,Augustana (SD),4,15,1,20
+2003,42,Aurora,19,3,0,22
+2003,953,Austin,11,6,3,20
+2003,43,Austin Peay,0,13,3,16
+2003,44,Averett,4,12,2,18
+2003,45,Babson,9,9,2,20
+2003,46,Baldwin Wallace,9,8,3,20
+2003,47,Ball St.,14,6,1,21
+2003,49,Barry,18,1,0,19
+2003,15646,Barton,13,4,1,18
+2003,50,Bates,7,7,0,14
+2003,51,Baylor,8,9,2,19
+2003,26107,Becker,8,8,1,17
+2003,52,Bellarmine,13,6,2,21
+2003,14927,Belmont,1,17,0,18
+2003,2683,Belmont Abbey,12,7,1,20
+2003,53,Beloit,7,8,0,15
+2003,54,Bemidji St.,4,12,0,16
+2003,296,Benedictine (IL),4,15,0,19
+2003,56,Bentley,9,5,3,17
+2003,59,Bethany (WV),6,14,0,20
+2003,60,Bethel (MN),8,9,0,17
+2003,62,Binghamton,9,7,2,18
+2003,28593,Birmingham-So.,5,11,2,18
+2003,64,Blackburn,7,7,3,17
+2003,65,Bloomsburg,13,6,2,21
+2003,987,Bluffton,1,13,0,14
+2003,66,Boise St.,5,11,1,17
+2003,67,Boston College,11,8,1,20
+2003,68,Boston U.,7,10,2,19
+2003,71,Bowling Green,12,8,2,22
+2003,73,Brandeis,8,8,1,17
+2003,75,Bridgewater (VA),9,7,2,18
+2003,76,Bridgewater St.,13,6,1,20
+2003,78,Brockport,13,8,1,22
+2003,80,Brown,6,9,2,17
+2003,81,Bryant,8,6,3,17
+2003,82,Bryn Mawr,4,13,1,18
+2003,83,Bucknell,6,9,2,17
+2003,84,Buena Vista,2,17,0,19
+2003,86,Buffalo,7,8,5,20
+2003,85,Buffalo St.,6,12,1,19
+2003,87,Butler,15,6,0,21
+2003,77,BYU,16,6,0,22
+2003,88,Cabrini,6,14,0,20
+2003,105,Cal Lutheran,11,6,2,19
+2003,90,Cal Poly,14,7,0,21
+2003,91,Cal Poly Pomona,11,6,2,19
+2003,92,Cal St. Dom. Hills,11,7,3,21
+2003,98,Cal St. East Bay,10,8,2,20
+2003,97,Cal St. Fullerton,12,5,1,18
+2003,100,Cal St. L.A.,5,13,0,18
+2003,93,Cal St. San B'dino,8,8,4,20
+2003,103,Cal St. Stanislaus,1,0,0,1
+2003,107,California,12,8,1,21
+2003,106,California (PA),9,9,0,18
+2003,114,Calvin,12,6,2,20
+2003,115,Campbell,8,8,2,18
+2003,116,Canisius,3,12,1,16
+2003,117,Capital,9,11,0,20
+2003,118,Carleton,6,8,4,18
+2003,119,Carnegie Mellon,11,5,2,18
+2003,120,Carroll (WI),16,3,0,19
+2003,1000,Carson-Newman,11,7,0,18
+2003,121,Carthage,13,4,2,19
+2003,122,Case,11,6,2,19
+2003,123,Castleton,6,13,1,20
+2003,1001,Catawba,15,3,1,19
+2003,124,Catholic,12,5,0,17
+2003,23624,Cazenovia,3,13,0,16
+2003,480,CCNY,2,10,1,13
+2003,14795,Cedar Crest,4,10,4,18
+2003,125,Centenary (LA),12,7,0,19
+2003,12884,Centenary (NJ),9,8,1,18
+2003,126,Central (IA),5,12,0,17
+2003,1004,Central Ark.,10,9,0,19
+2003,127,Central Conn. St.,15,6,0,21
+2003,129,Central Mich.,5,9,5,19
+2003,130,Central Mo.,12,8,0,20
+2003,1009,Central Okla.,20,3,0,23
+2003,1010,Central Wash.,4,15,1,20
+2003,132,Centre,7,8,1,16
+2003,134,Chapman,11,5,5,21
+2003,1013,Charleston (WV),5,12,1,18
+2003,48,Charleston So.,2,15,2,19
+2003,458,Charlotte,16,2,2,20
+2003,693,Chattanooga,10,8,1,19
+2003,137,Chicago,15,4,1,20
+2003,95,Chico St.,10,7,2,19
+2003,8875,Chowan,8,10,0,18
+2003,139,Chris. Newport,12,4,1,17
+2003,1015,Christian Bros.,25,1,0,26
+2003,140,Cincinnati,17,4,3,24
+2003,141,Citadel,5,11,2,18
+2003,142,Claremont-M-S,8,9,3,20
+2003,145,Clark (MA),3,14,0,17
+2003,1020,Clarke,4,16,1,21
+2003,146,Clarkson,4,13,1,18
+2003,20576,Clayton St.,10,4,5,19
+2003,147,Clemson,14,8,0,22
+2003,722,Coast Guard,8,8,1,17
+2003,149,Coastal Caro.,8,6,4,18
+2003,150,Coe,10,8,0,18
+2003,1023,Coker,6,12,0,18
+2003,1014,Col. of Charleston,9,9,3,21
+2003,151,Colby,5,9,0,14
+2003,152,Colby-Sawyer,7,9,2,18
+2003,153,Colgate,7,9,2,18
+2003,11403,Colo. Christian,5,11,3,19
+2003,157,Colorado,10,8,2,20
+2003,154,Colorado Col.,8,7,2,17
+2003,11416,Colorado Mesa,9,7,3,19
+2003,2720,Colorado St.-Pueblo,9,8,4,21
+2003,158,Columbia,5,10,2,17
+2003,1028,Concord,12,5,2,19
+2003,162,Concordia (NY),1,16,0,17
+2003,24400,Concordia (TX),2,13,1,16
+2003,160,Concordia Chicago,2,15,3,20
+2003,161,Concordia-M'head,5,12,1,18
+2003,9081,Concordia-St. Paul,3,17,0,20
+2003,8935,Converse,0,1,0,1
+2003,167,Cornell,9,6,2,17
+2003,166,Cornell College,13,6,1,20
+2003,169,Creighton,12,8,2,22
+2003,94,CSU Bakersfield,6,12,2,20
+2003,101,CSUN,3,13,2,18
+2003,170,Curry,8,10,0,18
+2003,1044,Dallas,14,3,1,18
+2003,1045,Dallas Baptist,0,5,0,5
+2003,2691,Daniel Webster,7,12,0,19
+2003,172,Dartmouth,12,5,1,18
+2003,173,Davidson,8,11,1,20
+2003,175,Dayton,17,4,0,21
+2003,1050,Defiance,7,12,1,20
+2003,180,Delaware,9,9,1,19
+2003,178,Delaware St.,0,15,0,15
+2003,179,Delaware Valley,10,9,0,19
+2003,182,Denison,13,5,1,19
+2003,183,Denver,17,2,2,21
+2003,176,DePaul,10,8,1,19
+2003,177,DePauw,13,4,1,18
+2003,20,DeSales,5,12,1,18
+2003,184,Detroit,7,8,5,20
+2003,185,Dickinson,10,9,0,19
+2003,1332,Dominican (IL),7,10,0,17
+2003,8956,Dominican (NY),7,13,0,20
+2003,189,Drake,8,8,4,20
+2003,190,Drew,8,9,2,19
+2003,191,Drexel,3,14,1,18
+2003,1057,Drury,1,16,1,18
+2003,192,Dubuque,10,8,1,19
+2003,193,Duke,9,9,2,20
+2003,194,Duquesne,5,13,1,19
+2003,195,Earlham,1,9,0,10
+2003,196,East Carolina,11,6,4,21
+2003,8965,East Central,6,8,3,17
+2003,197,East Stroudsburg,6,12,1,19
+2003,198,East Tenn. St.,6,11,1,18
+2003,1062,East Tex. Baptist,8,6,3,17
+2003,203,East. Mennonite,12,4,3,19
+2003,8968,Eastern,11,7,1,19
+2003,200,Eastern Conn. St.,15,4,0,19
+2003,201,Eastern Ill.,12,8,2,22
+2003,204,Eastern Mich.,9,10,2,21
+2003,1064,Eastern Nazarene,2,14,0,16
+2003,207,Eastern Wash.,7,11,0,18
+2003,208,Eckerd,7,10,2,19
+2003,1066,Edgewood,7,14,0,21
+2003,209,Edinboro,9,5,4,18
+2003,211,Elizabethtown,9,10,1,20
+2003,213,Elmira,12,6,1,19
+2003,532,Elms,5,10,0,15
+2003,1068,Elon,6,10,1,17
+2003,217,Emory,14,4,2,20
+2003,1071,Emporia St.,6,12,1,19
+2003,8981,Endicott,14,7,1,22
+2003,1072,Erskine,8,8,1,17
+2003,219,Evansville,6,13,1,20
+2003,220,Fairfield,9,7,3,19
+2003,222,Fairleigh Dickinson,9,8,1,18
+2003,221,FDU-Florham,12,8,0,20
+2003,224,Ferris St.,7,10,3,20
+2003,225,Ferrum,1,16,0,17
+2003,1079,Findlay,7,7,3,17
+2003,227,Fitchburg St.,7,10,0,17
+2003,231,FIU,2,14,2,18
+2003,229,Fla. Atlantic,14,5,0,19
+2003,233,Fla. Southern,4,13,2,19
+2003,235,Florida,10,10,2,22
+2003,234,Florida St.,13,7,3,23
+2003,11538,Fontbonne,12,7,0,19
+2003,236,Fordham,8,11,0,19
+2003,1083,Fort Lewis,7,10,2,19
+2003,238,Framingham St.,13,7,0,20
+2003,1085,Francis Marion,12,6,1,19
+2003,239,Frank. & Marsh.,15,3,2,20
+2003,2694,Franklin,6,9,3,18
+2003,241,Franklin Pierce,18,1,2,21
+2003,242,Fredonia,9,8,2,19
+2003,96,Fresno St.,8,13,0,21
+2003,243,Frostburg St.,9,8,5,22
+2003,244,Furman,16,6,1,23
+2003,253,Ga. Southern,12,5,2,19
+2003,245,Gallaudet,7,10,0,17
+2003,246,Gannon,4,15,1,20
+2003,1092,Gardner-Webb,5,12,1,18
+2003,1094,George Fox,1,15,0,16
+2003,248,George Mason,10,11,0,21
+2003,249,George Washington,10,9,0,19
+2003,251,Georgetown,11,7,0,18
+2003,257,Georgia,8,11,1,20
+2003,254,Georgia St.,9,6,5,20
+2003,9004,Georgian Court,9,8,3,20
+2003,258,Gettysburg,11,7,2,20
+2003,8366,Goldey-Beacom,16,5,1,22
+2003,260,Gonzaga,6,13,0,19
+2003,1099,Gordon,18,3,1,22
+2003,1467,Goucher,0,16,2,18
+2003,1104,Grand Canyon,2,17,1,20
+2003,262,Grand Valley St.,13,4,1,18
+2003,794,Green Bay,4,11,2,17
+2003,263,Greensboro,10,10,0,20
+2003,1111,Greenville,4,13,1,18
+2003,264,Grinnell,9,7,0,16
+2003,265,Grove City,13,7,2,22
+2003,1112,Guilford,9,10,2,21
+2003,266,Gust. Adolphus,9,4,4,17
+2003,12399,Gwynedd Mercy,12,8,0,20
+2003,267,Hamilton,7,5,3,15
+2003,268,Hamline,4,14,0,18
+2003,1115,Hanover,9,8,2,19
+2003,271,Hardin-Simmons,14,3,1,18
+2003,1116,Harding,5,14,0,19
+2003,272,Hartford,14,7,0,21
+2003,273,Hartwick,8,7,3,18
+2003,275,Harvard,8,7,1,16
+2003,276,Haverford,11,7,1,19
+2003,277,Hawaii,10,8,2,20
+2003,278,Heidelberg,0,16,2,18
+2003,1124,Hendrix,8,6,0,14
+2003,19651,High Point,4,10,4,18
+2003,8398,Hilbert,10,6,2,18
+2003,280,Hillsdale,5,11,2,18
+2003,282,Hobart,15,4,5,24
+2003,283,Hofstra,14,5,1,20
+2003,285,Holy Cross,5,9,2,16
+2003,286,Hope,12,7,1,20
+2003,288,Houston,8,8,3,19
+2003,290,Howard,6,9,1,16
+2003,291,Humboldt St.,8,11,1,20
+2003,295,Idaho,2,14,3,19
+2003,294,Idaho St.,13,7,1,21
+2003,301,Illinois,9,11,1,21
+2003,297,Illinois Col.,2,12,0,14
+2003,299,Illinois St.,12,5,2,19
+2003,303,Immaculata,4,14,1,19
+2003,2743,Incarnate Word,11,5,2,18
+2003,306,Indiana,10,7,2,19
+2003,307,Indiana (PA),6,9,2,17
+2003,305,Indiana St.,7,12,1,20
+2003,310,Iona,2,14,1,17
+2003,312,Iowa,11,7,1,19
+2003,311,Iowa St.,7,11,1,19
+2003,308,IPFW,3,11,3,17
+2003,313,Ithaca,13,4,4,21
+2003,2699,IUPUI,3,14,2,19
+2003,314,Jackson St.,1,11,0,12
+2003,316,Jacksonville,15,4,2,21
+2003,315,Jacksonville St.,12,6,2,20
+2003,317,James Madison,13,8,3,24
+2003,322,Johns Hopkins,14,6,2,22
+2003,22626,Johnson & Wales (RI),14,7,1,22
+2003,324,Johnson St.,7,9,1,17
+2003,325,Juniata,7,8,2,17
+2003,326,Kalamazoo,5,13,1,19
+2003,328,Kansas,11,7,2,20
+2003,329,Kean,6,9,2,17
+2003,330,Keene St.,20,3,1,24
+2003,331,Kent St.,6,10,2,18
+2003,334,Kentucky,11,9,0,20
+2003,335,Kenyon,7,10,1,18
+2003,1159,Keuka,10,7,1,18
+2003,337,Knox,2,14,0,16
+2003,339,Kutztown,10,7,2,19
+2003,333,Ky. Wesleyan,5,10,0,15
+2003,1163,La Roche,16,4,3,23
+2003,340,La Salle,9,8,1,18
+2003,671,La.-Lafayette,6,9,3,18
+2003,498,La.-Monroe,6,11,4,21
+2003,342,Lafayette,8,8,1,17
+2003,2746,Lake Erie,0,20,0,20
+2003,344,Lake Forest,7,9,0,16
+2003,1164,Lakeland,15,4,1,20
+2003,1167,Lander,7,10,1,18
+2003,8486,Lasell,11,6,1,18
+2003,348,Lawrence,8,8,0,16
+2003,349,Le Moyne,7,7,3,17
+2003,351,Lebanon Valley,11,5,3,19
+2003,352,Lehigh,4,13,1,18
+2003,8490,LeTourneau,4,12,1,17
+2003,354,Lewis,0,13,1,14
+2003,355,Liberty,7,9,1,17
+2003,1176,Lincoln Memorial,7,11,1,19
+2003,1179,Linfield,13,6,1,20
+2003,28600,Lipscomb,4,11,3,18
+2003,361,LIU Brooklyn,6,13,0,19
+2003,360,Lock Haven,16,3,1,20
+2003,99,Long Beach St.,6,9,5,20
+2003,363,Longwood,15,3,1,19
+2003,364,Loras,18,5,0,23
+2003,1182,Louisiana Col.,1,18,1,20
+2003,367,Louisville,5,12,1,18
+2003,502812,Loyola (LA),0,1,0,1
+2003,371,Loyola Chicago,7,9,3,19
+2003,369,Loyola Maryland,12,6,2,20
+2003,370,Loyola Marymount,10,7,3,20
+2003,365,LSU,12,5,3,20
+2003,372,Luther,15,3,1,19
+2003,373,Lycoming,3,13,0,16
+2003,374,Lynchburg,14,3,5,22
+2003,20794,Lynn,6,9,4,19
+2003,376,Macalester,11,2,5,18
+2003,380,Maine,7,8,1,16
+2003,378,Maine Maritime,6,7,3,16
+2003,1192,Manchester,12,8,1,21
+2003,381,Manhattan,6,9,3,18
+2003,382,Manhattanville,11,11,0,22
+2003,1196,Marian (WI),1,15,2,18
+2003,385,Marietta,11,7,0,18
+2003,386,Marist,3,13,3,19
+2003,387,Marquette,13,8,3,24
+2003,1199,Mars Hill,7,8,3,18
+2003,388,Marshall,6,9,2,17
+2003,8597,Martin Luther,15,3,1,19
+2003,389,Mary Baldwin,7,12,0,19
+2003,1203,Mary Hardin-Baylor,6,7,3,16
+2003,390,Mary Washington,16,5,1,22
+2003,392,Maryland,13,8,1,22
+2003,394,Marymount (VA),4,13,1,18
+2003,395,Maryville (MO),10,6,4,20
+2003,396,Maryville (TN),11,5,2,18
+2003,397,Marywood,14,5,0,19
+2003,400,Massachusetts,6,11,0,17
+2003,773,McDaniel,12,8,1,21
+2003,486,MCLA,5,9,1,15
+2003,8530,McMurry,0,14,1,15
+2003,402,McNeese St.,5,13,1,19
+2003,379,Me.-Farmington,14,4,2,20
+2003,404,Memphis,9,10,1,20
+2003,406,Mercer,1,16,2,19
+2003,407,Mercy,1,15,0,16
+2003,408,Mercyhurst,13,4,2,19
+2003,410,Merrimack,14,6,1,21
+2003,411,Messiah,20,1,3,24
+2003,412,Methodist,8,9,2,19
+2003,413,Metro St.,19,3,3,25
+2003,415,Miami (FL),9,9,1,19
+2003,414,Miami (OH),19,3,2,24
+2003,418,Michigan,16,7,1,24
+2003,416,Michigan St.,12,7,2,21
+2003,419,Middle Tenn.,8,12,1,21
+2003,420,Middlebury,8,4,3,15
+2003,1222,Midwestern St.,10,7,2,19
+2003,423,Millersville,12,4,4,20
+2003,503195,Milligan,1,0,0,1
+2003,424,Millikin,5,10,2,17
+2003,426,Millsaps,2,16,0,18
+2003,797,Milwaukee,11,6,5,22
+2003,427,Minn. Duluth,15,5,2,22
+2003,383,Minn. St. Mankato,14,6,0,20
+2003,1240,Minn. St. Moorhead,4,14,1,19
+2003,27854,Minn.-Crookston,7,12,0,19
+2003,1226,Minn.-Morris,13,7,2,22
+2003,428,Minnesota,7,11,1,19
+2003,16142,Misericordia,19,2,0,21
+2003,429,Mississippi Col.,13,3,2,18
+2003,430,Mississippi St.,6,13,1,20
+2003,434,Missouri,11,7,2,20
+2003,435,Missouri S&T,1,17,0,18
+2003,669,Missouri St.,8,7,3,18
+2003,9012,Mo. Southern St.,11,5,2,18
+2003,436,Mo.-St. Louis,13,7,1,21
+2003,437,Molloy,7,10,1,18
+2003,439,Monmouth,11,6,2,19
+2003,438,Monmouth (IL),6,9,0,15
+2003,205,Mont. St. Billings,2,14,0,16
+2003,441,Montana,8,10,1,19
+2003,442,Montclair St.,12,7,2,21
+2003,1238,Montevallo,7,9,2,18
+2003,443,Moravian,10,6,2,18
+2003,444,Morehead St.,2,12,1,15
+2003,449,Mount Holyoke,7,9,1,17
+2003,27901,Mount Ida,11,9,0,20
+2003,452,Mount Union,7,7,3,17
+2003,8567,Mt. St. Joseph,11,9,2,22
+2003,1468,Mt. St. Mary (NY),8,10,2,20
+2003,450,Mt. St. Mary's,4,13,1,18
+2003,453,Muhlenberg,13,7,0,20
+2003,454,Murray St.,8,7,2,17
+2003,491,N.C. Wesleyan,9,12,0,21
+2003,8577,N.M. Highlands,4,12,2,18
+2003,726,Navy,16,1,4,21
+2003,461,Nazareth,16,3,3,22
+2003,462,Neb. Wesleyan,4,15,0,19
+2003,463,Nebraska,16,6,3,25
+2003,1254,Neumann,5,14,1,20
+2003,466,Nevada,4,14,1,19
+2003,467,New England Col.,8,9,0,17
+2003,469,New Hampshire,10,7,1,18
+2003,470,New Haven,4,14,1,19
+2003,319,New Jersey City,5,14,0,19
+2003,473,New Mexico,12,8,1,21
+2003,1257,Newberry,6,15,0,21
+2003,482,Niagara,12,6,1,19
+2003,483,Nicholls St.,2,17,1,20
+2003,484,Nichols,13,8,0,21
+2003,471,NJIT,4,13,0,17
+2003,487,North Ala.,8,9,1,18
+2003,457,North Carolina,21,2,4,27
+2003,490,North Carolina St.,10,8,1,19
+2003,494,North Dakota,10,6,1,17
+2003,493,North Dakota St.,9,8,2,19
+2003,496,North Park,10,9,0,19
+2003,497,North Texas,14,5,1,20
+2003,500,Northeastern,8,8,4,20
+2003,1263,Northeastern Ill.,0,1,0,1
+2003,12810,Northeastern St.,11,8,2,21
+2003,501,Northern Ariz.,5,13,0,18
+2003,502,Northern Colo.,13,5,1,19
+2003,503,Northern Ill.,6,12,0,18
+2003,505,Northern Ky.,20,1,2,23
+2003,506,Northern Mich.,7,12,1,20
+2003,1266,Northern St.,13,7,0,20
+2003,507,Northwest Mo. St.,3,15,0,18
+2003,1274,Northwest Nazarene,3,15,0,18
+2003,509,Northwestern,4,9,5,18
+2003,508,Northwestern St.,12,6,5,23
+2003,510,Northwood (MI),11,4,2,17
+2003,513,Notre Dame,13,8,0,21
+2003,8600,Notre Dame (MD),11,8,0,19
+2003,24639,Nova Southeastern,13,5,0,18
+2003,477,NYIT,7,8,2,17
+2003,479,NYU,12,5,4,21
+2003,514,Oakland,10,12,1,23
+2003,2713,Oglethorpe,6,10,1,17
+2003,519,Ohio,15,5,2,22
+2003,517,Ohio Northern,6,13,1,20
+2003,518,Ohio St.,10,11,1,22
+2003,15207,Ohio Valley,1,15,0,16
+2003,520,Ohio Wesleyan,23,0,1,24
+2003,522,Oklahoma,11,8,0,19
+2003,503905,Oklahoma City,1,0,0,1
+2003,521,Oklahoma St.,13,7,0,20
+2003,523,Old Dominion,5,12,1,18
+2003,433,Ole Miss,13,5,2,20
+2003,464,Omaha,22,1,0,23
+2003,527,Oral Roberts,13,5,3,21
+2003,529,Oregon,2,14,2,18
+2003,528,Oregon St.,9,9,2,20
+2003,530,Oswego St.,9,11,0,20
+2003,531,Otterbein,15,5,0,20
+2003,1289,Ouachita Baptist,7,11,0,18
+2003,23008,Ozarks (AR),3,14,2,19
+2003,533,Pace,10,8,1,19
+2003,534,Pacific,10,8,2,20
+2003,2751,Pacific (OR),6,11,3,20
+2003,1297,Pacific Lutheran,7,11,1,19
+2003,540,Penn,8,6,3,17
+2003,539,Penn St.,19,4,1,24
+2003,538,Penn St.-Behrend,8,12,0,20
+2003,541,Pepperdine,18,2,2,22
+2003,542,Pfeiffer,6,11,0,17
+2003,543,Philadelphia U.,13,3,5,21
+2003,544,Pine Manor,0,13,1,14
+2003,1315,Pitt.-Bradford,5,14,0,19
+2003,11839,Pitt.-Greensburg,11,6,0,17
+2003,545,Pittsburgh,4,15,0,19
+2003,547,Plattsburgh St.,13,6,0,19
+2003,548,Plymouth St.,5,11,1,17
+2003,549,Pomona-Pitzer,3,15,1,19
+2003,551,Portland,20,4,2,26
+2003,550,Portland St.,13,5,4,22
+2003,1318,Post,7,12,1,20
+2003,553,Prairie View,4,5,0,9
+2003,1320,Presbyterian,12,4,1,17
+2003,554,Princeton,13,3,1,17
+2003,555,Principia,8,12,0,20
+2003,556,Providence,8,9,2,19
+2003,557,Puget Sound,17,3,1,21
+2003,559,Purdue,14,6,2,22
+2003,11504,Queens (NC),9,8,1,18
+2003,561,Quincy,10,8,1,19
+2003,562,Quinnipiac,3,12,1,16
+2003,563,Radford,15,5,1,21
+2003,564,Ramapo,4,12,2,18
+2003,566,Randolph,11,7,1,19
+2003,565,Randolph-Macon,6,10,1,17
+2003,567,Redlands,9,6,2,17
+2003,568,Regis (CO),16,4,1,21
+2003,569,Regis (MA),1,14,1,16
+2003,570,Rensselaer,14,4,1,19
+2003,572,Rhode Island,16,6,1,23
+2003,571,Rhode Island Col.,7,10,2,19
+2003,573,Rhodes,9,8,0,17
+2003,574,Rice,4,13,2,19
+2003,575,Richmond,15,6,2,23
+2003,576,Rider,8,13,0,21
+2003,577,Ripon,4,11,0,15
+2003,579,Robert Morris,6,13,1,20
+2003,581,Rochester (NY),15,5,0,20
+2003,580,Rochester Inst.,11,8,0,19
+2003,582,Rockford,11,7,0,18
+2003,583,Roger Williams,7,12,0,19
+2003,584,Rollins,11,7,2,20
+2003,585,Rose-Hulman,13,6,0,19
+2003,259,Rowan,12,4,2,18
+2003,587,Rutgers,10,8,2,20
+2003,588,Rutgers-Camden,10,6,3,19
+2003,589,Rutgers-Newark,7,10,0,17
+2003,11276,S.C. Aiken,8,8,3,19
+2003,102,Sacramento St.,3,13,1,17
+2003,590,Sacred Heart,10,7,2,19
+2003,591,Saginaw Valley,2,14,1,17
+2003,595,Saint Benedict,12,2,5,19
+2003,600,Saint Francis (PA),7,10,1,18
+2003,606,Saint Joseph's,4,12,1,17
+2003,608,Saint Leo,3,13,2,18
+2003,609,Saint Louis,13,6,1,20
+2003,612,Saint Mary's (MN),1,17,0,18
+2003,617,Saint Peter's,1,16,0,17
+2003,1347,Saint Rose,15,5,0,20
+2003,622,Salisbury,12,7,0,19
+2003,623,Salve Regina,8,12,0,20
+2003,625,Samford,13,7,1,21
+2003,627,San Diego,11,7,3,21
+2003,626,San Diego St.,13,7,0,20
+2003,628,San Fran. St.,12,5,4,21
+2003,629,San Francisco,8,10,1,19
+2003,630,San Jose St.,3,14,3,20
+2003,631,Santa Clara,20,5,1,26
+2003,16006,SCAD,9,10,1,20
+2003,1355,Schreiner,10,7,1,18
+2003,633,Scranton,15,4,1,20
+2003,1356,Seattle,11,7,1,19
+2003,634,Seattle Pacific,13,4,2,19
+2003,635,Seton Hall,7,11,1,19
+2003,652,Sewanee,14,4,0,18
+2003,637,Shenandoah,3,13,1,17
+2003,10870,Shepherd,3,17,0,20
+2003,638,Shippensburg,14,4,2,20
+2003,639,Siena,5,10,3,18
+2003,641,Simpson,15,4,2,21
+2003,660,SIUE,9,5,4,18
+2003,642,Skidmore,9,8,0,17
+2003,644,Smith,12,7,0,19
+2003,663,SMU,13,6,4,23
+2003,646,South Ala.,9,10,3,22
+2003,648,South Carolina,13,6,2,21
+2003,647,South Carolina St.,6,11,0,17
+2003,650,South Dakota,10,8,0,18
+2003,649,South Dakota St.,10,8,0,18
+2003,651,South Fla.,8,8,2,18
+2003,2753,Southampton,15,6,0,21
+2003,654,Southeast Mo. St.,14,5,1,20
+2003,655,Southeastern La.,12,6,3,21
+2003,657,Southern California,11,8,3,22
+2003,658,Southern Conn. St.,9,7,1,17
+2003,661,Southern Ind.,8,10,0,18
+2003,662,Southern Me.,4,12,0,16
+2003,664,Southern Miss.,6,10,1,17
+2003,468,Southern N.H.,6,10,1,17
+2003,667,Southern Utah,2,17,0,19
+2003,1379,Southern Vt.,0,1,0,1
+2003,2755,Southwest Baptist,8,8,3,19
+2003,8736,Southwest Minn. St.,9,11,1,21
+2003,8746,Southwestern (TX),11,8,1,20
+2003,8744,Southwestern Okla.,6,11,2,19
+2003,26973,Spelman,0,1,0,1
+2003,505050,Spring Hill,0,2,0,2
+2003,673,Springfield,8,10,0,18
+2003,592,St. Andrews,1,15,2,18
+2003,593,St. Anselm,6,9,2,17
+2003,596,St. Bonaventure,10,9,0,19
+2003,597,St. Catherine,7,9,1,17
+2003,598,St. Cloud St.,7,7,2,16
+2003,1334,St. Edward's,5,12,2,19
+2003,601,St. John Fisher,4,14,0,18
+2003,603,St. John's (NY),11,6,4,21
+2003,1340,St. Joseph's (L.I.),9,7,1,17
+2003,605,St. Joseph's (ME),6,10,1,17
+2003,607,St. Lawrence,12,6,0,18
+2003,610,St. Mary's (CA),9,9,2,20
+2003,8688,St. Mary's (IN),7,10,2,19
+2003,611,St. Mary's (MD),10,3,0,13
+2003,1346,St. Mary's (TX),13,7,1,21
+2003,614,St. Norbert,15,3,0,18
+2003,615,St. Olaf,10,4,4,18
+2003,620,St. Thomas (MN),13,3,4,20
+2003,674,Stanford,21,2,0,23
+2003,676,Stephen F. Austin,7,9,4,20
+2003,678,Stetson,6,11,0,17
+2003,679,Stevens,13,7,1,21
+2003,21852,Stevenson,8,9,0,17
+2003,681,Stockton,16,4,3,23
+2003,683,Stony Brook,7,11,3,21
+2003,168,SUNY Cortland,10,7,1,18
+2003,247,SUNY Geneseo,14,6,4,24
+2003,475,SUNY New Paltz,8,13,0,21
+2003,526,SUNY Oneonta,19,3,2,24
+2003,9500,SUNY Poly,4,14,0,18
+2003,552,SUNY Potsdam,3,14,0,17
+2003,685,Susquehanna,8,8,3,19
+2003,686,Swarthmore,10,9,0,19
+2003,687,Sweet Briar,1,17,0,18
+2003,688,Syracuse,3,11,3,17
+2003,689,Tampa,8,8,2,18
+2003,712,TCNJ,17,1,2,20
+2003,698,TCU,2,13,5,20
+2003,690,Temple,8,12,0,20
+2003,694,Tennessee,18,6,1,25
+2003,692,Tennessee Tech,12,6,1,19
+2003,199,Tex. A&M-Commerce,14,3,2,19
+2003,703,Texas,15,5,1,21
+2003,697,Texas A&M,20,5,1,26
+2003,1400,Texas Lutheran,10,7,1,18
+2003,670,Texas St.,9,8,2,19
+2003,700,Texas Tech,2,17,0,19
+2003,701,Texas Woman's,5,10,2,17
+2003,23121,Texas-Dallas,16,4,2,22
+2003,707,Thiel,10,10,2,22
+2003,2758,Thomas (ME),0,1,1,2
+2003,1403,Tiffin,12,8,0,20
+2003,709,Toledo,8,8,2,18
+2003,711,Towson,6,12,1,19
+2003,713,Trinity (CT),7,6,2,15
+2003,715,Trinity (TX),21,2,0,23
+2003,716,Troy,4,14,1,19
+2003,499,Truman,16,3,2,21
+2003,717,Tufts,13,4,1,18
+2003,718,Tulane,6,10,3,19
+2003,719,Tulsa,7,8,4,19
+2003,12830,Tusculum,13,7,1,21
+2003,1255,U New England,5,11,1,17
+2003,9,UAB,9,9,1,19
+2003,32,UALR,6,12,0,18
+2003,108,UC Davis,12,7,3,22
+2003,109,UC Irvine,8,10,1,19
+2003,111,UC Riverside,10,8,1,19
+2003,112,UC San Diego,15,2,2,19
+2003,104,UC Santa Barbara,13,5,2,20
+2003,128,UCF,18,5,0,23
+2003,110,UCLA,18,4,0,22
+2003,164,UConn,21,3,1,25
+2003,309,UIndy,7,11,0,18
+2003,391,UMBC,5,11,1,17
+2003,456,UNC Asheville,9,8,1,18
+2003,459,UNCG,8,12,1,21
+2003,460,UNCW,11,8,0,19
+2003,504,UNI,5,13,1,19
+2003,727,Union (NY),14,5,1,20
+2003,465,UNLV,10,8,1,19
+2003,728,Upper Iowa,5,13,0,18
+2003,10411,USC Upstate,5,10,3,18
+2003,695,UT Martin,9,7,3,19
+2003,732,Utah,13,4,3,20
+2003,731,Utah St.,8,9,3,20
+2003,704,UTEP,16,3,0,19
+2003,733,Utica,8,7,0,15
+2003,745,Va. Wesleyan,12,5,3,20
+2003,735,Valparaiso,5,13,1,19
+2003,736,Vanderbilt,5,9,2,16
+2003,737,Vassar,5,11,1,17
+2003,740,VCU,12,7,1,20
+2003,738,Vermont,4,15,0,19
+2003,739,Villanova,14,3,4,21
+2003,746,Virginia,13,7,2,22
+2003,742,Virginia Tech,6,11,1,18
+2003,748,Wagner,4,14,2,20
+2003,749,Wake Forest,13,8,1,22
+2003,750,Wartburg,12,7,0,19
+2003,751,Wash. & Jeff.,7,14,0,21
+2003,752,Wash. & Lee,17,2,3,22
+2003,756,Washington,9,8,3,20
+2003,1029,Washington Adventist,1,16,0,17
+2003,753,Washington Col.,8,11,0,19
+2003,754,Washington St.,11,7,2,20
+2003,755,Washington-St. Louis,10,5,3,18
+2003,1433,Wayne St. (NE),7,13,0,20
+2003,1434,Waynesburg,2,15,1,18
+2003,758,Weber St.,5,12,1,18
+2003,759,Webster,15,3,0,18
+2003,760,Wellesley,10,7,1,18
+2003,762,Wentworth,15,5,0,20
+2003,763,Wesley,6,12,0,18
+2003,764,Wesleyan (CT),2,11,1,14
+2003,11740,West Florida,15,4,1,20
+2003,767,West Tex. A&M,16,3,1,20
+2003,9630,West Va. Wesleyan,12,7,1,20
+2003,768,West Virginia,18,3,1,22
+2003,769,Western Caro.,10,6,3,19
+2003,770,Western Conn. St.,17,4,0,21
+2003,771,Western Ill.,1,14,1,16
+2003,772,Western Ky.,10,9,0,19
+2003,774,Western Mich.,7,10,1,18
+2003,775,Western New Eng.,16,6,1,23
+2003,1446,Western Ore.,11,6,1,18
+2003,1448,Western Wash.,10,8,1,19
+2003,777,Westfield St.,5,9,1,15
+2003,1450,Westminster (MO),6,13,1,20
+2003,1451,Westminster (PA),16,6,2,24
+2003,778,Wheaton (IL),18,2,4,24
+2003,779,Wheaton (MA),22,1,1,24
+2003,12799,Wheeling Jesuit,16,5,1,22
+2003,780,Whitman,9,9,0,18
+2003,1454,Whitworth,6,11,1,18
+2003,783,Widener,14,5,1,20
+2003,784,Wilkes,9,11,1,21
+2003,785,Willamette,16,2,1,19
+2003,786,William & Mary,13,7,1,21
+2003,17094,William Peace,3,9,3,15
+2003,789,Williams,11,4,2,17
+2003,1462,Wingate,14,4,2,20
+2003,790,Winona St.,12,5,4,21
+2003,793,Wis.-Eau Claire,16,4,2,22
+2003,795,Wis.-La Crosse,6,12,0,18
+2003,798,Wis.-Oshkosh,10,9,2,21
+2003,799,Wis.-Parkside,10,2,3,15
+2003,800,Wis.-Platteville,2,16,0,18
+2003,801,Wis.-River Falls,13,5,2,20
+2003,802,Wis.-Stevens Point,18,1,2,21
+2003,803,Wis.-Stout,7,5,5,17
+2003,804,Wis.-Superior,1,19,0,20
+2003,805,Wis.-Whitewater,10,8,2,20
+2003,796,Wisconsin,13,9,3,25
+2003,806,Wittenberg,6,12,0,18
+2003,787,Wm. Paterson,13,7,1,21
+2003,2915,Wofford,6,12,3,21
+2003,807,Wooster,13,2,5,20
+2003,808,WPI,7,12,1,20
+2003,810,Wright St.,6,10,4,20
+2003,811,Wyoming,4,13,2,19
+2003,812,Xavier,10,9,0,19
+2003,813,Yale,12,5,2,19
+2003,815,York (PA),11,7,0,18
+2003,817,Youngstown St.,1,19,0,20
