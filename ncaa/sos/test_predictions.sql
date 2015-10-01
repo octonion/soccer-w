@@ -60,11 +60,11 @@ TRUE
 
 -- each game once
 
-and r.school_id > r.opponent_id
+and r.school_id < r.opponent_id
 
 -- test November and December
 
-and extract(month from r.game_date) in (11,12)
+--and extract(month from r.game_date) in (11,12)
 
 -- D1
 
@@ -134,11 +134,11 @@ TRUE
 
 -- each game once
 
-and r.school_id > r.opponent_id
+and r.school_id < r.opponent_id
 
 -- test November and December
 
-and extract(month from r.game_date) in (11,12)
+--and extract(month from r.game_date) in (11,12)
 
 -- D1
 

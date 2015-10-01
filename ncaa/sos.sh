@@ -32,7 +32,8 @@ psql soccer-w -f sos/test_predictions.sql > sos/test_predictions.txt
 psql soccer-w -f sos/predict_daily.sql > sos/predict_daily.txt
 cp /tmp/predict_daily.csv sos/predict_daily.csv
 
-psql soccer-w -f sos/predict_spread.sql > sos/predict_spread.txt
-
 psql soccer-w -f sos/predict_weekly.sql > sos/predict_weekly.txt
 cp /tmp/predict_weekly.csv sos/predict_weekly.csv
+
+psql soccer-w -f sos/predict.sql > sos/predict.txt
+cp /tmp/predict.csv sos/predict.csv
