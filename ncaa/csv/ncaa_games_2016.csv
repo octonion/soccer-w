@@ -42,7 +42,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Academy of Art,30123,Cal St. East Bay,98,09/15/2015,0,3,Away,"",-,121
 2016,Academy of Art,30123,Hawaii Pacific,2696,09/26/2015,1,0,Away,"",-,217
 2016,Academy of Art,30123,BYU-Hawaii,2685,09/28/2015,1,0,Away,"",2 OT,79
-2016,Academy of Art,30123,Chaminade,133,10/01/2015,0,0,Away,"",-,0
+2016,Academy of Art,30123,Chaminade,133,10/01/2015,2,0,Away,"",-,75
 2016,Academy of Art,30123,Hawaii Hilo,2697,10/03/2015,0,0,Away,"",-,0
 2016,Academy of Art,30123,Holy Names,30175,10/11/2015,0,0,Home,"",-,0
 2016,Academy of Art,30123,Fresno Pacific,30147,10/14/2015,0,0,Home,"",-,0
@@ -61,7 +61,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Adams St.,929,Colorado St.-Pueblo,2720,09/20/2015,0,2,Away,"",-,94
 2016,Adams St.,929,Westminster (UT),30209,09/25/2015,2,1,Home,"",-,83
 2016,Adams St.,929,Colorado Mesa,11416,09/27/2015,1,0,Home,"",1 OT,52
-2016,Adams St.,929,UC-Colo. Springs,9754,10/02/2015,0,0,Home,"",-,0
+2016,Adams St.,929,UC-Colo. Springs,9754,10/02/2015,0,1,Home,"",-,63
 2016,Adams St.,929,Western St.,2759,10/04/2015,0,0,Home,"",-,0
 2016,Adams St.,929,Fort Lewis,1083,10/07/2015,0,0,Away,"",-,0
 2016,Adams St.,929,Colo. Christian,11403,10/09/2015,0,0,Away,"",-,0
@@ -99,7 +99,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Adrian,4,Calvin,114,09/19/2015,0,1,Home,"",1 OT,65
 2016,Adrian,4,Kalamazoo,326,09/23/2015,0,0,Home,"",2 OT,78
 2016,Adrian,4,Trine,30037,09/26/2015,0,0,Home,"",2 OT,50
-2016,Adrian,4,St. Mary's (IN),8688,09/29/2015,0,0,Home,"",-,0
+2016,Adrian,4,St. Mary's (IN),8688,09/29/2015,0,0,Home,"",2 OT,99
 2016,Adrian,4,Albion,15,10/03/2015,0,0,Away,"",-,0
 2016,Adrian,4,Olivet,525,10/07/2015,0,0,Home,"",-,0
 2016,Adrian,4,Hope,286,10/10/2015,0,0,Home,"",-,0
@@ -194,7 +194,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Alabama,8,Jacksonville St.,315,09/20/2015,2,0,Home,"",-,406
 2016,Alabama,8,Ole Miss,433,09/25/2015,2,3,Away,"",-,917
 2016,Alabama,8,South Carolina,648,09/27/2015,0,3,Away,"",-,"2,279"
-2016,Alabama,8,Auburn,37,10/01/2015,0,0,Home,"",-,0
+2016,Alabama,8,Auburn,37,10/01/2015,1,2,Home,"",2 OT,740
 2016,Alabama,8,Texas A&M,697,10/09/2015,0,0,Away,"",-,0
 2016,Alabama,8,Tennessee,694,10/11/2015,0,0,Home,"",-,0
 2016,Alabama,8,Georgia,257,10/16/2015,0,0,Away,"",-,0
@@ -245,7 +245,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Albany (NY),14,Seton Hall,635,09/20/2015,0,1,Away,"",2 OT,342
 2016,Albany (NY),14,Rhode Island,572,09/24/2015,1,0,Away,"",-,120
 2016,Albany (NY),14,UMBC,391,09/27/2015,1,1,Away,"",2 OT,301
-2016,Albany (NY),14,Binghamton,62,10/01/2015,0,0,Home,"",-,0
+2016,Albany (NY),14,Binghamton,62,10/01/2015,2,1,Home,"",-,244
 2016,Albany (NY),14,New Hampshire,469,10/04/2015,0,0,Away,"",-,0
 2016,Albany (NY),14,Stony Brook,683,10/08/2015,0,0,Away,"",-,0
 2016,Albany (NY),14,Hartford,272,10/15/2015,0,0,Home,"",-,0
@@ -417,7 +417,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Alvernia,938,DeSales,20,09/19/2015,2,4,Home,"",-,127
 2016,Alvernia,938,Ursinus,730,09/23/2015,0,5,Home,"",-,0
 2016,Alvernia,938,Rowan,259,09/28/2015,0,4,Away,"",-,105
-2016,Alvernia,938,Gwynedd Mercy,12399,10/01/2015,0,0,Away,"",-,0
+2016,Alvernia,938,Gwynedd Mercy,12399,10/01/2015,1,1,Away,"",2 OT,100
 2016,Alvernia,938,Arcadia,966,10/07/2015,0,0,Home,"",-,0
 2016,Alvernia,938,Lebanon Valley,351,10/10/2015,0,0,Away,"",-,0
 2016,Alvernia,938,Albright,16,10/13/2015,0,0,Home,"",-,0
@@ -433,7 +433,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Alverno,28746,Lakeland,1164,09/19/2015,0,5,Away,"",-,100
 2016,Alverno,28746,Wis. Lutheran,8911,09/26/2015,0,2,Home,"",-,54
 2016,Alverno,28746,Knox,337,09/27/2015,0,9,Away,"",-,75
-2016,Alverno,28746,Edgewood,1066,09/30/2015,0,0,Away,"",-,0
+2016,Alverno,28746,Edgewood,1066,09/30/2015,0,10,Away,"",-,104
 2016,Alverno,28746,MSOE,20220,10/03/2015,0,0,Home,"",-,0
 2016,Alverno,28746,Dominican (IL),1332,10/07/2015,0,0,Away,"",-,0
 2016,Alverno,28746,Marian (WI),1196,10/10/2015,0,0,Away,"",-,0
@@ -640,6 +640,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Ark.-Pine Bluff,2678,Little Rock,32,09/08/2015,0,8,Away,"",-,364
 2016,Ark.-Pine Bluff,2678,Mississippi Val.,432,09/20/2015,2,8,Away,"",-,0
 2016,Ark.-Pine Bluff,2678,Prairie View,553,09/25/2015,0,2,Away,"",-,89
+2016,Ark.-Pine Bluff,2678,Texas Southern,699,09/30/2015,1,0,Away,"",-,45
 2016,Ark.-Pine Bluff,2678,Alabama A&M,6,10/02/2015,0,0,Home,"",-,0
 2016,Ark.-Pine Bluff,2678,Alabama St.,7,10/04/2015,0,0,Home,"",-,0
 2016,Ark.-Pine Bluff,2678,Alcorn,17,10/09/2015,0,0,Away,"",-,0
@@ -763,7 +764,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Auburn,37,Tennessee,694,09/20/2015,3,1,Away,"",-,"1,944"
 2016,Auburn,37,LSU,365,09/25/2015,3,2,Home,"",2 OT,925
 2016,Auburn,37,Florida,235,09/27/2015,3,2,Home,"",-,575
-2016,Auburn,37,Alabama,8,10/01/2015,0,0,Away,"",-,0
+2016,Auburn,37,Alabama,8,10/01/2015,2,1,Away,"",2 OT,740
 2016,Auburn,37,South Carolina,648,10/08/2015,0,0,Away,"",-,0
 2016,Auburn,37,Texas A&M,697,10/11/2015,0,0,Home,"",-,0
 2016,Auburn,37,Ole Miss,433,10/16/2015,0,0,Away,"",-,0
@@ -900,7 +901,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Azusa Pacific,30146,UC San Diego,112,09/10/2015,1,0,Home,"",-,189
 2016,Azusa Pacific,30146,Cal St. L.A.,100,09/12/2015,1,0,Away,"",-,120
 2016,Azusa Pacific,30146,Dixie St.,30095,09/24/2015,4,1,Away,"",-,263
-2016,Azusa Pacific,30146,Point Loma,30149,10/01/2015,0,0,Away,"",-,0
+2016,Azusa Pacific,30146,Point Loma,30149,10/01/2015,0,1,Away,"",1 OT,747
 2016,Azusa Pacific,30146,Concordia (CA),30199,10/03/2015,0,0,Home,"",-,0
 2016,Azusa Pacific,30146,Chaminade,133,10/08/2015,0,0,Home,"",-,0
 2016,Azusa Pacific,30146,Hawaii Pacific,2696,10/10/2015,0,0,Home,"",-,0
@@ -1148,7 +1149,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Beloit,53,St. Norbert,614,09/19/2015,1,6,Away,"",-,275
 2016,Beloit,53,Ripon,577,09/20/2015,2,4,Away,"",-,101
 2016,Beloit,53,Monmouth (IL),438,09/26/2015,3,2,Away,"",-,100
-2016,Beloit,53,North Park,496,09/30/2015,0,0,Away,"",-,0
+2016,Beloit,53,North Park,496,09/30/2015,0,1,Away,"",-,98
 2016,Beloit,53,Lawrence,348,10/10/2015,0,0,Home,"",-,0
 2016,Beloit,53,Lake Forest,344,10/14/2015,0,0,Away,"",-,0
 2016,Beloit,53,Illinois Col.,297,10/17/2015,0,0,Home,"",-,0
@@ -1199,7 +1200,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Bentley,56,Pace,533,09/19/2015,0,1,Home,"",-,145
 2016,Bentley,56,St. Anselm,593,09/22/2015,0,2,Away,"",-,82
 2016,Bentley,56,New Haven,470,09/26/2015,3,3,Home,"",2 OT,145
-2016,Bentley,56,Southern N.H.,468,09/30/2015,0,0,Home,"",-,0
+2016,Bentley,56,Southern N.H.,468,10/01/2015,0,1,Home,"",2 OT,56
 2016,Bentley,56,Adelphi,3,10/03/2015,0,0,Away,"",-,0
 2016,Bentley,56,Stonehill,682,10/06/2015,0,0,Away,"",-,0
 2016,Bentley,56,Franklin Pierce,241,10/10/2015,0,0,Away,"",-,0
@@ -1271,7 +1272,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Bethel (MN),60,St. Thomas (MN),620,09/19/2015,0,2,Home,"",-,202
 2016,Bethel (MN),60,Wis.-La Crosse,795,09/23/2015,2,3,Home,"",2 OT,50
 2016,Bethel (MN),60,Saint Mary's (MN),612,09/26/2015,0,2,Away,"",-,122
-2016,Bethel (MN),60,Carleton,118,09/30/2015,0,0,Home,"",-,0
+2016,Bethel (MN),60,Carleton,118,09/30/2015,0,2,Home,"",-,73
 2016,Bethel (MN),60,Augsburg,38,10/03/2015,0,0,Away,"",-,0
 2016,Bethel (MN),60,Northwestern-St.Paul,30031,10/06/2015,0,0,Away,"",-,0
 2016,Bethel (MN),60,Saint Benedict,595,10/10/2015,0,0,Home,"",-,0
@@ -1291,7 +1292,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Binghamton,62,Fairleigh Dickinson,222,09/18/2015,0,1,Away,"",-,211
 2016,Binghamton,62,Cornell,167,09/20/2015,0,1,Away,"",-,183
 2016,Binghamton,62,New Hampshire,469,09/27/2015,0,6,Away,"",-,169
-2016,Binghamton,62,Albany (NY),14,10/01/2015,0,0,Away,"",-,0
+2016,Binghamton,62,Albany (NY),14,10/01/2015,1,2,Away,"",-,244
 2016,Binghamton,62,Hartford,272,10/04/2015,0,0,Home,"",-,0
 2016,Binghamton,62,UMass Lowell,368,10/11/2015,0,0,Away,"",-,0
 2016,Binghamton,62,Stony Brook,683,10/15/2015,0,0,Home,"",-,0
@@ -1447,7 +1448,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Bowdoin,69,Williams,789,09/20/2015,1,2,Home,"",1 OT,207
 2016,Bowdoin,69,Middlebury,420,09/26/2015,1,0,Home,"",-,114
 2016,Bowdoin,69,U New England,1255,09/29/2015,3,0,Away,"",-,87
-2016,Bowdoin,69,MIT,398,10/01/2015,0,0,Home,"",-,0
+2016,Bowdoin,69,MIT,398,10/01/2015,1,1,Home,"",1 OT,40
 2016,Bowdoin,69,Bates,50,10/07/2015,0,0,Away,"",-,0
 2016,Bowdoin,69,Trinity (CT),713,10/10/2015,0,0,Away,"",-,0
 2016,Bowdoin,69,Babson,45,10/11/2015,0,0,Away,"",-,0
@@ -1538,7 +1539,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Bridgewater (VA),75,Wash. & Lee,752,09/23/2015,1,3,Home,"",-,155
 2016,Bridgewater (VA),75,Hollins,284,09/26/2015,15,0,Away,"",-,71
 2016,Bridgewater (VA),75,Emory & Henry,216,09/29/2015,0,0,Away,"",2 OT,82
-2016,Bridgewater (VA),75,Salisbury,622,10/04/2015,0,0,Home,"",-,0
 2016,Bridgewater (VA),75,East. Mennonite,203,10/06/2015,0,0,Away,"",-,0
 2016,Bridgewater (VA),75,Lynchburg,374,10/10/2015,0,0,Away,"",-,0
 2016,Bridgewater (VA),75,Roanoke,578,10/17/2015,0,0,Home,"",-,0
@@ -1587,7 +1587,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Brooklyn,79,CCNY,480,09/23/2015,6,0,Home,"",-,58
 2016,Brooklyn,79,Emory,217,09/25/2015,0,9,Away,"",-,122
 2016,Brooklyn,79,Berry,973,09/27/2015,1,5,Away,"",-,300
-2016,Brooklyn,79,Old Westbury,524,10/01/2015,0,0,Away,"",-,0
 2016,Brooklyn,79,York (NY),2730,10/03/2015,0,0,Away,"",-,0
 2016,Brooklyn,79,NYU,479,10/05/2015,0,0,Home,"",-,0
 2016,Brooklyn,79,FDU-Florham,221,10/08/2015,0,0,Away,"",-,0
@@ -1623,7 +1622,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Bryant,81,UMass Lowell,368,09/17/2015,0,2,Home,"",-,73
 2016,Bryant,81,Holy Cross,285,09/22/2015,0,1,Away,"",2 OT,179
 2016,Bryant,81,Brown,80,09/30/2015,0,0,Away,"",2 OT,278
-2016,Bryant,81,Sacred Heart,590,10/02/2015,0,0,Home,"",-,0
+2016,Bryant,81,Sacred Heart,590,10/02/2015,1,0,Home,"",-,0
 2016,Bryant,81,Wagner,748,10/04/2015,0,0,Home,"",-,0
 2016,Bryant,81,Saint Francis (PA),600,10/09/2015,0,0,Away,"",-,0
 2016,Bryant,81,Robert Morris,579,10/11/2015,0,0,Away,"",-,0
@@ -1732,7 +1731,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Butler,87,Bowling Green,71,09/17/2015,2,0,Away,"",-,230
 2016,Butler,87,Kentucky,334,09/20/2015,1,4,Away,"",-,"1,301"
 2016,Butler,87,Villanova,739,09/27/2015,3,0,Home,"",-,345
-2016,Butler,87,St. John's (NY),603,10/01/2015,0,0,Home,"",-,0
+2016,Butler,87,St. John's (NY),603,10/01/2015,0,1,Home,"",-,403
 2016,Butler,87,Providence,556,10/04/2015,0,0,Away,"",-,0
 2016,Butler,87,DePaul,176,10/08/2015,0,0,Away,"",-,0
 2016,Butler,87,Georgetown,251,10/11/2015,0,0,Home,"",-,0
@@ -1750,7 +1749,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,BYU,77,Oregon St.,528,09/17/2015,1,0,Home,"",-,"3,449"
 2016,BYU,77,Cal Poly,90,09/24/2015,1,1,Away,"",2 OT,871
 2016,BYU,77,Long Beach St.,99,09/26/2015,2,1,Away,"",-,"1,489"
-2016,BYU,77,Gonzaga,260,10/01/2015,0,0,Away,"",-,0
+2016,BYU,77,Gonzaga,260,10/01/2015,1,0,Away,"",-,509
 2016,BYU,77,Portland,551,10/03/2015,0,0,Away,"",-,0
 2016,BYU,77,San Diego,627,10/09/2015,0,0,Home,"",-,0
 2016,BYU,77,Pacific,534,10/17/2015,0,0,Home,"",-,0
@@ -1764,7 +1763,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,BYU-Hawaii,2685,Hawaii Hilo,2697,09/19/2015,1,1,Home,"",2 OT,93
 2016,BYU-Hawaii,2685,Hawaii,277,09/24/2015,0,2,Away,"",-,376
 2016,BYU-Hawaii,2685,Academy of Art,30123,09/28/2015,0,1,Home,"",2 OT,79
-2016,BYU-Hawaii,2685,Notre Dame de Namur,30056,10/01/2015,0,0,Home,"",-,0
+2016,BYU-Hawaii,2685,Notre Dame de Namur,30056,10/01/2015,2,0,Home,"",-,99
 2016,BYU-Hawaii,2685,Fresno Pacific,30147,10/03/2015,0,0,Home,"",-,0
 2016,BYU-Hawaii,2685,Cal St. Dom. Hills,92,10/06/2015,0,0,Away,"",-,0
 2016,BYU-Hawaii,2685,Dixie St.,30095,10/08/2015,0,0,Away,"",-,0
@@ -1804,7 +1803,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Cairn,1305,Centenary (NJ),12884,09/23/2015,1,0,Home,"",-,85
 2016,Cairn,1305,Neumann,1254,09/25/2015,6,0,Away,"",-,56
 2016,Cairn,1305,Rosemont,15882,09/30/2015,2,3,Away,"",-,80
-2016,Cairn,1305,Lehman,279,10/03/2015,0,0,Home,"",-,0
 2016,Cairn,1305,Marywood,397,10/07/2015,0,0,Away,"",-,0
 2016,Cairn,1305,Gwynedd Mercy,12399,10/10/2015,0,0,Home,"",-,0
 2016,Cairn,1305,Summit,958,10/13/2015,0,0,Away,"",-,0
@@ -1841,7 +1839,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Cal Poly,90,California,107,09/20/2015,0,0,Home,"",2 OT,758
 2016,Cal Poly,90,BYU,77,09/24/2015,1,1,Home,"",2 OT,871
 2016,Cal Poly,90,Pepperdine,541,09/27/2015,1,1,Away,"",2 OT,554
-2016,Cal Poly,90,UC Davis,108,10/01/2015,0,0,Away,"",-,0
+2016,Cal Poly,90,UC Davis,108,10/01/2015,0,1,Away,"",2 OT,612
 2016,Cal Poly,90,Hawaii,277,10/04/2015,0,0,Away,"",-,0
 2016,Cal Poly,90,Long Beach St.,99,10/08/2015,0,0,Home,"",-,0
 2016,Cal Poly,90,CSUN,101,10/11/2015,0,0,Away,"",-,0
@@ -1946,7 +1944,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Cal St. Monterey Bay,30055,Cal St. Stanislaus,103,09/20/2015,0,1,Away,"",-,511
 2016,Cal St. Monterey Bay,30055,Fresno Pacific,30147,09/23/2015,2,0,Home,"",-,130
 2016,Cal St. Monterey Bay,30055,San Fran. St.,628,09/27/2015,1,2,Home,"",-,154
-2016,Cal St. Monterey Bay,30055,Humboldt St.,291,10/02/2015,0,0,Home,"",-,0
+2016,Cal St. Monterey Bay,30055,Humboldt St.,291,10/02/2015,0,1,Home,"",-,115
 2016,Cal St. Monterey Bay,30055,Sonoma St.,645,10/04/2015,0,0,Home,"",-,0
 2016,Cal St. Monterey Bay,30055,UC San Diego,112,10/09/2015,0,0,Away,"",-,0
 2016,Cal St. Monterey Bay,30055,Cal St. San Marcos,30198,10/11/2015,0,0,Away,"",-,0
@@ -2055,7 +2053,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,California Baptist,30135,Chico St.,95,09/17/2015,0,4,Away,"",-,193
 2016,California Baptist,30135,Holy Names,30175,09/24/2015,2,1,Away,"",-,58
 2016,California Baptist,30135,Dominican (CA),30118,09/26/2015,1,3,Away,"",-,116
-2016,California Baptist,30135,Concordia (CA),30199,10/01/2015,0,0,Home,"",-,0
+2016,California Baptist,30135,Concordia (CA),30199,10/01/2015,2,1,Home,"",-,330
 2016,California Baptist,30135,Point Loma,30149,10/03/2015,0,0,Away,"",-,0
 2016,California Baptist,30135,Hawaii Hilo,2697,10/08/2015,0,0,Home,"",-,0
 2016,California Baptist,30135,BYU-Hawaii,2685,10/10/2015,0,0,Home,"",-,0
@@ -2096,7 +2094,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Campbell,115,ETSU,198,09/18/2015,2,1,Home,"",-,0
 2016,Campbell,115,Charleston So.,48,09/23/2015,1,0,Home,"",-,127
 2016,Campbell,115,UNC Asheville,456,09/27/2015,5,1,Home,"",-,179
-2016,Campbell,115,Liberty,355,09/30/2015,0,0,Away,"",-,0
+2016,Campbell,115,Liberty,355,09/30/2015,1,3,Away,"",-,221
 2016,Campbell,115,Radford,563,10/03/2015,0,0,Home,"",-,0
 2016,Campbell,115,Gardner-Webb,1092,10/07/2015,0,0,Home,"",-,0
 2016,Campbell,115,Presbyterian,1320,10/10/2015,0,0,Away,"",-,0
@@ -2148,7 +2146,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Carleton,118,St. Catherine,597,09/15/2015,1,0,Home,"",-,137
 2016,Carleton,118,Augsburg,38,09/19/2015,1,3,Away,"",-,190
 2016,Carleton,118,Saint Benedict,595,09/26/2015,1,3,Home,"",-,327
-2016,Carleton,118,Bethel (MN),60,09/30/2015,0,0,Away,"",-,0
+2016,Carleton,118,Bethel (MN),60,09/30/2015,2,0,Away,"",-,73
 2016,Carleton,118,Gust. Adolphus,266,10/03/2015,0,0,Home,"",-,0
 2016,Carleton,118,Luther,372,10/04/2015,0,0,Away,"",-,0
 2016,Carleton,118,Concordia-M'head,161,10/10/2015,0,0,Home,"",-,0
@@ -2306,7 +2304,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Cazenovia,23624,SUNY Poly,9500,09/19/2015,0,3,Home,"",-,0
 2016,Cazenovia,23624,Cobleskill St.,30083,09/20/2015,5,0,Away,"",-,117
 2016,Cazenovia,23624,Penn St.-Berks,30044,09/26/2015,0,7,Away,"",-,189
-2016,Cazenovia,23624,Keuka,1159,09/30/2015,0,0,Home,"",-,0
+2016,Cazenovia,23624,Keuka,1159,09/30/2015,0,1,Home,"",-,75
 2016,Cazenovia,23624,St. Elizabeth,9684,10/03/2015,0,0,Home,"",-,0
 2016,Cazenovia,23624,Penn College,30190,10/04/2015,0,0,Home,"",-,0
 2016,Cazenovia,23624,Lancaster Bible,30085,10/06/2015,0,0,Away,"",-,0
@@ -2325,7 +2323,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,CCNY,480,FDU-Florham,221,09/19/2015,0,6,Home,"",-,76
 2016,CCNY,480,Bay Path,26520,09/21/2015,0,3,Home,"",-,38
 2016,CCNY,480,Brooklyn,79,09/23/2015,0,6,Away,"",-,58
-2016,CCNY,480,York (NY),2730,09/30/2015,0,0,Home,"",-,0
+2016,CCNY,480,York (NY),2730,09/30/2015,0,1,Neutral,"Purchase, NY",-,25
 2016,CCNY,480,Medgar Evers,403,10/03/2015,0,0,Home,"",-,0
 2016,CCNY,480,Staten Island,675,10/10/2015,0,0,Home,"",-,0
 2016,CCNY,480,Stockton,681,10/12/2015,0,0,Away,"",-,0
@@ -2360,7 +2358,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Cedarville,30124,Davis & Elkins,174,09/19/2015,1,2,Home,"",-,211
 2016,Cedarville,30124,Trevecca Nazarene,30002,09/24/2015,1,1,Home,"",2 OT,168
 2016,Cedarville,30124,Ky. Wesleyan,333,09/26/2015,7,0,Home,"",-,339
-2016,Cedarville,30124,Ursuline,30140,10/01/2015,0,0,Away,"",-,0
+2016,Cedarville,30124,Ursuline,30140,10/01/2015,1,1,Away,"",2 OT,36
 2016,Cedarville,30124,Rio Grande,,10/03/2015,0,0,Home,"",-,0
 2016,Cedarville,30124,Salem Int'l,19117,10/06/2015,0,0,Away,"",-,0
 2016,Cedarville,30124,Davis & Elkins,174,10/08/2015,0,0,Away,"",-,0
@@ -2484,7 +2482,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Central Mo.,130,Northwest Mo. St.,507,09/20/2015,6,1,Away,"",-,251
 2016,Central Mo.,130,Emporia St.,1071,09/25/2015,4,0,Home,"",-,75
 2016,Central Mo.,130,Washburn,2814,09/27/2015,1,0,Home,"",-,230
-2016,Central Mo.,130,Neb.-Kearney,1156,10/02/2015,0,0,Away,"",-,0
+2016,Central Mo.,130,Neb.-Kearney,1156,10/02/2015,3,0,Away,"",-,104
 2016,Central Mo.,130,Fort Hays St.,9011,10/04/2015,0,0,Away,"",-,0
 2016,Central Mo.,130,Mo. Southern St.,9012,10/08/2015,0,0,Away,"",-,0
 2016,Central Mo.,130,Southwest Baptist,2755,10/10/2015,0,0,Away,"",-,0
@@ -2519,7 +2517,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Central Wash.,1010,Cal St. Stanislaus,103,09/13/2015,3,4,Home,"",-,112
 2016,Central Wash.,1010,Concordia Portland,30200,09/19/2015,0,2,Away,"",-,335
 2016,Central Wash.,1010,Simon Fraser,30127,09/24/2015,0,1,Away,"",-,114
-2016,Central Wash.,1010,Northwest Nazarene,1274,10/01/2015,0,0,Home,"",-,0
+2016,Central Wash.,1010,Northwest Nazarene,1274,10/01/2015,6,2,Home,"",-,476
 2016,Central Wash.,1010,Western Ore.,1446,10/03/2015,0,0,Away,"",-,0
 2016,Central Wash.,1010,Western Wash.,1448,10/08/2015,0,0,Away,"",-,0
 2016,Central Wash.,1010,Saint Martin's,1343,10/10/2015,0,0,Home,"",-,0
@@ -2551,7 +2549,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Chaminade,133,Hawaii Hilo,2697,09/17/2015,0,1,Home,"",1 OT,75
 2016,Chaminade,133,Hawaii Pacific,2696,09/19/2015,0,1,Away,"",-,107
 2016,Chaminade,133,Fresno Pacific,30147,09/26/2015,0,2,Home,"",-,100
-2016,Chaminade,133,Academy of Art,30123,10/01/2015,0,0,Home,"",-,0
+2016,Chaminade,133,Academy of Art,30123,10/01/2015,0,2,Home,"",-,75
 2016,Chaminade,133,Notre Dame de Namur,30056,10/03/2015,0,0,Home,"",-,0
 2016,Chaminade,133,Azusa Pacific,30146,10/08/2015,0,0,Away,"",-,0
 2016,Chaminade,133,Concordia (CA),30199,10/10/2015,0,0,Away,"",-,0
@@ -2571,7 +2569,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Chapman,134,Occidental,516,09/19/2015,1,4,Away,"",-,104
 2016,Chapman,134,Whittier,781,09/23/2015,1,0,Home,"",-,146
 2016,Chapman,134,La Verne,341,09/26/2015,0,2,Home,"",-,137
-2016,Chapman,134,Redlands,567,09/30/2015,0,0,Home,"",-,0
+2016,Chapman,134,Redlands,567,09/30/2015,0,1,Home,"",-,203
 2016,Chapman,134,Claremont-M-S,142,10/03/2015,0,0,Away,"",-,0
 2016,Chapman,134,Pomona-Pitzer,549,10/07/2015,0,0,Away,"",-,0
 2016,Chapman,134,Cal Lutheran,105,10/10/2015,0,0,Home,"",-,0
@@ -2608,7 +2606,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Charleston So.,48,Col. of Charleston,1014,09/18/2015,0,1,Home,"",-,186
 2016,Charleston So.,48,Campbell,115,09/23/2015,0,1,Away,"",-,127
 2016,Charleston So.,48,Liberty,355,09/26/2015,0,2,Away,"",-,315
-2016,Charleston So.,48,Radford,563,09/30/2015,0,0,Home,"",-,0
+2016,Charleston So.,48,Radford,563,10/01/2015,2,0,Home,"",-,53
 2016,Charleston So.,48,Presbyterian,1320,10/03/2015,0,0,Home,"",-,0
 2016,Charleston So.,48,UNC Asheville,456,10/07/2015,0,0,Away,"",-,0
 2016,Charleston So.,48,Francis Marion,1085,10/10/2015,0,0,Home,"",-,0
@@ -2748,7 +2746,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Chowan,8875,Columbia (SC),,09/22/2015,0,5,Away,"",-,0
 2016,Chowan,8875,Converse,8935,09/26/2015,0,6,Home,"",-,25
 2016,Chowan,8875,Lincoln (PA),357,09/30/2015,0,1,Away,"",-,50
-2016,Chowan,8875,Goldey-Beacom,8366,10/01/2015,0,0,Away,"",-,0
+2016,Chowan,8875,Goldey-Beacom,8366,10/01/2015,0,6,Away,"",-,45
 2016,Chowan,8875,Laurel,,10/03/2015,0,0,Home,"",-,0
 2016,Chowan,8875,Barton,15646,10/06/2015,0,0,Home,"",-,0
 2016,Chowan,8875,William Peace,17094,10/09/2015,0,0,Away,"",-,0
@@ -2804,7 +2802,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Cincinnati,140,Xavier,812,09/20/2015,0,0,Away,"",2 OT,968
 2016,Cincinnati,140,SMU,663,09/24/2015,2,2,Away,"",2 OT,153
 2016,Cincinnati,140,Houston,288,09/27/2015,1,0,Away,"",-,145
-2016,Cincinnati,140,South Fla.,651,10/01/2015,0,0,Home,"",-,0
+2016,Cincinnati,140,South Fla.,651,10/02/2015,0,0,Home,"",-,0
 2016,Cincinnati,140,UCF,128,10/04/2015,0,0,Home,"",-,0
 2016,Cincinnati,140,Temple,690,10/08/2015,0,0,Away,"",-,0
 2016,Cincinnati,140,UConn,164,10/11/2015,0,0,Away,"",-,0
@@ -2861,7 +2859,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Clarion,143,Seton Hill,30063,09/23/2015,3,4,Away,"",-,100
 2016,Clarion,143,East Stroudsburg,197,09/26/2015,0,2,Home,"",-,79
 2016,Clarion,143,Ashland,35,09/29/2015,0,1,Home,"",-,45
-2016,Clarion,143,Lock Haven,360,10/02/2015,0,0,Away,"",-,0
+2016,Clarion,143,Lock Haven,360,10/02/2015,3,0,Away,"",-,84
 2016,Clarion,143,Mansfield,384,10/03/2015,0,0,Away,"",-,0
 2016,Clarion,143,Gannon,246,10/07/2015,0,0,Home,"",-,0
 2016,Clarion,143,Kutztown,339,10/10/2015,0,0,Home,"",-,0
@@ -3117,7 +3115,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Colo. Christian,11403,Colorado Mesa,11416,09/20/2015,1,2,Away,"",-,189
 2016,Colo. Christian,11403,Metro St.,413,09/25/2015,0,3,Away,"",-,113
 2016,Colo. Christian,11403,Regis (CO),568,09/27/2015,0,3,Away,"",-,122
-2016,Colo. Christian,11403,N.M. Highlands,8577,10/02/2015,0,0,Home,"",-,0
+2016,Colo. Christian,11403,N.M. Highlands,8577,10/02/2015,0,1,Home,"",-,87
 2016,Colo. Christian,11403,Colorado St.-Pueblo,2720,10/04/2015,0,0,Home,"",-,0
 2016,Colo. Christian,11403,Colorado Mines,155,10/07/2015,0,0,Home,"",-,0
 2016,Colo. Christian,11403,Adams St.,929,10/09/2015,0,0,Home,"",-,0
@@ -3492,7 +3490,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Creighton,169,Colorado St.,156,09/20/2015,2,0,Home,"",-,380
 2016,Creighton,169,Drake,189,09/22/2015,3,2,Away,"",-,101
 2016,Creighton,169,Marquette,387,09/27/2015,1,5,Away,"",-,393
-2016,Creighton,169,DePaul,176,10/01/2015,0,0,Home,"",-,0
+2016,Creighton,169,DePaul,176,10/01/2015,0,4,Home,"",-,233
 2016,Creighton,169,Villanova,739,10/04/2015,0,0,Home,"",-,0
 2016,Creighton,169,Seton Hall,635,10/08/2015,0,0,Away,"",-,0
 2016,Creighton,169,St. John's (NY),603,10/11/2015,0,0,Away,"",-,0
@@ -3638,7 +3636,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Dallas Baptist,1045,Texas Woman's,701,09/19/2015,0,1,Home,"",-,423
 2016,Dallas Baptist,1045,St. Edward's,1334,09/24/2015,2,0,Home,"",-,331
 2016,Dallas Baptist,1045,West Tex. A&M,767,09/26/2015,4,0,Home,"",-,384
-2016,Dallas Baptist,1045,Rogers St.,30180,10/01/2015,0,0,Away,"",-,0
+2016,Dallas Baptist,1045,Rogers St.,30180,10/01/2015,6,2,Away,"",-,189
 2016,Dallas Baptist,1045,Okla. Christian,30179,10/03/2015,0,0,Away,"",-,0
 2016,Dallas Baptist,1045,Tex. A&M-Commerce,199,10/06/2015,0,0,Away,"",-,0
 2016,Dallas Baptist,1045,Newman,30054,10/08/2015,0,0,Away,"",-,0
@@ -3689,7 +3687,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Davidson,173,Wofford,2915,09/18/2015,2,1,Away,"",2 OT,350
 2016,Davidson,173,Georgia St.,254,09/20/2015,3,1,Away,"",-,200
 2016,Davidson,173,Francis Marion,1085,09/26/2015,7,0,Home,"",-,146
-2016,Davidson,173,VCU,740,10/01/2015,0,0,Home,"",-,0
+2016,Davidson,173,VCU,740,10/01/2015,2,4,Home,"",-,227
 2016,Davidson,173,La Salle,340,10/04/2015,0,0,Away,"",-,0
 2016,Davidson,173,Dayton,175,10/08/2015,0,0,Away,"",-,0
 2016,Davidson,173,Duquesne,194,10/11/2015,0,0,Home,"",-,0
@@ -3725,7 +3723,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Dayton,175,Texas A&M,697,09/13/2015,1,3,Home,"",-,763
 2016,Dayton,175,Cal Poly,90,09/18/2015,1,4,Away,"",-,"2,646"
 2016,Dayton,175,UC Santa Barbara,104,09/20/2015,2,1,Away,"",-,147
-2016,Dayton,175,Saint Louis,609,10/01/2015,0,0,Away,"",-,0
+2016,Dayton,175,Saint Louis,609,10/01/2015,1,0,Away,"",-,"2,247"
 2016,Dayton,175,George Mason,248,10/04/2015,0,0,Home,"",-,0
 2016,Dayton,175,Davidson,173,10/08/2015,0,0,Home,"",-,0
 2016,Dayton,175,VCU,740,10/11/2015,0,0,Away,"",-,0
@@ -3871,7 +3869,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,DePaul,176,Loyola Chicago,371,09/17/2015,0,0,Away,"",2 OT,197
 2016,DePaul,176,Long Beach St.,99,09/20/2015,0,1,Home,"",-,345
 2016,DePaul,176,Xavier,812,09/26/2015,4,0,Away,"",-,362
-2016,DePaul,176,Creighton,169,10/01/2015,0,0,Away,"",-,0
+2016,DePaul,176,Creighton,169,10/01/2015,4,0,Away,"",-,233
 2016,DePaul,176,Seton Hall,635,10/04/2015,0,0,Home,"",-,0
 2016,DePaul,176,Butler,87,10/08/2015,0,0,Home,"",-,0
 2016,DePaul,176,Villanova,739,10/11/2015,0,0,Away,"",-,0
@@ -4024,7 +4022,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Dowling,2692,St. Thomas Aquinas,1348,09/19/2015,5,0,Home,"",-,60
 2016,Dowling,2692,Adelphi,3,09/23/2015,0,6,Away,"",-,210
 2016,Dowling,2692,NYIT,477,09/26/2015,3,0,Home,"",-,86
-2016,Dowling,2692,Holy Family,1126,10/01/2015,0,0,Home,"",-,0
+2016,Dowling,2692,Holy Family,1126,10/01/2015,1,0,Home,"",-,68
 2016,Dowling,2692,LIU Post,362,10/07/2015,0,0,Home,"",-,0
 2016,Dowling,2692,Bridgeport,74,10/10/2015,0,0,Away,"",-,0
 2016,Dowling,2692,Molloy,437,10/14/2015,0,0,Away,"",-,0
@@ -4060,8 +4058,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Drew,190,Delaware Valley,179,09/19/2015,2,1,Away,"",-,59
 2016,Drew,190,Mt. St. Mary (NY),1468,09/23/2015,0,0,Away,"",2 OT,142
 2016,Drew,190,Juniata,325,09/26/2015,0,1,Home,"",-,162
-2016,Drew,190,Stevens,679,09/29/2015,0,4,Away,"",-,97
-2016,Drew,190,Stevens,679,09/30/2015,0,0,Away,"",-,0
+2016,Drew,190,Stevens,679,09/30/2015,0,4,Away,"",-,97
 2016,Drew,190,Susquehanna,685,10/03/2015,0,0,Away,"",-,0
 2016,Drew,190,Wm. Paterson,787,10/06/2015,0,0,Away,"",-,0
 2016,Drew,190,Catholic,124,10/10/2015,0,0,Away,"",-,0
@@ -4152,7 +4149,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Duquesne,194,Cincinnati,140,09/13/2015,2,3,Home,"",-,310
 2016,Duquesne,194,Oakland,514,09/20/2015,0,3,Away,"",-,246
 2016,Duquesne,194,Bucknell,83,09/22/2015,2,0,Home,"",-,288
-2016,Duquesne,194,Richmond,575,10/01/2015,0,0,Away,"",-,0
+2016,Duquesne,194,Richmond,575,10/01/2015,1,2,Away,"",-,145
 2016,Duquesne,194,VCU,740,10/04/2015,0,0,Home,"",-,0
 2016,Duquesne,194,St. Bonaventure,596,10/08/2015,0,0,Home,"",-,0
 2016,Duquesne,194,Davidson,173,10/11/2015,0,0,Away,"",-,0
@@ -4189,7 +4186,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,East Carolina,196,Old Dominion,523,09/20/2015,1,0,Home,"",-,758
 2016,East Carolina,196,Houston,288,09/24/2015,2,0,Away,"",-,140
 2016,East Carolina,196,SMU,663,09/27/2015,1,2,Away,"",-,362
-2016,East Carolina,196,UCF,128,10/01/2015,0,0,Home,"",-,0
+2016,East Carolina,196,UCF,128,10/01/2015,1,0,Home,"",-,411
 2016,East Carolina,196,South Fla.,651,10/04/2015,0,0,Home,"",-,0
 2016,East Carolina,196,UConn,164,10/08/2015,0,0,Away,"",-,0
 2016,East Carolina,196,Temple,690,10/11/2015,0,0,Away,"",-,0
@@ -4204,7 +4201,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,East Central,8965,Lubbock Christian,30177,09/18/2015,2,3,Away,"",-,70
 2016,East Central,8965,Southwestern Okla.,8744,09/24/2015,0,4,Home,"",-,189
 2016,East Central,8965,Northwestern Okla.,30178,09/26/2015,3,0,Home,"",-,155
-2016,East Central,8965,Southern Nazarene,30152,10/01/2015,0,0,Home,"",-,0
+2016,East Central,8965,Southern Nazarene,30152,10/01/2015,3,0,Home,"",-,124
 2016,East Central,8965,Okla. Baptist,30202,10/03/2015,0,0,Away,"",-,0
 2016,East Central,8965,Harding,1116,10/08/2015,0,0,Away,"",-,0
 2016,East Central,8965,Ouachita Baptist,1289,10/10/2015,0,0,Away,"",-,0
@@ -4274,13 +4271,13 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,East. Mennonite,203,Roanoke,578,09/23/2015,0,1,Away,"",-,125
 2016,East. Mennonite,203,Salem,30041,09/26/2015,2,8,Away,"",-,89
 2016,East. Mennonite,203,Va. Wesleyan,745,09/30/2015,0,2,Home,"",-,123
-2016,East. Mennonite,203,Guilford,1112,10/03/2015,0,0,Away,"",-,0
 2016,East. Mennonite,203,Bridgewater (VA),75,10/06/2015,0,0,Home,"",-,0
 2016,East. Mennonite,203,Wash. & Lee,752,10/10/2015,0,0,Home,"",-,0
 2016,East. Mennonite,203,Randolph-Macon,565,10/13/2015,0,0,Away,"",-,0
 2016,East. Mennonite,203,Lynchburg,374,10/16/2015,0,0,Away,"",-,0
 2016,East. Mennonite,203,Shenandoah,637,10/20/2015,0,0,Home,"",-,0
 2016,East. Mennonite,203,Emory & Henry,216,10/24/2015,0,0,Home,"",-,0
+2016,East. Mennonite,203,Guilford,1112,10/27/2015,0,0,Away,"",-,0
 2016,East. Mennonite,203,Hollins,284,10/28/2015,0,0,Away,"",-,0
 2016,East. Mennonite,203,Randolph,566,10/31/2015,0,0,Away,"",-,0
 2016,Eastern,8968,Neumann,1254,09/01/2015,6,0,Away,"",-,154
@@ -4439,7 +4436,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Eckerd,208,Florida Tech,230,09/19/2015,1,2,Away,"",-,197
 2016,Eckerd,208,Fla. Southern,233,09/23/2015,2,1,Away,"",-,105
 2016,Eckerd,208,Embry-Riddle (FL),9680,09/26/2015,0,4,Home,"",-,67
-2016,Eckerd,208,Florida Col.,,10/01/2015,0,0,Home,"",-,0
 2016,Eckerd,208,Rollins,584,10/03/2015,0,0,Away,"",-,0
 2016,Eckerd,208,Barry,49,10/07/2015,0,0,Away,"",-,0
 2016,Eckerd,208,Palm Beach Atl.,30045,10/10/2015,0,0,Home,"",-,0
@@ -4455,7 +4451,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Edgewood,1066,Aurora,42,09/19/2015,1,2,Away,"",-,63
 2016,Edgewood,1066,Benedictine (IL),296,09/26/2015,0,2,Away,"",-,188
 2016,Edgewood,1066,Lawrence,348,09/28/2015,5,0,Home,"",-,118
-2016,Edgewood,1066,Alverno,28746,09/30/2015,0,0,Home,"",-,0
+2016,Edgewood,1066,Alverno,28746,09/30/2015,10,0,Home,"",-,104
 2016,Edgewood,1066,Concordia Chicago,160,10/03/2015,0,0,Away,"",-,0
 2016,Edgewood,1066,Marian (WI),1196,10/07/2015,0,0,Away,"",-,0
 2016,Edgewood,1066,Concordia Wisconsin,1036,10/10/2015,0,0,Home,"",-,0
@@ -4652,8 +4648,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Emory & Henry,216,Sweet Briar,687,09/22/2015,6,0,Away,"",-,82
 2016,Emory & Henry,216,Randolph,566,09/26/2015,0,2,Away,"",-,142
 2016,Emory & Henry,216,Bridgewater (VA),75,09/29/2015,0,0,Home,"",2 OT,82
-2016,Emory & Henry,216,Va. Wesleyan,745,10/03/2015,0,0,Away,"",-,0
 2016,Emory & Henry,216,Guilford,1112,10/06/2015,0,0,Home,"",-,0
+2016,Emory & Henry,216,Va. Wesleyan,745,10/08/2015,0,0,Home,"",-,0
 2016,Emory & Henry,216,Shenandoah,637,10/11/2015,0,0,Home,"",-,0
 2016,Emory & Henry,216,Roanoke,578,10/14/2015,0,0,Away,"",-,0
 2016,Emory & Henry,216,Hollins,284,10/17/2015,0,0,Home,"",-,0
@@ -4760,7 +4756,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Fairfield,220,Holy Cross,285,09/14/2015,2,1,Home,"",-,144
 2016,Fairfield,220,Niagara,482,09/19/2015,1,3,Home,"",-,143
 2016,Fairfield,220,Stony Brook,683,09/23/2015,2,2,Away,"",2 OT,204
-2016,Fairfield,220,Manhattan,381,09/30/2015,0,0,Home,"",-,0
+2016,Fairfield,220,Manhattan,381,09/30/2015,1,1,Home,"",2 OT,81
 2016,Fairfield,220,Canisius,116,10/03/2015,0,0,Away,"",-,0
 2016,Fairfield,220,Iona,310,10/07/2015,0,0,Home,"",-,0
 2016,Fairfield,220,Marist,386,10/10/2015,0,0,Home,"",-,0
@@ -4796,7 +4792,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Fairmont St.,1076,Charleston (WV),1013,09/20/2015,0,3,Away,"",-,100
 2016,Fairmont St.,1076,West Liberty,1438,09/24/2015,0,0,Home,"",2 OT,175
 2016,Fairmont St.,1076,Urbana,30104,09/27/2015,0,1,Home,"",-,82
-2016,Fairmont St.,1076,Notre Dame (OH),30126,09/30/2015,0,0,Away,"",-,0
+2016,Fairmont St.,1076,Notre Dame (OH),30126,09/30/2015,2,3,Away,"",-,102
 2016,Fairmont St.,1076,Alderson Broaddus,934,10/04/2015,0,0,Away,"",-,0
 2016,Fairmont St.,1076,Charleston (WV),1013,10/06/2015,0,0,Home,"",-,0
 2016,Fairmont St.,1076,Shepherd,10870,10/09/2015,0,0,Away,"",-,0
@@ -4874,7 +4870,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Ferris St.,224,Concordia (MI),,09/22/2015,2,1,Home,"",2 OT,200
 2016,Ferris St.,224,Malone,30137,09/25/2015,2,1,Away,"",-,125
 2016,Ferris St.,224,Findlay,1079,09/27/2015,1,1,Away,"",2 OT,64
-2016,Ferris St.,224,Northwood (MI),510,10/02/2015,0,0,Away,"",-,0
+2016,Ferris St.,224,Northwood (MI),510,10/02/2015,1,0,Away,"",-,168
 2016,Ferris St.,224,Saginaw Valley,591,10/04/2015,0,0,Home,"",-,0
 2016,Ferris St.,224,Lake Erie,2746,10/09/2015,0,0,Away,"",-,0
 2016,Ferris St.,224,Ashland,35,10/11/2015,0,0,Away,"",-,0
@@ -4891,10 +4887,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Ferrum,225,LaGrange,1162,09/20/2015,1,2,Away,"",-,53
 2016,Ferrum,225,Maryville (TN),396,09/24/2015,0,2,Home,"",-,225
 2016,Ferrum,225,Covenant,30111,09/26/2015,0,1,Home,"",-,50
-2016,Ferrum,225,William Peace,17094,09/30/2015,0,1,Neutral,"Martinsville, VA",-,25
-2016,Ferrum,225,William Peace,17094,09/30/2015,0,0,Home,"",-,0
-2016,Ferrum,225,N.C. Wesleyan,491,10/03/2015,0,0,Away,"",-,0
-2016,Ferrum,225,Salem,30041,10/06/2015,0,0,Away,"",-,0
+2016,Ferrum,225,William Peace,17094,09/30/2015,0,1,Home,"",-,25
+2016,Ferrum,225,N.C. Wesleyan,491,10/06/2015,0,0,Away,"",-,0
 2016,Ferrum,225,Mary Baldwin,389,10/09/2015,0,0,Away,"",-,0
 2016,Ferrum,225,Averett,44,10/14/2015,0,0,Home,"",-,0
 2016,Ferrum,225,Greensboro,263,10/17/2015,0,0,Home,"",-,0
@@ -5116,7 +5110,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Fordham,236,LIU Brooklyn,361,09/13/2015,2,1,Home,"",-,159
 2016,Fordham,236,Columbia,158,09/18/2015,1,0,Away,"",-,152
 2016,Fordham,236,Hofstra,283,09/20/2015,1,3,Away,"",-,412
-2016,Fordham,236,Rhode Island,572,10/01/2015,0,0,Home,"",-,0
+2016,Fordham,236,Rhode Island,572,10/01/2015,1,0,Home,"",-,149
 2016,Fordham,236,Saint Joseph's,606,10/04/2015,0,0,Away,"",-,0
 2016,Fordham,236,VCU,740,10/08/2015,0,0,Away,"",-,0
 2016,Fordham,236,St. Bonaventure,596,10/11/2015,0,0,Home,"",-,0
@@ -5152,7 +5146,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Fort Lewis,1083,N.M. Highlands,8577,09/20/2015,0,1,Away,"",-,0
 2016,Fort Lewis,1083,Colorado Mesa,11416,09/25/2015,2,1,Home,"",1 OT,121
 2016,Fort Lewis,1083,Westminster (UT),30209,09/27/2015,2,1,Home,"",-,226
-2016,Fort Lewis,1083,Western St.,2759,10/02/2015,0,0,Home,"",-,0
+2016,Fort Lewis,1083,Western St.,2759,10/02/2015,1,0,Home,"",-,93
 2016,Fort Lewis,1083,UC-Colo. Springs,9754,10/04/2015,0,0,Home,"",-,0
 2016,Fort Lewis,1083,Adams St.,929,10/07/2015,0,0,Home,"",-,0
 2016,Fort Lewis,1083,Colorado Mines,155,10/09/2015,0,0,Away,"",-,0
@@ -5292,7 +5286,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Fresno Pacific,30147,Cal St. Monterey Bay,30055,09/23/2015,0,2,Away,"",-,130
 2016,Fresno Pacific,30147,Chaminade,133,09/26/2015,2,0,Away,"",-,100
 2016,Fresno Pacific,30147,Hawaii Hilo,2697,09/28/2015,3,2,Away,"",2 OT,131
-2016,Fresno Pacific,30147,Hawaii Pacific,2696,10/01/2015,0,0,Away,"",-,0
+2016,Fresno Pacific,30147,Hawaii Pacific,2696,10/01/2015,2,3,Away,"",-,73
 2016,Fresno Pacific,30147,BYU-Hawaii,2685,10/03/2015,0,0,Away,"",-,0
 2016,Fresno Pacific,30147,Dominican (CA),30118,10/07/2015,0,0,Home,"",-,0
 2016,Fresno Pacific,30147,Point Loma,30149,10/10/2015,0,0,Home,"",-,0
@@ -5515,7 +5509,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,George Washington,249,Liberty,355,09/17/2015,3,0,Home,"",-,39
 2016,George Washington,249,Delaware St.,178,09/20/2015,2,0,Home,"",-,87
 2016,George Washington,249,UMBC,391,09/24/2015,2,0,Away,"",-,468
-2016,George Washington,249,Saint Joseph's,606,10/01/2015,0,0,Home,"",-,0
+2016,George Washington,249,Saint Joseph's,606,10/01/2015,2,0,Home,"",-,41
 2016,George Washington,249,St. Bonaventure,596,10/04/2015,0,0,Away,"",-,0
 2016,George Washington,249,La Salle,340,10/08/2015,0,0,Home,"",-,0
 2016,George Washington,249,Massachusetts,400,10/11/2015,0,0,Home,"",-,0
@@ -5535,7 +5529,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Georgetown,251,UCF,128,09/18/2015,1,3,Away,"",-,551
 2016,Georgetown,251,Stetson,678,09/20/2015,4,0,Away,"",-,125
 2016,Georgetown,251,Providence,556,09/27/2015,2,1,Away,"",2 OT,534
-2016,Georgetown,251,Villanova,739,10/01/2015,0,0,Away,"",-,0
+2016,Georgetown,251,Villanova,739,10/01/2015,5,1,Away,"",-,233
 2016,Georgetown,251,Xavier,812,10/04/2015,0,0,Home,"",-,0
 2016,Georgetown,251,St. John's (NY),603,10/08/2015,0,0,Home,"",-,0
 2016,Georgetown,251,Butler,87,10/11/2015,0,0,Away,"",-,0
@@ -5604,7 +5598,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Georgian Court,9004,Chestnut Hill,21323,09/23/2015,1,0,Away,"",-,79
 2016,Georgian Court,9004,Nyack,1277,09/26/2015,5,0,Away,"",-,65
 2016,Georgian Court,9004,Holy Family,1126,09/29/2015,2,1,Away,"",-,76
-2016,Georgian Court,9004,Queens (NY),560,10/01/2015,0,0,Away,"",-,0
+2016,Georgian Court,9004,Queens (NY),560,10/01/2015,1,1,Away,"",2 OT,64
 2016,Georgian Court,9004,Felician,23157,10/03/2015,0,0,Home,"",-,0
 2016,Georgian Court,9004,St. Thomas Aquinas,1348,10/05/2015,0,0,Home,"",-,0
 2016,Georgian Court,9004,Goldey-Beacom,8366,10/07/2015,0,0,Home,"",-,0
@@ -5638,7 +5632,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Goldey-Beacom,8366,Philadelphia U.,543,09/23/2015,1,2,Away,"",-,57
 2016,Goldey-Beacom,8366,Felician,23157,09/24/2015,2,3,Away,"",1 OT,176
 2016,Goldey-Beacom,8366,Post,1318,09/26/2015,0,3,Home,"",-,205
-2016,Goldey-Beacom,8366,Chowan,8875,10/01/2015,0,0,Home,"",-,0
+2016,Goldey-Beacom,8366,Chowan,8875,10/01/2015,6,0,Home,"",-,45
 2016,Goldey-Beacom,8366,Nyack,1277,10/03/2015,0,0,Home,"",-,0
 2016,Goldey-Beacom,8366,Georgian Court,9004,10/07/2015,0,0,Away,"",-,0
 2016,Goldey-Beacom,8366,Concordia (NY),162,10/10/2015,0,0,Away,"",-,0
@@ -5658,7 +5652,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Gonzaga,260,Washington St.,754,09/17/2015,0,3,Away,"",-,817
 2016,Gonzaga,260,Washington,756,09/20/2015,2,2,Home,"",2 OT,786
 2016,Gonzaga,260,Memphis,404,09/26/2015,0,1,Away,"",2 OT,618
-2016,Gonzaga,260,BYU,77,10/01/2015,0,0,Home,"",-,0
+2016,Gonzaga,260,BYU,77,10/01/2015,0,1,Home,"",-,509
 2016,Gonzaga,260,San Diego,627,10/03/2015,0,0,Home,"",-,0
 2016,Gonzaga,260,Pacific,534,10/09/2015,0,0,Away,"",-,0
 2016,Gonzaga,260,St. Mary's (CA),610,10/11/2015,0,0,Away,"",-,0
@@ -5743,7 +5737,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Grand Valley St.,262,Saginaw Valley,591,09/22/2015,6,1,Home,"",-,276
 2016,Grand Valley St.,262,Tiffin,1403,09/25/2015,4,0,Home,"",-,253
 2016,Grand Valley St.,262,Malone,30137,09/27/2015,10,0,Away,"",-,125
-2016,Grand Valley St.,262,Saginaw Valley,591,10/02/2015,0,0,Away,"",-,0
+2016,Grand Valley St.,262,Saginaw Valley,591,10/02/2015,2,0,Away,"",-,50
 2016,Grand Valley St.,262,Northwood (MI),510,10/04/2015,0,0,Home,"",-,0
 2016,Grand Valley St.,262,Ashland,35,10/09/2015,0,0,Away,"",-,0
 2016,Grand Valley St.,262,Ohio Dominican,30119,10/11/2015,0,0,Away,"",-,0
@@ -5867,13 +5861,13 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Guilford,1112,Hollins,284,09/23/2015,11,0,Home,"",-,70
 2016,Guilford,1112,Wash. & Lee,752,09/26/2015,0,5,Home,"",-,50
 2016,Guilford,1112,Lynchburg,374,09/30/2015,0,5,Away,"",-,155
-2016,Guilford,1112,East. Mennonite,203,10/03/2015,0,0,Home,"",-,0
 2016,Guilford,1112,Emory & Henry,216,10/06/2015,0,0,Away,"",-,0
 2016,Guilford,1112,TBA,,10/09/2015,0,0,Home,"",-,0
 2016,Guilford,1112,Randolph,566,10/14/2015,0,0,Away,"",-,0
 2016,Guilford,1112,Randolph-Macon,565,10/17/2015,0,0,Away,"",-,0
 2016,Guilford,1112,Roanoke,578,10/21/2015,0,0,Home,"",-,0
 2016,Guilford,1112,Va. Wesleyan,745,10/24/2015,0,0,Home,"",-,0
+2016,Guilford,1112,East. Mennonite,203,10/27/2015,0,0,Home,"",-,0
 2016,Guilford,1112,Shenandoah,637,10/31/2015,0,0,Away,"",-,0
 2016,Gust. Adolphus,266,Wis.-Eau Claire,793,09/01/2015,2,2,Home,"",2 OT,40
 2016,Gust. Adolphus,266,Wartburg,750,09/05/2015,2,3,Away,"",-,200
@@ -5901,7 +5895,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Gwynedd Mercy,12399,Cedar Crest,14795,09/19/2015,4,0,Home,"",-,100
 2016,Gwynedd Mercy,12399,Notre Dame (MD),8600,09/23/2015,6,0,Away,"",-,85
 2016,Gwynedd Mercy,12399,Centenary (NJ),12884,09/26/2015,0,1,Home,"",-,200
-2016,Gwynedd Mercy,12399,Alvernia,938,10/01/2015,0,0,Home,"",-,0
+2016,Gwynedd Mercy,12399,Alvernia,938,10/01/2015,1,1,Home,"",2 OT,100
 2016,Gwynedd Mercy,12399,Summit,958,10/03/2015,0,0,Away,"",-,0
 2016,Gwynedd Mercy,12399,Keystone,30047,10/07/2015,0,0,Home,"",-,0
 2016,Gwynedd Mercy,12399,Cairn,1305,10/10/2015,0,0,Away,"",-,0
@@ -5979,7 +5973,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Hardin-Simmons,271,Texas-Tyler,30028,09/19/2015,0,1,Away,"",-,347
 2016,Hardin-Simmons,271,Louisiana Col.,1182,09/25/2015,11,0,Home,"",-,111
 2016,Hardin-Simmons,271,Belhaven,30197,09/26/2015,10,0,Home,"",-,168
-2016,Hardin-Simmons,271,Howard Payne,2741,10/01/2015,0,0,Away,"",-,0
+2016,Hardin-Simmons,271,Howard Payne,2741,10/01/2015,9,0,Away,"",-,140
 2016,Hardin-Simmons,271,Texas-Dallas,23121,10/03/2015,0,0,Away,"",-,0
 2016,Hardin-Simmons,271,Mary Hardin-Baylor,1203,10/09/2015,0,0,Home,"",-,0
 2016,Hardin-Simmons,271,Concordia (TX),24400,10/10/2015,0,0,Home,"",-,0
@@ -5995,7 +5989,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Harding,1116,Mississippi Col.,429,09/20/2015,0,0,Away,"",2 OT,141
 2016,Harding,1116,Okla. Baptist,30202,09/24/2015,1,0,Home,"",-,200
 2016,Harding,1116,Southern Nazarene,30152,09/26/2015,2,0,Home,"",-,210
-2016,Harding,1116,Southwestern Okla.,8744,10/01/2015,0,0,Away,"",-,0
+2016,Harding,1116,Southwestern Okla.,8744,10/01/2015,2,2,Away,"",2 OT,182
 2016,Harding,1116,Northwestern Okla.,30178,10/03/2015,0,0,Away,"",-,0
 2016,Harding,1116,Ouachita Baptist,1289,10/06/2015,0,0,Home,"",-,0
 2016,Harding,1116,East Central,8965,10/08/2015,0,0,Home,"",-,0
@@ -6015,7 +6009,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Hartford,272,Wagner,748,09/20/2015,1,0,Away,"",-,89
 2016,Hartford,272,Fairleigh Dickinson,222,09/24/2015,0,1,Away,"",-,331
 2016,Hartford,272,Maine,380,09/27/2015,1,1,Home,"",2 OT,688
-2016,Hartford,272,Stony Brook,683,10/01/2015,0,0,Home,"",-,0
+2016,Hartford,272,Stony Brook,683,10/01/2015,1,0,Home,"",-,248
 2016,Hartford,272,Binghamton,62,10/04/2015,0,0,Away,"",-,0
 2016,Hartford,272,UMBC,391,10/08/2015,0,0,Away,"",-,0
 2016,Hartford,272,Vermont,738,10/11/2015,0,0,Home,"",-,0
@@ -6030,8 +6024,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Hartwick,273,Keuka,1159,09/16/2015,2,1,Away,"",-,115
 2016,Hartwick,273,Union (NY),727,09/19/2015,0,1,Away,"",2 OT,112
 2016,Hartwick,273,Utica,733,09/22/2015,2,0,Away,"",-,137
-2016,Hartwick,273,Ithaca,313,09/30/2015,0,0,Home,"",-,0
 2016,Hartwick,273,St. John Fisher,601,10/03/2015,0,0,Home,"",-,0
+2016,Hartwick,273,Ithaca,313,10/06/2015,0,0,Home,"",-,0
 2016,Hartwick,273,Houghton,30160,10/10/2015,0,0,Away,"",-,0
 2016,Hartwick,273,Alfred,18,10/11/2015,0,0,Away,"",-,0
 2016,Hartwick,273,Nazareth,461,10/17/2015,0,0,Home,"",-,0
@@ -6083,7 +6077,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Hawaii,277,UNLV,465,09/18/2015,1,3,Away,"",-,"1,003"
 2016,Hawaii,277,Nevada,466,09/20/2015,2,3,Away,"",-,306
 2016,Hawaii,277,BYU-Hawaii,2685,09/24/2015,2,0,Home,"",-,376
-2016,Hawaii,277,UC Santa Barbara,104,10/01/2015,0,0,Home,"",-,0
+2016,Hawaii,277,UC Santa Barbara,104,10/01/2015,0,3,Home,"",-,552
 2016,Hawaii,277,Cal Poly,90,10/04/2015,0,0,Home,"",-,0
 2016,Hawaii,277,UC Riverside,111,10/09/2015,0,0,Away,"",-,0
 2016,Hawaii,277,Cal St. Fullerton,97,10/11/2015,0,0,Away,"",-,0
@@ -6115,7 +6109,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Hawaii Pacific,2696,Chaminade,133,09/19/2015,1,0,Home,"",-,107
 2016,Hawaii Pacific,2696,Academy of Art,30123,09/26/2015,0,1,Home,"",-,217
 2016,Hawaii Pacific,2696,Notre Dame de Namur,30056,09/28/2015,0,1,Home,"",-,62
-2016,Hawaii Pacific,2696,Fresno Pacific,30147,10/01/2015,0,0,Home,"",-,0
+2016,Hawaii Pacific,2696,Fresno Pacific,30147,10/01/2015,3,2,Home,"",-,73
 2016,Hawaii Pacific,2696,Point Loma,30149,10/06/2015,0,0,Away,"",-,0
 2016,Hawaii Pacific,2696,Concordia (CA),30199,10/08/2015,0,0,Away,"",-,0
 2016,Hawaii Pacific,2696,Azusa Pacific,30146,10/10/2015,0,0,Away,"",-,0
@@ -6242,7 +6236,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Hollins,284,Guilford,1112,09/23/2015,0,11,Away,"",-,70
 2016,Hollins,284,Bridgewater (VA),75,09/26/2015,0,15,Home,"",-,71
 2016,Hollins,284,Johnson & Wales (NC),,09/30/2015,1,6,Home,"",-,29
-2016,Hollins,284,Randolph-Macon,565,10/03/2015,0,0,Away,"",-,0
 2016,Hollins,284,Shenandoah,637,10/06/2015,0,0,Away,"",-,0
 2016,Hollins,284,Randolph,566,10/09/2015,0,0,Home,"",-,0
 2016,Hollins,284,Lynchburg,374,10/14/2015,0,0,Home,"",-,0
@@ -6276,7 +6269,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Holy Family,1126,Bloomsburg,65,09/23/2015,0,2,Away,"",-,96
 2016,Holy Family,1126,Bloomfield,984,09/26/2015,7,3,Away,"",-,110
 2016,Holy Family,1126,Georgian Court,9004,09/29/2015,1,2,Home,"",-,76
-2016,Holy Family,1126,Dowling,2692,10/01/2015,0,0,Away,"",-,0
+2016,Holy Family,1126,Dowling,2692,10/01/2015,0,1,Away,"",-,68
 2016,Holy Family,1126,Post,1318,10/03/2015,0,0,Away,"",-,0
 2016,Holy Family,1126,Dominican (NY),8956,10/10/2015,0,0,Away,"",-,0
 2016,Holy Family,1126,Queens (NY),560,10/15/2015,0,0,Home,"",-,0
@@ -6369,7 +6362,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Houston,288,La.-Lafayette,671,09/20/2015,2,0,Home,"",-,150
 2016,Houston,288,East Carolina,196,09/24/2015,0,2,Home,"",-,140
 2016,Houston,288,Cincinnati,140,09/27/2015,0,1,Home,"",-,145
-2016,Houston,288,Memphis,404,10/01/2015,0,0,Away,"",-,0
+2016,Houston,288,Memphis,404,10/01/2015,1,2,Away,"",-,422
 2016,Houston,288,Tulsa,719,10/04/2015,0,0,Away,"",-,0
 2016,Houston,288,SMU,663,10/09/2015,0,0,Away,"",-,0
 2016,Houston,288,South Fla.,651,10/15/2015,0,0,Home,"",-,0
@@ -6417,7 +6410,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Howard Payne,2741,Texas-Dallas,23121,09/19/2015,1,6,Home,"",-,120
 2016,Howard Payne,2741,Concordia (TX),24400,09/25/2015,2,0,Away,"",-,200
 2016,Howard Payne,2741,Mary Hardin-Baylor,1203,09/26/2015,0,4,Away,"",-,275
-2016,Howard Payne,2741,Hardin-Simmons,271,10/01/2015,0,0,Home,"",-,0
+2016,Howard Payne,2741,Hardin-Simmons,271,10/01/2015,0,9,Home,"",-,140
 2016,Howard Payne,2741,McMurry,8530,10/03/2015,0,0,Home,"",-,0
 2016,Howard Payne,2741,Sul Ross St.,1390,10/08/2015,0,0,Away,"",-,0
 2016,Howard Payne,2741,LeTourneau,8490,10/15/2015,0,0,Home,"",-,0
@@ -6435,7 +6428,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Humboldt St.,291,Cal St. L.A.,100,09/20/2015,1,0,Away,"",-,50
 2016,Humboldt St.,291,Sonoma St.,645,09/23/2015,1,2,Home,"",2 OT,203
 2016,Humboldt St.,291,Chico St.,95,09/25/2015,2,3,Home,"",-,293
-2016,Humboldt St.,291,Cal St. Monterey Bay,30055,10/02/2015,0,0,Away,"",-,0
+2016,Humboldt St.,291,Cal St. Monterey Bay,30055,10/02/2015,1,0,Away,"",-,115
 2016,Humboldt St.,291,San Fran. St.,628,10/04/2015,0,0,Away,"",-,0
 2016,Humboldt St.,291,Notre Dame de Namur,30056,10/12/2015,0,0,Away,"",-,0
 2016,Humboldt St.,291,UC San Diego,112,10/16/2015,0,0,Home,"",-,0
@@ -6618,7 +6611,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Illinois St.,299,Central Mich.,129,09/20/2015,1,0,Away,"",2 OT,398
 2016,Illinois St.,299,Drake,189,09/26/2015,2,3,Home,"",-,302
 2016,Illinois St.,299,Loyola Chicago,371,09/30/2015,2,1,Home,"",-,508
-2016,Illinois St.,299,Oklahoma,522,10/02/2015,0,0,Home,"",-,0
+2016,Illinois St.,299,Oklahoma,522,10/02/2015,0,1,Home,"",-,221
 2016,Illinois St.,299,UNI,504,10/10/2015,0,0,Away,"",-,0
 2016,Illinois St.,299,Missouri St.,669,10/17/2015,0,0,Away,"",-,0
 2016,Illinois St.,299,Evansville,219,10/25/2015,0,0,Home,"",-,0
@@ -6688,7 +6681,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Indiana (PA),307,Lock Haven,360,09/23/2015,4,1,Away,"",-,137
 2016,Indiana (PA),307,Pitt.-Johnstown,546,09/26/2015,2,1,Home,"",1 OT,107
 2016,Indiana (PA),307,Alderson Broaddus,934,09/29/2015,3,0,Home,"",1 OT,10
-2016,Indiana (PA),307,Kutztown,339,10/02/2015,0,0,Home,"",-,0
+2016,Indiana (PA),307,Kutztown,339,10/02/2015,1,2,Home,"",-,89
 2016,Indiana (PA),307,East Stroudsburg,197,10/03/2015,0,0,Home,"",-,0
 2016,Indiana (PA),307,California (PA),106,10/07/2015,0,0,Away,"",-,0
 2016,Indiana (PA),307,West Chester,765,10/10/2015,0,0,Away,"",-,0
@@ -6724,7 +6717,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Iona,310,Columbia,158,09/13/2015,0,1,Away,"",-,205
 2016,Iona,310,Sacred Heart,590,09/18/2015,2,3,Away,"",1 OT,263
 2016,Iona,310,Niagara,482,09/26/2015,3,4,Away,"",-,186
-2016,Iona,310,Monmouth,439,09/30/2015,0,0,Home,"",-,0
+2016,Iona,310,Monmouth,439,09/30/2015,1,3,Home,"",-,52
 2016,Iona,310,Rider,576,10/03/2015,0,0,Away,"",-,0
 2016,Iona,310,Fairfield,220,10/07/2015,0,0,Away,"",-,0
 2016,Iona,310,Canisius,116,10/10/2015,0,0,Home,"",-,0
@@ -6812,8 +6805,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Ithaca,313,SUNY Cortland,168,09/20/2015,2,3,Neutral,"Rochester, NY",-,75
 2016,Ithaca,313,Alfred,18,09/23/2015,6,0,Away,"",-,78
 2016,Ithaca,313,Stevens,679,09/26/2015,1,1,Home,"",2 OT,300
-2016,Ithaca,313,Hartwick,273,09/30/2015,0,0,Away,"",-,0
 2016,Ithaca,313,Houghton,30160,10/03/2015,0,0,Home,"",-,0
+2016,Ithaca,313,Hartwick,273,10/06/2015,0,0,Away,"",-,0
 2016,Ithaca,313,RIT,580,10/11/2015,0,0,Away,"",-,0
 2016,Ithaca,313,SUNY Oneonta,526,10/13/2015,0,0,Away,"",-,0
 2016,Ithaca,313,St. John Fisher,601,10/17/2015,0,0,Home,"",-,0
@@ -7010,7 +7003,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Juniata,325,York (PA),815,09/23/2015,0,2,Away,"",-,253
 2016,Juniata,325,Drew,190,09/26/2015,1,0,Away,"",-,162
 2016,Juniata,325,Saint Vincent,30064,09/29/2015,3,1,Home,"",-,20
-2016,Juniata,325,Scranton,633,10/03/2015,0,0,Home,"",-,0
+2016,Juniata,325,Scranton,633,10/02/2015,0,0,Home,"",-,0
 2016,Juniata,325,King's (PA),336,10/07/2015,0,0,Home,"",-,0
 2016,Juniata,325,Moravian,443,10/10/2015,0,0,Away,"",-,0
 2016,Juniata,325,Susquehanna,685,10/14/2015,0,0,Away,"",-,0
@@ -7176,7 +7169,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Keuka,1159,Lancaster Bible,30085,09/19/2015,0,1,Away,"",2 OT,218
 2016,Keuka,1159,Penn St.-Berks,30044,09/20/2015,0,9,Away,"",-,88
 2016,Keuka,1159,Wells,761,09/26/2015,2,0,Home,"",-,137
-2016,Keuka,1159,Cazenovia,23624,09/30/2015,0,0,Away,"",-,0
+2016,Keuka,1159,Cazenovia,23624,09/30/2015,1,0,Away,"",-,75
 2016,Keuka,1159,Wilson,12973,10/03/2015,0,0,Home,"",-,0
 2016,Keuka,1159,Gallaudet,245,10/04/2015,0,0,Home,"",-,0
 2016,Keuka,1159,Penn College,,10/10/2015,0,0,Home,"",-,0
@@ -7210,7 +7203,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,King (TN),30051,Erskine,1072,09/19/2015,3,1,Away,"",-,85
 2016,King (TN),30051,Milligan,,09/23/2015,5,0,Away,"",-,100
 2016,King (TN),30051,Belmont Abbey,2683,09/30/2015,0,6,Away,"",-,150
-2016,King (TN),30051,Mount Olive,1245,10/03/2015,0,0,Home,"",-,0
+2016,King (TN),30051,Mount Olive,1245,10/04/2015,0,0,Home,"",-,0
 2016,King (TN),30051,Trevecca Nazarene,30002,10/06/2015,0,0,Away,"",-,0
 2016,King (TN),30051,Barton,15646,10/10/2015,0,0,Away,"",-,0
 2016,King (TN),30051,Limestone,1174,10/14/2015,0,0,Home,"",-,0
@@ -7260,7 +7253,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Kutztown,339,West Chester,765,09/15/2015,0,1,Away,"",-,100
 2016,Kutztown,339,Shippensburg,638,09/19/2015,2,1,Home,"",-,215
 2016,Kutztown,339,Gannon,246,09/23/2015,0,1,Away,"",-,88
-2016,Kutztown,339,Indiana (PA),307,10/02/2015,0,0,Away,"",-,0
+2016,Kutztown,339,Indiana (PA),307,10/02/2015,2,1,Away,"",-,89
 2016,Kutztown,339,California (PA),106,10/03/2015,0,0,Away,"",-,0
 2016,Kutztown,339,East Stroudsburg,197,10/07/2015,0,0,Home,"",-,0
 2016,Kutztown,339,Clarion,143,10/10/2015,0,0,Away,"",-,0
@@ -7276,7 +7269,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Ky. Wesleyan,333,Ohio Valley,15207,09/19/2015,6,1,Home,"",-,55
 2016,Ky. Wesleyan,333,Ursuline,30140,09/24/2015,0,1,Away,"",-,68
 2016,Ky. Wesleyan,333,Cedarville,30124,09/26/2015,0,7,Away,"",-,339
-2016,Ky. Wesleyan,333,Trevecca Nazarene,30002,10/01/2015,0,0,Home,"",-,0
+2016,Ky. Wesleyan,333,Trevecca Nazarene,30002,10/01/2015,1,0,Home,"",-,125
 2016,Ky. Wesleyan,333,Brescia,,10/03/2015,0,0,Away,"",-,0
 2016,Ky. Wesleyan,333,Ohio Valley,15207,10/08/2015,0,0,Away,"",-,0
 2016,Ky. Wesleyan,333,Salem Int'l,19117,10/10/2015,0,0,Away,"",-,0
@@ -7308,7 +7301,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,La Salle,340,James Madison,317,09/13/2015,2,1,Away,"",-,288
 2016,La Salle,340,Princeton,554,09/16/2015,1,4,Away,"",-,312
 2016,La Salle,340,Temple,690,09/18/2015,0,3,Away,"",-,100
-2016,La Salle,340,Massachusetts,400,10/01/2015,0,0,Away,"",-,0
+2016,La Salle,340,Massachusetts,400,10/01/2015,0,1,Away,"",2 OT,211
 2016,La Salle,340,Davidson,173,10/04/2015,0,0,Home,"",-,0
 2016,La Salle,340,George Washington,249,10/08/2015,0,0,Away,"",-,0
 2016,La Salle,340,Saint Joseph's,606,10/11/2015,0,0,Away,"",-,0
@@ -7401,7 +7394,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,LaGrange,1162,Toccoa Falls,,09/23/2015,1,2,Home,"",-,52
 2016,LaGrange,1162,Mary Baldwin,389,09/26/2015,5,0,Away,"",-,45
 2016,LaGrange,1162,Meredith,409,09/27/2015,0,4,Away,"",-,161
-2016,LaGrange,1162,Maryville (TN),396,09/30/2015,0,0,Away,"",-,0
+2016,LaGrange,1162,Maryville (TN),396,09/30/2015,1,5,Away,"",-,0
 2016,LaGrange,1162,Covenant,30111,10/03/2015,0,0,Home,"",-,0
 2016,LaGrange,1162,Wesleyan (GA),14718,10/07/2015,0,0,Away,"",-,0
 2016,LaGrange,1162,Greensboro,263,10/10/2015,0,0,Home,"",-,0
@@ -7530,6 +7523,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Lasell,8486,UMass Dartmouth,656,09/23/2015,0,1,Away,"",1 OT,85
 2016,Lasell,8486,Simmons,640,09/26/2015,4,0,Home,"",-,172
 2016,Lasell,8486,Norwich,511,09/30/2015,0,0,Home,"",-,0
+2016,Lasell,8486,Norwich,511,10/01/2015,11,2,Home,"",-,96
 2016,Lasell,8486,Johnson & Wales (RI),22626,10/03/2015,0,0,Away,"",-,0
 2016,Lasell,8486,Anna Maria,26,10/07/2015,0,0,Home,"",-,0
 2016,Lasell,8486,St. Joseph (CT),8687,10/10/2015,0,0,Home,"",-,0
@@ -7653,7 +7647,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Lehman,279,SUNY Maritime,478,09/22/2015,2,1,Away,"",-,78
 2016,Lehman,279,Medgar Evers,403,09/23/2015,10,0,Home,"",-,56
 2016,Lehman,279,St. Joseph's (Brkln),30072,09/30/2015,8,0,Away,"",-,22
-2016,Lehman,279,Cairn,1305,10/03/2015,0,0,Away,"",-,0
 2016,Lehman,279,Brooklyn,79,10/10/2015,0,0,Home,"",-,0
 2016,Lehman,279,Mt. St. Vincent,451,10/13/2015,0,0,Home,"",-,0
 2016,Lehman,279,CCNY,480,10/17/2015,0,0,Home,"",-,0
@@ -7703,7 +7696,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,LeTourneau,8490,S'western Assemblies,,09/12/2015,3,4,Home,"",1 OT,182
 2016,LeTourneau,8490,Sul Ross St.,1390,09/19/2015,4,0,Home,"",-,100
 2016,LeTourneau,8490,East Tex. Baptist,1062,09/25/2015,2,1,Away,"",-,103
-2016,LeTourneau,8490,Texas-Tyler,30028,10/01/2015,0,0,Away,"",-,0
+2016,LeTourneau,8490,Texas-Tyler,30028,10/01/2015,0,5,Away,"",-,355
 2016,LeTourneau,8490,Ozarks (AR),23008,10/03/2015,0,0,Away,"",-,0
 2016,LeTourneau,8490,Louisiana Col.,1182,10/09/2015,0,0,Home,"",-,0
 2016,LeTourneau,8490,Belhaven,30197,10/10/2015,0,0,Home,"",-,0
@@ -7761,7 +7754,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Liberty,355,George Washington,249,09/17/2015,0,3,Away,"",-,39
 2016,Liberty,355,Radford,563,09/23/2015,3,2,Away,"",2 OT,535
 2016,Liberty,355,Charleston So.,48,09/26/2015,2,0,Home,"",-,315
-2016,Liberty,355,Campbell,115,09/30/2015,0,0,Home,"",-,0
+2016,Liberty,355,Campbell,115,09/30/2015,3,1,Home,"",-,221
 2016,Liberty,355,UNC Asheville,456,10/03/2015,0,0,Away,"",-,0
 2016,Liberty,355,Presbyterian,1320,10/07/2015,0,0,Away,"",-,0
 2016,Liberty,355,High Point,19651,10/10/2015,0,0,Home,"",-,0
@@ -7778,7 +7771,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Limestone,1174,Lees-McRae,13302,09/23/2015,2,0,Home,"",-,134
 2016,Limestone,1174,North Greenville,9223,09/25/2015,2,0,Home,"",-,81
 2016,Limestone,1174,Anderson (SC),13028,09/30/2015,2,3,Home,"",2 OT,162
-2016,Limestone,1174,Southern Wesleyan,30192,10/03/2015,0,0,Home,"",-,0
+2016,Limestone,1174,Southern Wesleyan,30192,10/08/2015,0,0,Home,"",-,0
 2016,Limestone,1174,Erskine,1072,10/10/2015,0,0,Away,"",-,0
 2016,Limestone,1174,King (TN),30051,10/14/2015,0,0,Away,"",-,0
 2016,Limestone,1174,Barton,15646,10/17/2015,0,0,Away,"",-,0
@@ -7881,7 +7874,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,LIU Brooklyn,361,Maine,380,09/19/2015,1,2,Away,"",-,200
 2016,LIU Brooklyn,361,Saint Joseph's,606,09/25/2015,0,2,Away,"",-,450
 2016,LIU Brooklyn,361,NJIT,471,09/29/2015,2,1,Away,"",-,108
-2016,LIU Brooklyn,361,Saint Francis (PA),600,10/02/2015,0,0,Home,"",-,0
+2016,LIU Brooklyn,361,Saint Francis (PA),600,10/02/2015,1,2,Home,"",1 OT,51
 2016,LIU Brooklyn,361,Central Conn. St.,127,10/04/2015,0,0,Away,"",-,0
 2016,LIU Brooklyn,361,Wagner,748,10/09/2015,0,0,Away,"",-,0
 2016,LIU Brooklyn,361,Mt. St. Mary's,450,10/11/2015,0,0,Away,"",-,0
@@ -7898,7 +7891,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,LIU Post,362,NYIT,477,09/19/2015,4,0,Home,"",-,67
 2016,LIU Post,362,Wilmington (DE),1460,09/23/2015,5,1,Away,"",-,82
 2016,LIU Post,362,Queens (NY),560,09/26/2015,1,1,Away,"",2 OT,91
-2016,LIU Post,362,Nyack,1277,10/01/2015,0,0,Home,"",-,0
+2016,LIU Post,362,Nyack,1277,10/01/2015,8,0,Home,"",-,66
 2016,LIU Post,362,Bridgeport,74,10/03/2015,0,0,Away,"",-,0
 2016,LIU Post,362,Dowling,2692,10/07/2015,0,0,Away,"",-,0
 2016,LIU Post,362,Southern N.H.,468,10/12/2015,0,0,Home,"",-,0
@@ -7916,7 +7909,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Lock Haven,360,Indiana (PA),307,09/23/2015,1,4,Home,"",-,137
 2016,Lock Haven,360,Edinboro,209,09/26/2015,2,1,Away,"",-,110
 2016,Lock Haven,360,Roberts Wesleyan,30150,09/29/2015,0,5,Home,"",-,78
-2016,Lock Haven,360,Clarion,143,10/02/2015,0,0,Home,"",-,0
+2016,Lock Haven,360,Clarion,143,10/02/2015,0,3,Home,"",-,84
 2016,Lock Haven,360,Seton Hill,30063,10/03/2015,0,0,Home,"",-,0
 2016,Lock Haven,360,Millersville,423,10/07/2015,0,0,Away,"",-,0
 2016,Lock Haven,360,Pitt.-Johnstown,546,10/10/2015,0,0,Away,"",-,0
@@ -8029,7 +8022,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Louisville,367,Boston College,67,09/20/2015,0,2,Away,"",-,768
 2016,Louisville,367,Miami (FL),415,09/24/2015,1,0,Home,"",-,"1,632"
 2016,Louisville,367,Pittsburgh,545,09/27/2015,0,1,Home,"",-,"1,598"
-2016,Louisville,367,Morehead St.,444,10/01/2015,0,0,Home,"",-,0
+2016,Louisville,367,Morehead St.,444,10/01/2015,1,0,Home,"",-,"1,593"
 2016,Louisville,367,Syracuse,688,10/04/2015,0,0,Away,"",-,0
 2016,Louisville,367,North Carolina,457,10/08/2015,0,0,Home,"",-,0
 2016,Louisville,367,Duke,193,10/11/2015,0,0,Home,"",-,0
@@ -8116,7 +8109,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Lubbock Christian,30177,Tex. A&M-Commerce,199,09/15/2015,0,4,Away,"",-,94
 2016,Lubbock Christian,30177,East Central,8965,09/18/2015,3,2,Home,"",-,70
 2016,Lubbock Christian,30177,Tex. Permian Basin,30088,09/25/2015,1,1,Home,"",2 OT,130
-2016,Lubbock Christian,30177,St. Mary's (TX),1346,10/01/2015,0,0,Home,"",-,0
+2016,Lubbock Christian,30177,St. Mary's (TX),1346,10/01/2015,3,1,Home,"",-,76
 2016,Lubbock Christian,30177,Tex. A&M Int'l,30090,10/03/2015,0,0,Home,"",-,0
 2016,Lubbock Christian,30177,Rogers St.,30180,10/08/2015,0,0,Home,"",-,0
 2016,Lubbock Christian,30177,Okla. Christian,30179,10/10/2015,0,0,Home,"",-,0
@@ -8153,7 +8146,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Lycoming,373,King's (PA),336,09/22/2015,2,1,Home,"",-,185
 2016,Lycoming,373,FDU-Florham,221,09/26/2015,1,2,Away,"",-,75
 2016,Lycoming,373,Penn College,30190,09/30/2015,1,0,Home,"",-,212
-2016,Lycoming,373,Penn Tech,,09/30/2015,0,0,Home,"",-,0
 2016,Lycoming,373,Albright,16,10/03/2015,0,0,Home,"",-,0
 2016,Lycoming,373,Stevenson,21852,10/07/2015,0,0,Away,"",-,0
 2016,Lycoming,373,Arcadia,966,10/10/2015,0,0,Away,"",-,0
@@ -8221,7 +8213,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Macalester,376,Concordia-M'head,161,09/19/2015,2,0,Away,"",-,108
 2016,Macalester,376,Wartburg,750,09/23/2015,1,3,Away,"",-,250
 2016,Macalester,376,Hamline,268,09/26/2015,1,1,Away,"",2 OT,100
-2016,Macalester,376,St. Catherine,597,09/30/2015,0,0,Home,"",-,0
+2016,Macalester,376,St. Catherine,597,09/30/2015,2,0,Home,"",-,188
 2016,Macalester,376,St. Olaf,615,10/03/2015,0,0,Home,"",-,0
 2016,Macalester,376,Wis.-Superior,804,10/07/2015,0,0,Home,"",-,0
 2016,Macalester,376,St. Thomas (MN),620,10/10/2015,0,0,Away,"",-,0
@@ -8326,7 +8318,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Manhattan,381,Delaware St.,178,09/13/2015,1,2,Away,"",-,75
 2016,Manhattan,381,Canisius,116,09/19/2015,4,0,Home,"",-,218
 2016,Manhattan,381,Siena,639,09/26/2015,1,0,Home,"",-,417
-2016,Manhattan,381,Fairfield,220,09/30/2015,0,0,Away,"",-,0
+2016,Manhattan,381,Fairfield,220,09/30/2015,1,1,Away,"",2 OT,81
 2016,Manhattan,381,Saint Peter's,617,10/07/2015,0,0,Home,"",-,0
 2016,Manhattan,381,Niagara,482,10/10/2015,0,0,Away,"",-,0
 2016,Manhattan,381,Quinnipiac,562,10/14/2015,0,0,Away,"",-,0
@@ -8451,7 +8443,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Marquette,387,LSU,365,09/20/2015,1,5,Away,"",-,613
 2016,Marquette,387,Milwaukee,797,09/23/2015,1,1,Away,"",2 OT,"1,023"
 2016,Marquette,387,Creighton,169,09/27/2015,5,1,Home,"",-,393
-2016,Marquette,387,Seton Hall,635,10/01/2015,0,0,Away,"",-,0
+2016,Marquette,387,Seton Hall,635,10/01/2015,0,1,Away,"",-,112
 2016,Marquette,387,St. John's (NY),603,10/04/2015,0,0,Away,"",-,0
 2016,Marquette,387,Xavier,812,10/08/2015,0,0,Home,"",-,0
 2016,Marquette,387,Providence,556,10/11/2015,0,0,Home,"",-,0
@@ -8505,7 +8497,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Martin Luther,8597,North Central (MN),30039,09/19/2015,1,2,Home,"",-,100
 2016,Martin Luther,8597,Bethany Lutheran,30038,09/23/2015,1,1,Home,"",-,50
 2016,Martin Luther,8597,Northwestern-St.Paul,30031,09/26/2015,0,3,Home,"",-,300
-2016,Martin Luther,8597,Northwestern-St.Paul,30031,10/01/2015,0,0,Away,"",-,0
+2016,Martin Luther,8597,Northwestern-St.Paul,30031,10/01/2015,1,3,Away,"",-,112
 2016,Martin Luther,8597,Northland,1267,10/03/2015,0,0,Away,"",-,0
 2016,Martin Luther,8597,Minn.-Morris,1226,10/07/2015,0,0,Home,"",-,0
 2016,Martin Luther,8597,North Central (MN),30039,10/10/2015,0,0,Away,"",-,0
@@ -8541,7 +8533,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Mary Baldwin,389,LaGrange,1162,09/26/2015,0,5,Home,"",-,45
 2016,Mary Baldwin,389,Huntingdon,1130,09/27/2015,2,5,Home,"",-,35
 2016,Mary Baldwin,389,Averett,44,09/30/2015,0,6,Away,"",-,80
-2016,Mary Baldwin,389,Meredith,409,10/03/2015,0,0,Home,"",-,0
 2016,Mary Baldwin,389,Ferrum,225,10/09/2015,0,0,Home,"",-,0
 2016,Mary Baldwin,389,Maryville (TN),396,10/11/2015,0,0,Away,"",-,0
 2016,Mary Baldwin,389,N.C. Wesleyan,491,10/14/2015,0,0,Home,"",-,0
@@ -8596,7 +8587,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Maryland,392,Rutgers,587,09/18/2015,0,1,Home,"",-,"1,189"
 2016,Maryland,392,Northwestern,509,09/24/2015,0,2,Away,"",-,292
 2016,Maryland,392,Illinois,301,09/27/2015,1,2,Away,"",2 OT,"1,152"
-2016,Maryland,392,Michigan,418,10/01/2015,0,0,Home,"",-,0
+2016,Maryland,392,Michigan,418,10/01/2015,0,1,Home,"",-,804
 2016,Maryland,392,Michigan St.,416,10/04/2015,0,0,Home,"",-,0
 2016,Maryland,392,Penn St.,539,10/08/2015,0,0,Away,"",-,0
 2016,Maryland,392,Ohio St.,518,10/11/2015,0,0,Away,"",-,0
@@ -8646,7 +8637,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Maryville (TN),396,Methodist,412,09/20/2015,1,0,Home,"",-,125
 2016,Maryville (TN),396,Ferrum,225,09/24/2015,2,0,Away,"",-,225
 2016,Maryville (TN),396,William Peace,17094,09/28/2015,5,0,Away,"",-,75
-2016,Maryville (TN),396,LaGrange,1162,09/30/2015,0,0,Home,"",-,0
+2016,Maryville (TN),396,LaGrange,1162,09/30/2015,5,1,Home,"",-,0
 2016,Maryville (TN),396,Sewanee,652,10/02/2015,0,0,Away,"",-,0
 2016,Maryville (TN),396,N.C. Wesleyan,491,10/09/2015,0,0,Home,"",-,0
 2016,Maryville (TN),396,Mary Baldwin,389,10/11/2015,0,0,Home,"",-,0
@@ -8665,7 +8656,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Marywood,397,Cedar Crest,14795,09/23/2015,4,0,Away,"",-,133
 2016,Marywood,397,Immaculata,303,09/26/2015,1,0,Away,"",-,281
 2016,Marywood,397,Summit,958,09/29/2015,4,0,Home,"",-,115
-2016,Marywood,397,Notre Dame (MD),8600,10/03/2015,0,0,Away,"",-,0
 2016,Marywood,397,Cairn,1305,10/07/2015,0,0,Home,"",-,0
 2016,Marywood,397,Centenary (NJ),12884,10/10/2015,0,0,Away,"",-,0
 2016,Marywood,397,Cabrini,88,10/13/2015,0,0,Home,"",-,0
@@ -8697,7 +8687,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Massachusetts,400,Bryant,81,09/10/2015,3,0,Home,"",-,104
 2016,Massachusetts,400,Brown,80,09/17/2015,1,0,Home,"",-,182
 2016,Massachusetts,400,Harvard,275,09/20/2015,2,0,Home,"",-,302
-2016,Massachusetts,400,La Salle,340,10/01/2015,0,0,Home,"",-,0
+2016,Massachusetts,400,La Salle,340,10/01/2015,1,0,Home,"",2 OT,211
 2016,Massachusetts,400,Richmond,575,10/04/2015,0,0,Home,"",-,0
 2016,Massachusetts,400,George Mason,248,10/08/2015,0,0,Away,"",-,0
 2016,Massachusetts,400,George Washington,249,10/11/2015,0,0,Away,"",-,0
@@ -8766,7 +8756,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,McMurry,8530,Ozarks (AR),23008,09/19/2015,1,1,Away,"",2 OT,215
 2016,McMurry,8530,Belhaven,30197,09/25/2015,0,2,Home,"",-,68
 2016,McMurry,8530,Louisiana Col.,1182,09/26/2015,2,1,Home,"",1 OT,134
-2016,McMurry,8530,Texas-Dallas,23121,10/01/2015,0,0,Away,"",-,0
+2016,McMurry,8530,Texas-Dallas,23121,10/01/2015,0,10,Away,"",-,147
 2016,McMurry,8530,Howard Payne,2741,10/03/2015,0,0,Away,"",-,0
 2016,McMurry,8530,Concordia (TX),24400,10/09/2015,0,0,Home,"",-,0
 2016,McMurry,8530,Mary Hardin-Baylor,1203,10/10/2015,0,0,Home,"",-,0
@@ -8866,7 +8856,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Memphis,404,Ole Miss,433,09/20/2015,1,2,Home,"",1 OT,774
 2016,Memphis,404,Tulsa,719,09/24/2015,0,0,Away,"",2 OT,315
 2016,Memphis,404,Gonzaga,260,09/26/2015,1,0,Home,"",2 OT,618
-2016,Memphis,404,Houston,288,10/01/2015,0,0,Home,"",-,0
+2016,Memphis,404,Houston,288,10/01/2015,2,1,Home,"",-,422
 2016,Memphis,404,SMU,663,10/04/2015,0,0,Home,"",-,0
 2016,Memphis,404,UCF,128,10/08/2015,0,0,Away,"",-,0
 2016,Memphis,404,South Fla.,651,10/11/2015,0,0,Away,"",-,0
@@ -8937,7 +8927,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Meredith,409,Huntingdon,1130,09/26/2015,5,0,Home,"",-,126
 2016,Meredith,409,LaGrange,1162,09/27/2015,4,0,Home,"",-,161
 2016,Meredith,409,Greensboro,263,09/30/2015,6,0,Away,"",-,85
-2016,Meredith,409,Mary Baldwin,389,10/03/2015,0,0,Away,"",-,0
 2016,Meredith,409,Piedmont,21830,10/09/2015,0,0,Away,"",-,0
 2016,Meredith,409,William Peace,17094,10/11/2015,0,0,Home,"",-,0
 2016,Meredith,409,Methodist,412,10/14/2015,0,0,Home,"",-,0
@@ -8992,7 +8981,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Methodist,412,Salem,30041,09/24/2015,1,2,Away,"",-,100
 2016,Methodist,412,Greensboro,263,09/27/2015,3,1,Home,"",-,63
 2016,Methodist,412,N.C. Wesleyan,491,09/30/2015,3,0,Home,"",-,83
-2016,Methodist,412,William Peace,17094,10/03/2015,0,0,Away,"",-,0
 2016,Methodist,412,Covenant,30111,10/09/2015,0,0,Away,"",-,0
 2016,Methodist,412,Piedmont,21830,10/10/2015,0,0,Away,"",-,0
 2016,Methodist,412,Meredith,409,10/14/2015,0,0,Away,"",-,0
@@ -9064,7 +9052,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Michigan,418,Nebraska,463,09/18/2015,2,0,Home,"",-,824
 2016,Michigan,418,Iowa,312,09/20/2015,1,0,Home,"",-,879
 2016,Michigan,418,Michigan St.,416,09/25/2015,0,3,Away,"",-,"1,810"
-2016,Michigan,418,Maryland,392,10/01/2015,0,0,Away,"",-,0
+2016,Michigan,418,Maryland,392,10/01/2015,1,0,Away,"",-,804
 2016,Michigan,418,Rutgers,587,10/04/2015,0,0,Away,"",-,0
 2016,Michigan,418,Northwestern,509,10/08/2015,0,0,Home,"",-,0
 2016,Michigan,418,Illinois,301,10/11/2015,0,0,Home,"",-,0
@@ -9497,7 +9485,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,MIT,398,Salem St.,621,09/22/2015,1,0,Home,"",-,55
 2016,MIT,398,Springfield,673,09/26/2015,0,2,Home,"",-,75
 2016,MIT,398,Tufts,717,09/29/2015,0,2,Home,"",-,55
-2016,MIT,398,Bowdoin,69,10/01/2015,0,0,Away,"",-,0
+2016,MIT,398,Bowdoin,69,10/01/2015,1,1,Away,"",1 OT,40
 2016,MIT,398,Mount Holyoke,449,10/03/2015,0,0,Away,"",-,0
 2016,MIT,398,Wheaton (MA),779,10/06/2015,0,0,Home,"",-,0
 2016,MIT,398,Clark (MA),145,10/10/2015,0,0,Home,"",-,0
@@ -9582,7 +9570,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Molloy,437,Queens (NY),560,09/19/2015,0,1,Away,"",-,127
 2016,Molloy,437,Holy Family,1126,09/21/2015,0,2,Away,"",-,68
 2016,Molloy,437,Dominican (NY),8956,09/26/2015,3,0,Home,"",-,97
-2016,Molloy,437,Philadelphia U.,543,09/30/2015,0,0,Away,"",-,0
 2016,Molloy,437,NYIT,477,10/03/2015,0,0,Home,"",-,0
 2016,Molloy,437,Roberts Wesleyan,30150,10/09/2015,0,0,Away,"",-,0
 2016,Molloy,437,Daemen,30174,10/11/2015,0,0,Away,"",-,0
@@ -9600,7 +9587,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Monmouth,439,Lehigh,352,09/11/2015,2,2,Away,"",2 OT,253
 2016,Monmouth,439,Marist,386,09/19/2015,3,1,Home,"",-,365
 2016,Monmouth,439,Canisius,116,09/26/2015,5,0,Home,"",-,353
-2016,Monmouth,439,Iona,310,09/30/2015,0,0,Away,"",-,0
+2016,Monmouth,439,Iona,310,09/30/2015,3,1,Away,"",-,52
 2016,Monmouth,439,Siena,639,10/03/2015,0,0,Away,"",-,0
 2016,Monmouth,439,Rider,576,10/07/2015,0,0,Home,"",-,0
 2016,Monmouth,439,Quinnipiac,562,10/10/2015,0,0,Away,"",-,0
@@ -9633,7 +9620,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Mont. St. Billings,205,Northwest Nazarene,1274,09/19/2015,2,0,Home,"",-,150
 2016,Mont. St. Billings,205,Western Ore.,1446,09/24/2015,2,1,Home,"",-,100
 2016,Mont. St. Billings,205,Concordia Portland,30200,09/26/2015,0,0,Home,"",2 OT,300
-2016,Mont. St. Billings,205,Simon Fraser,30127,10/01/2015,0,0,Away,"",-,0
+2016,Mont. St. Billings,205,Simon Fraser,30127,10/01/2015,0,1,Away,"",-,152
 2016,Mont. St. Billings,205,Saint Martin's,1343,10/03/2015,0,0,Away,"",-,0
 2016,Mont. St. Billings,205,Northwest Nazarene,1274,10/08/2015,0,0,Away,"",-,0
 2016,Mont. St. Billings,205,Western Wash.,1448,10/10/2015,0,0,Away,"",-,0
@@ -9725,7 +9712,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Morehead St.,444,Ball St.,47,09/20/2015,1,3,Home,"",-,250
 2016,Morehead St.,444,Jacksonville St.,315,09/24/2015,1,2,Away,"",-,414
 2016,Morehead St.,444,Belmont,14927,09/27/2015,1,0,Home,"",1 OT,255
-2016,Morehead St.,444,Louisville,367,10/01/2015,0,0,Away,"",-,0
+2016,Morehead St.,444,Louisville,367,10/01/2015,0,1,Away,"",-,"1,593"
 2016,Morehead St.,444,Eastern Ky.,202,10/04/2015,0,0,Home,"",-,0
 2016,Morehead St.,444,SIUE,660,10/09/2015,0,0,Away,"",-,0
 2016,Morehead St.,444,Eastern Ill.,201,10/11/2015,0,0,Away,"",-,0
@@ -9743,9 +9730,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Morrisville St.,30067,SUNY Poly,9500,09/20/2015,0,3,Away,"",-,72
 2016,Morrisville St.,30067,Lancaster Bible,30085,09/26/2015,0,3,Away,"",-,489
 2016,Morrisville St.,30067,Penn St.-Berks,30044,09/27/2015,0,13,Away,"",-,88
-2016,Morrisville St.,30067,Wells,761,09/30/2015,0,0,Away,"",-,0
 2016,Morrisville St.,30067,St. Elizabeth,9684,10/04/2015,0,0,Home,"",-,0
 2016,Morrisville St.,30067,Penn St.-Abington,30114,10/11/2015,0,0,Away,"",-,0
+2016,Morrisville St.,30067,Wells,761,10/14/2015,0,0,Away,"",-,0
 2016,Morrisville St.,30067,Wilson,12973,10/17/2015,0,0,Home,"",-,0
 2016,Morrisville St.,30067,Gallaudet,245,10/18/2015,0,0,Home,"",-,0
 2016,Morrisville St.,30067,Cazenovia,23624,10/22/2015,0,0,Home,"",-,0
@@ -9795,7 +9782,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Mount Ida,27901,Becker,26107,09/19/2015,1,3,Away,"",-,171
 2016,Mount Ida,27901,Wheelock,8896,09/24/2015,7,0,Home,"",-,121
 2016,Mount Ida,27901,Johnson & Wales (RI),22626,09/26/2015,0,4,Home,"",-,98
-2016,Mount Ida,27901,Simmons,640,09/30/2015,0,0,Away,"",-,0
+2016,Mount Ida,27901,Simmons,640,09/30/2015,0,8,Away,"",-,52
 2016,Mount Ida,27901,St. Joseph (CT),8687,10/03/2015,0,0,Away,"",-,0
 2016,Mount Ida,27901,Albertus Magnus,2798,10/07/2015,0,0,Away,"",-,0
 2016,Mount Ida,27901,Rivier,18422,10/10/2015,0,0,Home,"",-,0
@@ -9831,7 +9818,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Mount Olive,1245,Belmont Abbey,2683,09/19/2015,0,3,Home,"",-,149
 2016,Mount Olive,1245,Barton,15646,09/22/2015,1,1,Away,"",2 OT,262
 2016,Mount Olive,1245,Erskine,1072,09/26/2015,5,1,Away,"",-,100
-2016,Mount Olive,1245,King (TN),30051,10/03/2015,0,0,Away,"",-,0
+2016,Mount Olive,1245,King (TN),30051,10/04/2015,0,0,Away,"",-,0
 2016,Mount Olive,1245,Pfeiffer,542,10/07/2015,0,0,Home,"",-,0
 2016,Mount Olive,1245,Southern Wesleyan,30192,10/10/2015,0,0,Home,"",-,0
 2016,Mount Olive,1245,Lees-McRae,13302,10/17/2015,0,0,Home,"",-,0
@@ -10014,7 +10001,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,N.C. Wesleyan,491,Greensboro,263,09/20/2015,1,2,Home,"",1 OT,177
 2016,N.C. Wesleyan,491,Averett,44,09/25/2015,1,0,Away,"",-,59
 2016,N.C. Wesleyan,491,Methodist,412,09/30/2015,0,3,Away,"",-,83
-2016,N.C. Wesleyan,491,Ferrum,225,10/03/2015,0,0,Home,"",-,0
+2016,N.C. Wesleyan,491,Ferrum,225,10/06/2015,0,0,Home,"",-,0
 2016,N.C. Wesleyan,491,Maryville (TN),396,10/09/2015,0,0,Away,"",-,0
 2016,N.C. Wesleyan,491,Covenant,30111,10/10/2015,0,0,Away,"",-,0
 2016,N.C. Wesleyan,491,Mary Baldwin,389,10/14/2015,0,0,Away,"",-,0
@@ -10031,7 +10018,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,N.M. Highlands,8577,UC-Colo. Springs,9754,09/25/2015,1,2,Home,"",-,500
 2016,N.M. Highlands,8577,Western St.,2759,09/27/2015,2,1,Home,"",-,150
 2016,N.M. Highlands,8577,Colorado St.-Pueblo,2720,09/30/2015,3,2,Home,"",-,500
-2016,N.M. Highlands,8577,Colo. Christian,11403,10/02/2015,0,0,Away,"",-,0
+2016,N.M. Highlands,8577,Colo. Christian,11403,10/02/2015,1,0,Away,"",-,87
 2016,N.M. Highlands,8577,Colorado Mines,155,10/04/2015,0,0,Away,"",-,0
 2016,N.M. Highlands,8577,Colorado St.-Pueblo,2720,10/11/2015,0,0,Away,"",-,0
 2016,N.M. Highlands,8577,Colo. Christian,11403,10/16/2015,0,0,Home,"",-,0
@@ -10102,7 +10089,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Neb.-Kearney,1156,Washburn,2814,09/20/2015,1,3,Away,"",-,385
 2016,Neb.-Kearney,1156,Mo. Southern St.,9012,09/25/2015,2,1,Home,"",1 OT,203
 2016,Neb.-Kearney,1156,Southwest Baptist,2755,09/27/2015,1,0,Home,"",-,357
-2016,Neb.-Kearney,1156,Central Mo.,130,10/02/2015,0,0,Home,"",-,0
+2016,Neb.-Kearney,1156,Central Mo.,130,10/02/2015,0,3,Home,"",-,104
 2016,Neb.-Kearney,1156,Lindenwood (MO),30136,10/04/2015,0,0,Home,"",-,0
 2016,Neb.-Kearney,1156,Central Okla.,1009,10/09/2015,0,0,Away,"",-,0
 2016,Neb.-Kearney,1156,Northeastern St.,12810,10/11/2015,0,0,Away,"",-,0
@@ -10195,7 +10182,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,New Hampshire,469,Harvard,275,09/17/2015,1,2,Away,"",1 OT,188
 2016,New Hampshire,469,Northeastern,500,09/20/2015,0,1,Home,"",2 OT,123
 2016,New Hampshire,469,Binghamton,62,09/27/2015,6,0,Home,"",-,169
-2016,New Hampshire,469,Vermont,738,10/01/2015,0,0,Away,"",-,0
+2016,New Hampshire,469,Vermont,738,10/01/2015,3,2,Away,"",-,109
 2016,New Hampshire,469,Albany (NY),14,10/04/2015,0,0,Home,"",-,0
 2016,New Hampshire,469,UMass Lowell,368,10/08/2015,0,0,Home,"",-,0
 2016,New Hampshire,469,Stony Brook,683,10/11/2015,0,0,Away,"",-,0
@@ -10229,7 +10216,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,New Jersey City,319,King's (NY),,09/16/2015,8,0,Home,"",-,80
 2016,New Jersey City,319,Montclair St.,442,09/19/2015,0,4,Away,"",-,157
 2016,New Jersey City,319,Kean,329,09/30/2015,0,8,Away,"",-,98
-2016,New Jersey City,319,Rutgers-Newark,589,10/03/2015,0,0,Home,"",-,0
+2016,New Jersey City,319,Rutgers-Newark,589,10/03/2015,0,0,Away,"",-,0
 2016,New Jersey City,319,John Jay,321,10/07/2015,0,0,Home,"",-,0
 2016,New Jersey City,319,TCNJ,712,10/10/2015,0,0,Away,"",-,0
 2016,New Jersey City,319,Ramapo,564,10/14/2015,0,0,Away,"",-,0
@@ -10572,7 +10559,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,North Park,496,Dubuque,192,09/19/2015,1,2,Away,"",-,309
 2016,North Park,496,Rockford,582,09/23/2015,6,0,Home,"",-,88
 2016,North Park,496,Wis.-Stevens Point,802,09/27/2015,2,1,Home,"",-,112
-2016,North Park,496,Beloit,53,09/30/2015,0,0,Home,"",-,0
+2016,North Park,496,Beloit,53,09/30/2015,1,0,Home,"",-,98
 2016,North Park,496,Millikin,424,10/03/2015,0,0,Away,"",-,0
 2016,North Park,496,North Central (IL),492,10/10/2015,0,0,Home,"",-,0
 2016,North Park,496,Ill. Wesleyan,300,10/14/2015,0,0,Home,"",-,0
@@ -10786,7 +10773,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Northwest Nazarene,1274,Mont. St. Billings,205,09/19/2015,0,2,Away,"",-,150
 2016,Northwest Nazarene,1274,Seattle Pacific,634,09/24/2015,1,0,Home,"",-,154
 2016,Northwest Nazarene,1274,Western Ore.,1446,09/26/2015,2,2,Home,"",2 OT,124
-2016,Northwest Nazarene,1274,Central Wash.,1010,10/01/2015,0,0,Away,"",-,0
+2016,Northwest Nazarene,1274,Central Wash.,1010,10/01/2015,2,6,Away,"",-,476
 2016,Northwest Nazarene,1274,Seattle Pacific,634,10/03/2015,0,0,Away,"",-,0
 2016,Northwest Nazarene,1274,Mont. St. Billings,205,10/08/2015,0,0,Home,"",-,0
 2016,Northwest Nazarene,1274,Simon Fraser,30127,10/10/2015,0,0,Home,"",-,0
@@ -10821,7 +10808,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Northwestern Okla.,30178,Southwestern Okla.,8744,09/22/2015,0,2,Away,"",-,177
 2016,Northwestern Okla.,30178,Newman,30054,09/24/2015,2,1,Home,"",-,204
 2016,Northwestern Okla.,30178,East Central,8965,09/26/2015,0,3,Away,"",-,155
-2016,Northwestern Okla.,30178,Ouachita Baptist,1289,10/01/2015,0,0,Home,"",-,0
+2016,Northwestern Okla.,30178,Ouachita Baptist,1289,10/01/2015,0,4,Home,"",-,185
 2016,Northwestern Okla.,30178,Harding,1116,10/03/2015,0,0,Home,"",-,0
 2016,Northwestern Okla.,30178,Okla. Baptist,30202,10/08/2015,0,0,Away,"",-,0
 2016,Northwestern Okla.,30178,Southern Nazarene,30152,10/10/2015,0,0,Away,"",-,0
@@ -10860,7 +10847,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Northwestern-St.Paul,30031,Hamline,268,09/22/2015,0,3,Home,"",-,128
 2016,Northwestern-St.Paul,30031,Martin Luther,8597,09/26/2015,3,0,Away,"",-,300
 2016,Northwestern-St.Paul,30031,Crown (MN),30035,09/29/2015,7,0,Away,"",-,99
-2016,Northwestern-St.Paul,30031,Martin Luther,8597,10/01/2015,0,0,Home,"",-,0
+2016,Northwestern-St.Paul,30031,Martin Luther,8597,10/01/2015,3,1,Home,"",-,112
 2016,Northwestern-St.Paul,30031,Bethany Lutheran,30038,10/03/2015,0,0,Away,"",-,0
 2016,Northwestern-St.Paul,30031,Bethel (MN),60,10/06/2015,0,0,Home,"",-,0
 2016,Northwestern-St.Paul,30031,North Central (MN),30039,10/07/2015,0,0,Away,"",-,0
@@ -10875,7 +10862,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Northwood (MI),510,Ohio Dominican,30119,09/20/2015,0,5,Home,"",-,172
 2016,Northwood (MI),510,Ashland,35,09/25/2015,1,2,Away,"",-,119
 2016,Northwood (MI),510,Lake Erie,2746,09/27/2015,2,0,Away,"",-,0
-2016,Northwood (MI),510,Ferris St.,224,10/02/2015,0,0,Home,"",-,0
+2016,Northwood (MI),510,Ferris St.,224,10/02/2015,0,1,Home,"",-,168
 2016,Northwood (MI),510,Grand Valley St.,262,10/04/2015,0,0,Away,"",-,0
 2016,Northwood (MI),510,Malone,30137,10/11/2015,0,0,Away,"",-,0
 2016,Northwood (MI),510,Findlay,1079,10/16/2015,0,0,Home,"",-,0
@@ -10892,6 +10879,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Norwich,511,Lyndon St.,30065,09/23/2015,1,0,Home,"",-,183
 2016,Norwich,511,Suffolk,684,09/26/2015,1,2,Away,"",-,64
 2016,Norwich,511,Lasell,8486,09/30/2015,0,0,Away,"",-,0
+2016,Norwich,511,Lasell,8486,10/01/2015,2,11,Away,"",-,96
 2016,Norwich,511,Emmanuel (MA),215,10/03/2015,0,0,Home,"",-,0
 2016,Norwich,511,Simmons,640,10/07/2015,0,0,Home,"",-,0
 2016,Norwich,511,Rivier,18422,10/12/2015,0,0,Home,"",-,0
@@ -10929,7 +10917,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Notre Dame (MD),8600,Keystone,30047,09/19/2015,1,2,Away,"",1 OT,205
 2016,Notre Dame (MD),8600,Gwynedd Mercy,12399,09/23/2015,0,6,Home,"",-,85
 2016,Notre Dame (MD),8600,Cedar Crest,14795,09/26/2015,2,1,Home,"",-,90
-2016,Notre Dame (MD),8600,Marywood,397,10/03/2015,0,0,Home,"",-,0
 2016,Notre Dame (MD),8600,Immaculata,303,10/07/2015,0,0,Away,"",-,0
 2016,Notre Dame (MD),8600,Summit,958,10/10/2015,0,0,Away,"",-,0
 2016,Notre Dame (MD),8600,Rosemont,15882,10/13/2015,0,0,Home,"",-,0
@@ -10945,7 +10932,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Notre Dame (OH),30126,Urbana,30104,09/20/2015,1,0,Away,"",-,127
 2016,Notre Dame (OH),30126,Wheeling Jesuit,12799,09/24/2015,2,0,Home,"",-,108
 2016,Notre Dame (OH),30126,Charleston (WV),1013,09/27/2015,0,1,Away,"",-,50
-2016,Notre Dame (OH),30126,Fairmont St.,1076,09/30/2015,0,0,Home,"",-,0
+2016,Notre Dame (OH),30126,Fairmont St.,1076,09/30/2015,3,2,Home,"",-,102
 2016,Notre Dame (OH),30126,Concord,1028,10/03/2015,0,0,Away,"",-,0
 2016,Notre Dame (OH),30126,Urbana,30104,10/06/2015,0,0,Home,"",-,0
 2016,Notre Dame (OH),30126,West Liberty,1438,10/09/2015,0,0,Home,"",-,0
@@ -10961,7 +10948,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Notre Dame de Namur,30056,Western Wash.,1448,09/12/2015,0,1,Home,"",-,105
 2016,Notre Dame de Namur,30056,Hawaii Hilo,2697,09/26/2015,0,1,Away,"",-,171
 2016,Notre Dame de Namur,30056,Hawaii Pacific,2696,09/28/2015,1,0,Away,"",-,62
-2016,Notre Dame de Namur,30056,BYU-Hawaii,2685,10/01/2015,0,0,Away,"",-,0
+2016,Notre Dame de Namur,30056,BYU-Hawaii,2685,10/01/2015,0,2,Away,"",-,99
 2016,Notre Dame de Namur,30056,Chaminade,133,10/03/2015,0,0,Away,"",-,0
 2016,Notre Dame de Namur,30056,Dominican (CA),30118,10/10/2015,0,0,Home,"",-,0
 2016,Notre Dame de Namur,30056,Humboldt St.,291,10/12/2015,0,0,Home,"",-,0
@@ -10997,7 +10984,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Nyack,1277,Concordia (NY),162,09/23/2015,1,0,Home,"",-,0
 2016,Nyack,1277,Georgian Court,9004,09/26/2015,0,5,Home,"",-,65
 2016,Nyack,1277,Felician,23157,09/29/2015,0,6,Away,"",-,50
-2016,Nyack,1277,LIU Post,362,10/01/2015,0,0,Away,"",-,0
+2016,Nyack,1277,LIU Post,362,10/01/2015,0,8,Away,"",-,66
 2016,Nyack,1277,Goldey-Beacom,8366,10/03/2015,0,0,Away,"",-,0
 2016,Nyack,1277,Post,1318,10/07/2015,0,0,Home,"",-,0
 2016,Nyack,1277,Wilmington (DE),1460,10/10/2015,0,0,Home,"",-,0
@@ -11067,7 +11054,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Oakland City,1278,Fontbonne,11538,09/16/2015,1,2,Home,"",-,55
 2016,Oakland City,1278,Cincinnati Christian,,09/19/2015,0,0,Away,"",-,0
 2016,Oakland City,1278,Brescia,,09/24/2015,4,1,Away,"",-,36
-2016,Oakland City,1278,Campbellsville,,09/28/2015,0,0,Away,"",-,0
+2016,Oakland City,1278,Campbellsville,,09/28/2015,1,6,Away,"",-,200
 2016,Oakland City,1278,Trevecca Nazarene,30002,10/03/2015,0,0,Away,"",-,0
 2016,Oakland City,1278,Mo.-St. Louis,436,10/06/2015,0,0,Home,"",-,0
 2016,Oakland City,1278,St. Mary-Woods,,10/08/2015,0,0,Home,"",-,0
@@ -11149,7 +11136,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Ohio Dominican,30119,Northwood (MI),510,09/20/2015,5,0,Away,"",-,172
 2016,Ohio Dominican,30119,Northern Mich.,506,09/25/2015,3,0,Home,"",-,243
 2016,Ohio Dominican,30119,Michigan Tech,417,09/27/2015,1,3,Home,"",-,201
-2016,Ohio Dominican,30119,Tiffin,1403,10/02/2015,0,0,Away,"",-,0
+2016,Ohio Dominican,30119,Tiffin,1403,10/02/2015,2,1,Away,"",-,137
 2016,Ohio Dominican,30119,Findlay,1079,10/04/2015,0,0,Away,"",-,0
 2016,Ohio Dominican,30119,Malone,30137,10/09/2015,0,0,Home,"",-,0
 2016,Ohio Dominican,30119,Grand Valley St.,262,10/11/2015,0,0,Home,"",-,0
@@ -11202,7 +11189,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Ohio Valley,15207,Ky. Wesleyan,333,09/19/2015,1,6,Away,"",-,55
 2016,Ohio Valley,15207,Alderson Broaddus,934,09/24/2015,1,5,Away,"",-,117
 2016,Ohio Valley,15207,Davis & Elkins,174,09/26/2015,0,11,Away,"",-,125
-2016,Ohio Valley,15207,Salem Int'l,19117,10/01/2015,0,0,Away,"",-,0
+2016,Ohio Valley,15207,Salem Int'l,19117,10/01/2015,11,0,Away,"",-,75
 2016,Ohio Valley,15207,Ohio Christian,,10/03/2015,0,0,Home,"",-,0
 2016,Ohio Valley,15207,Ky. Wesleyan,333,10/08/2015,0,0,Home,"",-,0
 2016,Ohio Valley,15207,Trevecca Nazarene,30002,10/10/2015,0,0,Home,"",-,0
@@ -11235,7 +11222,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Okla. Christian,30179,Northwestern Okla.,30178,09/19/2015,0,1,Away,"",-,110
 2016,Okla. Christian,30179,Texas Wesleyan,,09/25/2015,2,0,Home,"",-,200
 2016,Okla. Christian,30179,McKendree,30138,09/29/2015,2,1,Home,"",-,125
-2016,Okla. Christian,30179,St. Edward's,1334,10/01/2015,0,0,Home,"",-,0
+2016,Okla. Christian,30179,St. Edward's,1334,10/01/2015,0,3,Home,"",-,250
 2016,Okla. Christian,30179,Dallas Baptist,1045,10/03/2015,0,0,Home,"",-,0
 2016,Okla. Christian,30179,Tex. Permian Basin,30088,10/08/2015,0,0,Away,"",-,0
 2016,Okla. Christian,30179,Lubbock Christian,30177,10/10/2015,0,0,Away,"",-,0
@@ -11256,7 +11243,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Oklahoma,522,Texas Tech,700,09/25/2015,0,0,Home,"",2 OT,713
 2016,Oklahoma,522,Iowa St.,311,09/27/2015,3,0,Home,"",-,501
 2016,Oklahoma,522,Oral Roberts,527,09/29/2015,2,1,Away,"",-,467
-2016,Oklahoma,522,Illinois St.,299,10/02/2015,0,0,Away,"",-,0
+2016,Oklahoma,522,Illinois St.,299,10/02/2015,1,0,Away,"",-,221
 2016,Oklahoma,522,West Virginia,768,10/09/2015,0,0,Home,"",-,0
 2016,Oklahoma,522,Kansas,328,10/11/2015,0,0,Away,"",-,0
 2016,Oklahoma,522,Baylor,51,10/16/2015,0,0,Away,"",-,0
@@ -11309,7 +11296,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Old Westbury,524,Mt. St. Vincent,451,09/19/2015,1,0,Away,"",-,75
 2016,Old Westbury,524,Sarah Lawrence,30163,09/21/2015,2,0,Away,"",-,25
 2016,Old Westbury,524,St. Joseph's (Brkln),30072,09/25/2015,14,0,Home,"",-,106
-2016,Old Westbury,524,Brooklyn,79,10/01/2015,0,0,Home,"",-,0
 2016,Old Westbury,524,Purchase,30029,10/03/2015,0,0,Home,"",-,0
 2016,Old Westbury,524,York (NY),2730,10/05/2015,0,0,Home,"",-,0
 2016,Old Westbury,524,SUNY Maritime,478,10/07/2015,0,0,Away,"",-,0
@@ -11439,7 +11425,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Oswego St.,530,SUNY Oneonta,526,09/25/2015,1,2,Away,"",-,163
 2016,Oswego St.,530,SUNY New Paltz,475,09/26/2015,0,1,Away,"",-,80
 2016,Oswego St.,530,Alfred,18,09/29/2015,4,0,Away,"",-,45
-2016,Oswego St.,530,SUNY Potsdam,552,10/02/2015,0,0,Home,"",-,0
+2016,Oswego St.,530,SUNY Potsdam,552,10/02/2015,1,0,Home,"",-,79
 2016,Oswego St.,530,Plattsburgh St.,547,10/03/2015,0,0,Home,"",-,0
 2016,Oswego St.,530,Fredonia,242,10/09/2015,0,0,Home,"",-,0
 2016,Oswego St.,530,Buffalo St.,85,10/10/2015,0,0,Home,"",-,0
@@ -11471,7 +11457,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Ouachita Baptist,1289,Mississippi Col.,429,09/19/2015,1,2,Away,"",-,132
 2016,Ouachita Baptist,1289,Southern Nazarene,30152,09/24/2015,1,0,Home,"",-,78
 2016,Ouachita Baptist,1289,Okla. Baptist,30202,09/26/2015,4,1,Home,"",-,189
-2016,Ouachita Baptist,1289,Northwestern Okla.,30178,10/01/2015,0,0,Away,"",-,0
+2016,Ouachita Baptist,1289,Northwestern Okla.,30178,10/01/2015,4,0,Away,"",-,185
 2016,Ouachita Baptist,1289,Southwestern Okla.,8744,10/03/2015,0,0,Away,"",-,0
 2016,Ouachita Baptist,1289,Harding,1116,10/06/2015,0,0,Away,"",-,0
 2016,Ouachita Baptist,1289,East Central,8965,10/10/2015,0,0,Home,"",-,0
@@ -11614,7 +11600,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Penn College,30190,Gallaudet,245,09/18/2015,4,0,Home,"",-,35
 2016,Penn College,30190,Wilson,12973,09/20/2015,4,0,Home,"",-,50
 2016,Penn College,30190,Penn St. Harrisburg,30081,09/23/2015,0,1,Away,"",-,81
+2016,Penn College,30190,SUNY Poly,9500,09/26/2015,2,2,Home,"",2 OT,30
 2016,Penn College,30190,Cobleskill St.,30083,09/27/2015,2,1,Home,"",-,30
+2016,Penn College,30190,Lycoming,373,09/30/2015,0,1,Away,"",-,212
 2016,Penn College,30190,Cazenovia,23624,10/04/2015,0,0,Away,"",-,0
 2016,Penn College,30190,Summit,958,10/15/2015,0,0,Away,"",-,0
 2016,Penn College,30190,Penn St.-Berks,30044,10/25/2015,0,0,Away,"",-,0
@@ -11658,7 +11646,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Penn St.-Abington,30114,Swarthmore,686,09/21/2015,0,5,Away,"",-,101
 2016,Penn St.-Abington,30114,Gallaudet,245,09/26/2015,5,0,Away,"",-,112
 2016,Penn St.-Abington,30114,Wilson,12973,09/27/2015,5,0,Away,"",-,42
-2016,Penn St.-Abington,30114,Penn St.-Berks,30044,10/01/2015,0,0,Home,"",-,0
+2016,Penn St.-Abington,30114,Penn St.-Berks,30044,10/01/2015,0,3,Home,"",-,74
 2016,Penn St.-Abington,30114,SUNY Poly,9500,10/03/2015,0,0,Away,"",-,0
 2016,Penn St.-Abington,30114,Cobleskill St.,30083,10/04/2015,0,0,Away,"",-,0
 2016,Penn St.-Abington,30114,Stockton,681,10/07/2015,0,0,Home,"",-,0
@@ -11713,7 +11701,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Penn St.-Berks,30044,Messiah,411,09/25/2015,0,6,Away,"",-,"1,220"
 2016,Penn St.-Berks,30044,Cazenovia,23624,09/26/2015,7,0,Home,"",-,189
 2016,Penn St.-Berks,30044,Morrisville St.,30067,09/27/2015,13,0,Home,"",-,88
-2016,Penn St.-Berks,30044,Penn St.-Abington,30114,10/01/2015,0,0,Away,"",-,0
+2016,Penn St.-Berks,30044,Penn St.-Abington,30114,10/01/2015,3,0,Away,"",-,74
 2016,Penn St.-Berks,30044,Lancaster Bible,30085,10/03/2015,0,0,Away,"",-,0
 2016,Penn St.-Berks,30044,Gallaudet,245,10/11/2015,0,0,Away,"",-,0
 2016,Penn St.-Berks,30044,Scranton,633,10/21/2015,0,0,Home,"",-,0
@@ -11765,7 +11753,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Philadelphia U.,543,Dominican (NY),8956,09/19/2015,1,0,Away,"",-,115
 2016,Philadelphia U.,543,Goldey-Beacom,8366,09/23/2015,2,1,Home,"",-,57
 2016,Philadelphia U.,543,Caldwell,995,09/26/2015,0,1,Away,"",1 OT,55
-2016,Philadelphia U.,543,Molloy,437,09/30/2015,0,0,Home,"",-,0
 2016,Philadelphia U.,543,Bloomfield,984,10/03/2015,0,0,Home,"",-,0
 2016,Philadelphia U.,543,Felician,23157,10/10/2015,0,0,Away,"",-,0
 2016,Philadelphia U.,543,Wilmington (DE),1460,10/13/2015,0,0,Away,"",-,0
@@ -11888,7 +11875,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Plattsburgh St.,547,Skidmore,642,09/19/2015,2,1,Home,"",-,221
 2016,Plattsburgh St.,547,Middlebury,420,09/22/2015,2,1,Home,"",2 OT,112
 2016,Plattsburgh St.,547,SUNY Potsdam,552,09/26/2015,1,0,Away,"",2 OT,174
-2016,Plattsburgh St.,547,SUNY Cortland,168,10/02/2015,0,0,Away,"",-,0
+2016,Plattsburgh St.,547,SUNY Cortland,168,10/02/2015,1,0,Away,"",-,122
 2016,Plattsburgh St.,547,Oswego St.,530,10/03/2015,0,0,Away,"",-,0
 2016,Plattsburgh St.,547,SUNY New Paltz,475,10/09/2015,0,0,Home,"",-,0
 2016,Plattsburgh St.,547,SUNY Oneonta,526,10/10/2015,0,0,Home,"",-,0
@@ -11919,7 +11906,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Point Loma,30149,Sonoma St.,645,09/12/2015,0,1,Home,"",-,426
 2016,Point Loma,30149,Cal St. San Marcos,30198,09/15/2015,1,0,Home,"",-,87
 2016,Point Loma,30149,Dixie St.,30095,09/26/2015,3,0,Away,"",-,66
-2016,Point Loma,30149,Azusa Pacific,30146,10/01/2015,0,0,Home,"",-,0
+2016,Point Loma,30149,Azusa Pacific,30146,10/01/2015,1,0,Home,"",1 OT,747
 2016,Point Loma,30149,California Baptist,30135,10/03/2015,0,0,Home,"",-,0
 2016,Point Loma,30149,Hawaii Pacific,2696,10/06/2015,0,0,Home,"",-,0
 2016,Point Loma,30149,Fresno Pacific,30147,10/10/2015,0,0,Away,"",-,0
@@ -11961,7 +11948,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Portland,551,Washington,756,09/17/2015,1,2,Away,"",-,287
 2016,Portland,551,Washington St.,754,09/20/2015,2,0,Home,"",-,"2,039"
 2016,Portland,551,Denver,183,09/26/2015,2,1,Away,"",1 OT,902
-2016,Portland,551,San Diego,627,10/01/2015,0,0,Home,"",-,0
+2016,Portland,551,San Diego,627,10/01/2015,0,1,Home,"",-,"1,337"
 2016,Portland,551,BYU,77,10/03/2015,0,0,Home,"",-,0
 2016,Portland,551,St. Mary's (CA),610,10/09/2015,0,0,Away,"",-,0
 2016,Portland,551,Pacific,534,10/11/2015,0,0,Away,"",-,0
@@ -12085,7 +12072,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Providence,556,Boston U.,68,09/17/2015,1,2,Away,"",-,265
 2016,Providence,556,Harvard,275,09/22/2015,1,0,Away,"",-,209
 2016,Providence,556,Georgetown,251,09/27/2015,1,2,Home,"",2 OT,534
-2016,Providence,556,Xavier,812,10/01/2015,0,0,Away,"",-,0
+2016,Providence,556,Xavier,812,10/01/2015,1,0,Away,"",-,606
 2016,Providence,556,Butler,87,10/04/2015,0,0,Home,"",-,0
 2016,Providence,556,Villanova,739,10/08/2015,0,0,Home,"",-,0
 2016,Providence,556,Marquette,387,10/11/2015,0,0,Away,"",-,0
@@ -12173,7 +12160,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Queens (NY),560,Molloy,437,09/19/2015,1,0,Home,"",-,127
 2016,Queens (NY),560,Bridgeport,74,09/23/2015,0,5,Home,"",-,37
 2016,Queens (NY),560,LIU Post,362,09/26/2015,1,1,Home,"",2 OT,91
-2016,Queens (NY),560,Georgian Court,9004,10/01/2015,0,0,Home,"",-,0
+2016,Queens (NY),560,Georgian Court,9004,10/01/2015,1,1,Home,"",2 OT,64
 2016,Queens (NY),560,St. Thomas Aquinas,1348,10/03/2015,0,0,Away,"",-,0
 2016,Queens (NY),560,Daemen,30174,10/10/2015,0,0,Away,"",-,0
 2016,Queens (NY),560,Roberts Wesleyan,30150,10/11/2015,0,0,Away,"",-,0
@@ -12227,7 +12214,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Radford,563,Southern Va.,30164,09/18/2015,8,0,Home,"",-,405
 2016,Radford,563,Liberty,355,09/23/2015,2,3,Home,"",2 OT,535
 2016,Radford,563,Presbyterian,1320,09/26/2015,1,2,Home,"",-,292
-2016,Radford,563,Charleston So.,48,09/30/2015,0,0,Away,"",-,0
+2016,Radford,563,Charleston So.,48,10/01/2015,0,2,Away,"",-,53
 2016,Radford,563,Campbell,115,10/03/2015,0,0,Away,"",-,0
 2016,Radford,563,Longwood,363,10/07/2015,0,0,Away,"",-,0
 2016,Radford,563,UNC Asheville,456,10/10/2015,0,0,Home,"",-,0
@@ -12244,7 +12231,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Ramapo,564,NYU,479,09/23/2015,1,2,Home,"",-,125
 2016,Ramapo,564,Wm. Paterson,787,09/26/2015,2,1,Away,"",2 OT,75
 2016,Ramapo,564,Rutgers-Newark,589,09/30/2015,0,3,Home,"",-,45
-2016,Ramapo,564,Rowan,259,10/03/2015,0,0,Away,"",-,0
+2016,Ramapo,564,Rowan,259,10/07/2015,0,0,Away,"",-,0
 2016,Ramapo,564,Rutgers-Camden,588,10/10/2015,0,0,Home,"",-,0
 2016,Ramapo,564,New Jersey City,319,10/14/2015,0,0,Home,"",-,0
 2016,Ramapo,564,TCNJ,712,10/17/2015,0,0,Away,"",-,0
@@ -12277,8 +12264,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Randolph-Macon,565,Emory & Henry,216,09/19/2015,2,0,Away,"",-,155
 2016,Randolph-Macon,565,Va. Wesleyan,745,09/22/2015,0,1,Away,"",-,203
 2016,Randolph-Macon,565,Roanoke,578,09/26/2015,0,1,Home,"",-,264
-2016,Randolph-Macon,565,Shenandoah,637,09/30/2015,0,0,Away,"",-,0
-2016,Randolph-Macon,565,Hollins,284,10/03/2015,0,0,Home,"",-,0
+2016,Randolph-Macon,565,Shenandoah,637,09/30/2015,0,3,Away,"",-,178
 2016,Randolph-Macon,565,Lynchburg,374,10/07/2015,0,0,Home,"",-,0
 2016,Randolph-Macon,565,East. Mennonite,203,10/13/2015,0,0,Home,"",-,0
 2016,Randolph-Macon,565,Guilford,1112,10/17/2015,0,0,Home,"",-,0
@@ -12291,7 +12277,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Redlands,567,Cal Lutheran,105,09/19/2015,2,1,Home,"",-,228
 2016,Redlands,567,Pomona-Pitzer,549,09/23/2015,0,7,Away,"",-,47
 2016,Redlands,567,Whittier,781,09/27/2015,1,0,Home,"",1 OT,188
-2016,Redlands,567,Chapman,134,09/30/2015,0,0,Away,"",-,0
+2016,Redlands,567,Chapman,134,09/30/2015,1,0,Away,"",-,203
 2016,Redlands,567,La Verne,341,10/03/2015,0,0,Away,"",-,0
 2016,Redlands,567,Occidental,516,10/07/2015,0,0,Home,"",-,0
 2016,Redlands,567,Claremont-M-S,142,10/10/2015,0,0,Away,"",-,0
@@ -12366,7 +12352,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Rhode Island,572,Northeastern,500,09/13/2015,0,2,Home,"",-,250
 2016,Rhode Island,572,Vermont,738,09/20/2015,2,3,Home,"",-,150
 2016,Rhode Island,572,Albany (NY),14,09/24/2015,0,1,Home,"",-,120
-2016,Rhode Island,572,Fordham,236,10/01/2015,0,0,Away,"",-,0
+2016,Rhode Island,572,Fordham,236,10/01/2015,0,1,Away,"",-,149
 2016,Rhode Island,572,Saint Louis,609,10/04/2015,0,0,Home,"",-,0
 2016,Rhode Island,572,Saint Joseph's,606,10/08/2015,0,0,Away,"",-,0
 2016,Rhode Island,572,Richmond,575,10/11/2015,0,0,Home,"",-,0
@@ -12435,7 +12421,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Richmond,575,St. John's (NY),603,09/13/2015,0,3,Neutral,"Wilmington, N.C.",-,760
 2016,Richmond,575,James Madison,317,09/18/2015,0,1,Away,"",-,0
 2016,Richmond,575,Longwood,363,09/20/2015,0,1,Home,"",-,210
-2016,Richmond,575,Duquesne,194,10/01/2015,0,0,Home,"",-,0
+2016,Richmond,575,Duquesne,194,10/01/2015,2,1,Home,"",-,145
 2016,Richmond,575,Massachusetts,400,10/04/2015,0,0,Away,"",-,0
 2016,Richmond,575,Saint Louis,609,10/08/2015,0,0,Away,"",-,0
 2016,Richmond,575,Rhode Island,572,10/11/2015,0,0,Away,"",-,0
@@ -12647,7 +12633,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Rogers St.,30180,Tex. A&M-Texarkana,,09/20/2015,1,3,Home,"",-,278
 2016,Rogers St.,30180,William Jewell,30120,09/22/2015,0,5,Home,"",-,240
 2016,Rogers St.,30180,John Brown,,09/26/2015,1,4,Away,"",-,0
-2016,Rogers St.,30180,Dallas Baptist,1045,10/01/2015,0,0,Home,"",-,0
+2016,Rogers St.,30180,Dallas Baptist,1045,10/01/2015,2,6,Home,"",-,189
 2016,Rogers St.,30180,St. Edward's,1334,10/03/2015,0,0,Home,"",-,0
 2016,Rogers St.,30180,Lubbock Christian,30177,10/08/2015,0,0,Away,"",-,0
 2016,Rogers St.,30180,Tex. Permian Basin,30088,10/10/2015,0,0,Away,"",-,0
@@ -12715,7 +12701,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Rowan,259,Rutgers-Newark,589,09/26/2015,2,1,Away,"",-,283
 2016,Rowan,259,Alvernia,938,09/28/2015,4,0,Home,"",-,105
 2016,Rowan,259,Rutgers-Camden,588,09/30/2015,6,0,Home,"",-,65
-2016,Rowan,259,Ramapo,564,10/03/2015,0,0,Home,"",-,0
+2016,Rowan,259,Ramapo,564,10/07/2015,0,0,Home,"",-,0
 2016,Rowan,259,Montclair St.,442,10/10/2015,0,0,Away,"",-,0
 2016,Rowan,259,Stockton,681,10/14/2015,0,0,Home,"",-,0
 2016,Rowan,259,Wm. Paterson,787,10/16/2015,0,0,Home,"",-,0
@@ -12767,7 +12753,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Rutgers-Newark,589,Widener,783,09/23/2015,2,1,Away,"",-,66
 2016,Rutgers-Newark,589,Rowan,259,09/26/2015,1,2,Home,"",-,283
 2016,Rutgers-Newark,589,Ramapo,564,09/30/2015,3,0,Away,"",-,45
-2016,Rutgers-Newark,589,New Jersey City,319,10/03/2015,0,0,Away,"",-,0
+2016,Rutgers-Newark,589,New Jersey City,319,10/03/2015,0,0,Home,"",-,0
 2016,Rutgers-Newark,589,Mt. St. Mary (NY),1468,10/05/2015,0,0,Home,"",-,0
 2016,Rutgers-Newark,589,Stockton,681,10/10/2015,0,0,Home,"",-,0
 2016,Rutgers-Newark,589,Wm. Paterson,787,10/14/2015,0,0,Away,"",-,0
@@ -12819,7 +12805,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Sacred Heart,590,Iona,310,09/18/2015,3,2,Home,"",1 OT,263
 2016,Sacred Heart,590,Dartmouth,172,09/20/2015,0,6,Away,"",-,382
 2016,Sacred Heart,590,Brown,80,09/23/2015,2,3,Away,"",1 OT,282
-2016,Sacred Heart,590,Bryant,81,10/02/2015,0,0,Away,"",-,0
+2016,Sacred Heart,590,Bryant,81,10/02/2015,0,1,Away,"",-,0
 2016,Sacred Heart,590,Fairleigh Dickinson,222,10/04/2015,0,0,Home,"",-,0
 2016,Sacred Heart,590,Robert Morris,579,10/09/2015,0,0,Away,"",-,0
 2016,Sacred Heart,590,Saint Francis (PA),600,10/11/2015,0,0,Away,"",-,0
@@ -12853,7 +12839,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Saginaw Valley,591,Grand Valley St.,262,09/22/2015,1,6,Away,"",-,276
 2016,Saginaw Valley,591,Lake Erie,2746,09/25/2015,1,2,Away,"",-,102
 2016,Saginaw Valley,591,Ashland,35,09/27/2015,1,2,Away,"",-,110
-2016,Saginaw Valley,591,Grand Valley St.,262,10/02/2015,0,0,Home,"",-,0
+2016,Saginaw Valley,591,Grand Valley St.,262,10/02/2015,0,2,Home,"",-,50
 2016,Saginaw Valley,591,Ferris St.,224,10/04/2015,0,0,Away,"",-,0
 2016,Saginaw Valley,591,Walsh,30141,10/09/2015,0,0,Home,"",-,0
 2016,Saginaw Valley,591,Malone,30137,10/16/2015,0,0,Home,"",-,0
@@ -12888,7 +12874,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Saint Francis (PA),600,UC Santa Barbara,104,09/13/2015,2,3,Home,"",-,120
 2016,Saint Francis (PA),600,Towson,711,09/18/2015,1,2,Away,"",2 OT,361
 2016,Saint Francis (PA),600,Navy,726,09/20/2015,0,4,Away,"",-,316
-2016,Saint Francis (PA),600,LIU Brooklyn,361,10/02/2015,0,0,Away,"",-,0
+2016,Saint Francis (PA),600,LIU Brooklyn,361,10/02/2015,2,1,Away,"",1 OT,51
 2016,Saint Francis (PA),600,Mt. St. Mary's,450,10/04/2015,0,0,Away,"",-,0
 2016,Saint Francis (PA),600,Bryant,81,10/09/2015,0,0,Home,"",-,0
 2016,Saint Francis (PA),600,Sacred Heart,590,10/11/2015,0,0,Home,"",-,0
@@ -12905,7 +12891,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Saint Joseph's,606,Delaware,180,09/18/2015,2,0,Home,"",-,256
 2016,Saint Joseph's,606,Temple,690,09/20/2015,1,3,Away,"",-,200
 2016,Saint Joseph's,606,LIU Brooklyn,361,09/25/2015,2,0,Home,"",-,450
-2016,Saint Joseph's,606,George Washington,249,10/01/2015,0,0,Away,"",-,0
+2016,Saint Joseph's,606,George Washington,249,10/01/2015,0,2,Away,"",-,41
 2016,Saint Joseph's,606,Fordham,236,10/04/2015,0,0,Home,"",-,0
 2016,Saint Joseph's,606,Rhode Island,572,10/08/2015,0,0,Home,"",-,0
 2016,Saint Joseph's,606,La Salle,340,10/11/2015,0,0,Home,"",-,0
@@ -12940,7 +12926,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Saint Louis,609,Drake,189,09/13/2015,3,4,Home,"",-,397
 2016,Saint Louis,609,Evansville,219,09/17/2015,2,0,Home,"",-,219
 2016,Saint Louis,609,Murray St.,454,09/27/2015,2,0,Away,"",-,245
-2016,Saint Louis,609,Dayton,175,10/01/2015,0,0,Home,"",-,0
+2016,Saint Louis,609,Dayton,175,10/01/2015,0,1,Home,"",-,"2,247"
 2016,Saint Louis,609,Rhode Island,572,10/04/2015,0,0,Away,"",-,0
 2016,Saint Louis,609,Richmond,575,10/08/2015,0,0,Home,"",-,0
 2016,Saint Louis,609,George Mason,248,10/11/2015,0,0,Away,"",-,0
@@ -12956,7 +12942,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Saint Martin's,1343,Trinity Lutheran,,09/14/2015,4,0,Home,"",-,55
 2016,Saint Martin's,1343,Western Wash.,1448,09/24/2015,0,3,Away,"",-,710
 2016,Saint Martin's,1343,Seattle Pacific,634,09/26/2015,1,2,Home,"",1 OT,213
-2016,Saint Martin's,1343,Concordia Portland,30200,10/01/2015,0,0,Away,"",-,0
+2016,Saint Martin's,1343,Concordia Portland,30200,10/01/2015,0,2,Away,"",-,234
 2016,Saint Martin's,1343,Mont. St. Billings,205,10/03/2015,0,0,Home,"",-,0
 2016,Saint Martin's,1343,Simon Fraser,30127,10/08/2015,0,0,Away,"",-,0
 2016,Saint Martin's,1343,Central Wash.,1010,10/10/2015,0,0,Away,"",-,0
@@ -12994,7 +12980,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Saint Michael's,613,Adelphi,3,09/19/2015,0,3,Away,"",-,156
 2016,Saint Michael's,613,New Haven,470,09/22/2015,0,1,Home,"",-,119
 2016,Saint Michael's,613,Pace,533,09/26/2015,2,3,Home,"",-,152
-2016,Saint Michael's,613,St. Anselm,593,09/30/2015,0,0,Away,"",-,0
+2016,Saint Michael's,613,St. Anselm,593,09/30/2015,0,2,Away,"",-,59
 2016,Saint Michael's,613,Stonehill,682,10/03/2015,0,0,Home,"",-,0
 2016,Saint Michael's,613,American Int'l,22,10/06/2015,0,0,Away,"",-,0
 2016,Saint Michael's,613,Assumption,36,10/14/2015,0,0,Home,"",-,0
@@ -13067,7 +13053,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Salem,30041,East. Mennonite,203,09/26/2015,8,2,Home,"",-,89
 2016,Salem,30041,West Va. Tech,,10/02/2015,0,0,Home,"",-,0
 2016,Salem,30041,Washington Adventist,,10/03/2015,0,0,Neutral,"Winston-Salem, NC",-,0
-2016,Salem,30041,Ferrum,225,10/06/2015,0,0,Home,"",-,0
 2016,Salem,30041,Agnes Scott,11324,10/10/2015,0,0,Away,"",-,0
 2016,Salem,30041,Wesleyan (GA),14718,10/17/2015,0,0,Away,"",-,0
 2016,Salem,30041,Wesleyan (GA),14718,10/18/2015,0,0,Away,"",-,0
@@ -13080,7 +13065,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Salem Int'l,19117,Trevecca Nazarene,30002,09/19/2015,0,10,Away,"",-,300
 2016,Salem Int'l,19117,Davis & Elkins,174,09/24/2015,0,15,Away,"",-,34
 2016,Salem Int'l,19117,Alderson Broaddus,934,09/26/2015,0,8,Away,"",-,119
-2016,Salem Int'l,19117,Ohio Valley,15207,10/01/2015,0,0,Home,"",-,0
+2016,Salem Int'l,19117,Ohio Valley,15207,10/01/2015,0,11,Home,"",-,75
 2016,Salem Int'l,19117,Cedarville,30124,10/06/2015,0,0,Home,"",-,0
 2016,Salem Int'l,19117,Trevecca Nazarene,30002,10/08/2015,0,0,Home,"",-,0
 2016,Salem Int'l,19117,Ky. Wesleyan,333,10/10/2015,0,0,Home,"",-,0
@@ -13115,8 +13100,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Salisbury,622,Stevenson,21852,09/22/2015,1,0,Away,"",1 OT,468
 2016,Salisbury,622,Penn St. Harrisburg,30081,09/26/2015,3,2,Home,"",1 OT,300
 2016,Salisbury,622,Marymount (VA),394,09/29/2015,4,0,Home,"",-,100
-2016,Salisbury,622,Southern Va.,30164,10/03/2015,0,0,Away,"",-,0
-2016,Salisbury,622,Bridgewater (VA),75,10/04/2015,0,0,Away,"",-,0
 2016,Salisbury,622,St. Mary's (MD),611,10/07/2015,0,0,Home,"",-,0
 2016,Salisbury,622,Frostburg St.,243,10/10/2015,0,0,Away,"",-,0
 2016,Salisbury,622,York (PA),815,10/17/2015,0,0,Home,"",-,0
@@ -13133,7 +13116,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Salve Regina,623,Worcester St.,809,09/24/2015,1,0,Home,"",-,73
 2016,Salve Regina,623,U New England,1255,09/26/2015,1,2,Home,"",-,193
 2016,Salve Regina,623,Fitchburg St.,227,09/29/2015,2,1,Home,"",1 OT,43
-2016,Salve Regina,623,Wentworth,762,10/03/2015,0,0,Home,"",-,0
+2016,Salve Regina,623,Wentworth,762,10/04/2015,0,0,Home,"",-,0
 2016,Salve Regina,623,Framingham St.,238,10/07/2015,0,0,Away,"",-,0
 2016,Salve Regina,623,Roger Williams,583,10/10/2015,0,0,Home,"",-,0
 2016,Salve Regina,623,Coast Guard,722,10/15/2015,0,0,Home,"",-,0
@@ -13188,7 +13171,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,San Diego,627,Oregon St.,528,09/20/2015,0,0,Home,"",2 OT,302
 2016,San Diego,627,CSUN,101,09/25/2015,4,1,Home,"",-,237
 2016,San Diego,627,Cal St. Fullerton,97,09/27/2015,3,6,Away,"",-,502
-2016,San Diego,627,Portland,551,10/01/2015,0,0,Away,"",-,0
+2016,San Diego,627,Portland,551,10/01/2015,1,0,Away,"",-,"1,337"
 2016,San Diego,627,Gonzaga,260,10/03/2015,0,0,Away,"",-,0
 2016,San Diego,627,BYU,77,10/09/2015,0,0,Away,"",-,0
 2016,San Diego,627,St. Mary's (CA),610,10/16/2015,0,0,Home,"",-,0
@@ -13335,8 +13318,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Scranton,633,Farmingdale St.,27892,09/19/2015,1,0,Away,"",-,250
 2016,Scranton,633,Muhlenberg,453,09/22/2015,2,0,Home,"",-,125
 2016,Scranton,633,Susquehanna,685,09/26/2015,3,0,Home,"",-,250
-2016,Scranton,633,Wilkes,784,09/30/2015,0,0,Home,"",-,0
-2016,Scranton,633,Juniata,325,10/03/2015,0,0,Away,"",-,0
+2016,Scranton,633,Juniata,325,10/02/2015,0,0,Away,"",-,0
 2016,Scranton,633,Western Conn. St.,770,10/07/2015,0,0,Home,"",-,0
 2016,Scranton,633,Goucher,1467,10/10/2015,0,0,Away,"",-,0
 2016,Scranton,633,Drew,190,10/14/2015,0,0,Away,"",-,0
@@ -13369,7 +13351,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Seattle Pacific,634,Simon Fraser,30127,09/19/2015,0,0,Home,"",2 OT,217
 2016,Seattle Pacific,634,Northwest Nazarene,1274,09/24/2015,0,1,Away,"",-,154
 2016,Seattle Pacific,634,Saint Martin's,1343,09/26/2015,2,1,Away,"",1 OT,213
-2016,Seattle Pacific,634,Western Wash.,1448,10/01/2015,0,0,Home,"",-,0
+2016,Seattle Pacific,634,Western Wash.,1448,10/01/2015,0,1,Home,"",-,425
 2016,Seattle Pacific,634,Northwest Nazarene,1274,10/03/2015,0,0,Home,"",-,0
 2016,Seattle Pacific,634,Concordia Portland,30200,10/08/2015,0,0,Home,"",-,0
 2016,Seattle Pacific,634,Western Ore.,1446,10/10/2015,0,0,Away,"",-,0
@@ -13389,7 +13371,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Seton Hall,635,Cornell,167,09/17/2015,0,1,Home,"",-,281
 2016,Seton Hall,635,Albany (NY),14,09/20/2015,1,0,Home,"",2 OT,342
 2016,Seton Hall,635,St. John's (NY),603,09/27/2015,0,3,Away,"",-,639
-2016,Seton Hall,635,Marquette,387,10/01/2015,0,0,Home,"",-,0
+2016,Seton Hall,635,Marquette,387,10/01/2015,1,0,Home,"",-,112
 2016,Seton Hall,635,DePaul,176,10/04/2015,0,0,Away,"",-,0
 2016,Seton Hall,635,Creighton,169,10/08/2015,0,0,Home,"",-,0
 2016,Seton Hall,635,Xavier,812,10/11/2015,0,0,Away,"",-,0
@@ -13440,7 +13422,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Shenandoah,637,Wesley,763,09/17/2015,1,0,Away,"",-,285
 2016,Shenandoah,637,Susquehanna,685,09/19/2015,3,0,Home,"",-,177
 2016,Shenandoah,637,Va. Wesleyan,745,09/26/2015,1,2,Home,"",-,105
-2016,Shenandoah,637,Randolph-Macon,565,09/30/2015,0,0,Home,"",-,0
+2016,Shenandoah,637,Randolph-Macon,565,09/30/2015,3,0,Home,"",-,178
 2016,Shenandoah,637,Roanoke,578,10/03/2015,0,0,Away,"",-,0
 2016,Shenandoah,637,Hollins,284,10/06/2015,0,0,Home,"",-,0
 2016,Shenandoah,637,Emory & Henry,216,10/11/2015,0,0,Away,"",-,0
@@ -13530,7 +13512,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Simmons,640,Albertus Magnus,2798,09/19/2015,2,1,Home,"",-,114
 2016,Simmons,640,Westfield St.,777,09/22/2015,0,1,Home,"",-,92
 2016,Simmons,640,Lasell,8486,09/26/2015,0,4,Away,"",-,172
-2016,Simmons,640,Mount Ida,27901,09/30/2015,0,0,Home,"",-,0
+2016,Simmons,640,Mount Ida,27901,09/30/2015,8,0,Home,"",-,52
 2016,Simmons,640,Rivier,18422,10/03/2015,0,0,Away,"",-,0
 2016,Simmons,640,Norwich,511,10/07/2015,0,0,Away,"",-,0
 2016,Simmons,640,Suffolk,684,10/10/2015,0,0,Away,"",-,0
@@ -13545,7 +13527,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Simon Fraser,30127,Seattle Pacific,634,09/19/2015,0,0,Away,"",2 OT,217
 2016,Simon Fraser,30127,Central Wash.,1010,09/24/2015,1,0,Home,"",-,114
 2016,Simon Fraser,30127,Western Wash.,1448,09/26/2015,0,5,Home,"",-,223
-2016,Simon Fraser,30127,Mont. St. Billings,205,10/01/2015,0,0,Home,"",-,0
+2016,Simon Fraser,30127,Mont. St. Billings,205,10/01/2015,1,0,Home,"",-,152
 2016,Simon Fraser,30127,Concordia Portland,30200,10/03/2015,0,0,Home,"",-,0
 2016,Simon Fraser,30127,Saint Martin's,1343,10/08/2015,0,0,Home,"",-,0
 2016,Simon Fraser,30127,Northwest Nazarene,1274,10/10/2015,0,0,Away,"",-,0
@@ -13671,7 +13653,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,SMU,663,TCU,698,09/18/2015,0,2,Home,"",-,"1,032"
 2016,SMU,663,Cincinnati,140,09/24/2015,2,2,Home,"",2 OT,153
 2016,SMU,663,East Carolina,196,09/27/2015,2,1,Home,"",-,362
-2016,SMU,663,Tulsa,719,10/01/2015,0,0,Away,"",-,0
+2016,SMU,663,Tulsa,719,10/01/2015,1,2,Away,"",-,154
 2016,SMU,663,Memphis,404,10/04/2015,0,0,Away,"",-,0
 2016,SMU,663,Houston,288,10/09/2015,0,0,Home,"",-,0
 2016,SMU,663,UCF,128,10/15/2015,0,0,Home,"",-,0
@@ -13793,7 +13775,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,South Fla.,651,Texas Tech,700,09/20/2015,1,2,Away,"",2 OT,877
 2016,South Fla.,651,UConn,164,09/24/2015,1,0,Home,"",-,"1,107"
 2016,South Fla.,651,Temple,690,09/27/2015,1,0,Home,"",-,408
-2016,South Fla.,651,Cincinnati,140,10/01/2015,0,0,Away,"",-,0
+2016,South Fla.,651,Cincinnati,140,10/02/2015,0,0,Away,"",-,0
 2016,South Fla.,651,East Carolina,196,10/04/2015,0,0,Away,"",-,0
 2016,South Fla.,651,Tulsa,719,10/08/2015,0,0,Home,"",-,0
 2016,South Fla.,651,Memphis,404,10/11/2015,0,0,Home,"",-,0
@@ -13847,7 +13829,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Southern California,657,Pacific,534,09/18/2015,3,1,Away,"",-,0
 2016,Southern California,657,St. Mary's (CA),610,09/20/2015,2,0,Away,"",-,395
 2016,Southern California,657,Oregon St.,528,09/26/2015,2,1,Home,"",-,501
-2016,Southern California,657,Washington St.,754,10/01/2015,0,0,Away,"",-,0
+2016,Southern California,657,Washington St.,754,10/01/2015,1,0,Away,"",-,"1,015"
 2016,Southern California,657,Washington,756,10/04/2015,0,0,Away,"",-,0
 2016,Southern California,657,Arizona St.,28,10/09/2015,0,0,Home,"",-,0
 2016,Southern California,657,Arizona,29,10/11/2015,0,0,Home,"",-,0
@@ -13933,7 +13915,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Southern N.H.,468,Southern Conn. St.,658,09/19/2015,1,0,Away,"",2 OT,200
 2016,Southern N.H.,468,Stonehill,682,09/22/2015,2,0,Home,"",-,206
 2016,Southern N.H.,468,Assumption,36,09/26/2015,2,0,Home,"",-,146
-2016,Southern N.H.,468,Bentley,56,09/30/2015,0,0,Away,"",-,0
+2016,Southern N.H.,468,Bentley,56,10/01/2015,1,0,Away,"",2 OT,56
 2016,Southern N.H.,468,Le Moyne,349,10/03/2015,0,0,Away,"",-,0
 2016,Southern N.H.,468,Merrimack,410,10/06/2015,0,0,Away,"",-,0
 2016,Southern N.H.,468,Pace,533,10/10/2015,0,0,Home,"",-,0
@@ -13952,7 +13934,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Southern Nazarene,30152,Ouachita Baptist,1289,09/24/2015,0,1,Away,"",-,78
 2016,Southern Nazarene,30152,Harding,1116,09/26/2015,0,2,Away,"",-,210
 2016,Southern Nazarene,30152,Okla. Baptist,30202,09/29/2015,4,0,Home,"",-,215
-2016,Southern Nazarene,30152,East Central,8965,10/01/2015,0,0,Away,"",-,0
+2016,Southern Nazarene,30152,East Central,8965,10/01/2015,0,3,Away,"",-,124
 2016,Southern Nazarene,30152,Southwestern Okla.,8744,10/08/2015,0,0,Home,"",-,0
 2016,Southern Nazarene,30152,Northwestern Okla.,30178,10/10/2015,0,0,Home,"",-,0
 2016,Southern Nazarene,30152,Ouachita Baptist,1289,10/15/2015,0,0,Home,"",-,0
@@ -14005,7 +13987,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Southern Va.,30164,Averett,44,09/22/2015,4,3,Home,"",-,125
 2016,Southern Va.,30164,St. Mary's (MD),611,09/26/2015,1,7,Away,"",-,60
 2016,Southern Va.,30164,Barton,15646,09/30/2015,0,5,Home,"",-,25
-2016,Southern Va.,30164,Salisbury,622,10/03/2015,0,0,Home,"",-,0
 2016,Southern Va.,30164,Chris. Newport,139,10/06/2015,0,0,Home,"",-,0
 2016,Southern Va.,30164,Wesley,763,10/10/2015,0,0,Home,"",-,0
 2016,Southern Va.,30164,Mary Washington,390,10/14/2015,0,0,Home,"",-,0
@@ -14038,7 +14019,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Southern Wesleyan,30192,Emmanuel (GA),30193,09/22/2015,1,3,Home,"",-,134
 2016,Southern Wesleyan,30192,Barton,15646,09/27/2015,0,2,Home,"",-,65
 2016,Southern Wesleyan,30192,Mars Hill,1199,09/30/2015,1,3,Away,"",-,51
-2016,Southern Wesleyan,30192,Limestone,1174,10/03/2015,0,0,Away,"",-,0
+2016,Southern Wesleyan,30192,Limestone,1174,10/08/2015,0,0,Away,"",-,0
 2016,Southern Wesleyan,30192,Mount Olive,1245,10/10/2015,0,0,Away,"",-,0
 2016,Southern Wesleyan,30192,Converse,8935,10/14/2015,0,0,Home,"",-,0
 2016,Southern Wesleyan,30192,Belmont Abbey,2683,10/17/2015,0,0,Home,"",-,0
@@ -14111,7 +14092,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Southwestern Okla.,8744,Newman,30054,09/19/2015,2,0,Home,"",-,212
 2016,Southwestern Okla.,8744,Northwestern Okla.,30178,09/22/2015,2,0,Home,"",-,177
 2016,Southwestern Okla.,8744,East Central,8965,09/24/2015,4,0,Away,"",-,189
-2016,Southwestern Okla.,8744,Harding,1116,10/01/2015,0,0,Home,"",-,0
+2016,Southwestern Okla.,8744,Harding,1116,10/01/2015,2,2,Home,"",2 OT,182
 2016,Southwestern Okla.,8744,Ouachita Baptist,1289,10/03/2015,0,0,Home,"",-,0
 2016,Southwestern Okla.,8744,Southern Nazarene,30152,10/08/2015,0,0,Away,"",-,0
 2016,Southwestern Okla.,8744,Okla. Baptist,30202,10/10/2015,0,0,Away,"",-,0
@@ -14184,7 +14165,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,St. Anselm,593,Assumption,36,09/19/2015,1,2,Away,"",-,278
 2016,St. Anselm,593,Bentley,56,09/22/2015,2,0,Home,"",-,82
 2016,St. Anselm,593,Le Moyne,349,09/26/2015,2,1,Home,"",-,168
-2016,St. Anselm,593,Saint Michael's,613,09/30/2015,0,0,Home,"",-,0
+2016,St. Anselm,593,Saint Michael's,613,09/30/2015,2,0,Home,"",-,59
 2016,St. Anselm,593,Pace,533,10/03/2015,0,0,Away,"",-,0
 2016,St. Anselm,593,Roberts Wesleyan,30150,10/05/2015,0,0,Neutral,"Albany, NY",-,0
 2016,St. Anselm,593,Stonehill,682,10/10/2015,0,0,Away,"",-,0
@@ -14220,7 +14201,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,St. Catherine,597,Carleton,118,09/15/2015,0,1,Away,"",-,137
 2016,St. Catherine,597,Hamline,268,09/19/2015,4,2,Home,"",-,130
 2016,St. Catherine,597,Elmhurst,212,09/26/2015,2,1,Away,"",-,98
-2016,St. Catherine,597,Macalester,376,09/30/2015,0,0,Away,"",-,0
+2016,St. Catherine,597,Macalester,376,09/30/2015,0,2,Away,"",-,188
 2016,St. Catherine,597,Saint Benedict,595,10/03/2015,0,0,Home,"",-,0
 2016,St. Catherine,597,Bethany Lutheran,30038,10/05/2015,0,0,Away,"",-,0
 2016,St. Catherine,597,Augsburg,38,10/07/2015,0,0,Home,"",-,0
@@ -14254,7 +14235,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,St. Edward's,1334,Western Wash.,1448,09/16/2015,1,2,Home,"",-,72
 2016,St. Edward's,1334,Bridgeport,74,09/20/2015,2,0,Home,"",-,138
 2016,St. Edward's,1334,Dallas Baptist,1045,09/24/2015,0,2,Away,"",-,331
-2016,St. Edward's,1334,Okla. Christian,30179,10/01/2015,0,0,Away,"",-,0
+2016,St. Edward's,1334,Okla. Christian,30179,10/01/2015,3,0,Away,"",-,250
 2016,St. Edward's,1334,Rogers St.,30180,10/03/2015,0,0,Away,"",-,0
 2016,St. Edward's,1334,Tex. A&M Int'l,30090,10/08/2015,0,0,Home,"",-,0
 2016,St. Edward's,1334,Newman,30054,10/10/2015,0,0,Away,"",-,0
@@ -14309,7 +14290,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,St. John's (NY),603,Richmond,575,09/13/2015,3,0,Neutral,"Wilmington, N.C.",-,760
 2016,St. John's (NY),603,Fairleigh Dickinson,222,09/20/2015,3,1,Home,"",-,767
 2016,St. John's (NY),603,Seton Hall,635,09/27/2015,3,0,Home,"",-,639
-2016,St. John's (NY),603,Butler,87,10/01/2015,0,0,Away,"",-,0
+2016,St. John's (NY),603,Butler,87,10/01/2015,1,0,Away,"",-,403
 2016,St. John's (NY),603,Marquette,387,10/04/2015,0,0,Home,"",-,0
 2016,St. John's (NY),603,Georgetown,251,10/08/2015,0,0,Away,"",-,0
 2016,St. John's (NY),603,Creighton,169,10/11/2015,0,0,Home,"",-,0
@@ -14378,7 +14359,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,St. Joseph's (L.I.),1340,Brooklyn,79,09/14/2015,2,0,Home,"",-,105
 2016,St. Joseph's (L.I.),1340,Mt. St. Mary (NY),1468,09/19/2015,0,1,Away,"",-,175
 2016,St. Joseph's (L.I.),1340,Sage Colleges,11036,09/27/2015,2,3,Away,"",1 OT,187
-2016,St. Joseph's (L.I.),1340,Staten Island,675,09/30/2015,0,0,Home,"",-,0
 2016,St. Joseph's (L.I.),1340,SUNY Maritime,478,10/03/2015,0,0,Home,"",-,0
 2016,St. Joseph's (L.I.),1340,Montclair St.,442,10/07/2015,0,0,Home,"",-,0
 2016,St. Joseph's (L.I.),1340,Mt. St. Vincent,451,10/10/2015,0,0,Home,"",-,0
@@ -14450,7 +14430,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,St. Mary's (IN),8688,Trine,30037,09/17/2015,4,1,Home,"",-,53
 2016,St. Mary's (IN),8688,Calvin,114,09/23/2015,0,3,Home,"",-,49
 2016,St. Mary's (IN),8688,Hope,286,09/26/2015,0,3,Away,"",-,296
-2016,St. Mary's (IN),8688,Adrian,4,09/29/2015,0,0,Away,"",-,0
+2016,St. Mary's (IN),8688,Adrian,4,09/29/2015,0,0,Away,"",2 OT,99
 2016,St. Mary's (IN),8688,Alma,21,10/03/2015,0,0,Away,"",-,0
 2016,St. Mary's (IN),8688,Albion,15,10/07/2015,0,0,Away,"",-,0
 2016,St. Mary's (IN),8688,Olivet,525,10/10/2015,0,0,Home,"",-,0
@@ -14486,7 +14466,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,St. Mary's (TX),1346,Tex. A&M-Commerce,199,09/19/2015,1,0,Home,"",-,257
 2016,St. Mary's (TX),1346,Tex. A&M Int'l,30090,09/21/2015,1,0,Home,"",-,107
 2016,St. Mary's (TX),1346,Our Lady Of The Lake,,09/24/2015,2,0,Home,"",-,267
-2016,St. Mary's (TX),1346,Lubbock Christian,30177,10/01/2015,0,0,Away,"",-,0
+2016,St. Mary's (TX),1346,Lubbock Christian,30177,10/01/2015,1,3,Away,"",-,76
 2016,St. Mary's (TX),1346,Tex. Permian Basin,30088,10/03/2015,0,0,Away,"",-,0
 2016,St. Mary's (TX),1346,Tex. A&M Int'l,30090,10/11/2015,0,0,Away,"",-,0
 2016,St. Mary's (TX),1346,Rogers St.,30180,10/15/2015,0,0,Home,"",-,0
@@ -14608,7 +14588,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Staten Island,675,Medgar Evers,403,09/16/2015,14,0,Away,"",-,35
 2016,Staten Island,675,Lehman,279,09/19/2015,1,5,Away,"",-,101
 2016,Staten Island,675,York (NY),2730,09/23/2015,11,0,Home,"",-,62
-2016,Staten Island,675,St. Joseph's (L.I.),1340,09/30/2015,0,0,Away,"",-,0
 2016,Staten Island,675,John Jay,321,10/03/2015,0,0,Away,"",-,0
 2016,Staten Island,675,St. Joseph's (Brkln),30072,10/06/2015,0,0,Home,"",-,0
 2016,Staten Island,675,CCNY,480,10/10/2015,0,0,Away,"",-,0
@@ -14659,8 +14638,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Stevens,679,Houghton,30160,09/19/2015,2,0,Home,"",-,65
 2016,Stevens,679,Farmingdale St.,27892,09/23/2015,6,3,Home,"",-,153
 2016,Stevens,679,Ithaca,313,09/26/2015,1,1,Away,"",2 OT,300
-2016,Stevens,679,Drew,190,09/29/2015,4,0,Home,"",-,97
-2016,Stevens,679,Drew,190,09/30/2015,0,0,Home,"",-,0
+2016,Stevens,679,Drew,190,09/30/2015,4,0,Home,"",-,97
 2016,Stevens,679,Elmira,213,10/03/2015,0,0,Home,"",-,0
 2016,Stevens,679,St. John Fisher,601,10/10/2015,0,0,Away,"",-,0
 2016,Stevens,679,Nazareth,461,10/11/2015,0,0,Away,"",-,0
@@ -14738,7 +14716,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Stony Brook,683,Yale,813,09/20/2015,1,1,Home,"",2 OT,190
 2016,Stony Brook,683,Fairfield,220,09/23/2015,2,2,Home,"",2 OT,204
 2016,Stony Brook,683,Vermont,738,09/27/2015,0,1,Away,"",-,136
-2016,Stony Brook,683,Hartford,272,10/01/2015,0,0,Away,"",-,0
+2016,Stony Brook,683,Hartford,272,10/01/2015,0,1,Away,"",-,248
 2016,Stony Brook,683,Albany (NY),14,10/08/2015,0,0,Home,"",-,0
 2016,Stony Brook,683,New Hampshire,469,10/11/2015,0,0,Home,"",-,0
 2016,Stony Brook,683,Binghamton,62,10/15/2015,0,0,Away,"",-,0
@@ -14805,7 +14783,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,SUNY Canton,30165,D'Youville,1059,09/19/2015,0,9,Away,"",-,75
 2016,SUNY Canton,30165,SUNY ESF,,09/24/2015,0,4,Home,"",-,143
 2016,SUNY Canton,30165,Bryant & Stratton,,09/26/2015,0,1,Home,"",-,450
-2016,SUNY Canton,30165,SUNY Poly,9500,10/01/2015,0,0,Home,"",-,0
+2016,SUNY Canton,30165,SUNY Poly,9500,10/01/2015,2,1,Home,"",1 OT,246
 2016,SUNY Canton,30165,Alfred,18,10/03/2015,0,0,Home,"",-,0
 2016,SUNY Canton,30165,Paul Smiths,,10/07/2015,0,0,Away,"",-,0
 2016,SUNY Canton,30165,SUNY Delhi,,10/10/2015,0,0,Home,"",-,0
@@ -14823,7 +14801,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,SUNY Cortland,168,Ithaca,313,09/20/2015,3,2,Neutral,"Rochester, NY",-,75
 2016,SUNY Cortland,168,SUNY New Paltz,475,09/25/2015,2,0,Away,"",-,40
 2016,SUNY Cortland,168,SUNY Oneonta,526,09/26/2015,1,2,Away,"",-,361
-2016,SUNY Cortland,168,Plattsburgh St.,547,10/02/2015,0,0,Home,"",-,0
+2016,SUNY Cortland,168,Plattsburgh St.,547,10/02/2015,0,1,Home,"",-,122
 2016,SUNY Cortland,168,SUNY Potsdam,552,10/03/2015,0,0,Home,"",-,0
 2016,SUNY Cortland,168,Buffalo St.,85,10/09/2015,0,0,Home,"",-,0
 2016,SUNY Cortland,168,Fredonia,242,10/10/2015,0,0,Home,"",-,0
@@ -14839,7 +14817,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,SUNY Geneseo,247,Farmingdale St.,27892,09/20/2015,2,0,Away,"",-,200
 2016,SUNY Geneseo,247,Fredonia,242,09/25/2015,1,0,Away,"",-,150
 2016,SUNY Geneseo,247,Buffalo St.,85,09/26/2015,0,1,Away,"",-,135
-2016,SUNY Geneseo,247,SUNY New Paltz,475,10/02/2015,0,0,Home,"",-,0
+2016,SUNY Geneseo,247,SUNY New Paltz,475,10/02/2015,3,0,Home,"",-,100
 2016,SUNY Geneseo,247,SUNY Oneonta,526,10/03/2015,0,0,Home,"",-,0
 2016,SUNY Geneseo,247,Houghton,30160,10/07/2015,0,0,Away,"",-,0
 2016,SUNY Geneseo,247,Brockport,78,10/10/2015,0,0,Away,"",-,0
@@ -14878,7 +14856,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,SUNY New Paltz,475,Vassar,737,09/22/2015,0,2,Away,"",-,35
 2016,SUNY New Paltz,475,SUNY Cortland,168,09/25/2015,0,2,Home,"",-,40
 2016,SUNY New Paltz,475,Oswego St.,530,09/26/2015,1,0,Home,"",-,80
-2016,SUNY New Paltz,475,SUNY Geneseo,247,10/02/2015,0,0,Away,"",-,0
+2016,SUNY New Paltz,475,SUNY Geneseo,247,10/02/2015,0,3,Away,"",-,100
 2016,SUNY New Paltz,475,Brockport,78,10/03/2015,0,0,Away,"",-,0
 2016,SUNY New Paltz,475,Plattsburgh St.,547,10/09/2015,0,0,Away,"",-,0
 2016,SUNY New Paltz,475,SUNY Potsdam,552,10/10/2015,0,0,Away,"",-,0
@@ -14910,7 +14888,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,SUNY Poly,9500,MCLA,486,09/23/2015,3,2,Home,"",-,85
 2016,SUNY Poly,9500,Penn College,30190,09/26/2015,2,2,Away,"",2 OT,30
 2016,SUNY Poly,9500,St. Elizabeth,9684,09/27/2015,5,0,Away,"",-,47
-2016,SUNY Poly,9500,SUNY Canton,30165,10/01/2015,0,0,Away,"",-,0
+2016,SUNY Poly,9500,SUNY Canton,30165,10/01/2015,1,2,Away,"",1 OT,246
 2016,SUNY Poly,9500,Penn St.-Abington,30114,10/03/2015,0,0,Home,"",-,0
 2016,SUNY Poly,9500,Cobleskill St.,30083,10/10/2015,0,0,Home,"",-,0
 2016,SUNY Poly,9500,Hamilton,267,10/11/2015,0,0,Away,"",-,0
@@ -14930,7 +14908,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,SUNY Potsdam,552,Utica,733,09/19/2015,3,0,Home,"",-,78
 2016,SUNY Potsdam,552,Sage Colleges,11036,09/21/2015,2,1,Away,"",-,312
 2016,SUNY Potsdam,552,Plattsburgh St.,547,09/26/2015,0,1,Home,"",2 OT,174
-2016,SUNY Potsdam,552,Oswego St.,530,10/02/2015,0,0,Away,"",-,0
+2016,SUNY Potsdam,552,Oswego St.,530,10/02/2015,0,1,Away,"",-,79
 2016,SUNY Potsdam,552,SUNY Cortland,168,10/03/2015,0,0,Away,"",-,0
 2016,SUNY Potsdam,552,SUNY Oneonta,526,10/09/2015,0,0,Home,"",-,0
 2016,SUNY Potsdam,552,SUNY New Paltz,475,10/10/2015,0,0,Home,"",-,0
@@ -14946,7 +14924,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Susquehanna,685,Albright,16,09/13/2015,0,0,Away,"",2 OT,119
 2016,Susquehanna,685,King's (PA),336,09/16/2015,1,0,Home,"",-,58
 2016,Susquehanna,685,Shenandoah,637,09/19/2015,0,3,Away,"",-,177
-2016,Susquehanna,685,Wilkes,784,09/24/2015,1,0,Home,"",-,0
+2016,Susquehanna,685,Wilkes,784,09/24/2015,1,0,Home,"",-,82
 2016,Susquehanna,685,Scranton,633,09/26/2015,0,3,Away,"",-,250
 2016,Susquehanna,685,Hood,8404,09/30/2015,1,0,Home,"",-,71
 2016,Susquehanna,685,Drew,190,10/03/2015,0,0,Home,"",-,0
@@ -15118,7 +15096,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Tex. A&M Int'l,30090,St. Mary's (TX),1346,09/21/2015,0,1,Away,"",-,107
 2016,Tex. A&M Int'l,30090,Eastern N.M.,206,09/26/2015,1,4,Away,"",-,0
 2016,Tex. A&M Int'l,30090,West Tex. A&M,767,09/28/2015,0,8,Away,"",-,103
-2016,Tex. A&M Int'l,30090,Tex. Permian Basin,30088,10/01/2015,0,0,Away,"",-,0
+2016,Tex. A&M Int'l,30090,Tex. Permian Basin,30088,10/01/2015,0,1,Away,"",-,85
 2016,Tex. A&M Int'l,30090,Lubbock Christian,30177,10/03/2015,0,0,Away,"",-,0
 2016,Tex. A&M Int'l,30090,St. Edward's,1334,10/08/2015,0,0,Away,"",-,0
 2016,Tex. A&M Int'l,30090,St. Mary's (TX),1346,10/11/2015,0,0,Home,"",-,0
@@ -15135,7 +15113,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Tex. A&M-Commerce,199,St. Mary's (TX),1346,09/19/2015,0,1,Away,"",-,257
 2016,Tex. A&M-Commerce,199,Angelo St.,25,09/25/2015,1,0,Home,"",-,296
 2016,Tex. A&M-Commerce,199,Midwestern St.,1222,09/27/2015,0,0,Home,"",2 OT,207
-2016,Tex. A&M-Commerce,199,Texas Woman's,701,10/01/2015,0,0,Away,"",-,0
+2016,Tex. A&M-Commerce,199,Texas Woman's,701,10/01/2015,2,2,Away,"",2 OT,482
 2016,Tex. A&M-Commerce,199,Dallas Baptist,1045,10/06/2015,0,0,Home,"",-,0
 2016,Tex. A&M-Commerce,199,Eastern N.M.,206,10/09/2015,0,0,Away,"",-,0
 2016,Tex. A&M-Commerce,199,West Tex. A&M,767,10/11/2015,0,0,Away,"",-,0
@@ -15152,7 +15130,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Tex. Permian Basin,30088,West Tex. A&M,767,09/18/2015,0,2,Home,"",-,89
 2016,Tex. Permian Basin,30088,Angelo St.,25,09/20/2015,1,9,Away,"",-,242
 2016,Tex. Permian Basin,30088,Lubbock Christian,30177,09/25/2015,1,1,Away,"",2 OT,130
-2016,Tex. Permian Basin,30088,Tex. A&M Int'l,30090,10/01/2015,0,0,Home,"",-,0
+2016,Tex. Permian Basin,30088,Tex. A&M Int'l,30090,10/01/2015,1,0,Home,"",-,85
 2016,Tex. Permian Basin,30088,St. Mary's (TX),1346,10/03/2015,0,0,Home,"",-,0
 2016,Tex. Permian Basin,30088,Okla. Christian,30179,10/08/2015,0,0,Home,"",-,0
 2016,Tex. Permian Basin,30088,Rogers St.,30180,10/10/2015,0,0,Home,"",-,0
@@ -15242,6 +15220,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Texas Southern,699,Southeastern La.,655,09/13/2015,0,6,Away,"",-,124
 2016,Texas Southern,699,UTRGV,536,09/16/2015,1,0,Away,"",-,268
 2016,Texas Southern,699,Grambling,261,09/25/2015,7,1,Home,"",-,127
+2016,Texas Southern,699,Ark.-Pine Bluff,2678,09/30/2015,0,1,Home,"",-,45
 2016,Texas Southern,699,Mississippi Val.,432,10/04/2015,0,0,Home,"",-,0
 2016,Texas Southern,699,Howard,290,10/09/2015,0,0,Away,"",-,0
 2016,Texas Southern,699,Southern U.,665,10/16/2015,0,0,Away,"",-,0
@@ -15292,7 +15271,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Texas Woman's,701,Dallas Baptist,1045,09/19/2015,1,0,Away,"",-,423
 2016,Texas Woman's,701,Midwestern St.,1222,09/25/2015,2,1,Home,"",-,346
 2016,Texas Woman's,701,Angelo St.,25,09/27/2015,0,2,Home,"",-,201
-2016,Texas Woman's,701,Tex. A&M-Commerce,199,10/01/2015,0,0,Home,"",-,0
+2016,Texas Woman's,701,Tex. A&M-Commerce,199,10/01/2015,2,2,Home,"",2 OT,482
 2016,Texas Woman's,701,West Tex. A&M,767,10/09/2015,0,0,Away,"",-,0
 2016,Texas Woman's,701,Eastern N.M.,206,10/11/2015,0,0,Away,"",-,0
 2016,Texas Woman's,701,Tex. A&M-Commerce,199,10/15/2015,0,0,Away,"",-,0
@@ -15311,7 +15290,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Texas-Dallas,23121,Mary Hardin-Baylor,1203,09/25/2015,1,2,Away,"",-,350
 2016,Texas-Dallas,23121,Concordia (TX),24400,09/26/2015,4,0,Away,"",-,275
 2016,Texas-Dallas,23121,Trinity (TX),715,09/29/2015,0,5,Away,"",-,194
-2016,Texas-Dallas,23121,McMurry,8530,10/01/2015,0,0,Home,"",-,0
+2016,Texas-Dallas,23121,McMurry,8530,10/01/2015,10,0,Home,"",-,147
 2016,Texas-Dallas,23121,Hardin-Simmons,271,10/03/2015,0,0,Home,"",-,0
 2016,Texas-Dallas,23121,Austin,953,10/07/2015,0,0,Home,"",-,0
 2016,Texas-Dallas,23121,Sul Ross St.,1390,10/10/2015,0,0,Away,"",-,0
@@ -15329,7 +15308,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Texas-Tyler,30028,McMurry,8530,09/17/2015,10,0,Home,"",-,215
 2016,Texas-Tyler,30028,Hardin-Simmons,271,09/19/2015,1,0,Home,"",-,347
 2016,Texas-Tyler,30028,Sul Ross St.,1390,09/24/2015,10,0,Away,"",-,75
-2016,Texas-Tyler,30028,LeTourneau,8490,10/01/2015,0,0,Home,"",-,0
+2016,Texas-Tyler,30028,LeTourneau,8490,10/01/2015,5,0,Home,"",-,355
 2016,Texas-Tyler,30028,East Tex. Baptist,1062,10/03/2015,0,0,Home,"",-,0
 2016,Texas-Tyler,30028,Ozarks (AR),23008,10/10/2015,0,0,Home,"",-,0
 2016,Texas-Tyler,30028,Louisiana Col.,1182,10/15/2015,0,0,Away,"",-,0
@@ -15395,7 +15374,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Tiffin,1403,Saginaw Valley,591,09/20/2015,1,8,Away,"",-,50
 2016,Tiffin,1403,Findlay,1079,09/23/2015,4,1,Home,"",-,235
 2016,Tiffin,1403,Grand Valley St.,262,09/25/2015,0,4,Away,"",-,253
-2016,Tiffin,1403,Ohio Dominican,30119,10/02/2015,0,0,Home,"",-,0
+2016,Tiffin,1403,Ohio Dominican,30119,10/02/2015,1,2,Home,"",-,137
 2016,Tiffin,1403,Ashland,35,10/04/2015,0,0,Home,"",-,0
 2016,Tiffin,1403,Michigan Tech,417,10/09/2015,0,0,Home,"",-,0
 2016,Tiffin,1403,Northern Mich.,506,10/11/2015,0,0,Home,"",-,0
@@ -15468,7 +15447,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Trevecca Nazarene,30002,Salem Int'l,19117,09/19/2015,10,0,Home,"",-,300
 2016,Trevecca Nazarene,30002,Cedarville,30124,09/24/2015,1,1,Away,"",2 OT,168
 2016,Trevecca Nazarene,30002,Ursuline,30140,09/26/2015,0,2,Away,"",-,70
-2016,Trevecca Nazarene,30002,Ky. Wesleyan,333,10/01/2015,0,0,Away,"",-,0
+2016,Trevecca Nazarene,30002,Ky. Wesleyan,333,10/01/2015,0,1,Away,"",-,125
 2016,Trevecca Nazarene,30002,Oakland City,1278,10/03/2015,0,0,Home,"",-,0
 2016,Trevecca Nazarene,30002,King (TN),30051,10/06/2015,0,0,Home,"",-,0
 2016,Trevecca Nazarene,30002,Salem Int'l,19117,10/08/2015,0,0,Away,"",-,0
@@ -15534,7 +15513,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Trinity Washington,23413,Sweet Briar,687,09/11/2015,4,1,Home,"",-,64
 2016,Trinity Washington,23413,Notre Dame (MD),8600,09/17/2015,0,4,Away,"",-,70
 2016,Trinity Washington,23413,Central Penn,,09/19/2015,12,1,Home,"",-,47
-2016,Trinity Washington,23413,Christendom,,09/26/2015,0,0,Home,"",-,0
 2016,Trinity Washington,23413,Christendom,,09/26/2015,0,2,Away,"",-,45
 2016,Trinity Washington,23413,Valley Forge,30166,09/28/2015,5,0,Home,"",-,25
 2016,Trinity Washington,23413,Christendom,,09/30/2015,0,6,Home,"",-,27
@@ -15607,7 +15585,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Tulsa,719,Oklahoma,522,09/18/2015,1,2,Away,"",-,"1,122"
 2016,Tulsa,719,Oral Roberts,527,09/20/2015,2,1,Away,"",-,"1,249"
 2016,Tulsa,719,Memphis,404,09/24/2015,0,0,Home,"",2 OT,315
-2016,Tulsa,719,SMU,663,10/01/2015,0,0,Home,"",-,0
+2016,Tulsa,719,SMU,663,10/01/2015,2,1,Home,"",-,154
 2016,Tulsa,719,Houston,288,10/04/2015,0,0,Home,"",-,0
 2016,Tulsa,719,South Fla.,651,10/08/2015,0,0,Away,"",-,0
 2016,Tulsa,719,UCF,128,10/11/2015,0,0,Away,"",-,0
@@ -15697,7 +15675,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,UC Davis,108,Stanford,674,09/17/2015,0,1,Away,"",1 OT,992
 2016,UC Davis,108,San Diego St.,626,09/20/2015,1,0,Home,"",-,449
 2016,UC Davis,108,St. Mary's (CA),610,09/26/2015,1,0,Home,"",2 OT,312
-2016,UC Davis,108,Cal Poly,90,10/01/2015,0,0,Home,"",-,0
+2016,UC Davis,108,Cal Poly,90,10/01/2015,1,0,Home,"",2 OT,612
 2016,UC Davis,108,CSUN,101,10/04/2015,0,0,Home,"",-,0
 2016,UC Davis,108,Cal St. Fullerton,97,10/09/2015,0,0,Away,"",-,0
 2016,UC Davis,108,UC Riverside,111,10/11/2015,0,0,Away,"",-,0
@@ -15772,7 +15750,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,UC Santa Barbara,104,Dayton,175,09/20/2015,1,2,Home,"",-,147
 2016,UC Santa Barbara,104,CSU Bakersfield,94,09/23/2015,3,0,Away,"",-,"1,143"
 2016,UC Santa Barbara,104,Pacific,534,09/26/2015,1,0,Home,"",-,150
-2016,UC Santa Barbara,104,Hawaii,277,10/01/2015,0,0,Away,"",-,0
+2016,UC Santa Barbara,104,Hawaii,277,10/01/2015,3,0,Away,"",-,552
 2016,UC Santa Barbara,104,Long Beach St.,99,10/11/2015,0,0,Home,"",-,0
 2016,UC Santa Barbara,104,Cal Poly,90,10/15/2015,0,0,Home,"",-,0
 2016,UC Santa Barbara,104,UC Davis,108,10/18/2015,0,0,Away,"",-,0
@@ -15805,7 +15783,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,UC-Colo. Springs,9754,Western St.,2759,09/23/2015,0,1,Home,"",-,212
 2016,UC-Colo. Springs,9754,N.M. Highlands,8577,09/25/2015,2,1,Away,"",-,500
 2016,UC-Colo. Springs,9754,Colorado St.-Pueblo,2720,09/27/2015,2,1,Away,"",-,93
-2016,UC-Colo. Springs,9754,Adams St.,929,10/02/2015,0,0,Away,"",-,0
+2016,UC-Colo. Springs,9754,Adams St.,929,10/02/2015,1,0,Away,"",-,63
 2016,UC-Colo. Springs,9754,Fort Lewis,1083,10/04/2015,0,0,Away,"",-,0
 2016,UC-Colo. Springs,9754,Colorado Mesa,11416,10/09/2015,0,0,Home,"",-,0
 2016,UC-Colo. Springs,9754,Westminster (UT),30209,10/11/2015,0,0,Home,"",-,0
@@ -15824,7 +15802,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,UCF,128,Georgetown,251,09/18/2015,3,1,Home,"",-,551
 2016,UCF,128,Temple,690,09/24/2015,1,0,Home,"",-,385
 2016,UCF,128,UConn,164,09/27/2015,2,3,Home,"",-,400
-2016,UCF,128,East Carolina,196,10/01/2015,0,0,Away,"",-,0
+2016,UCF,128,East Carolina,196,10/01/2015,0,1,Away,"",-,411
 2016,UCF,128,Cincinnati,140,10/04/2015,0,0,Away,"",-,0
 2016,UCF,128,Memphis,404,10/08/2015,0,0,Home,"",-,0
 2016,UCF,128,Tulsa,719,10/11/2015,0,0,Home,"",-,0
@@ -15840,7 +15818,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,UCLA,110,North Carolina,457,09/13/2015,1,3,Away,"",-,"2,612"
 2016,UCLA,110,Pepperdine,541,09/17/2015,1,0,Home,"",-,751
 2016,UCLA,110,Oregon,529,09/25/2015,1,0,Home,"",-,"2,582"
-2016,UCLA,110,Washington,756,10/01/2015,0,0,Away,"",-,0
+2016,UCLA,110,Washington,756,10/01/2015,1,2,Away,"",-,856
 2016,UCLA,110,Washington St.,754,10/04/2015,0,0,Away,"",-,0
 2016,UCLA,110,Arizona,29,10/09/2015,0,0,Home,"",-,0
 2016,UCLA,110,Arizona St.,28,10/11/2015,0,0,Home,"",-,0
@@ -15929,7 +15907,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,UMass Lowell,368,Central Conn. St.,127,09/20/2015,0,4,Away,"",-,0
 2016,UMass Lowell,368,Dartmouth,172,09/24/2015,1,4,Away,"",-,184
 2016,UMass Lowell,368,Quinnipiac,562,09/28/2015,3,1,Home,"",-,213
-2016,UMass Lowell,368,UMBC,391,10/01/2015,0,0,Home,"",-,0
+2016,UMass Lowell,368,UMBC,391,10/01/2015,0,2,Home,"",-,130
 2016,UMass Lowell,368,Maine,380,10/04/2015,0,0,Away,"",-,0
 2016,UMass Lowell,368,New Hampshire,469,10/08/2015,0,0,Away,"",-,0
 2016,UMass Lowell,368,Binghamton,62,10/11/2015,0,0,Home,"",-,0
@@ -15948,7 +15926,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,UMBC,391,Delaware St.,178,09/18/2015,1,0,Away,"",-,117
 2016,UMBC,391,George Washington,249,09/24/2015,0,2,Home,"",-,468
 2016,UMBC,391,Albany (NY),14,09/27/2015,1,1,Home,"",2 OT,301
-2016,UMBC,391,UMass Lowell,368,10/01/2015,0,0,Away,"",-,0
+2016,UMBC,391,UMass Lowell,368,10/01/2015,2,0,Away,"",-,130
 2016,UMBC,391,Vermont,738,10/04/2015,0,0,Home,"",-,0
 2016,UMBC,391,Hartford,272,10/08/2015,0,0,Home,"",-,0
 2016,UMBC,391,Maine,380,10/11/2015,0,0,Away,"",-,0
@@ -16075,8 +16053,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Union (NY),727,Hartwick,273,09/19/2015,1,0,Home,"",2 OT,112
 2016,Union (NY),727,Skidmore,642,09/22/2015,0,1,Away,"",-,135
 2016,Union (NY),727,William Smith,30073,09/26/2015,0,1,Away,"",-,100
-2016,Union (NY),727,Westfield St.,777,09/29/2015,3,0,Home,"",-,50
-2016,Union (NY),727,Westfield St.,777,09/30/2015,0,0,Home,"",-,0
+2016,Union (NY),727,Westfield St.,777,09/30/2015,3,0,Home,"",-,50
 2016,Union (NY),727,Castleton,123,10/04/2015,0,0,Home,"",-,0
 2016,Union (NY),727,Rensselaer,570,10/07/2015,0,0,Home,"",-,0
 2016,Union (NY),727,Bard,962,10/10/2015,0,0,Away,"",-,0
@@ -16183,7 +16160,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Ursuline,30140,Alderson Broaddus,934,09/19/2015,1,0,Home,"",-,40
 2016,Ursuline,30140,Ky. Wesleyan,333,09/24/2015,1,0,Home,"",-,68
 2016,Ursuline,30140,Trevecca Nazarene,30002,09/26/2015,2,0,Home,"",-,70
-2016,Ursuline,30140,Cedarville,30124,10/01/2015,0,0,Home,"",-,0
+2016,Ursuline,30140,Cedarville,30124,10/01/2015,1,1,Home,"",2 OT,36
 2016,Ursuline,30140,Alderson Broaddus,934,10/08/2015,0,0,Away,"",-,0
 2016,Ursuline,30140,Davis & Elkins,174,10/10/2015,0,0,Away,"",-,0
 2016,Ursuline,30140,Trevecca Nazarene,30002,10/15/2015,0,0,Away,"",-,0
@@ -16354,8 +16331,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Va. Wesleyan,745,Randolph-Macon,565,09/22/2015,1,0,Home,"",-,203
 2016,Va. Wesleyan,745,Shenandoah,637,09/26/2015,2,1,Away,"",-,105
 2016,Va. Wesleyan,745,East. Mennonite,203,09/30/2015,2,0,Away,"",-,123
-2016,Va. Wesleyan,745,Emory & Henry,216,10/03/2015,0,0,Home,"",-,0
 2016,Va. Wesleyan,745,TCNJ,712,10/06/2015,0,0,Away,"",-,0
+2016,Va. Wesleyan,745,Emory & Henry,216,10/08/2015,0,0,Away,"",-,0
 2016,Va. Wesleyan,745,Roanoke,578,10/10/2015,0,0,Away,"",-,0
 2016,Va. Wesleyan,745,Wash. & Lee,752,10/17/2015,0,0,Home,"",-,0
 2016,Va. Wesleyan,745,Randolph,566,10/20/2015,0,0,Home,"",-,0
@@ -16389,7 +16366,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Valley Forge,30166,Christendom,,09/19/2015,0,8,Home,"",-,45
 2016,Valley Forge,30166,Penn St.-Mont Alto,,09/20/2015,3,4,Home,"",-,75
 2016,Valley Forge,30166,Trinity Washington,23413,09/28/2015,0,5,Away,"",-,25
-2016,Valley Forge,30166,Washington Adventist,1029,09/30/2015,0,0,Home,"",-,0
+2016,Valley Forge,30166,Washington Adventist,,10/01/2015,0,5,Home,"",-,5
 2016,Valley Forge,30166,Penn St.-Schuylkill,,10/03/2015,0,0,Away,"",-,0
 2016,Valley Forge,30166,Wilson,12973,10/06/2015,0,0,Away,"",-,0
 2016,Valley Forge,30166,Fisher,,10/12/2015,0,0,Home,"",-,0
@@ -16458,7 +16435,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,VCU,740,Liberty,355,09/13/2015,0,1,Away,"",1 OT,290
 2016,VCU,740,Penn,540,09/18/2015,1,1,Away,"",2 OT,198
 2016,VCU,740,Mt. St. Mary's,450,09/20/2015,6,0,Home,"",-,265
-2016,VCU,740,Davidson,173,10/01/2015,0,0,Away,"",-,0
+2016,VCU,740,Davidson,173,10/01/2015,4,2,Away,"",-,227
 2016,VCU,740,Duquesne,194,10/04/2015,0,0,Away,"",-,0
 2016,VCU,740,Fordham,236,10/08/2015,0,0,Home,"",-,0
 2016,VCU,740,Dayton,175,10/11/2015,0,0,Home,"",-,0
@@ -16477,7 +16454,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Vermont,738,Marist,386,09/15/2015,0,0,Home,"",2 OT,59
 2016,Vermont,738,Rhode Island,572,09/20/2015,3,2,Away,"",-,150
 2016,Vermont,738,Stony Brook,683,09/27/2015,1,0,Home,"",-,136
-2016,Vermont,738,New Hampshire,469,10/01/2015,0,0,Home,"",-,0
+2016,Vermont,738,New Hampshire,469,10/01/2015,2,3,Home,"",-,109
 2016,Vermont,738,UMBC,391,10/04/2015,0,0,Away,"",-,0
 2016,Vermont,738,Maine,380,10/08/2015,0,0,Home,"",-,0
 2016,Vermont,738,Hartford,272,10/11/2015,0,0,Away,"",-,0
@@ -16494,7 +16471,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Villanova,739,Denver,183,09/18/2015,2,0,Away,"",-,397
 2016,Villanova,739,Colorado,157,09/20/2015,0,3,Away,"",-,"1,008"
 2016,Villanova,739,Butler,87,09/27/2015,0,3,Away,"",-,345
-2016,Villanova,739,Georgetown,251,10/01/2015,0,0,Home,"",-,0
+2016,Villanova,739,Georgetown,251,10/01/2015,1,5,Home,"",-,233
 2016,Villanova,739,Creighton,169,10/04/2015,0,0,Away,"",-,0
 2016,Villanova,739,Providence,556,10/08/2015,0,0,Away,"",-,0
 2016,Villanova,739,DePaul,176,10/11/2015,0,0,Home,"",-,0
@@ -16692,7 +16669,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Washington,756,Portland,551,09/17/2015,2,1,Home,"",-,287
 2016,Washington,756,Gonzaga,260,09/20/2015,2,2,Away,"",2 OT,786
 2016,Washington,756,Arizona,29,09/25/2015,0,1,Away,"",-,652
-2016,Washington,756,UCLA,110,10/01/2015,0,0,Home,"",-,0
+2016,Washington,756,UCLA,110,10/01/2015,2,1,Home,"",-,856
 2016,Washington,756,Southern California,657,10/04/2015,0,0,Home,"",-,0
 2016,Washington,756,Colorado,157,10/09/2015,0,0,Away,"",-,0
 2016,Washington,756,Utah,732,10/11/2015,0,0,Away,"",-,0
@@ -16741,7 +16718,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Washington St.,754,Gonzaga,260,09/17/2015,3,0,Home,"",-,817
 2016,Washington St.,754,Portland,551,09/20/2015,0,2,Away,"",-,"2,039"
 2016,Washington St.,754,Arizona St.,28,09/27/2015,2,1,Away,"",-,603
-2016,Washington St.,754,Southern California,657,10/01/2015,0,0,Home,"",-,0
+2016,Washington St.,754,Southern California,657,10/01/2015,0,1,Home,"",-,"1,015"
 2016,Washington St.,754,UCLA,110,10/04/2015,0,0,Home,"",-,0
 2016,Washington St.,754,Utah,732,10/09/2015,0,0,Away,"",-,0
 2016,Washington St.,754,Colorado,157,10/11/2015,0,0,Away,"",-,0
@@ -16868,11 +16845,11 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Wells,761,Penn St.-Berks,30044,09/19/2015,1,14,Away,"",-,104
 2016,Wells,761,Hilbert,8398,09/23/2015,2,3,Away,"",-,90
 2016,Wells,761,Keuka,1159,09/26/2015,0,2,Away,"",-,137
-2016,Wells,761,Morrisville St.,30067,09/30/2015,0,0,Home,"",-,0
 2016,Wells,761,Gallaudet,245,10/03/2015,0,0,Home,"",-,0
 2016,Wells,761,Wilson,12973,10/04/2015,0,0,Home,"",-,0
 2016,Wells,761,St. Elizabeth,9684,10/10/2015,0,0,Away,"",-,0
 2016,Wells,761,Penn College,,10/11/2015,0,0,Away,"",-,0
+2016,Wells,761,Morrisville St.,30067,10/14/2015,0,0,Home,"",-,0
 2016,Wells,761,SUNY Poly,9500,10/17/2015,0,0,Home,"",-,0
 2016,Wells,761,Cobleskill St.,30083,10/18/2015,0,0,Home,"",-,0
 2016,Wells,761,Penn St.-Abington,30114,10/25/2015,0,0,Away,"",-,0
@@ -16887,7 +16864,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Wentworth,762,WPI,808,09/22/2015,1,2,Away,"",-,200
 2016,Wentworth,762,Gordon,1099,09/26/2015,3,0,Home,"",-,300
 2016,Wentworth,762,Western Conn. St.,770,09/28/2015,1,0,Home,"",-,235
-2016,Wentworth,762,Salve Regina,623,10/03/2015,0,0,Away,"",-,0
+2016,Wentworth,762,Salve Regina,623,10/04/2015,0,0,Away,"",-,0
 2016,Wentworth,762,UMass Boston,401,10/06/2015,0,0,Home,"",-,0
 2016,Wentworth,762,Nichols,484,10/10/2015,0,0,Away,"",-,0
 2016,Wentworth,762,Framingham St.,238,10/14/2015,0,0,Away,"",-,0
@@ -17218,7 +17195,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Western St.,2759,UC-Colo. Springs,9754,09/23/2015,1,0,Away,"",-,212
 2016,Western St.,2759,Colorado St.-Pueblo,2720,09/25/2015,0,1,Away,"",-,117
 2016,Western St.,2759,N.M. Highlands,8577,09/27/2015,1,2,Away,"",-,150
-2016,Western St.,2759,Fort Lewis,1083,10/02/2015,0,0,Away,"",-,0
+2016,Western St.,2759,Fort Lewis,1083,10/02/2015,0,1,Away,"",-,93
 2016,Western St.,2759,Adams St.,929,10/04/2015,0,0,Away,"",-,0
 2016,Western St.,2759,Westminster (UT),30209,10/09/2015,0,0,Home,"",-,0
 2016,Western St.,2759,Colorado Mesa,11416,10/11/2015,0,0,Home,"",-,0
@@ -17235,7 +17212,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Western Wash.,1448,Western Ore.,1446,09/19/2015,1,0,Away,"",-,148
 2016,Western Wash.,1448,Saint Martin's,1343,09/24/2015,3,0,Home,"",-,710
 2016,Western Wash.,1448,Simon Fraser,30127,09/26/2015,5,0,Away,"",-,223
-2016,Western Wash.,1448,Seattle Pacific,634,10/01/2015,0,0,Away,"",-,0
+2016,Western Wash.,1448,Seattle Pacific,634,10/01/2015,1,0,Away,"",-,425
 2016,Western Wash.,1448,Trinity Lutheran,,10/03/2015,0,0,Home,"",-,0
 2016,Western Wash.,1448,Central Wash.,1010,10/08/2015,0,0,Home,"",-,0
 2016,Western Wash.,1448,Mont. St. Billings,205,10/10/2015,0,0,Home,"",-,0
@@ -17252,8 +17229,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Westfield St.,777,Salem St.,621,09/19/2015,1,0,Home,"",-,125
 2016,Westfield St.,777,Simmons,640,09/22/2015,1,0,Away,"",-,92
 2016,Westfield St.,777,Fitchburg St.,227,09/26/2015,1,0,Away,"",-,155
-2016,Westfield St.,777,Union (NY),727,09/29/2015,0,3,Away,"",-,50
-2016,Westfield St.,777,Union (NY),727,09/30/2015,0,0,Away,"",-,0
+2016,Westfield St.,777,Union (NY),727,09/30/2015,0,3,Away,"",-,50
 2016,Westfield St.,777,MCLA,486,10/03/2015,0,0,Home,"",-,0
 2016,Westfield St.,777,Elms,532,10/07/2015,0,0,Home,"",-,0
 2016,Westfield St.,777,Framingham St.,238,10/09/2015,0,0,Home,"",-,0
@@ -17459,9 +17435,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Wilkes,784,Mary Washington,390,09/13/2015,1,2,Away,"",-,125
 2016,Wilkes,784,Wm. Paterson,787,09/16/2015,2,0,Home,"",-,125
 2016,Wilkes,784,Arcadia,966,09/19/2015,1,2,Home,"",2 OT,135
-2016,Wilkes,784,Susquehanna,685,09/24/2015,0,1,Away,"",-,0
+2016,Wilkes,784,Susquehanna,685,09/24/2015,0,1,Away,"",-,82
 2016,Wilkes,784,Stevenson,21852,09/27/2015,1,0,Away,"",-,104
-2016,Wilkes,784,Scranton,633,09/30/2015,0,0,Away,"",-,0
 2016,Wilkes,784,FDU-Florham,221,10/03/2015,0,0,Home,"",-,0
 2016,Wilkes,784,Delaware Valley,179,10/10/2015,0,0,Away,"",-,0
 2016,Wilkes,784,Misericordia,16142,10/13/2015,0,0,Away,"",-,0
@@ -17535,9 +17510,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,William Peace,17094,Huntingdon,1130,09/20/2015,2,1,Away,"",1 OT,87
 2016,William Peace,17094,Piedmont,21830,09/25/2015,0,2,Home,"",-,42
 2016,William Peace,17094,Maryville (TN),396,09/28/2015,0,5,Home,"",-,75
-2016,William Peace,17094,Ferrum,225,09/30/2015,1,0,Neutral,"Martinsville, VA",-,25
-2016,William Peace,17094,Ferrum,225,09/30/2015,0,0,Away,"",-,0
-2016,William Peace,17094,Methodist,412,10/03/2015,0,0,Home,"",-,0
+2016,William Peace,17094,Ferrum,225,09/30/2015,1,0,Away,"",-,25
 2016,William Peace,17094,Sweet Briar,687,10/04/2015,0,0,Away,"",-,0
 2016,William Peace,17094,Chowan,8875,10/09/2015,0,0,Home,"",-,0
 2016,William Peace,17094,Meredith,409,10/11/2015,0,0,Away,"",-,0
@@ -18044,7 +18017,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Xavier,812,Ohio,519,09/18/2015,1,2,Home,"",-,673
 2016,Xavier,812,Cincinnati,140,09/20/2015,0,0,Home,"",2 OT,968
 2016,Xavier,812,DePaul,176,09/26/2015,0,4,Home,"",-,362
-2016,Xavier,812,Providence,556,10/01/2015,0,0,Home,"",-,0
+2016,Xavier,812,Providence,556,10/01/2015,0,1,Home,"",-,606
 2016,Xavier,812,Georgetown,251,10/04/2015,0,0,Away,"",-,0
 2016,Xavier,812,Marquette,387,10/08/2015,0,0,Away,"",-,0
 2016,Xavier,812,Seton Hall,635,10/11/2015,0,0,Home,"",-,0
@@ -18089,7 +18062,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,York (NY),2730,Lehman,279,09/16/2015,0,7,Away,"",-,102
 2016,York (NY),2730,Medgar Evers,403,09/19/2015,9,0,Away,"",-,25
 2016,York (NY),2730,Staten Island,675,09/23/2015,0,11,Away,"",-,62
-2016,York (NY),2730,CCNY,480,09/30/2015,0,0,Away,"",-,0
+2016,York (NY),2730,CCNY,480,09/30/2015,1,0,Neutral,"Purchase, NY",-,25
 2016,York (NY),2730,Brooklyn,79,10/03/2015,0,0,Home,"",-,0
 2016,York (NY),2730,Old Westbury,524,10/05/2015,0,0,Away,"",-,0
 2016,York (NY),2730,Berkeley (NY),,10/08/2015,0,0,Home,"",-,0
