@@ -1,9 +1,7 @@
 #!/bin/bash
 
 psql soccer-w -c "drop table if exists ncaa.results;"
-
 psql soccer-w -f sos/standardized_results.sql
-
 psql soccer-w -c "vacuum full verbose analyze ncaa.results;"
 
 psql soccer-w -c "drop table if exists ncaa._basic_factors;"
