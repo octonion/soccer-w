@@ -3,9 +3,9 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,2,Abilene Christian,7,7,5,19
 2016,30123,Academy of Art,4,8,6,18
 2016,929,Adams St.,6,5,7,18
-2016,3,Adelphi,10,2,6,18
-2016,4,Adrian,3,6,12,21
-2016,11324,Agnes Scott,6,8,3,17
+2016,3,Adelphi,11,2,5,18
+2016,4,Adrian,3,7,11,21
+2016,11324,Agnes Scott,7,8,2,17
 2016,721,Air Force,4,11,4,19
 2016,5,Akron,6,9,4,19
 2016,10,Ala.-Huntsville,6,7,4,17
@@ -13,87 +13,87 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,6,Alabama A&M,2,10,3,15
 2016,7,Alabama St.,5,9,4,18
 2016,14,Albany (NY),7,8,3,18
-2016,2798,Albertus Magnus,7,7,5,19
-2016,15,Albion,7,8,4,19
-2016,16,Albright,7,6,5,18
+2016,2798,Albertus Magnus,8,7,5,20
+2016,15,Albion,8,8,3,19
+2016,16,Albright,8,6,4,18
 2016,17,Alcorn,0,12,2,14
 2016,934,Alderson Broaddus,7,8,3,18
 2016,18,Alfred,1,12,5,18
 2016,30170,Alfred St.,6,6,3,15
-2016,19,Allegheny,3,9,6,18
-2016,21,Alma,6,7,5,18
-2016,938,Alvernia,3,11,5,19
+2016,19,Allegheny,3,10,5,18
+2016,21,Alma,7,7,4,18
+2016,938,Alvernia,4,11,4,19
 2016,28746,Alverno,2,12,4,18
 2016,23,American,4,9,5,18
-2016,22,American Int'l,9,4,5,18
+2016,22,American Int'l,10,4,4,18
 2016,24,Amherst,8,2,4,14
-2016,939,Anderson (IN),7,5,4,16
-2016,13028,Anderson (SC),12,2,3,17
+2016,939,Anderson (IN),7,6,3,16
+2016,13028,Anderson (SC),12,3,2,17
 2016,25,Angelo St.,12,1,4,17
-2016,26,Anna Maria,3,10,4,17
+2016,26,Anna Maria,3,11,3,17
 2016,27,Appalachian St.,8,5,5,18
-2016,966,Arcadia,9,5,4,18
+2016,966,Arcadia,10,5,3,18
 2016,29,Arizona,9,4,6,19
 2016,28,Arizona St.,5,7,6,18
 2016,2678,Ark.-Pine Bluff,4,8,3,15
 2016,31,Arkansas,5,9,4,18
 2016,30,Arkansas St.,3,12,3,18
-2016,33,Armstrong,8,3,6,17
-2016,725,Army West Point,4,9,5,18
+2016,33,Armstrong,9,3,5,17
+2016,725,Army West Point,4,10,4,18
 2016,35,Ashland,11,2,3,16
-2016,36,Assumption,8,5,4,17
+2016,36,Assumption,8,6,3,17
 2016,37,Auburn,12,3,3,18
 2016,38,Augsburg,11,4,3,18
-2016,40,Augustana (IL),11,3,5,19
+2016,40,Augustana (IL),12,3,4,19
 2016,41,Augustana (SD),11,2,5,18
-2016,42,Aurora,7,7,4,18
+2016,42,Aurora,8,7,3,18
 2016,953,Austin,2,12,4,18
 2016,43,Austin Peay,6,9,3,18
 2016,44,Averett,2,9,5,16
 2016,30146,Azusa Pacific,9,2,6,17
-2016,45,Babson,11,2,6,19
+2016,45,Babson,12,2,5,19
 2016,46,Baldwin Wallace,9,4,7,20
 2016,47,Ball St.,11,3,5,19
-2016,962,Bard,5,8,4,17
-2016,49,Barry,9,2,4,15
-2016,15646,Barton,5,5,7,17
+2016,962,Bard,6,8,3,17
+2016,49,Barry,10,2,3,15
+2016,15646,Barton,6,5,6,17
 2016,50,Bates,5,5,5,15
 2016,26520,Bay Path,5,8,4,17
 2016,51,Baylor,8,5,5,18
-2016,26107,Becker,11,3,4,18
+2016,26107,Becker,11,4,3,18
 2016,52,Bellarmine,12,1,4,17
 2016,14927,Belmont,3,11,4,18
-2016,2683,Belmont Abbey,10,2,5,17
+2016,2683,Belmont Abbey,11,2,4,17
 2016,53,Beloit,6,7,3,16
 2016,54,Bemidji St.,9,5,4,18
 2016,296,Benedictine (IL),7,7,4,18
-2016,56,Bentley,3,8,6,17
+2016,56,Bentley,3,9,5,17
 2016,973,Berry,9,3,3,15
-2016,59,Bethany (WV),2,10,5,17
-2016,30038,Bethany Lutheran,8,7,5,20
+2016,59,Bethany (WV),2,11,4,17
+2016,30038,Bethany Lutheran,8,8,4,20
 2016,60,Bethel (MN),3,11,4,18
 2016,62,Binghamton,2,11,4,17
 2016,28593,Birmingham-So.,7,7,1,15
-2016,64,Blackburn,5,8,4,17
+2016,64,Blackburn,5,9,3,17
 2016,984,Bloomfield,3,8,4,15
 2016,65,Bloomsburg,8,5,5,18
-2016,987,Bluffton,6,8,4,18
+2016,987,Bluffton,7,8,3,18
 2016,66,Boise St.,6,8,6,20
 2016,67,Boston College,9,6,4,19
 2016,68,Boston U.,7,5,6,18
 2016,69,Bowdoin,7,4,4,15
 2016,71,Bowling Green,6,9,4,19
 2016,73,Brandeis,12,2,5,19
-2016,30094,Brevard,4,7,5,16
-2016,74,Bridgeport,13,1,4,18
+2016,30094,Brevard,4,8,4,16
+2016,74,Bridgeport,14,1,3,18
 2016,75,Bridgewater (VA),7,5,5,17
 2016,76,Bridgewater St.,9,4,4,17
 2016,78,Brockport,7,4,5,16
 2016,79,Brooklyn,3,9,5,17
 2016,80,Brown,4,7,5,16
 2016,81,Bryant,4,9,5,18
-2016,82,Bryn Mawr,3,11,3,17
-2016,83,Bucknell,7,5,6,18
+2016,82,Bryn Mawr,3,12,2,17
+2016,83,Bucknell,8,5,5,18
 2016,84,Buena Vista,3,11,3,17
 2016,86,Buffalo,9,5,5,19
 2016,85,Buffalo St.,12,3,3,18
@@ -101,7 +101,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,77,BYU,12,1,6,19
 2016,2685,BYU-Hawaii,4,6,8,18
 2016,88,Cabrini,6,5,6,17
-2016,1305,Cairn,5,9,3,17
+2016,1305,Cairn,6,9,2,17
 2016,105,Cal Lutheran,5,7,6,18
 2016,90,Cal Poly,5,6,8,19
 2016,91,Cal Poly Pomona,7,4,6,17
@@ -112,29 +112,29 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,30055,Cal St. Monterey Bay,5,9,4,18
 2016,93,Cal St. San B'dino,4,7,7,18
 2016,103,Cal St. Stanislaus,9,3,6,18
-2016,995,Caldwell,7,6,4,17
+2016,995,Caldwell,8,6,3,17
 2016,107,California,11,3,7,21
-2016,106,California (PA),7,5,6,18
+2016,106,California (PA),8,5,5,18
 2016,30135,California Baptist,5,6,7,18
-2016,114,Calvin,12,2,6,20
-2016,115,Campbell,10,6,2,18
-2016,116,Canisius,4,10,5,19
-2016,117,Capital,9,4,4,17
+2016,114,Calvin,13,2,5,20
+2016,115,Campbell,11,6,1,18
+2016,116,Canisius,4,11,4,19
+2016,117,Capital,10,4,3,17
 2016,118,Carleton,6,7,4,17
 2016,119,Carnegie Mellon,13,0,4,17
 2016,120,Carroll (WI),10,4,3,17
-2016,1000,Carson-Newman,11,2,4,17
-2016,121,Carthage,3,10,5,18
+2016,1000,Carson-Newman,12,2,3,17
+2016,121,Carthage,4,10,4,18
 2016,122,CWRU,7,4,7,18
-2016,123,Castleton,8,7,7,22
-2016,1001,Catawba,3,10,4,17
+2016,123,Castleton,9,7,6,22
+2016,1001,Catawba,3,11,3,17
 2016,124,Catholic,12,2,3,17
 2016,23624,Cazenovia,6,7,4,17
 2016,480,CCNY,1,11,5,17
-2016,14795,Cedar Crest,4,8,6,18
+2016,14795,Cedar Crest,4,9,5,18
 2016,30124,Cedarville,8,4,6,18
 2016,125,Centenary (LA),1,13,3,17
-2016,12884,Centenary (NJ),5,7,6,18
+2016,12884,Centenary (NJ),6,7,5,18
 2016,126,Central (IA),9,4,4,17
 2016,1004,Central Ark.,6,9,4,19
 2016,127,Central Conn. St.,6,4,7,17
@@ -146,35 +146,35 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,133,Chaminade,1,11,5,17
 2016,134,Chapman,5,9,5,19
 2016,1013,Charleston (WV),8,2,8,18
-2016,48,Charleston So.,6,6,5,17
+2016,48,Charleston So.,6,7,4,17
 2016,458,Charlotte,5,11,3,19
-2016,10972,Chatham,8,4,4,16
+2016,10972,Chatham,8,5,3,16
 2016,693,Chattanooga,3,11,4,18
 2016,21323,Chestnut Hill,4,7,5,16
-2016,137,Chicago,10,4,4,18
+2016,137,Chicago,11,4,3,18
 2016,136,Chicago St.,0,16,3,19
 2016,95,Chico St.,9,3,6,18
-2016,8875,Chowan,1,9,4,14
-2016,139,Chris. Newport,11,3,5,19
-2016,1015,Christian Bros.,7,5,5,17
+2016,8875,Chowan,1,10,3,14
+2016,139,Chris. Newport,12,3,4,19
+2016,1015,Christian Bros.,8,5,4,17
 2016,140,Cincinnati,10,4,6,20
 2016,141,Citadel,1,16,2,19
 2016,142,Claremont-M-S,9,4,7,20
-2016,143,Clarion,4,10,4,18
+2016,143,Clarion,5,10,3,18
 2016,145,Clark (MA),2,10,6,18
-2016,146,Clarkson,7,5,5,17
-2016,20576,Clayton St.,8,6,3,17
+2016,146,Clarkson,8,5,4,17
+2016,20576,Clayton St.,9,6,2,17
 2016,147,Clemson,11,2,4,17
-2016,148,Cleveland St.,8,6,4,18
-2016,722,Coast Guard,6,7,5,18
-2016,149,Coastal Caro.,9,5,4,18
+2016,148,Cleveland St.,8,7,3,18
+2016,722,Coast Guard,6,8,4,18
+2016,149,Coastal Caro.,10,5,3,18
 2016,30083,Cobleskill St.,1,12,4,17
 2016,150,Coe,14,1,4,19
 2016,1023,Coker,4,8,3,15
 2016,1014,Col. of Charleston,8,8,2,18
 2016,151,Colby,4,7,4,15
-2016,152,Colby-Sawyer,10,2,4,16
-2016,153,Colgate,4,8,5,17
+2016,152,Colby-Sawyer,10,3,3,16
+2016,153,Colgate,5,8,4,17
 2016,11403,Colo. Christian,0,13,5,18
 2016,157,Colorado,7,6,7,20
 2016,154,Colorado Col.,7,9,4,20
@@ -183,25 +183,25 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,156,Colorado St.,3,12,5,20
 2016,2720,Colorado St.-Pueblo,7,5,6,18
 2016,158,Columbia,5,7,4,16
-2016,159,Columbus St.,11,2,5,18
+2016,159,Columbus St.,12,2,4,18
 2016,1028,Concord,5,6,7,18
-2016,162,Concordia (NY),1,10,3,14
+2016,162,Concordia (NY),1,11,2,14
 2016,24400,Concordia (TX),3,9,5,17
-2016,160,Concordia Chicago,7,8,3,18
-2016,1036,Concordia Wisconsin,11,1,6,18
+2016,160,Concordia Chicago,7,9,2,18
+2016,1036,Concordia Wisconsin,12,1,5,18
 2016,161,Concordia-M'head,9,6,3,18
 2016,9081,Concordia-St. Paul,6,8,4,18
 2016,163,Connecticut Col.,2,6,7,15
-2016,8935,Converse,8,6,4,18
+2016,8935,Converse,9,6,3,18
 2016,167,Cornell,9,1,7,17
 2016,166,Cornell College,2,13,3,18
-2016,30111,Covenant,7,4,3,14
+2016,30111,Covenant,8,4,3,15
 2016,169,Creighton,10,7,3,20
 2016,30035,Crown (MN),3,11,5,19
 2016,94,CSU Bakersfield,5,9,5,19
 2016,101,CSUN,10,5,5,20
 2016,170,Curry,12,4,3,19
-2016,1059,D'Youville,7,5,3,15
+2016,1059,D'Youville,7,6,2,15
 2016,30174,Daemen,5,8,5,18
 2016,1044,Dallas,4,11,5,20
 2016,1045,Dallas Baptist,8,3,6,17
@@ -210,79 +210,79 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,173,Davidson,5,10,4,19
 2016,174,Davis & Elkins,12,2,3,17
 2016,175,Dayton,6,9,4,19
-2016,1050,Defiance,2,12,4,18
+2016,1050,Defiance,2,13,3,18
 2016,180,Delaware,7,7,4,18
 2016,178,Delaware St.,6,9,3,18
-2016,179,Delaware Valley,3,10,6,19
+2016,179,Delaware Valley,3,11,5,19
 2016,181,Delta St.,3,10,4,17
 2016,182,Denison,12,2,3,17
 2016,183,Denver,1,11,5,17
 2016,176,DePaul,11,2,6,19
-2016,177,DePauw,8,5,4,17
-2016,20,DeSales,10,4,3,17
-2016,184,Detroit,6,7,5,18
-2016,185,Dickinson,7,5,8,20
+2016,177,DePauw,9,5,3,17
+2016,20,DeSales,11,4,2,17
+2016,184,Detroit,6,8,4,18
+2016,185,Dickinson,7,6,7,20
 2016,30095,Dixie St.,7,5,5,17
-2016,30118,Dominican (CA),4,7,7,18
-2016,1332,Dominican (IL),9,5,3,17
-2016,8956,Dominican (NY),1,10,3,14
-2016,2692,Dowling,5,6,6,17
+2016,30118,Dominican (CA),4,8,6,18
+2016,1332,Dominican (IL),10,5,2,17
+2016,8956,Dominican (NY),1,11,2,14
+2016,2692,Dowling,5,7,5,17
 2016,189,Drake,6,8,3,17
-2016,190,Drew,6,8,5,19
+2016,190,Drew,7,8,4,19
 2016,191,Drexel,8,8,2,18
 2016,1057,Drury,7,3,7,17
-2016,192,Dubuque,10,4,4,18
+2016,192,Dubuque,10,5,3,18
 2016,193,Duke,8,4,7,19
 2016,194,Duquesne,7,8,4,19
-2016,195,Earlham,1,8,6,15
+2016,195,Earlham,1,9,5,15
 2016,196,East Carolina,7,8,4,19
 2016,8965,East Central,4,10,4,18
 2016,197,East Stroudsburg,7,5,4,16
 2016,198,ETSU,9,6,3,18
 2016,1062,East Tex. Baptist,4,9,4,17
-2016,203,East. Mennonite,1,12,5,18
-2016,8968,Eastern,6,8,7,21
-2016,200,Eastern Conn. St.,10,3,5,18
+2016,203,East. Mennonite,1,13,4,18
+2016,8968,Eastern,6,9,6,21
+2016,200,Eastern Conn. St.,11,3,4,18
 2016,201,Eastern Ill.,3,11,5,19
 2016,202,Eastern Ky.,3,13,2,18
 2016,204,Eastern Mich.,5,9,5,19
 2016,206,Eastern N.M.,4,10,4,18
 2016,1064,Eastern Nazarene,5,6,5,16
 2016,207,Eastern Wash.,11,3,4,18
-2016,208,Eckerd,4,7,4,15
-2016,1066,Edgewood,7,7,3,17
+2016,208,Eckerd,4,8,3,15
+2016,1066,Edgewood,8,7,2,17
 2016,209,Edinboro,9,5,4,18
-2016,211,Elizabethtown,9,4,5,18
+2016,211,Elizabethtown,9,5,4,18
 2016,212,Elmhurst,7,4,5,16
-2016,213,Elmira,3,9,4,16
+2016,213,Elmira,3,10,3,16
 2016,532,Elms,10,3,5,18
 2016,1068,Elon,9,5,4,18
-2016,214,Emerson,9,4,5,18
-2016,30193,Emmanuel (GA),2,9,5,16
-2016,215,Emmanuel (MA),9,8,2,19
+2016,214,Emerson,9,5,4,18
+2016,30193,Emmanuel (GA),2,10,4,16
+2016,215,Emmanuel (MA),10,8,1,19
 2016,217,Emory,7,6,6,19
 2016,216,Emory & Henry,3,10,5,18
 2016,1071,Emporia St.,7,5,5,17
-2016,8981,Endicott,7,5,5,17
-2016,1072,Erskine,1,12,4,17
+2016,8981,Endicott,7,6,4,17
+2016,1072,Erskine,1,13,3,17
 2016,218,Eureka,4,11,5,20
 2016,219,Evansville,3,10,4,17
 2016,220,Fairfield,4,9,6,19
 2016,222,Fairleigh Dickinson,11,5,3,19
 2016,1076,Fairmont St.,2,12,4,18
-2016,27892,Farmingdale St.,8,5,9,22
-2016,221,FDU-Florham,8,6,6,20
-2016,23157,Felician,5,7,4,16
+2016,27892,Farmingdale St.,9,5,8,22
+2016,221,FDU-Florham,8,7,5,20
+2016,23157,Felician,6,7,3,16
 2016,224,Ferris St.,12,3,3,18
 2016,225,Ferrum,10,4,4,18
 2016,28755,FGCU,10,5,3,18
 2016,1079,Findlay,1,10,6,17
 2016,30032,Finlandia,1,11,2,14
-2016,227,Fitchburg St.,2,12,4,18
+2016,227,Fitchburg St.,2,13,3,18
 2016,231,FIU,8,9,2,19
 2016,229,Fla. Atlantic,10,7,3,20
-2016,233,Fla. Southern,2,9,3,14
-2016,30092,Flagler,7,2,6,15
+2016,233,Fla. Southern,3,9,2,14
+2016,30092,Flagler,8,2,5,15
 2016,235,Florida,11,3,4,18
 2016,234,Florida St.,13,1,4,18
 2016,230,Florida Tech,8,4,3,15
@@ -290,73 +290,73 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,236,Fordham,10,5,4,19
 2016,9011,Fort Hays St.,7,7,4,18
 2016,1083,Fort Lewis,10,3,5,18
-2016,238,Framingham St.,7,5,6,18
-2016,1085,Francis Marion,3,13,1,17
+2016,238,Framingham St.,8,5,5,18
+2016,1085,Francis Marion,3,14,0,17
 2016,30069,Franciscan,6,7,3,16
 2016,239,Frank. & Marsh.,3,9,8,20
-2016,2694,Franklin,12,1,4,17
-2016,241,Franklin Pierce,6,6,5,17
+2016,2694,Franklin,12,2,3,17
+2016,241,Franklin Pierce,6,7,4,17
 2016,242,Fredonia,4,10,4,18
 2016,30147,Fresno Pacific,7,5,5,17
 2016,96,Fresno St.,4,10,4,18
 2016,243,Frostburg St.,8,6,5,19
 2016,244,Furman,12,4,3,19
 2016,253,Ga. Southern,6,8,4,18
-2016,1097,Ga. Southwestern,2,10,4,16
+2016,1097,Ga. Southwestern,2,11,3,16
 2016,245,Gallaudet,3,14,5,22
-2016,246,Gannon,14,0,4,18
+2016,246,Gannon,15,0,3,18
 2016,1092,Gardner-Webb,5,8,6,19
-2016,30084,Geneva,6,6,4,16
+2016,30084,Geneva,7,6,3,16
 2016,1094,George Fox,5,8,7,20
 2016,248,George Mason,8,6,4,18
 2016,249,George Washington,11,4,4,19
 2016,251,Georgetown,9,5,4,18
 2016,257,Georgia,3,10,4,17
-2016,1096,Georgia College,6,6,6,18
+2016,1096,Georgia College,6,7,5,18
 2016,254,Georgia St.,9,4,5,18
 2016,9004,Georgian Court,11,2,4,17
 2016,258,Gettysburg,7,2,8,17
-2016,8366,Goldey-Beacom,6,7,4,17
+2016,8366,Goldey-Beacom,6,8,3,17
 2016,260,Gonzaga,2,8,9,19
-2016,1099,Gordon,4,6,6,16
+2016,1099,Gordon,5,6,5,16
 2016,1467,Goucher,7,6,5,18
 2016,261,Grambling,2,7,4,13
 2016,1104,Grand Canyon,6,8,5,19
 2016,262,Grand Valley St.,14,1,2,17
-2016,794,Green Bay,3,11,3,17
-2016,11062,Green Mountain,2,11,3,16
-2016,263,Greensboro,9,4,5,18
+2016,794,Green Bay,3,12,2,17
+2016,11062,Green Mountain,2,12,2,16
+2016,263,Greensboro,9,5,4,18
 2016,1111,Greenville,8,4,7,19
 2016,264,Grinnell,4,10,3,17
 2016,265,Grove City,8,5,6,19
 2016,1112,Guilford,5,8,5,18
-2016,266,Gust. Adolphus,9,4,5,18
-2016,12399,Gwynedd Mercy,9,3,5,17
+2016,266,Gust. Adolphus,10,4,4,18
+2016,12399,Gwynedd Mercy,10,3,4,17
 2016,267,Hamilton,5,5,5,15
 2016,268,Hamline,4,9,4,17
 2016,270,Hampton,0,7,1,8
-2016,1115,Hanover,9,5,4,18
+2016,1115,Hanover,10,5,3,18
 2016,271,Hardin-Simmons,11,2,4,17
 2016,1116,Harding,10,2,6,18
 2016,272,Hartford,9,2,6,17
-2016,273,Hartwick,8,3,6,17
+2016,273,Hartwick,9,3,5,17
 2016,275,Harvard,7,6,4,17
-2016,276,Haverford,9,3,5,17
+2016,276,Haverford,10,3,4,17
 2016,277,Hawaii,3,11,4,18
 2016,2697,Hawaii Hilo,4,4,9,17
-2016,2696,Hawaii Pacific,5,7,6,18
-2016,278,Heidelberg,7,8,4,19
+2016,2696,Hawaii Pacific,6,7,5,18
+2016,278,Heidelberg,7,9,3,19
 2016,1124,Hendrix,9,6,3,18
-2016,19651,High Point,9,3,7,19
-2016,8398,Hilbert,4,9,3,16
-2016,281,Hiram,4,10,4,18
+2016,19651,High Point,10,3,6,19
+2016,8398,Hilbert,4,9,4,17
+2016,281,Hiram,5,10,3,18
 2016,283,Hofstra,11,4,3,18
-2016,284,Hollins,0,13,5,18
+2016,284,Hollins,0,14,4,18
 2016,285,Holy Cross,4,7,6,17
 2016,1126,Holy Family,10,4,4,18
 2016,30175,Holy Names,4,7,6,17
-2016,8404,Hood,4,10,4,18
-2016,286,Hope,13,2,7,22
+2016,8404,Hood,4,11,3,18
+2016,286,Hope,14,2,6,22
 2016,30160,Houghton,7,5,5,17
 2016,288,Houston,4,11,2,17
 2016,287,Houston Baptist,8,4,4,16
@@ -364,171 +364,171 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,2741,Howard Payne,3,6,6,15
 2016,291,Humboldt St.,7,5,6,18
 2016,1130,Huntingdon,3,8,5,16
-2016,1133,Husson,6,7,5,18
+2016,1133,Husson,6,8,4,18
 2016,295,Idaho,11,4,4,19
 2016,294,Idaho St.,1,14,4,19
-2016,300,Ill. Wesleyan,14,1,3,18
-2016,302,Ill.-Chicago,4,10,5,19
+2016,300,Ill. Wesleyan,15,1,2,18
+2016,302,Ill.-Chicago,5,10,4,19
 2016,30050,Ill.-Springfield,5,8,5,18
 2016,301,Illinois,9,4,5,18
 2016,297,Illinois Col.,4,9,5,18
 2016,299,Illinois St.,5,8,4,17
-2016,303,Immaculata,3,9,6,18
+2016,303,Immaculata,3,10,5,18
 2016,2743,Incarnate Word,3,11,5,19
 2016,306,Indiana,3,8,8,19
-2016,307,Indiana (PA),7,5,6,18
+2016,307,Indiana (PA),8,5,5,18
 2016,305,Indiana St.,5,9,3,17
-2016,310,Iona,2,14,3,19
+2016,310,Iona,3,14,2,19
 2016,312,Iowa,7,8,3,18
 2016,311,Iowa St.,6,11,1,18
-2016,30173,Iowa Wesleyan,0,11,5,16
+2016,30173,Iowa Wesleyan,0,12,4,16
 2016,308,IPFW,4,10,5,19
-2016,313,Ithaca,9,3,5,17
+2016,313,Ithaca,10,3,4,17
 2016,2699,IUPUI,6,6,6,18
 2016,314,Jackson St.,8,6,5,19
 2016,316,Jacksonville,5,7,3,15
 2016,315,Jacksonville St.,7,8,3,18
 2016,317,James Madison,10,6,3,19
 2016,320,John Carroll,4,10,5,19
-2016,321,John Jay,2,8,6,16
-2016,322,Johns Hopkins,9,3,5,17
-2016,22626,Johnson & Wales (RI),9,6,4,19
-2016,324,Johnson St.,5,9,6,20
+2016,321,John Jay,2,9,5,16
+2016,322,Johns Hopkins,10,3,4,17
+2016,22626,Johnson & Wales (RI),10,6,3,19
+2016,324,Johnson St.,5,10,5,20
 2016,325,Juniata,5,8,4,17
-2016,326,Kalamazoo,7,7,7,21
+2016,326,Kalamazoo,7,8,6,21
 2016,328,Kansas,8,6,4,18
-2016,329,Kean,9,5,4,18
+2016,329,Kean,9,6,3,18
 2016,330,Keene St.,8,5,6,19
 2016,1157,Kennesaw St.,5,9,4,18
 2016,331,Kent St.,9,5,5,19
 2016,334,Kentucky,9,4,6,19
 2016,335,Kenyon,10,5,3,18
-2016,1159,Keuka,8,5,5,18
-2016,30047,Keystone,6,6,4,16
-2016,30051,King (TN),7,4,6,17
-2016,336,King's (PA),5,5,6,16
+2016,1159,Keuka,8,6,4,18
+2016,30047,Keystone,6,7,3,16
+2016,30051,King (TN),7,5,5,17
+2016,336,King's (PA),5,6,5,16
 2016,337,Knox,11,3,4,18
-2016,339,Kutztown,8,4,5,17
+2016,339,Kutztown,9,4,4,17
 2016,333,Ky. Wesleyan,9,3,3,15
-2016,1163,La Roche,6,6,3,15
+2016,1163,La Roche,7,6,2,15
 2016,340,La Salle,6,7,6,19
 2016,341,La Verne,5,7,6,18
 2016,671,La.-Lafayette,8,8,3,19
 2016,498,La.-Monroe,6,12,2,20
-2016,342,Lafayette,7,5,4,16
+2016,342,Lafayette,7,6,3,16
 2016,1162,LaGrange,4,13,3,20
-2016,2746,Lake Erie,2,10,6,18
+2016,2746,Lake Erie,3,10,5,18
 2016,344,Lake Forest,12,2,4,18
 2016,1164,Lakeland,4,13,3,20
 2016,346,Lamar,6,10,4,20
-2016,30085,Lancaster Bible,7,7,5,19
-2016,1167,Lander,6,5,4,15
-2016,8486,Lasell,9,4,5,18
+2016,30085,Lancaster Bible,7,8,4,19
+2016,1167,Lander,7,5,3,15
+2016,8486,Lasell,10,4,4,18
 2016,348,Lawrence,8,7,3,18
-2016,349,Le Moyne,2,10,5,17
-2016,351,Lebanon Valley,10,4,3,17
+2016,349,Le Moyne,3,10,4,17
+2016,351,Lebanon Valley,11,4,2,17
 2016,30013,Lee,8,4,5,17
-2016,13302,Lees-McRae,4,8,5,17
-2016,352,Lehigh,6,6,6,18
-2016,279,Lehman,11,2,3,16
+2016,13302,Lees-McRae,4,9,4,17
+2016,352,Lehigh,7,6,5,18
+2016,279,Lehman,12,2,2,16
 2016,1170,Lenoir-Rhyne,10,4,3,17
 2016,24317,Lesley,10,5,4,19
 2016,8490,LeTourneau,7,5,5,17
 2016,354,Lewis,8,5,5,18
 2016,22235,Lewis & Clark,7,6,7,20
-2016,355,Liberty,7,7,4,18
+2016,355,Liberty,8,7,3,18
 2016,1174,Limestone,12,1,3,16
 2016,357,Lincoln (PA),2,10,3,15
-2016,1176,Lincoln Memorial,4,6,6,16
+2016,1176,Lincoln Memorial,4,7,5,16
 2016,30136,Lindenwood (MO),3,7,8,18
 2016,1179,Linfield,8,4,7,19
 2016,28600,Lipscomb,10,3,5,18
 2016,361,LIU Brooklyn,4,12,3,19
 2016,362,LIU Post,10,2,6,18
-2016,360,Lock Haven,3,9,5,17
+2016,360,Lock Haven,3,10,4,17
 2016,99,Long Beach St.,8,5,6,19
-2016,363,Longwood,8,5,5,18
+2016,363,Longwood,8,6,4,18
 2016,364,Loras,8,5,4,17
 2016,1182,Louisiana Col.,3,13,3,19
 2016,366,Louisiana Tech,11,7,2,20
 2016,367,Louisville,7,6,5,18
 2016,371,Loyola Chicago,6,6,6,18
-2016,369,Loyola Maryland,5,7,4,16
+2016,369,Loyola Maryland,5,8,3,16
 2016,370,Loyola Marymount,9,4,6,19
 2016,365,LSU,9,4,6,19
 2016,30177,Lubbock Christian,8,2,7,17
-2016,372,Luther,12,2,3,17
-2016,373,Lycoming,8,7,3,18
+2016,372,Luther,12,3,2,17
+2016,373,Lycoming,8,8,2,18
 2016,374,Lynchburg,15,2,3,20
-2016,30065,Lyndon St.,1,11,4,16
+2016,30065,Lyndon St.,2,11,3,16
 2016,20794,Lynn,3,10,4,17
-2016,376,Macalester,6,2,8,16
-2016,377,MacMurray,3,9,5,17
+2016,376,Macalester,7,2,7,16
+2016,377,MacMurray,4,10,3,17
 2016,380,Maine,8,6,3,17
-2016,378,Maine Maritime,7,6,4,17
-2016,30137,Malone,5,9,4,18
-2016,1192,Manchester,3,9,5,17
-2016,381,Manhattan,9,3,5,17
-2016,382,Manhattanville,4,9,4,17
-2016,384,Mansfield,3,9,5,17
+2016,378,Maine Maritime,8,6,3,17
+2016,30137,Malone,5,10,3,18
+2016,1192,Manchester,4,9,4,17
+2016,381,Manhattan,9,4,4,17
+2016,382,Manhattanville,5,9,3,17
+2016,384,Mansfield,3,10,4,17
 2016,1194,Maranatha Baptist,9,2,4,15
-2016,1196,Marian (WI),6,10,3,19
-2016,385,Marietta,0,15,4,19
-2016,386,Marist,6,9,4,19
+2016,1196,Marian (WI),6,11,2,19
+2016,385,Marietta,0,16,3,19
+2016,386,Marist,6,10,3,19
 2016,387,Marquette,6,6,7,19
-2016,1199,Mars Hill,3,11,4,18
+2016,1199,Mars Hill,4,11,3,18
 2016,388,Marshall,11,3,5,19
-2016,8597,Martin Luther,3,11,4,18
+2016,8597,Martin Luther,3,12,3,18
 2016,30075,Mary,2,9,6,17
 2016,389,Mary Baldwin,3,11,3,17
 2016,1203,Mary Hardin-Baylor,8,3,5,16
 2016,390,Mary Washington,9,6,6,21
-2016,392,Maryland,5,10,3,18
-2016,394,Marymount (VA),4,10,3,17
+2016,392,Maryland,6,10,3,19
+2016,394,Marymount (VA),4,11,2,17
 2016,395,Maryville (MO),5,6,6,17
 2016,396,Maryville (TN),10,3,4,17
-2016,397,Marywood,6,5,6,17
-2016,399,Mass. Maritime,3,8,5,16
+2016,397,Marywood,6,6,5,17
+2016,399,Mass. Maritime,4,8,4,16
 2016,400,Massachusetts,6,5,7,18
 2016,773,McDaniel,13,0,5,18
 2016,30138,McKendree,7,5,6,18
 2016,486,MCLA,3,10,3,16
 2016,8530,McMurry,2,8,7,17
 2016,402,McNeese St.,6,8,3,17
-2016,379,Me.-Farmington,5,9,3,17
+2016,379,Me.-Farmington,6,9,2,17
 2016,30040,Me.-Presque Isle,5,7,2,14
-2016,23725,Medaille,1,11,4,16
+2016,23725,Medaille,1,12,5,18
 2016,403,Medgar Evers,0,11,3,14
 2016,404,Memphis,7,6,5,18
 2016,406,Mercer,7,6,5,18
-2016,407,Mercy,5,5,6,16
-2016,408,Mercyhurst,6,6,6,18
+2016,407,Mercy,6,5,5,16
+2016,408,Mercyhurst,6,7,5,18
 2016,409,Meredith,11,4,5,20
-2016,410,Merrimack,8,3,7,18
+2016,410,Merrimack,9,3,6,18
 2016,411,Messiah,12,0,6,18
 2016,412,Methodist,8,6,3,17
-2016,413,Metro St.,5,5,8,18
+2016,413,Metro St.,5,6,7,18
 2016,415,Miami (FL),5,9,3,17
 2016,414,Miami (OH),9,5,4,18
 2016,418,Michigan,10,5,4,19
-2016,416,Michigan St.,7,4,6,17
+2016,416,Michigan St.,7,5,6,18
 2016,417,Michigan Tech,7,5,4,16
 2016,419,Middle Tenn.,8,5,4,17
 2016,420,Middlebury,5,3,7,15
 2016,1222,Midwestern St.,7,3,7,17
 2016,423,Millersville,5,9,3,17
-2016,424,Millikin,6,7,4,17
+2016,424,Millikin,6,8,3,17
 2016,425,Mills,0,9,4,13
 2016,426,Millsaps,3,12,3,18
-2016,797,Milwaukee,9,3,5,17
+2016,797,Milwaukee,10,3,4,17
 2016,427,Minn. Duluth,4,8,6,18
 2016,383,Minn. St. Mankato,12,1,5,18
 2016,1240,Minn. St. Moorhead,1,9,7,17
 2016,27854,Minn.-Crookston,5,8,5,18
-2016,1226,Minn.-Morris,6,6,4,16
+2016,1226,Minn.-Morris,7,6,3,16
 2016,428,Minnesota,11,3,5,19
 2016,30125,Minot St.,11,2,5,18
-2016,16142,Misericordia,12,2,5,19
+2016,16142,Misericordia,13,2,4,19
 2016,429,Mississippi Col.,10,1,7,18
 2016,430,Mississippi St.,4,8,6,18
 2016,432,Mississippi Val.,9,6,5,20
@@ -541,72 +541,72 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,9013,Mo. Western St.,8,4,5,17
 2016,436,Mo.-St. Louis,10,1,6,17
 2016,437,Molloy,6,5,5,16
-2016,439,Monmouth,11,2,4,17
+2016,439,Monmouth,12,2,3,17
 2016,438,Monmouth (IL),3,12,3,18
 2016,205,Mont. St. Billings,6,5,5,16
 2016,441,Montana,6,9,5,20
-2016,442,Montclair St.,11,2,5,18
+2016,442,Montclair St.,12,2,4,18
 2016,1238,Montevallo,2,10,6,18
 2016,443,Moravian,4,8,4,16
 2016,444,Morehead St.,8,8,4,20
 2016,30067,Morrisville St.,5,9,2,16
 2016,30036,Mount Aloysius,7,9,2,18
-2016,449,Mount Holyoke,8,5,5,18
-2016,27901,Mount Ida,2,9,6,17
-2016,30033,Mount Mary,2,13,4,19
+2016,449,Mount Holyoke,9,5,4,18
+2016,27901,Mount Ida,2,10,5,17
+2016,30033,Mount Mary,2,14,3,19
 2016,1245,Mount Olive,7,3,6,16
-2016,452,Mount Union,6,8,4,18
+2016,452,Mount Union,7,8,3,18
 2016,20220,MSOE,9,6,3,18
-2016,8567,Mt. St. Joseph,7,5,6,18
-2016,1468,Mt. St. Mary (NY),11,5,4,20
+2016,8567,Mt. St. Joseph,8,5,5,18
+2016,1468,Mt. St. Mary (NY),12,5,3,20
 2016,450,Mt. St. Mary's,3,12,4,19
-2016,451,Mt. St. Vincent,3,10,6,19
-2016,453,Muhlenberg,4,9,5,18
+2016,451,Mt. St. Vincent,4,10,5,19
+2016,453,Muhlenberg,4,10,4,18
 2016,454,Murray St.,11,4,3,18
-2016,455,Muskingum,2,11,5,18
+2016,455,Muskingum,2,12,4,18
 2016,491,N.C. Wesleyan,5,8,4,17
 2016,8577,N.M. Highlands,6,7,5,18
 2016,726,Navy,8,4,8,20
-2016,461,Nazareth,10,2,5,17
-2016,462,Neb. Wesleyan,8,5,4,17
+2016,461,Nazareth,11,2,4,17
+2016,462,Neb. Wesleyan,8,6,4,18
 2016,1156,Neb.-Kearney,4,7,7,18
 2016,463,Nebraska,6,7,4,17
-2016,1254,Neumann,1,12,4,17
+2016,1254,Neumann,2,12,3,17
 2016,466,Nevada,6,8,5,19
-2016,467,New England Col.,8,8,3,19
+2016,467,New England Col.,8,9,2,19
 2016,469,New Hampshire,6,8,4,18
-2016,470,New Haven,7,4,7,18
-2016,319,New Jersey City,4,9,4,17
+2016,470,New Haven,8,4,6,18
+2016,319,New Jersey City,4,10,3,17
 2016,473,New Mexico,7,7,4,18
 2016,472,New Mexico St.,4,12,3,19
-2016,1257,Newberry,3,8,5,16
+2016,1257,Newberry,4,8,4,16
 2016,21772,Newbury,3,9,4,16
 2016,30054,Newman,3,7,6,16
-2016,482,Niagara,7,5,5,17
+2016,482,Niagara,8,5,4,17
 2016,483,Nicholls St.,4,9,4,17
-2016,484,Nichols,2,11,4,17
+2016,484,Nichols,2,12,3,17
 2016,471,NJIT,2,13,1,16
-2016,487,North Ala.,10,2,5,17
+2016,487,North Ala.,11,2,4,17
 2016,457,North Carolina,11,3,4,18
 2016,490,North Carolina St.,4,11,4,19
-2016,492,North Central (IL),7,6,4,17
-2016,30039,North Central (MN),6,8,5,19
+2016,492,North Central (IL),7,7,3,17
+2016,30039,North Central (MN),7,8,4,19
 2016,494,North Dakota,4,9,5,18
 2016,493,North Dakota St.,9,5,4,18
 2016,2711,North Florida,4,10,2,16
-2016,30052,North Georgia,10,1,5,16
-2016,9223,North Greenville,6,6,4,16
-2016,496,North Park,5,8,4,17
+2016,30052,North Georgia,10,2,4,16
+2016,9223,North Greenville,7,6,3,16
+2016,496,North Park,5,9,3,17
 2016,497,North Texas,14,2,4,20
 2016,500,Northeastern,11,5,3,19
 2016,12810,Northeastern St.,11,3,4,18
 2016,501,Northern Ariz.,7,8,4,19
 2016,502,Northern Colo.,11,6,3,20
 2016,503,Northern Ill.,2,12,4,18
-2016,505,Northern Ky.,9,4,3,16
+2016,505,Northern Ky.,9,5,2,16
 2016,506,Northern Mich.,5,8,3,16
 2016,1266,Northern St.,5,8,5,18
-2016,1267,Northland,8,6,3,17
+2016,1267,Northland,9,6,2,17
 2016,507,Northwest Mo. St.,3,7,7,17
 2016,1274,Northwest Nazarene,5,7,5,17
 2016,509,Northwestern,11,4,4,19
@@ -614,65 +614,65 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,508,Northwestern St.,5,8,6,19
 2016,30031,Northwestern-St. Paul,10,5,2,17
 2016,510,Northwood (MI),5,6,4,15
-2016,511,Norwich,3,9,7,19
+2016,511,Norwich,3,10,6,19
 2016,513,Notre Dame,11,3,4,18
 2016,8600,Notre Dame (MD),8,4,4,16
 2016,30126,Notre Dame (OH),9,4,5,18
 2016,30056,Notre Dame de Namur,2,10,6,18
-2016,24639,Nova Southeastern,11,2,2,15
+2016,24639,Nova Southeastern,11,3,1,15
 2016,1277,Nyack,1,13,4,18
 2016,477,NYIT,5,7,6,18
 2016,479,NYU,9,4,5,18
-2016,514,Oakland,4,5,9,18
+2016,514,Oakland,5,5,8,18
 2016,1278,Oakland City,4,9,2,15
 2016,515,Oberlin,5,6,6,17
 2016,516,Occidental,5,6,6,17
 2016,2713,Oglethorpe,2,10,2,14
 2016,519,Ohio,5,10,3,18
 2016,30119,Ohio Dominican,8,6,3,17
-2016,517,Ohio Northern,8,6,5,19
+2016,517,Ohio Northern,9,6,4,19
 2016,518,Ohio St.,9,4,5,18
 2016,15207,Ohio Valley,1,12,3,16
-2016,520,Ohio Wesleyan,1,11,5,17
-2016,30179,Okla. Christian,4,7,5,16
+2016,520,Ohio Wesleyan,1,12,4,17
+2016,30179,Okla. Christian,4,8,4,16
 2016,522,Oklahoma,8,6,5,19
 2016,521,Oklahoma St.,8,6,5,19
 2016,523,Old Dominion,6,9,3,18
 2016,524,Old Westbury,8,5,3,16
 2016,433,Ole Miss,11,3,5,19
-2016,525,Olivet,10,3,6,19
+2016,525,Olivet,10,4,5,19
 2016,464,Omaha,5,9,4,18
 2016,527,Oral Roberts,7,7,5,19
 2016,529,Oregon,4,10,5,19
 2016,528,Oregon St.,6,5,8,19
 2016,530,Oswego St.,7,7,3,17
-2016,531,Otterbein,7,6,4,17
+2016,531,Otterbein,8,6,3,17
 2016,1289,Ouachita Baptist,7,6,4,17
 2016,23008,Ozarks (AR),3,9,6,18
-2016,533,Pace,7,3,8,18
+2016,533,Pace,7,4,7,18
 2016,534,Pacific,2,10,5,17
 2016,2751,Pacific (OR),3,10,7,20
-2016,1297,Pacific Lutheran,12,1,7,20
+2016,1297,Pacific Lutheran,12,2,6,20
 2016,30045,Palm Beach Atl.,4,7,5,16
 2016,540,Penn,5,3,8,16
 2016,30190,Penn College,7,6,5,18
 2016,539,Penn St.,11,3,4,18
-2016,30081,Penn St. Harrisburg,5,7,4,16
+2016,30081,Penn St. Harrisburg,5,8,3,16
 2016,30114,Penn St.-Abington,9,4,4,17
-2016,25719,Penn St.-Altoona,3,9,4,16
-2016,538,Penn St.-Behrend,8,7,3,18
-2016,30044,Penn St.-Berks,10,1,7,18
+2016,25719,Penn St.-Altoona,3,10,3,16
+2016,538,Penn St.-Behrend,9,7,2,18
+2016,30044,Penn St.-Berks,10,2,6,18
 2016,541,Pepperdine,6,6,7,19
-2016,542,Pfeiffer,5,7,5,17
+2016,542,Pfeiffer,6,7,4,17
 2016,543,Philadelphia U.,6,8,4,18
 2016,21830,Piedmont,15,1,3,19
-2016,544,Pine Manor,0,12,1,13
+2016,544,Pine Manor,0,13,0,13
 2016,1315,Pitt.-Bradford,9,6,2,17
-2016,11839,Pitt.-Greensburg,6,6,5,17
-2016,546,Pitt.-Johnstown,0,13,5,18
+2016,11839,Pitt.-Greensburg,7,6,5,18
+2016,546,Pitt.-Johnstown,0,14,4,18
 2016,545,Pittsburgh,10,4,4,18
-2016,547,Plattsburgh St.,9,5,4,18
-2016,548,Plymouth St.,5,6,5,16
+2016,547,Plattsburgh St.,10,5,3,18
+2016,548,Plymouth St.,6,6,4,16
 2016,30149,Point Loma,8,4,6,18
 2016,549,Pomona-Pitzer,8,6,6,20
 2016,551,Portland,6,9,4,19
@@ -681,23 +681,23 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,553,Prairie View,8,5,4,17
 2016,1320,Presbyterian,6,9,3,18
 2016,554,Princeton,11,3,3,17
-2016,555,Principia,4,9,5,18
+2016,555,Principia,5,9,4,18
 2016,556,Providence,10,6,3,19
-2016,557,Puget Sound,10,0,10,20
+2016,557,Puget Sound,11,0,9,20
 2016,30029,Purchase,5,10,3,18
 2016,559,Purdue,8,7,3,18
-2016,11504,Queens (NC),7,5,5,17
-2016,560,Queens (NY),4,6,6,16
+2016,11504,Queens (NC),8,5,4,17
+2016,560,Queens (NY),4,7,5,16
 2016,561,Quincy,10,2,6,18
 2016,562,Quinnipiac,7,7,3,17
-2016,563,Radford,6,10,2,18
-2016,564,Ramapo,8,4,4,16
-2016,566,Randolph,5,8,5,18
+2016,563,Radford,6,11,1,18
+2016,564,Ramapo,8,5,3,16
+2016,566,Randolph,5,9,4,18
 2016,565,Randolph-Macon,6,6,4,16
 2016,567,Redlands,7,3,7,17
-2016,568,Regis (CO),7,3,8,18
-2016,569,Regis (MA),4,8,6,18
-2016,570,Rensselaer,5,5,9,19
+2016,568,Regis (CO),8,3,7,18
+2016,569,Regis (MA),5,8,5,18
+2016,570,Rensselaer,5,6,8,19
 2016,572,Rhode Island,3,11,5,19
 2016,571,Rhode Island Col.,2,13,2,17
 2016,573,Rhodes,9,5,2,16
@@ -705,24 +705,24 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,575,Richmond,4,9,5,18
 2016,576,Rider,8,5,3,16
 2016,577,Ripon,7,6,5,18
-2016,18422,Rivier,4,8,4,16
-2016,578,Roanoke,7,6,5,18
+2016,18422,Rivier,5,8,3,16
+2016,578,Roanoke,8,6,4,18
 2016,579,Robert Morris,7,8,4,19
 2016,30150,Roberts Wesleyan,9,3,5,17
-2016,581,Rochester (NY),6,5,6,17
+2016,581,Rochester (NY),7,5,5,17
 2016,580,RIT,11,2,4,17
-2016,582,Rockford,2,13,3,18
+2016,582,Rockford,3,13,2,18
 2016,1328,Rockhurst,6,4,8,18
-2016,583,Roger Williams,13,0,6,19
+2016,583,Roger Williams,14,0,5,19
 2016,30180,Rogers St.,1,14,2,17
-2016,584,Rollins,9,4,2,15
-2016,585,Rose-Hulman,6,8,4,18
-2016,15882,Rosemont,5,8,5,18
+2016,584,Rollins,9,5,1,15
+2016,585,Rose-Hulman,7,8,3,18
+2016,15882,Rosemont,5,9,4,18
 2016,259,Rowan,9,2,4,15
 2016,587,Rutgers,12,2,4,18
-2016,588,Rutgers-Camden,3,8,5,16
-2016,589,Rutgers-Newark,12,4,4,20
-2016,11276,S.C. Aiken,2,9,6,17
+2016,588,Rutgers-Camden,4,8,4,16
+2016,589,Rutgers-Newark,12,5,3,20
+2016,11276,S.C. Aiken,2,10,5,17
 2016,102,Sacramento St.,6,10,2,18
 2016,590,Sacred Heart,4,11,2,17
 2016,11036,Sage Colleges,12,3,3,18
@@ -730,19 +730,19 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,595,Saint Benedict,6,6,5,17
 2016,600,Saint Francis (PA),4,10,4,18
 2016,606,Saint Joseph's,9,6,4,19
-2016,608,Saint Leo,6,6,3,15
+2016,608,Saint Leo,6,7,2,15
 2016,609,Saint Louis,8,7,4,19
-2016,1343,Saint Martin's,1,11,6,18
-2016,612,Saint Mary's (MN),5,9,4,18
-2016,613,Saint Michael's,1,11,5,17
-2016,617,Saint Peter's,2,12,3,17
-2016,1347,Saint Rose,10,2,6,18
-2016,30064,Saint Vincent,6,8,4,18
+2016,1343,Saint Martin's,1,12,5,18
+2016,612,Saint Mary's (MN),6,9,3,18
+2016,613,Saint Michael's,1,12,4,17
+2016,617,Saint Peter's,2,13,2,17
+2016,1347,Saint Rose,11,2,5,18
+2016,30064,Saint Vincent,7,8,3,18
 2016,30041,Salem,10,2,4,16
 2016,19117,Salem Int'l,0,11,3,14
 2016,621,Salem St.,4,8,4,16
-2016,622,Salisbury,10,3,4,17
-2016,623,Salve Regina,6,8,4,18
+2016,622,Salisbury,10,4,3,17
+2016,623,Salve Regina,7,8,3,18
 2016,624,Sam Houston St.,7,6,5,18
 2016,625,Samford,12,4,2,18
 2016,627,San Diego,3,10,7,20
@@ -751,32 +751,32 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,629,San Francisco,9,3,8,20
 2016,630,San Jose St.,8,6,5,19
 2016,631,Santa Clara,10,5,5,20
-2016,30163,Sarah Lawrence,4,9,3,16
+2016,30163,Sarah Lawrence,4,10,2,16
 2016,1355,Schreiner,9,4,5,18
-2016,633,Scranton,10,3,4,17
+2016,633,Scranton,11,3,3,17
 2016,1356,Seattle,10,2,6,18
 2016,634,Seattle Pacific,9,3,5,17
 2016,635,Seton Hall,2,11,5,18
-2016,30063,Seton Hill,6,7,5,18
+2016,30063,Seton Hill,6,8,4,18
 2016,652,Sewanee,9,3,4,16
-2016,637,Shenandoah,9,6,4,19
+2016,637,Shenandoah,10,6,3,19
 2016,10870,Shepherd,7,6,5,18
 2016,638,Shippensburg,7,6,5,18
 2016,30151,Shorter,6,8,3,17
-2016,639,Siena,7,6,5,18
-2016,640,Simmons,8,7,3,18
+2016,639,Siena,8,6,4,18
+2016,640,Simmons,8,8,2,18
 2016,30127,Simon Fraser,6,3,6,15
 2016,641,Simpson,3,12,3,18
 2016,30128,Sioux Falls,2,11,4,17
 2016,660,SIUE,5,8,6,19
 2016,642,Skidmore,5,7,4,16
 2016,643,Slippery Rock,8,5,5,18
-2016,644,Smith,6,5,7,18
+2016,644,Smith,7,5,6,18
 2016,663,SMU,5,8,5,18
 2016,645,Sonoma St.,10,1,6,17
 2016,646,South Ala.,13,2,3,18
 2016,648,South Carolina,11,3,4,18
-2016,647,South Carolina St.,1,9,4,14
+2016,647,South Carolina St.,1,9,3,13
 2016,650,South Dakota,5,11,3,19
 2016,649,South Dakota St.,8,4,6,18
 2016,651,South Fla.,13,2,3,18
@@ -785,71 +785,71 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,657,Southern California,10,4,6,20
 2016,658,Southern Conn. St.,5,7,4,16
 2016,661,Southern Ind.,4,8,5,17
-2016,662,Southern Me.,3,10,4,17
+2016,662,Southern Me.,3,11,3,17
 2016,664,Southern Miss.,4,10,5,19
-2016,468,Southern N.H.,8,3,6,17
-2016,30152,Southern Nazarene,5,9,4,18
+2016,468,Southern N.H.,9,3,5,17
+2016,30152,Southern Nazarene,6,9,3,18
 2016,665,Southern U.,1,13,3,17
 2016,667,Southern Utah,6,7,4,17
-2016,30164,Southern Va.,3,12,3,18
-2016,1379,Southern Vt.,7,5,5,17
+2016,30164,Southern Va.,4,12,2,18
+2016,1379,Southern Vt.,8,5,4,17
 2016,30192,Southern Wesleyan,1,11,6,18
 2016,2755,Southwest Baptist,8,5,4,17
 2016,8736,Southwest Minn. St.,6,6,6,18
 2016,8746,Southwestern (TX),7,7,5,19
 2016,8744,Southwestern Okla.,11,2,5,18
-2016,23260,Spalding,7,4,5,16
+2016,23260,Spalding,8,4,4,16
 2016,30191,Spring Hill,1,9,8,18
-2016,673,Springfield,9,3,9,21
-2016,593,St. Anselm,7,6,5,18
+2016,673,Springfield,9,4,8,21
+2016,593,St. Anselm,7,7,4,18
 2016,596,St. Bonaventure,5,8,6,19
-2016,597,St. Catherine,8,5,5,18
+2016,597,St. Catherine,9,5,4,18
 2016,598,St. Cloud St.,7,4,6,17
 2016,1334,St. Edward's,9,3,4,16
 2016,9684,St. Elizabeth,0,13,4,17
-2016,601,St. John Fisher,5,8,5,18
+2016,601,St. John Fisher,5,9,4,18
 2016,603,St. John's (NY),12,2,4,18
-2016,8687,St. Joseph (CT),7,7,3,17
-2016,30072,St. Joseph's (Brkln),1,9,7,17
+2016,8687,St. Joseph (CT),8,7,2,17
+2016,30072,St. Joseph's (Brkln),1,9,6,16
 2016,604,St. Joseph's (IN),1,11,5,17
-2016,1340,St. Joseph's (L.I.),5,8,5,18
-2016,605,St. Joseph's (ME),8,8,2,18
+2016,1340,St. Joseph's (L.I.),5,8,4,17
+2016,605,St. Joseph's (ME),8,9,1,18
 2016,607,St. Lawrence,9,3,5,17
 2016,610,St. Mary's (CA),7,6,7,20
 2016,8688,St. Mary's (IN),2,11,5,18
 2016,611,St. Mary's (MD),7,6,6,19
 2016,1346,St. Mary's (TX),9,3,4,16
 2016,614,St. Norbert,10,4,4,18
-2016,615,St. Olaf,3,7,8,18
+2016,615,St. Olaf,3,8,7,18
 2016,618,St. Scholastica,8,6,4,18
 2016,620,St. Thomas (MN),8,4,5,17
-2016,1348,St. Thomas Aquinas,3,9,4,16
+2016,1348,St. Thomas Aquinas,3,10,3,16
 2016,674,Stanford,12,2,5,19
-2016,675,Staten Island,9,2,4,15
+2016,675,Staten Island,9,3,3,15
 2016,676,Stephen F. Austin,7,6,5,18
 2016,678,Stetson,9,6,2,17
-2016,679,Stevens,11,2,5,18
-2016,21852,Stevenson,7,8,4,19
+2016,679,Stevens,12,2,4,18
+2016,21852,Stevenson,7,9,3,19
 2016,681,Stockton,11,2,7,20
 2016,682,Stonehill,3,8,7,18
 2016,683,Stony Brook,6,7,5,18
-2016,684,Suffolk,3,14,2,19
+2016,684,Suffolk,3,15,2,20
 2016,1390,Sul Ross St.,2,10,4,16
-2016,958,Summit,4,10,2,16
-2016,30165,SUNY Canton,6,6,5,17
+2016,958,Summit,5,10,1,16
+2016,30165,SUNY Canton,6,7,4,17
 2016,168,SUNY Cortland,5,10,2,17
 2016,247,SUNY Geneseo,10,3,6,19
-2016,478,SUNY Maritime,6,8,4,18
+2016,478,SUNY Maritime,6,9,3,18
 2016,475,SUNY New Paltz,2,11,4,17
 2016,526,SUNY Oneonta,10,2,5,17
 2016,9500,SUNY Poly,7,5,7,19
 2016,552,SUNY Potsdam,8,6,4,18
-2016,685,Susquehanna,7,6,5,18
-2016,686,Swarthmore,12,0,5,17
+2016,685,Susquehanna,8,6,4,18
+2016,686,Swarthmore,13,0,4,17
 2016,687,Sweet Briar,0,7,1,8
 2016,688,Syracuse,5,10,4,19
-2016,689,Tampa,8,2,8,18
-2016,712,TCNJ,11,0,6,17
+2016,689,Tampa,9,2,7,18
+2016,712,TCNJ,11,1,5,17
 2016,698,TCU,8,7,3,18
 2016,690,Temple,10,6,3,19
 2016,694,Tennessee,7,3,8,18
@@ -864,18 +864,18 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,699,Texas Southern,5,10,3,18
 2016,670,Texas St.,10,5,2,17
 2016,700,Texas Tech,8,3,7,18
-2016,701,Texas Woman's,6,5,7,18
+2016,701,Texas Woman's,7,5,6,18
 2016,23121,Texas-Dallas,11,5,4,20
 2016,30028,Texas-Tyler,12,0,5,17
-2016,707,Thiel,0,12,5,17
-2016,2758,Thomas (ME),6,8,2,16
+2016,707,Thiel,0,13,4,17
+2016,2758,Thomas (ME),6,9,1,16
 2016,1402,Thomas More,12,0,5,17
 2016,1403,Tiffin,2,9,5,16
 2016,709,Toledo,6,11,3,20
 2016,711,Towson,6,7,6,19
-2016,28749,Transylvania,5,6,6,17
+2016,28749,Transylvania,5,7,5,17
 2016,30002,Trevecca Nazarene,7,5,6,18
-2016,30037,Trine,1,12,5,18
+2016,30037,Trine,1,13,4,18
 2016,713,Trinity (CT),9,4,2,15
 2016,715,Trinity (TX),14,0,4,18
 2016,23413,Trinity Washington,6,4,4,14
@@ -883,8 +883,8 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,499,Truman,9,2,7,18
 2016,717,Tufts,5,5,5,15
 2016,719,Tulsa,12,4,3,19
-2016,12830,Tusculum,8,5,5,18
-2016,1255,U New England,10,4,3,17
+2016,12830,Tusculum,8,6,4,18
+2016,1255,U New England,10,5,2,17
 2016,9,UAB,2,12,3,17
 2016,32,Little Rock,8,5,6,19
 2016,108,UC Davis,8,6,5,19
@@ -909,24 +909,24 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,460,UNCW,12,5,2,19
 2016,504,UNI,5,7,7,19
 2016,727,Union (NY),7,4,5,16
-2016,30153,Union (TN),4,9,5,18
+2016,30153,Union (TN),4,10,4,18
 2016,465,UNLV,8,9,3,20
 2016,728,Upper Iowa,7,5,6,18
 2016,30104,Urbana,5,9,4,18
-2016,730,Ursinus,9,4,4,17
-2016,30140,Ursuline,7,5,5,17
-2016,10411,USC Upstate,2,12,5,19
+2016,730,Ursinus,10,4,3,17
+2016,30140,Ursuline,7,6,4,17
+2016,10411,USC Upstate,3,12,4,19
 2016,695,UT Martin,5,10,3,18
 2016,732,Utah,5,7,8,20
 2016,731,Utah St.,9,7,4,20
 2016,30024,Utah Valley,11,4,4,19
 2016,704,UTEP,10,5,5,20
-2016,733,Utica,3,10,5,18
+2016,733,Utica,3,11,4,18
 2016,706,UTSA,1,13,4,18
-2016,745,Va. Wesleyan,8,7,4,19
-2016,734,Valdosta St.,3,8,6,17
+2016,745,Va. Wesleyan,9,7,3,19
+2016,734,Valdosta St.,3,9,5,17
 2016,30166,Valley Forge,0,16,0,16
-2016,735,Valparaiso,6,5,6,17
+2016,735,Valparaiso,6,6,5,17
 2016,736,Vanderbilt,7,5,7,19
 2016,737,Vassar,7,5,5,17
 2016,740,VCU,7,7,5,19
@@ -938,90 +938,90 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,748,Wagner,2,11,5,18
 2016,749,Wake Forest,4,10,5,19
 2016,30141,Walsh,5,6,6,17
-2016,750,Wartburg,10,4,4,18
-2016,751,Wash. & Jeff.,11,1,7,19
-2016,752,Wash. & Lee,10,3,3,16
+2016,750,Wartburg,11,4,3,18
+2016,751,Wash. & Jeff.,12,1,6,19
+2016,752,Wash. & Lee,11,3,2,16
 2016,2814,Washburn,4,7,7,18
 2016,756,Washington,10,3,7,20
 2016,1029,Washington Adventist,0,1,10,11
-2016,753,Washington Col.,3,8,5,16
+2016,753,Washington Col.,3,9,4,16
 2016,754,Washington St.,11,3,5,19
 2016,755,Washington-St. Louis,12,2,4,18
 2016,1433,Wayne St. (NE),2,9,7,18
-2016,1434,Waynesburg,5,7,4,16
+2016,1434,Waynesburg,5,8,3,16
 2016,758,Weber St.,8,7,4,19
-2016,759,Webster,10,4,3,17
+2016,759,Webster,10,5,2,17
 2016,760,Wellesley,6,5,6,17
 2016,761,Wells,6,11,2,19
-2016,762,Wentworth,12,2,4,18
+2016,762,Wentworth,13,2,3,18
 2016,763,Wesley,5,7,5,17
 2016,764,Wesleyan (CT),5,6,4,15
 2016,14718,Wesleyan (GA),3,8,3,14
 2016,358,West Ala.,10,3,4,17
-2016,765,West Chester,11,3,3,17
+2016,765,West Chester,12,3,2,17
 2016,11740,West Florida,9,4,4,17
-2016,766,West Ga.,6,6,5,17
+2016,766,West Ga.,7,6,4,17
 2016,1438,West Liberty,3,7,8,18
 2016,767,West Tex. A&M,6,7,5,18
 2016,9630,West Va. Wesleyan,13,0,5,18
 2016,768,West Virginia,14,1,3,18
 2016,769,Western Caro.,6,7,5,18
-2016,770,Western Conn. St.,10,5,5,20
+2016,770,Western Conn. St.,11,5,4,20
 2016,771,Western Ill.,2,11,4,17
 2016,772,Western Ky.,8,4,6,18
 2016,774,Western Mich.,9,3,6,18
-2016,775,Western New Eng.,3,11,5,19
+2016,775,Western New Eng.,3,12,4,19
 2016,1446,Western Ore.,6,6,5,17
 2016,2759,Western St.,6,6,6,18
-2016,1448,Western Wash.,13,1,4,18
+2016,1448,Western Wash.,14,1,3,18
 2016,777,Westfield St.,7,5,8,20
 2016,1450,Westminster (MO),7,5,4,16
-2016,1451,Westminster (PA),10,1,7,18
-2016,778,Wheaton (IL),11,4,4,19
-2016,779,Wheaton (MA),10,5,8,23
+2016,1451,Westminster (PA),11,1,6,18
+2016,778,Wheaton (IL),11,5,3,19
+2016,779,Wheaton (MA),11,5,7,23
 2016,12799,Wheeling Jesuit,2,10,6,18
-2016,8896,Wheelock,2,10,5,17
+2016,8896,Wheelock,2,11,4,17
 2016,780,Whitman,1,9,10,20
 2016,781,Whittier,8,4,5,17
 2016,1454,Whitworth,6,8,6,20
 2016,783,Widener,5,7,5,17
-2016,784,Wilkes,4,8,6,18
+2016,784,Wilkes,5,8,5,18
 2016,785,Willamette,6,7,7,20
 2016,786,William & Mary,11,3,3,17
 2016,30120,William Jewell,6,6,6,18
 2016,17094,William Peace,5,9,5,19
 2016,30073,William Smith,11,1,4,16
 2016,789,Williams,12,0,3,15
-2016,1460,Wilmington (DE),7,6,4,17
-2016,1461,Wilmington (OH),8,5,5,18
+2016,1460,Wilmington (DE),8,6,3,17
+2016,1461,Wilmington (OH),8,6,4,18
 2016,12973,Wilson,2,9,4,15
-2016,1462,Wingate,11,1,4,16
+2016,1462,Wingate,12,1,3,16
 2016,790,Winona St.,10,3,5,18
-2016,792,Winthrop,5,7,5,17
-2016,8911,Wis. Lutheran,2,13,4,19
+2016,792,Winthrop,5,8,4,17
+2016,8911,Wis. Lutheran,2,14,3,19
 2016,793,Wis.-Eau Claire,4,7,9,20
-2016,795,Wis.-La Crosse,12,3,4,19
-2016,798,Wis.-Oshkosh,9,3,6,18
+2016,795,Wis.-La Crosse,12,4,3,19
+2016,798,Wis.-Oshkosh,10,3,5,18
 2016,799,Wis.-Parkside,5,7,5,17
 2016,800,Wis.-Platteville,2,10,4,16
 2016,801,Wis.-River Falls,6,7,5,18
 2016,802,Wis.-Stevens Point,3,13,3,19
-2016,803,Wis.-Stout,6,5,7,18
-2016,804,Wis.-Superior,2,10,3,15
+2016,803,Wis.-Stout,6,6,6,18
+2016,804,Wis.-Superior,2,11,2,15
 2016,805,Wis.-Whitewater,13,3,2,18
 2016,796,Wisconsin,10,4,5,19
-2016,806,Wittenberg,7,4,6,17
-2016,787,Wm. Paterson,3,9,5,17
+2016,806,Wittenberg,7,5,5,17
+2016,787,Wm. Paterson,4,9,4,17
 2016,2915,Wofford,4,6,6,16
-2016,807,Wooster,9,5,5,19
+2016,807,Wooster,10,5,4,19
 2016,809,Worcester St.,8,4,5,17
-2016,808,WPI,9,4,5,18
-2016,810,Wright St.,5,7,4,16
+2016,808,WPI,9,5,4,18
+2016,810,Wright St.,6,7,3,16
 2016,811,Wyoming,7,5,7,19
 2016,812,Xavier,7,7,4,18
 2016,813,Yale,4,7,5,16
-2016,814,Yeshiva,0,7,6,13
+2016,814,Yeshiva,0,8,5,13
 2016,2730,York (NY),4,7,2,13
-2016,815,York (PA),4,9,6,19
-2016,30154,Young Harris,4,7,4,15
-2016,817,Youngstown St.,5,10,3,18
+2016,815,York (PA),5,9,5,19
+2016,30154,Young Harris,4,8,3,15
+2016,817,Youngstown St.,6,10,2,18
