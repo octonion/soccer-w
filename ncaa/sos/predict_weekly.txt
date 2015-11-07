@@ -2,307 +2,265 @@ BEGIN
 SET
     date    |  site   |         team         | div | t_score |         opp          | div | o_score 
 ------------+---------+----------------------+-----+---------+----------------------+-----+---------
- 2015-11-07 | home    | Academy of Art       | D2  |     0.5 | California Baptist   | D2  |     1.2
+ 2015-11-07 | home    | Academy of Art       | D2  |     0.4 | California Baptist   | D2  |     1.2
  2015-11-06 | home    | Adelphi              | D2  |     2.0 | Merrimack            | D2  |     0.7
- 2015-11-06 | neutral | Akron                | D1  |     0.5 | Miami (OH)           | D1  |     1.5
- 2015-11-05 | neutral | Alabama A&M          | D1  |     0.8 | Mississippi Val.     | D1  |     7.0
- 2015-11-05 | neutral | Alabama St.          | D1  |     2.2 | Texas Southern       | D1  |     2.9
+ 2015-11-06 | home    | Agnes Scott          | D3  |     8.1 | Finlandia            | D3  |     0.4
+ 2015-11-06 | neutral | Akron                | D1  |     0.5 | Miami (OH)           | D1  |     1.4
+ 2015-11-06 | neutral | Alabama St.          | D1  |     2.7 | Prairie View         | D1  |     2.4
  2015-11-08 | neutral | Albany (NY)          | D1  |     0.8 | Hartford             | D1  |     1.0
- 2015-11-05 | neutral | A&M-Corpus Christi   | D1  |     0.6 | Southeastern La.     | D1  |     2.2
  2015-11-06 | neutral | Anderson (SC)        | D2  |     1.6 | Carson-Newman        | D2  |     1.6
- 2015-11-04 | neutral | Appalachian St.      | D1  |     0.9 | Little Rock          | D1  |     1.0
+ 2015-11-06 | home    | Angelo St.           | D2  |     2.4 | West Tex. A&M        | D2  |     0.5
+ 2015-11-06 | neutral | Appalachian St.      | D1  |     0.8 | South Ala.           | D1  |     2.2
  2015-11-06 | home    | Arizona              | D1  |     1.7 | Arizona St.          | D1  |     1.4
- 2015-11-05 | neutral | Ark.-Pine Bluff      | D1  |     1.0 | Howard               | D1  |     2.4
- 2015-11-06 | neutral | Armstrong            | D2  |     0.9 | North Georgia        | D2  |     1.3
- 2015-11-06 | neutral | Ashland              | D2  |     1.0 | Ferris St.           | D2  |     1.4
- 2015-11-04 | neutral | Auburn               | D1  |     1.1 | South Carolina       | D1  |     1.4
- 2015-11-04 | home    | Augustana (IL)       | D3  |     1.6 | Wheaton (IL)         | D3  |     1.0
- 2015-11-04 | home    | Augustana (SD)       | D2  |     1.6 | Southwest Minn. St.  | D2  |     0.5
+ 2015-11-06 | neutral | Armstrong            | D2  |     0.9 | North Georgia        | D2  |     1.2
+ 2015-11-06 | neutral | Ashland              | D2  |     1.2 | Ferris St.           | D2  |     1.6
+ 2015-11-06 | neutral | Auburn               | D1  |     1.2 | Florida              | D1  |     1.9
+ 2015-11-06 | neutral | Augustana (SD)       | D2  |     1.0 | Minot St.            | D2  |     0.9
+ 2015-11-06 | neutral | Austin               | D3  |     0.6 | Texas Lutheran       | D3  |     1.7
  2015-11-07 | neutral | Babson               | D3  |     1.2 | Wheaton (MA)         | D3  |     0.9
  2015-11-06 | home    | Barry                | D2  |     1.3 | Florida Tech         | D2  |     0.6
- 2015-11-04 | neutral | Baylor               | D1  |     1.3 | TCU                  | D1  |     1.1
+ 2015-11-06 | neutral | Baylor               | D1  |     1.2 | Kansas               | D1  |     0.8
  2015-11-06 | home    | Bellarmine           | D2  |     1.0 | Mo.-St. Louis        | D2  |     0.8
- 2015-11-05 | home    | Belmont Abbey        | D2  |     3.4 | Converse             | D2  |     0.4
+ 2015-11-07 | home    | Belmont Abbey        | D2  |     1.4 | Limestone            | D2  |     0.5
  2015-11-06 | home    | Boston U.            | D1  |     2.7 | Loyola Maryland      | D1  |     0.5
  2015-11-07 | neutral | Bowdoin              | D3  |     1.5 | Trinity (CT)         | D3  |     1.2
  2015-11-07 | home    | Brandeis             | D3  |     0.7 | NYU                  | D3  |     0.6
- 2015-11-05 | home    | Bridgeport           | D2  |     1.7 | Mercy                | D2  |     0.5
- 2015-11-04 | home    | Brooklyn             | D3  |     0.9 | Staten Island        | D3  |     1.5
+ 2015-11-07 | home    | Bridgeport           | D2  |     1.9 | Roberts Wesleyan     | D2  |     0.7
  2015-11-06 | neutral | Bryant               | D1  |     0.9 | Robert Morris        | D1  |     1.9
  2015-11-06 | home    | Bucknell             | D1  |     1.4 | Navy                 | D1  |     0.8
- 2015-11-06 | neutral | Buffalo              | D1  |     0.8 | Western Mich.        | D1  |     1.0
- 2015-11-04 | home    | Buffalo St.          | D3  |     1.7 | Plattsburgh St.      | D3  |     1.1
+ 2015-11-06 | neutral | Buffalo              | D1  |     0.7 | Western Mich.        | D1  |     1.0
+ 2015-11-07 | home    | Buffalo St.          | D3  |     1.2 | SUNY Oneonta         | D3  |     1.0
  2015-11-07 | home    | BYU                  | D1  |     1.3 | St. Mary's (CA)      | D1  |     0.3
- 2015-11-05 | home    | BYU-Hawaii           | D2  |     1.1 | Hawaii Pacific       | D2  |     0.9
  2015-11-07 | home    | BYU-Hawaii           | D2  |     1.7 | Chaminade            | D2  |     0.3
- 2015-11-04 | home    | Cabrini              | D3  |     2.3 | Rosemont             | D3  |     0.7
- 2015-11-05 | neutral | Caldwell             | D2  |     0.6 | Georgian Court       | D2  |     1.7
- 2015-11-06 | neutral | Cal St. Stanislaus   | D2  |     1.5 | Chico St.            | D2  |     1.3
- 2015-11-05 | home    | Calvin               | D3  |     1.9 | Olivet               | D3  |     0.6
+ 2015-11-07 | home    | Cabrini              | D3  |     1.3 | Gwynedd Mercy        | D3  |     1.2
+ 2015-11-07 | neutral | Caldwell             | D2  |     0.6 | Philadelphia U.      | D2  |     0.6
+ 2015-11-06 | neutral | Cal St. Stanislaus   | D2  |     1.5 | Chico St.            | D2  |     1.2
+ 2015-11-07 | home    | Calvin               | D3  |     1.1 | Hope                 | D3  |     0.8
  2015-11-06 | neutral | Campbell             | D1  |     1.1 | Coastal Caro.        | D1  |     1.5
- 2015-11-04 | home    | Capital              | D3  |     1.1 | Baldwin Wallace      | D3  |     1.2
- 2015-11-06 | neutral | Carroll (WI)         | D3  |     2.0 | St. Norbert          | D3  |     1.7
+ 2015-11-07 | home    | Capital              | D3  |     1.1 | Ohio Northern        | D3  |     1.3
+ 2015-11-06 | neutral | Carroll (WI)         | D3  |     2.1 | St. Norbert          | D3  |     1.6
  2015-11-06 | neutral | Carson-Newman        | D2  |     1.6 | Anderson (SC)        | D2  |     1.6
  2015-11-07 | home    | Case                 | D3  |     0.4 | Carnegie Mellon      | D3  |     1.1
- 2015-11-04 | home    | Catholic             | D3  |     2.5 | Moravian             | D3  |     0.8
- 2015-11-05 | neutral | Central Ark.         | D1  |     1.0 | Sam Houston St.      | D1  |     1.1
- 2015-11-04 | home    | Central Mo.          | D2  |     2.5 | Washburn             | D2  |     0.3
- 2015-11-04 | home    | Central Okla.        | D2  |     2.2 | Neb.-Kearney         | D2  |     0.8
+ 2015-11-07 | home    | Catholic             | D3  |     1.1 | Scranton             | D3  |     1.4
+ 2015-11-07 | neutral | Cedarville           | D2  |     1.6 | Ursuline             | D2  |     0.9
+ 2015-11-06 | home    | Central Mo.          | D2  |     1.9 | Fort Hays St.        | D2  |     0.5
+ 2015-11-06 | neutral | Central Okla.        | D2  |     1.2 | Northeastern St.     | D2  |     2.1
  2015-11-06 | home    | Centre               | D3  |     2.1 | Berry                | D3  |     1.0
- 2015-11-05 | home    | Chaminade            | D2  |     0.5 | Hawaii Hilo          | D2  |     1.3
- 2015-11-07 | home    | Chicago              | D3  |     0.9 | Washington-St. Louis | D3  |     1.2
- 2015-11-06 | neutral | Chico St.            | D2  |     1.3 | Stanislaus St.       | D2  |     1.5
+ 2015-11-07 | home    | Chicago              | D3  |     0.9 | Washington-St. Louis | D3  |     1.1
+ 2015-11-06 | neutral | Chico St.            | D2  |     1.2 | Stanislaus St.       | D2  |     1.5
  2015-11-06 | neutral | Clemson              | D1  |     0.8 | Virginia             | D1  |     2.0
  2015-11-06 | neutral | Coastal Caro.        | D1  |     1.5 | Campbell             | D1  |     1.1
- 2015-11-04 | home    | Coe                  | D3  |     1.6 | Loras                | D3  |     1.6
  2015-11-07 | home    | Colby-Sawyer         | D3  |     1.7 | New England Col.     | D3  |     0.6
- 2015-11-04 | neutral | Colorado Col.        | D1  |     0.7 | Wyoming              | D1  |     1.2
- 2015-11-07 | home    | Columbia             | D1  |     0.6 | Harvard              | D1  |     1.0
- 2015-11-04 | home    | Concordia Wisconsin  | D3  |     2.1 | Aurora               | D3  |     1.0
- 2015-11-05 | neutral | CSU Bakersfield      | D1  |     2.6 | New Mexico St.       | D1  |     1.2
+ 2015-11-06 | home    | Colorado Mines       | D2  |     1.5 | MSU Denver           | D2  |     0.8
+ 2015-11-07 | home    | Columbia             | D1  |     0.6 | Harvard              | D1  |     0.9
+ 2015-11-06 | neutral | Columbus St.         | D2  |     2.2 | Georgia College      | D2  |     0.7
+ 2015-11-06 | neutral | CSU Bakersfield      | D1  |     0.7 | Seattle              | D1  |     2.3
  2015-11-06 | neutral | Dallas               | D3  |     0.4 | Schreiner            | D3  |     1.6
- 2015-11-05 | home    | Dallas Baptist       | D2  |     2.0 | St. Mary's (TX)      | D2  |     0.7
+ 2015-11-06 | home    | Dallas               | D3  |     1.3 | Southwestern (TX)    | D3  |     1.4
+ 2015-11-06 | home    | Dallas Baptist       | D2  |     2.3 | St. Mary's (TX)      | D2  |     0.6
  2015-11-07 | home    | Dartmouth            | D1  |     1.0 | Cornell              | D1  |     0.5
- 2015-11-05 | home    | Davis & Elkins       | D2  |     1.4 | Cedarville           | D2  |     1.1
- 2015-11-05 | neutral | Dayton               | D1  |     2.4 | Duquesne             | D1  |     1.6
- 2015-11-04 | home    | Denison              | D3  |     1.4 | Kenyon               | D3  |     0.5
- 2015-11-04 | home    | DePauw               | D3  |     2.0 | Wittenberg           | D3  |     1.2
- 2015-11-05 | home    | Dominican (CA)       | D2  |     0.5 | Point Loma           | D2  |     1.7
- 2015-11-07 | home    | Dominican (CA)       | D2  |     0.5 | Azusa Pacific        | D2  |     2.2
- 2015-11-04 | home    | Dominican (IL)       | D3  |     1.7 | MSOE                 | D3  |     1.2
- 2015-11-06 | neutral | Drake                | D1  |     1.5 | Loyola Chicago       | D1  |     1.4
- 2015-11-05 | neutral | Duquesne             | D1  |     1.6 | Dayton               | D1  |     2.4
- 2015-11-05 | home    | Eastern Conn. St.    | D3  |     2.2 | Keene St.            | D3  |     1.4
- 2015-11-05 | neutral | Eastern N.M.         | D2  |     0.7 | Texas Woman's        | D2  |     1.7
- 2015-11-05 | neutral | Eastern Wash.        | D1  |     1.7 | Sacramento St.       | D1  |     1.1
+ 2015-11-07 | home    | DePauw               | D3  |     0.9 | Denison              | D3  |     1.8
+ 2015-11-07 | home    | Dominican (CA)       | D2  |     0.6 | Azusa Pacific        | D2  |     2.5
+ 2015-11-06 | neutral | Drake                | D1  |     1.5 | Loyola Chicago       | D1  |     1.3
+ 2015-11-06 | neutral | Duquesne             | D1  |     1.2 | La Salle             | D1  |     1.3
  2015-11-06 | neutral | East Stroudsburg     | D2  |     0.8 | Slippery Rock        | D2  |     1.7
- 2015-11-05 | home    | Elms                 | D3  |     1.9 | Southern Vt.         | D3  |     0.7
  2015-11-07 | home    | Emory                | D3  |     0.9 | Rochester (NY)       | D3  |     0.7
  2015-11-06 | neutral | Evansville           | D1  |     0.8 | UNI                  | D1  |     0.9
- 2015-11-06 | neutral | Fairleigh Dickinson  | D1  |     2.7 | Saint Francis (PA)   | D1  |     1.1
- 2015-11-04 | home    | Farmingdale St.      | D3  |     2.3 | St. Joseph's (L.I.)  | D3  |     0.6
- 2015-11-05 | neutral | Felician             | D2  |     0.7 | Philadelphia U.      | D2  |     0.8
- 2015-11-06 | neutral | Ferris St.           | D2  |     1.4 | Ashland              | D2  |     1.0
+ 2015-11-06 | neutral | Fairleigh Dickinson  | D1  |     3.2 | Saint Francis (PA)   | D1  |     1.3
+ 2015-11-06 | home    | Fairleigh Dickinson  | D1  |     3.5 | Saint Francis (PA)   | D1  |     1.1
+ 2015-11-06 | neutral | Ferris St.           | D2  |     1.6 | Ashland              | D2  |     1.2
+ 2015-11-06 | home    | Ferris St.           | D2  |     1.7 | Ashland              | D2  |     1.1
  2015-11-06 | home    | FGCU                 | D1  |     4.0 | Stetson              | D1  |     0.5
- 2015-11-04 | neutral | Fla. Atlantic        | D1  |     1.3 | Old Dominion         | D1  |     0.6
- 2015-11-04 | home    | Florida              | D1  |     2.4 | Vanderbilt           | D1  |     0.7
+ 2015-11-06 | neutral | Florida              | D1  |     1.9 | Auburn               | D1  |     1.2
  2015-11-06 | neutral | Florida St.          | D1  |     1.1 | North Carolina       | D1  |     0.9
- 2015-11-05 | neutral | Fordham              | D1  |     1.3 | VCU                  | D1  |     1.1
- 2015-11-04 | home    | Fort Hays St.        | D2  |     2.2 | Southwest Baptist    | D2  |     1.1
- 2015-11-04 | home    | Franklin             | D3  |     1.6 | Mt. St. Joseph       | D3  |     0.7
+ 2015-11-06 | neutral | Fordham              | D1  |     1.1 | George Mason         | D1  |     0.8
+ 2015-11-06 | neutral | Fort Lewis           | D2  |     1.1 | UC-Colo. Springs     | D2  |     0.7
  2015-11-07 | home    | Fresno Pacific       | D2  |     1.7 | Dixie St.            | D2  |     1.7
- 2015-11-06 | home    | Gannon               | D2  |     2.1 | Edinboro             | D2  |     1.0
+ 2015-11-06 | home    | Gannon               | D2  |     2.0 | Edinboro             | D2  |     1.1
  2015-11-07 | home    | George Fox           | D3  |     0.4 | Puget Sound          | D3  |     2.1
- 2015-11-05 | neutral | George Mason         | D1  |     0.8 | George Washington    | D1  |     1.2
+ 2015-11-06 | neutral | George Mason         | D1  |     0.8 | Fordham              | D1  |     1.1
  2015-11-06 | home    | Georgetown           | D1  |     1.8 | Providence           | D1  |     0.9
- 2015-11-05 | neutral | George Washington    | D1  |     1.2 | George Mason         | D1  |     0.8
- 2015-11-04 | home    | Georgia College      | D2  |     1.4 | UNC Pembroke         | D2  |     1.2
- 2015-11-05 | neutral | Georgian Court       | D2  |     1.7 | Caldwell             | D2  |     0.6
- 2015-11-04 | home    | Georgia St.          | D1  |     1.6 | Texas St.            | D1  |     1.6
- 2015-11-04 | home    | Gettysburg           | D3  |     1.2 | Ursinus              | D3  |     0.5
+ 2015-11-06 | neutral | Georgia College      | D2  |     0.7 | Columbus St.         | D2  |     2.2
+ 2015-11-06 | neutral | Georgia St.          | D1  |     0.7 | Troy                 | D1  |     1.6
  2015-11-07 | home    | Gonzaga              | D1  |     0.5 | Santa Clara          | D1  |     1.8
- 2015-11-06 | home    | Grand Valley St.     | D2  |     4.1 | Ohio Dominican       | D2  |     0.5
- 2015-11-04 | home    | Gust. Adolphus       | D3  |     1.7 | Concordia-M'head     | D3  |     1.0
- 2015-11-04 | home    | Gwynedd Mercy        | D3  |     1.6 | Marywood             | D3  |     0.7
- 2015-11-04 | home    | Hanover              | D3  |     2.0 | Transylvania         | D3  |     0.4
- 2015-11-05 | home    | Harding              | D2  |     2.7 | Southern Nazarene    | D2  |     0.5
- 2015-11-06 | home    | Hardin-Simmons       | D3  |     2.6 | Mary Hardin-Baylor   | D3  |     1.0
+ 2015-11-06 | home    | Grand Valley St.     | D2  |     4.0 | Ohio Dominican       | D2  |     0.5
+ 2015-11-07 | home    | Hanover              | D3  |     1.8 | Franklin             | D3  |     0.7
+ 2015-11-07 | home    | Harding              | D2  |     2.2 | Southwestern Okla.   | D2  |     1.2
+ 2015-11-06 | home    | Hardin-Simmons       | D3  |     2.8 | Mary Hardin-Baylor   | D3  |     0.9
  2015-11-08 | neutral | Hartford             | D1  |     1.0 | Albany (NY)          | D1  |     0.8
  2015-11-07 | home    | Hawaii Pacific       | D2  |     1.3 | Hawaii Hilo          | D2  |     0.8
- 2015-11-06 | neutral | High Point           | D1  |     1.0 | Liberty              | D1  |     0.5
+ 2015-11-06 | neutral | High Point           | D1  |     1.0 | Liberty              | D1  |     0.6
  2015-11-06 | home    | Hofstra              | D1  |     1.8 | James Madison        | D1  |     0.9
- 2015-11-05 | home    | Holy Names           | D2  |     0.5 | Azusa Pacific        | D2  |     2.2
- 2015-11-07 | home    | Holy Names           | D2  |     0.5 | Point Loma           | D2  |     1.7
- 2015-11-05 | home    | Hope                 | D3  |     1.7 | Kalamazoo            | D3  |     0.6
- 2015-11-05 | neutral | Howard               | D1  |     2.4 | Ark.-Pine Bluff      | D1  |     1.0
- 2015-11-04 | home    | Ill. Wesleyan        | D3  |     4.2 | Carthage             | D3  |     0.4
+ 2015-11-07 | home    | Holy Names           | D2  |     0.4 | Point Loma           | D2  |     1.9
+ 2015-11-06 | neutral | Houston Baptist      | D1  |     0.8 | Sam Houston St.      | D1  |     0.9
+ 2015-11-06 | neutral | Howard               | D1  |     2.0 | Mississippi Val.     | D1  |     1.7
+ 2015-11-06 | neutral | Idaho                | D1  |     1.7 | Montana              | D1  |     0.6
+ 2015-11-07 | home    | Ill. Wesleyan        | D3  |     1.9 | Wheaton (IL)         | D3  |     0.7
+ 2015-11-06 | home    | Ithaca               | D3  |     1.0 | Nazareth             | D3  |     0.7
  2015-11-06 | neutral | Ithaca               | D3  |     0.9 | Nazareth             | D3  |     0.8
- 2015-11-05 | neutral | Jackson St.          | D1  |     1.8 | Prairie View         | D1  |     1.3
- 2015-11-06 | neutral | Jacksonville         | D1  |     0.5 | Lipscomb             | D1  |     1.2
- 2015-11-04 | neutral | John Jay             | D3  |     0.6 | Lehman               | D3  |     3.1
- 2015-11-04 | neutral | Kansas               | D1  |     0.8 | Texas                | D1  |     1.0
- 2015-11-05 | neutral | Ky. Wesleyan         | D2  |     1.4 | Ursuline             | D2  |     2.0
+ 2015-11-06 | neutral | Jacksonville         | D1  |     0.5 | Lipscomb             | D1  |     1.4
+ 2015-11-07 | neutral | John Jay             | D3  |     0.4 | Staten Island        | D3  |     3.2
+ 2015-11-07 | neutral | Johns Hopkins        | D3  |     1.5 | McDaniel             | D3  |     1.6
+ 2015-11-06 | neutral | Kansas               | D1  |     0.8 | Baylor               | D1  |     1.2
  2015-11-06 | home    | Lake Forest          | D3  |     2.4 | Knox                 | D3  |     1.1
- 2015-11-04 | home    | Lancaster Bible      | D3  |     1.5 | Keuka                | D3  |     1.4
- 2015-11-05 | neutral | La Salle             | D1  |     1.1 | Saint Joseph's       | D1  |     1.4
+ 2015-11-06 | neutral | La Salle             | D1  |     1.3 | Duquesne             | D1  |     1.2
  2015-11-07 | home    | Lasell               | D3  |     1.3 | Emmanuel (MA)        | D3  |     0.6
  2015-11-06 | neutral | Lee                  | D2  |     0.9 | West Florida         | D2  |     1.5
- 2015-11-04 | neutral | Lehman               | D3  |     3.1 | John Jay             | D3  |     0.6
- 2015-11-05 | home    | Lesley               | D3  |     3.5 | Becker               | D3  |     0.6
- 2015-11-06 | neutral | Liberty              | D1  |     0.5 | High Point           | D1  |     1.0
- 2015-11-05 | neutral | Limestone            | D2  |     3.2 | Pfeiffer             | D2  |     1.1
- 2015-11-07 | home    | Linfield             | D3  |     0.8 | Pacific Lutheran     | D3  |     1.3
+ 2015-11-07 | home    | Lesley               | D3  |     1.3 | Elms                 | D3  |     0.6
+ 2015-11-06 | neutral | Liberty              | D1  |     0.6 | High Point           | D1  |     1.0
+ 2015-11-07 | home    | Linfield             | D3  |     0.8 | Pacific Lutheran     | D3  |     1.4
  2015-11-08 | home    | Linfield             | D3  |     2.7 | George Fox           | D3  |     0.8
- 2015-11-06 | neutral | Lipscomb             | D1  |     1.2 | Jacksonville         | D1  |     0.5
- 2015-11-04 | neutral | Louisiana Tech       | D1  |     0.6 | Marshall             | D1  |     0.8
- 2015-11-06 | neutral | Loyola Chicago       | D1  |     1.4 | Drake                | D1  |     1.5
+ 2015-11-06 | neutral | Lipscomb             | D1  |     1.4 | Jacksonville         | D1  |     0.5
+ 2015-11-06 | neutral | Loyola Chicago       | D1  |     1.3 | Drake                | D1  |     1.5
  2015-11-07 | home    | Loyola Marymount     | D1  |     1.2 | Pepperdine           | D1  |     0.6
- 2015-11-04 | neutral | LSU                  | D1  |     1.3 | Missouri             | D1  |     1.1
- 2015-11-05 | neutral | Lubbock Christian    | D2  |     0.7 | St. Edward's         | D2  |     3.1
- 2015-11-04 | home    | Lynchburg            | D3  |     5.4 | Randolph             | D3  |     0.2
+ 2015-11-06 | neutral | LSU                  | D1  |     1.4 | Texas A&M            | D1  |     1.8
+ 2015-11-06 | neutral | Lubbock Christian    | D2  |     0.7 | St. Edward's         | D2  |     2.8
+ 2015-11-07 | home    | Lynchburg            | D3  |     2.2 | Va. Wesleyan         | D3  |     0.4
  2015-11-06 | neutral | Manhattan            | D1  |     0.8 | Rider                | D1  |     0.6
- 2015-11-04 | neutral | Marshall             | D1  |     0.8 | Louisiana Tech       | D1  |     0.6
- 2015-11-06 | neutral | Maryville (TN)       | D3  |     0.7 | Piedmont             | D3  |     1.0
+ 2015-11-06 | neutral | Marshall             | D1  |     1.2 | Old Dominion         | D1  |     0.6
+ 2015-11-06 | neutral | Maryville (TN)       | D3  |     0.6 | Piedmont             | D3  |     1.1
  2015-11-07 | home    | Mary Washington      | D3  |     1.8 | York (PA)            | D3  |     0.8
+ 2015-11-07 | neutral | McDaniel             | D3  |     1.6 | Johns Hopkins        | D3  |     1.5
  2015-11-06 | neutral | Mercer               | D1  |     0.7 | Samford              | D1  |     1.4
- 2015-11-06 | home    | Meredith             | D3  |     1.2 | Methodist            | D3  |     0.9
- 2015-11-05 | home    | Messiah              | D3  |     4.5 | Lebanon Valley       | D3  |     0.4
- 2015-11-06 | neutral | Miami (OH)           | D1  |     1.5 | Akron                | D1  |     0.5
+ 2015-11-06 | home    | Meredith             | D3  |     1.1 | Methodist            | D3  |     0.9
+ 2015-11-07 | home    | Messiah              | D3  |     2.9 | Arcadia              | D3  |     0.4
+ 2015-11-06 | neutral | Miami (OH)           | D1  |     1.4 | Akron                | D1  |     0.5
+ 2015-11-06 | home    | Miami (OH)           | D1  |     1.6 | Akron                | D1  |     0.4
  2015-11-06 | neutral | Michigan             | D1  |     1.0 | Penn St.             | D1  |     1.9
- 2015-11-04 | neutral | Middle Tenn.         | D1  |     1.0 | Rice                 | D1  |     1.2
- 2015-11-05 | neutral | Midwestern St.       | D2  |     1.5 | West Tex. A&M        | D2  |     1.1
- 2015-11-05 | home    | Milwaukee            | D1  |     1.0 | Northern Ky.         | D1  |     0.8
- 2015-11-04 | home    | Minn. St. Mankato    | D2  |     3.3 | Concordia-St. Paul   | D2  |     0.5
- 2015-11-05 | neutral | Mississippi Val.     | D1  |     7.0 | Alabama A&M          | D1  |     0.8
- 2015-11-04 | neutral | Missouri             | D1  |     1.1 | LSU                  | D1  |     1.3
+ 2015-11-06 | neutral | Middle Tenn.         | D1  |     0.4 | North Texas          | D1  |     1.0
+ 2015-11-06 | neutral | Mills                | D3  |     2.0 | Wesleyan (GA)        | D3  |     1.6
+ 2015-11-06 | home    | Minn. St. Mankato    | D2  |     1.9 | Winona St.           | D2  |     0.5
+ 2015-11-06 | neutral | Minot St.            | D2  |     0.9 | Augustana (SD)       | D2  |     1.0
+ 2015-11-06 | neutral | Mississippi Val.     | D1  |     1.7 | Howard               | D1  |     2.0
  2015-11-07 | home    | MIT                  | D3  |     1.3 | Springfield          | D3  |     1.2
- 2015-11-06 | neutral | Monmouth             | D1  |     1.7 | Siena                | D1  |     0.9
- 2015-11-05 | neutral | Montana              | D1  |     1.1 | Weber St.            | D1  |     1.5
- 2015-11-05 | neutral | Mont. St. Billings   | D2  |     0.5 | Western Wash.        | D2  |     1.4
- 2015-11-06 | neutral | Morehead St.         | D1  |     1.1 | Murray St.           | D1  |     2.5
- 2015-11-06 | neutral | Murray St.           | D1  |     2.5 | Morehead St.         | D1  |     1.1
+ 2015-11-06 | neutral | Monmouth             | D1  |     1.6 | Siena                | D1  |     0.9
+ 2015-11-06 | neutral | Montana              | D1  |     0.6 | Idaho                | D1  |     1.7
+ 2015-11-06 | neutral | Morehead St.         | D1  |     1.1 | Murray St.           | D1  |     2.4
+ 2015-11-06 | neutral | Mount Mary           | D3  |     0.1 | Salem                | D3  |    15.5
+ 2015-11-07 | home    | MSOE                 | D3  |     2.0 | Aurora               | D3  |     1.5
+ 2015-11-07 | home    | Mt. St. Mary (NY)    | D3  |     1.4 | St. Joseph's (L.I.)  | D3  |     0.8
+ 2015-11-06 | home    | Murray St.           | D1  |     2.7 | Morehead St.         | D1  |     1.0
+ 2015-11-06 | neutral | Murray St.           | D1  |     2.4 | Morehead St.         | D1  |     1.1
  2015-11-06 | neutral | Nazareth             | D3  |     0.8 | Ithaca               | D3  |     0.9
- 2015-11-05 | neutral | New Mexico St.       | D1  |     1.2 | CSU Bakersfield      | D1  |     2.6
  2015-11-06 | home    | North Ala.           | D2  |     1.7 | West Ala.            | D2  |     0.8
  2015-11-06 | neutral | North Carolina       | D1  |     0.9 | Florida St.          | D1  |     1.1
- 2015-11-05 | neutral | North Dakota St.     | D1  |     2.0 | South Dakota         | D1  |     0.9
- 2015-11-04 | home    | Northeastern St.     | D2  |     1.4 | Mo. Western St.      | D2  |     0.6
- 2015-11-06 | neutral | North Georgia        | D2  |     1.3 | Armstrong            | D2  |     0.9
- 2015-11-04 | neutral | North Texas          | D1  |     1.5 | Western Ky.          | D1  |     0.4
- 2015-11-04 | home    | Northwestern-St.Paul | D3  |     2.3 | Northland            | D3  |     1.3
- 2015-11-05 | home    | Notre Dame de Namur  | D2  |     0.5 | California Baptist   | D2  |     1.7
- 2015-11-05 | home    | Notre Dame (OH)      | D2  |     1.2 | Charleston (WV)      | D2  |     0.7
+ 2015-11-06 | neutral | Northeastern St.     | D2  |     2.1 | Central Okla.        | D2  |     1.2
+ 2015-11-06 | neutral | Northern Colo.       | D1  |     1.2 | Sacramento St.       | D1  |     1.0
+ 2015-11-06 | neutral | North Georgia        | D2  |     1.2 | Armstrong St.        | D2  |     0.9
+ 2015-11-06 | neutral | North Texas          | D1  |     1.0 | Middle Tenn.         | D1  |     0.4
+ 2015-11-07 | home    | Northwestern-St.Paul | D3  |     0.7 | St. Scholastica      | D3  |     2.4
  2015-11-06 | neutral | Nova Southeastern    | D2  |     1.3 | Tampa                | D2  |     1.6
- 2015-11-05 | home    | Oakland              | D1  |     1.0 | Wright St.           | D1  |     1.0
- 2015-11-04 | home    | Ohio Northern        | D3  |     2.2 | John Carroll         | D3  |     0.7
+ 2015-11-07 | neutral | Oakland              | D1  |     0.9 | Wright St.           | D1  |     1.1
  2015-11-06 | neutral | Ohio St.             | D1  |     0.5 | Rutgers              | D1  |     1.3
- 2015-11-04 | neutral | Oklahoma             | D1  |     1.0 | Texas Tech           | D1  |     0.7
- 2015-11-04 | neutral | Oklahoma St.         | D1  |     0.6 | West Virginia        | D1  |     1.9
- 2015-11-04 | neutral | Old Dominion         | D1  |     0.6 | Fla. Atlantic        | D1  |     1.3
- 2015-11-04 | neutral | Ole Miss             | D1  |     1.4 | Texas A&M            | D1  |     1.8
+ 2015-11-06 | neutral | Old Dominion         | D1  |     0.6 | Marshall             | D1  |     1.2
  2015-11-06 | home    | Oregon St.           | D1  |     0.9 | Oregon               | D1  |     0.4
- 2015-11-05 | neutral | Ouachita Baptist     | D2  |     1.4 | Southwestern Okla.   | D2  |     1.7
  2015-11-06 | home    | Pacific (OR)         | D3  |     0.4 | Willamette           | D3  |     0.9
  2015-11-08 | home    | Pacific (OR)         | D3  |     0.2 | Pacific Lutheran     | D3  |     2.0
  2015-11-08 | neutral | Palm Beach Atl.      | D2  |     2.9 | Spring Hill          | D2  |     1.2
- 2015-11-07 | home    | Penn                 | D1  |     1.1 | Princeton            | D1  |     1.4
+ 2015-11-07 | home    | Penn                 | D1  |     1.1 | Princeton            | D1  |     1.5
  2015-11-06 | neutral | Penn St.             | D1  |     1.9 | Michigan             | D1  |     1.0
- 2015-11-04 | home    | Penn St.-Behrend     | D3  |     4.4 | Penn St.-Altoona     | D3  |     1.1
- 2015-11-05 | neutral | Pfeiffer             | D2  |     1.1 | Limestone            | D2  |     3.2
- 2015-11-05 | neutral | Philadelphia U.      | D2  |     0.8 | Felician             | D2  |     0.7
- 2015-11-06 | neutral | Piedmont             | D3  |     1.0 | Maryville (TN)       | D3  |     0.7
- 2015-11-04 | home    | Pitt.-Bradford       | D3  |     1.4 | D'Youville           | D3  |     1.1
+ 2015-11-07 | neutral | Penn St.-Abington    | D3  |     1.5 | SUNY Poly            | D3  |     0.9
+ 2015-11-07 | home    | Penn St.-Berks       | D3  |     4.0 | Lancaster Bible      | D3  |     0.6
+ 2015-11-07 | neutral | Philadelphia U.      | D2  |     0.6 | Caldwell             | D2  |     0.6
+ 2015-11-06 | neutral | Piedmont             | D3  |     1.1 | Maryville (TN)       | D3  |     0.6
+ 2015-11-07 | home    | Pitt.-Bradford       | D3  |     1.6 | Penn St.-Behrend     | D3  |     1.9
  2015-11-07 | home    | Portland             | D1  |     0.9 | San Francisco        | D1  |     1.2
- 2015-11-05 | neutral | Prairie View         | D1  |     1.3 | Jackson St.          | D1  |     1.8
+ 2015-11-06 | neutral | Prairie View         | D1  |     2.4 | Alabama St.          | D1  |     2.7
  2015-11-06 | neutral | Queens (NC)          | D2  |     0.4 | Wingate              | D2  |     0.8
  2015-11-06 | neutral | Quincy               | D2  |     1.1 | Truman               | D2  |     0.9
- 2015-11-04 | home    | Regis (CO)           | D2  |     1.7 | Metro St.            | D2  |     1.2
- 2015-11-04 | home    | Rensselaer           | D3  |     0.7 | St. Lawrence         | D3  |     1.8
  2015-11-06 | neutral | Rhodes               | D3  |     1.0 | Sewanee              | D3  |     1.5
- 2015-11-04 | neutral | Rice                 | D1  |     1.2 | Middle Tenn.         | D1  |     1.0
  2015-11-06 | neutral | Rider                | D1  |     0.6 | Manhattan            | D1  |     0.8
  2015-11-06 | neutral | Robert Morris        | D1  |     1.9 | Bryant               | D1  |     0.9
- 2015-11-05 | home    | Roberts Wesleyan     | D2  |     1.6 | LIU Post             | D2  |     1.6
- 2015-11-04 | home    | Roger Williams       | D3  |     1.8 | Endicott             | D3  |     0.4
+ 2015-11-07 | home    | Roger Williams       | D3  |     2.8 | Gordon               | D3  |     0.3
  2015-11-06 | home    | Rowan                | D3  |     0.7 | TCNJ                 | D3  |     0.9
  2015-11-06 | neutral | Rutgers              | D1  |     1.3 | Ohio St.             | D1  |     0.5
- 2015-11-05 | neutral | Sacramento St.       | D1  |     1.1 | Eastern Wash.        | D1  |     1.7
- 2015-11-04 | home    | Sage Colleges        | D3  |     1.0 | Mt. St. Mary (NY)    | D3  |     0.8
- 2015-11-06 | neutral | Saint Francis (PA)   | D1  |     1.1 | Fairleigh Dickinson  | D1  |     2.7
- 2015-11-05 | neutral | Saint Joseph's       | D1  |     1.4 | La Salle             | D1  |     1.1
+ 2015-11-06 | neutral | Sacramento St.       | D1  |     1.0 | Northern Colo.       | D1  |     1.2
+ 2015-11-06 | neutral | Saint Francis (PA)   | D1  |     1.3 | Fairleigh Dickinson  | D1  |     3.2
  2015-11-06 | home    | Saint Rose           | D2  |     2.6 | Assumption           | D2  |     1.1
+ 2015-11-06 | neutral | Salem                | D3  |    15.5 | Mount Mary           | D3  |     0.1
+ 2015-11-06 | home    | Salem                | D3  |    17.2 | Mount Mary           | D3  |     0.1
  2015-11-06 | neutral | Samford              | D1  |     1.4 | Mercer               | D1  |     0.7
- 2015-11-05 | neutral | Sam Houston St.      | D1  |     1.1 | Central Ark.         | D1  |     1.0
- 2015-11-06 | home    | San Diego            | D1  |     2.0 | Pacific              | D1  |     0.6
- 2015-11-05 | home    | San Jose St.         | D1  |     1.1 | New Mexico           | D1  |     0.9
+ 2015-11-06 | neutral | Sam Houston St.      | D1  |     0.9 | Houston Baptist      | D1  |     0.8
+ 2015-11-06 | home    | San Diego            | D1  |     2.0 | Pacific              | D1  |     0.5
+ 2015-11-07 | home    | San Diego St.        | D1  |     1.9 | San Jose St.         | D1  |     0.7
  2015-11-06 | neutral | Schreiner            | D3  |     1.6 | Dallas               | D3  |     0.4
- 2015-11-04 | home    | Scranton             | D3  |     1.8 | Elizabethtown        | D3  |     0.7
+ 2015-11-06 | neutral | Seattle              | D1  |     2.3 | CSU Bakersfield      | D1  |     0.7
+ 2015-11-07 | neutral | Seattle Pacific      | D2  |     0.6 | Western Wash.        | D2  |     1.4
  2015-11-06 | neutral | Sewanee              | D3  |     1.5 | Rhodes               | D3  |     1.0
- 2015-11-04 | home    | Shenandoah           | D3  |     1.3 | Randolph-Macon       | D3  |     0.7
- 2015-11-06 | neutral | Siena                | D1  |     0.9 | Monmouth             | D1  |     1.7
+ 2015-11-07 | neutral | Shenandoah           | D3  |     0.8 | Wash. & Lee          | D3  |     1.6
+ 2015-11-06 | neutral | Siena                | D1  |     0.9 | Monmouth             | D1  |     1.6
  2015-11-06 | neutral | Slippery Rock        | D2  |     1.7 | East Stroudsburg     | D2  |     0.8
- 2015-11-04 | neutral | South Carolina       | D1  |     1.4 | Auburn               | D1  |     1.1
- 2015-11-05 | neutral | South Dakota         | D1  |     0.9 | North Dakota St.     | D1  |     2.0
- 2015-11-05 | home    | South Dakota St.     | D1  |     1.4 | Oral Roberts         | D1  |     0.9
- 2015-11-05 | neutral | Southeastern La.     | D1  |     2.2 | A&M-Corpus Christi   | D1  |     0.6
- 2015-11-06 | neutral | Southeast Mo. St.    | D1  |     0.8 | Tennessee Tech       | D1  |     0.8
+ 2015-11-06 | neutral | Sonoma St.           | D2  |     1.0 | UC San Diego         | D2  |     0.7
+ 2015-11-06 | neutral | South Ala.           | D1  |     2.2 | Appalachian St.      | D1  |     0.8
+ 2015-11-07 | home    | South Dakota St.     | D1  |     1.2 | North Dakota St.     | D1  |     0.8
+ 2015-11-06 | neutral | Southeastern La.     | D1  |     1.2 | Stephen F. Austin    | D1  |     0.9
+ 2015-11-06 | neutral | Southeast Mo. St.    | D1  |     0.9 | Tennessee Tech       | D1  |     0.8
  2015-11-06 | neutral | Southern Wesleyan    | D2  |     0.7 | Spring Hill          | D2  |     2.5
- 2015-11-05 | home    | South Fla.           | D1  |     1.8 | UCF                  | D1  |     0.8
- 2015-11-05 | neutral | Southwestern Okla.   | D2  |     1.7 | Ouachita Baptist     | D2  |     1.4
- 2015-11-06 | neutral | Southwestern (TX)    | D3  |     0.8 | Texas Lutheran       | D3  |     1.4
- 2015-11-05 | home    | Spalding             | D3  |     1.6 | Westminster (MO)     | D3  |     1.6
+ 2015-11-06 | home    | Southwestern (TX)    | D3  |     1.7 | Dallas               | D3  |     1.0
  2015-11-06 | neutral | Spring Hill          | D2  |     2.5 | Southern Wesleyan    | D2  |     0.7
  2015-11-08 | neutral | Spring Hill          | D2  |     1.2 | Palm Beach Atl.      | D2  |     2.9
  2015-11-06 | home    | Stanford             | D1  |     1.0 | California           | D1  |     0.8
- 2015-11-05 | neutral | St. Edward's         | D2  |     3.1 | Lubbock Christian    | D2  |     0.7
+ 2015-11-07 | neutral | Staten Island        | D3  |     3.2 | John Jay             | D3  |     0.4
+ 2015-11-06 | neutral | St. Edward's         | D2  |     2.8 | Lubbock Christian    | D2  |     0.7
+ 2015-11-06 | neutral | Stephen F. Austin    | D1  |     0.9 | Southeastern La.     | D1  |     1.2
  2015-11-06 | home    | Stevens              | D3  |     2.4 | Houghton             | D3  |     0.7
- 2015-11-05 | home    | Stevenson            | D3  |     1.0 | Arcadia              | D3  |     1.2
  2015-11-06 | home    | St. John's (NY)      | D1  |     1.5 | Butler               | D1  |     0.5
- 2015-11-06 | neutral | St. Norbert          | D3  |     1.7 | Carroll (WI)         | D3  |     2.0
- 2015-11-04 | home    | St. Scholastica      | D3  |     2.6 | Minn.-Morris         | D3  |     0.7
- 2015-11-04 | home    | St. Thomas (MN)      | D3  |     1.1 | Augsburg             | D3  |     1.7
- 2015-11-04 | home    | SUNY Oneonta         | D3  |     1.9 | Oswego St.           | D3  |     0.7
+ 2015-11-06 | home    | St. Norbert          | D3  |     1.8 | Carroll (WI)         | D3  |     1.8
+ 2015-11-06 | neutral | St. Norbert          | D3  |     1.6 | Carroll (WI)         | D3  |     2.1
+ 2015-11-07 | home    | St. Thomas (MN)      | D3  |     1.5 | Gust. Adolphus       | D3  |     1.2
+ 2015-11-07 | neutral | SUNY Poly            | D3  |     0.9 | Penn St.-Abington    | D3  |     1.5
+ 2015-11-07 | home    | Swarthmore           | D3  |     2.6 | Ursinus              | D3  |     0.4
  2015-11-06 | neutral | Tampa                | D2  |     1.6 | Nova Southeastern    | D2  |     1.3
- 2015-11-04 | neutral | TCU                  | D1  |     1.1 | Baylor               | D1  |     1.3
- 2015-11-06 | neutral | Tennessee Tech       | D1  |     0.8 | Southeast Mo. St.    | D1  |     0.8
- 2015-11-04 | neutral | Texas                | D1  |     1.0 | Kansas               | D1  |     0.8
- 2015-11-04 | neutral | Texas A&M            | D1  |     1.8 | Ole Miss             | D1  |     1.4
- 2015-11-06 | neutral | Texas-Dallas         | D3  |     0.7 | Texas-Tyler          | D3  |     2.5
- 2015-11-06 | neutral | Texas Lutheran       | D3  |     1.4 | Southwestern (TX)    | D3  |     0.8
- 2015-11-05 | neutral | Texas Southern       | D1  |     2.9 | Alabama St.          | D1  |     2.2
- 2015-11-04 | neutral | Texas Tech           | D1  |     0.7 | Oklahoma             | D1  |     1.0
- 2015-11-06 | neutral | Texas-Tyler          | D3  |     2.5 | Texas-Dallas         | D3  |     0.7
- 2015-11-05 | neutral | Texas Woman's        | D2  |     1.7 | Eastern N.M.         | D2  |     0.7
- 2015-11-05 | neutral | Tex.-Pan American    | D1  |     0.3 | UMKC                 | D1  |     1.9
+ 2015-11-06 | home    | Tennessee Tech       | D1  |     0.9 | Southeast Mo. St.    | D1  |     0.8
+ 2015-11-06 | neutral | Tennessee Tech       | D1  |     0.8 | Southeast Mo. St.    | D1  |     0.9
+ 2015-11-06 | neutral | Tex. A&M-Commerce    | D2  |     1.4 | Texas Woman's        | D2  |     0.8
+ 2015-11-06 | neutral | Texas A&M            | D1  |     1.8 | LSU                  | D1  |     1.4
+ 2015-11-06 | neutral | Texas-Dallas         | D3  |     0.7 | Texas-Tyler          | D3  |     2.6
+ 2015-11-06 | neutral | Texas Lutheran       | D3  |     1.7 | Austin               | D3  |     0.6
+ 2015-11-06 | neutral | Texas Tech           | D1  |     0.5 | West Virginia        | D1  |     1.6
+ 2015-11-06 | neutral | Texas-Tyler          | D3  |     2.6 | Texas-Dallas         | D3  |     0.7
+ 2015-11-06 | neutral | Texas Woman's        | D2  |     0.8 | Tex. A&M-Commerce    | D2  |     1.4
  2015-11-07 | home    | Thomas More          | D3  |     1.8 | Grove City           | D3  |     0.3
  2015-11-07 | neutral | Trinity (CT)         | D3  |     1.2 | Bowdoin              | D3  |     1.5
+ 2015-11-06 | neutral | Troy                 | D1  |     1.6 | Georgia St.          | D1  |     0.7
  2015-11-06 | neutral | Truman               | D2  |     0.9 | Quincy               | D2  |     1.1
- 2015-11-04 | neutral | UALR                 | D1  |     1.0 | Appalachian St.      | D1  |     0.9
- 2015-11-04 | home    | UC-Colo. Springs     | D2  |     1.5 | N.M. Highlands       | D2  |     0.9
+ 2015-11-06 | neutral | UC-Colo. Springs     | D2  |     0.7 | Fort Lewis           | D2  |     1.1
  2015-11-06 | home    | UCLA                 | D1  |     0.8 | Southern California  | D1  |     1.8
- 2015-11-05 | home    | UConn                | D1  |     1.3 | Cincinnati           | D1  |     0.8
- 2015-11-04 | home    | UC San Diego         | D2  |     2.0 | Cal Poly Pomona      | D2  |     1.1
- 2015-11-05 | neutral | UMKC                 | D1  |     1.9 | UTRGV                | D1  |     0.3
+ 2015-11-06 | neutral | UC San Diego         | D2  |     0.7 | Sonoma St.           | D2  |     1.0
+ 2015-11-06 | neutral | UMKC                 | D1  |     1.3 | Utah Valley          | D1  |     1.1
  2015-11-06 | neutral | UNCG                 | D1  |     1.6 | Wofford              | D1  |     1.0
  2015-11-06 | neutral | UNCW                 | D1  |     1.2 | William & Mary       | D1  |     1.8
  2015-11-06 | neutral | UNI                  | D1  |     0.9 | Evansville           | D1  |     0.8
- 2015-11-05 | neutral | Ursuline             | D2  |     2.0 | Ky. Wesleyan         | D2  |     1.4
- 2015-11-06 | home    | Utah                 | D1  |     1.1 | Colorado             | D1  |     1.0
- 2015-11-04 | home    | Va. Wesleyan         | D3  |     1.3 | Bridgewater (VA)     | D3  |     1.3
- 2015-11-05 | neutral | VCU                  | D1  |     1.1 | Fordham              | D1  |     1.3
+ 2015-11-07 | neutral | Ursuline             | D2  |     0.9 | Cedarville           | D2  |     1.6
+ 2015-11-06 | home    | Utah                 | D1  |     1.2 | Colorado             | D1  |     0.9
+ 2015-11-06 | neutral | Utah Valley          | D1  |     1.1 | UMKC                 | D1  |     1.3
  2015-11-06 | neutral | Virginia             | D1  |     2.0 | Clemson              | D1  |     0.8
- 2015-11-04 | home    | Wartburg             | D3  |     1.7 | Luther               | D3  |     1.1
- 2015-11-05 | home    | Washington           | D1  |     1.2 | Washington St.       | D1  |     1.0
- 2015-11-04 | home    | Wash. & Lee          | D3  |     1.3 | Roanoke              | D3  |     0.6
- 2015-11-05 | neutral | Weber St.            | D1  |     1.5 | Montana              | D1  |     1.1
- 2015-11-05 | home    | Webster              | D3  |     1.9 | Greenville           | D3  |     1.0
- 2015-11-04 | home    | Wentworth            | D3  |     2.7 | Gordon               | D3  |     0.5
- 2015-11-05 | home    | Western Conn. St.    | D3  |     1.9 | UMass Boston         | D3  |     0.5
- 2015-11-04 | neutral | Western Ky.          | D1  |     0.4 | North Texas          | D1  |     1.5
- 2015-11-06 | neutral | Western Mich.        | D1  |     1.0 | Buffalo              | D1  |     0.8
- 2015-11-05 | neutral | Western Wash.        | D2  |     1.4 | Mont. St. Billings   | D2  |     0.5
- 2015-11-06 | home    | Westfield St.        | D3  |     1.5 | Bridgewater St.      | D3  |     0.7
+ 2015-11-07 | home    | Wartburg             | D3  |     2.8 | Loras                | D3  |     1.3
+ 2015-11-07 | neutral | Wash. & Lee          | D3  |     1.6 | Shenandoah           | D3  |     0.8
+ 2015-11-07 | home    | Webster              | D3  |     2.0 | Westminster (MO)     | D3  |     1.0
+ 2015-11-06 | neutral | Wesleyan (GA)        | D3  |     1.6 | Mills                | D3  |     2.0
+ 2015-11-07 | home    | Western Conn. St.    | D3  |     2.2 | Keene St.            | D3  |     1.1
+ 2015-11-06 | neutral | Western Mich.        | D1  |     1.0 | Buffalo              | D1  |     0.7
+ 2015-11-06 | home    | Western Mich.        | D1  |     1.1 | Buffalo              | D1  |     0.6
+ 2015-11-07 | neutral | Western Wash.        | D2  |     1.4 | Seattle Pacific      | D2  |     0.6
+ 2015-11-06 | home    | Westfield St.        | D3  |     1.4 | Bridgewater St.      | D3  |     0.7
  2015-11-06 | neutral | West Florida         | D2  |     1.5 | Lee                  | D2  |     0.9
- 2015-11-05 | neutral | West Tex. A&M        | D2  |     1.1 | Midwestern St.       | D2  |     1.5
- 2015-11-05 | home    | West Va. Wesleyan    | D2  |     1.5 | Shepherd             | D2  |     0.2
- 2015-11-04 | neutral | West Virginia        | D1  |     1.9 | Oklahoma St.         | D1  |     0.6
+ 2015-11-08 | home    | West Va. Wesleyan    | D2  |     0.9 | Charleston (WV)      | D2  |     0.3
+ 2015-11-06 | neutral | West Virginia        | D1  |     1.6 | Texas Tech           | D1  |     0.5
  2015-11-07 | neutral | Wheaton (MA)         | D3  |     0.9 | Babson               | D3  |     1.2
  2015-11-08 | home    | Whitman              | D3  |     0.9 | Lewis & Clark        | D3  |     1.3
  2015-11-07 | home    | Whitworth            | D3  |     1.0 | Lewis & Clark        | D3  |     1.3
  2015-11-08 | home    | Willamette           | D3  |     0.3 | Puget Sound          | D3  |     0.9
  2015-11-06 | neutral | William & Mary       | D1  |     1.8 | UNCW                 | D1  |     1.2
  2015-11-07 | home    | Williams             | D3  |     1.5 | Middlebury           | D3  |     0.8
- 2015-11-04 | home    | William Smith        | D3  |     2.3 | Vassar               | D3  |     0.3
+ 2015-11-07 | home    | William Smith        | D3  |     2.3 | St. Lawrence         | D3  |     0.5
  2015-11-06 | neutral | Wingate              | D2  |     0.8 | Queens (NC)          | D2  |     0.4
- 2015-11-04 | home    | Winona St.           | D2  |     0.8 | Bemidji St.          | D2  |     0.8
- 2015-11-04 | home    | Winona St.           | D2  |     1.4 | St. Cloud St.        | D2  |     0.7
- 2015-11-05 | home    | Wis.-La Crosse       | D3  |     0.9 | Wis.-Whitewater      | D3  |     1.6
- 2015-11-05 | home    | Wis.-Oshkosh         | D3  |     1.6 | Wis.-Eau Claire      | D3  |     0.5
+ 2015-11-07 | home    | Wis.-Oshkosh         | D3  |     1.3 | Wis.-Whitewater      | D3  |     1.6
  2015-11-06 | neutral | Wofford              | D1  |     1.0 | UNCG                 | D1  |     1.6
  2015-11-06 | home    | Worcester St.        | D3  |     1.9 | Framingham St.       | D3  |     0.5
- 2015-11-04 | neutral | Wyoming              | D1  |     1.2 | Colorado Col.        | D1  |     0.7
+ 2015-11-07 | neutral | Wright St.           | D1  |     1.1 | Oakland              | D1  |     0.9
  2015-11-07 | home    | Yale                 | D1  |     1.6 | Brown                | D1  |     1.2
-(300 rows)
+(258 rows)
 
-COPY 300
+COPY 258
 COMMIT
