@@ -1,174 +1,82 @@
 date,site,team,div,t_score,opp,div,o_score
-2015-11-06,home,Adelphi,D2,2.0,Merrimack,D2,0.7
-2015-11-06,home,Agnes Scott,D3,8.1,Finlandia,D3,0.4
-2015-11-06,neutral,Akron,D1,0.5,Miami (OH),D1,1.4
-2015-11-06,neutral,Alabama St.,D1,2.7,Prairie View,D1,2.4
-2015-11-06,neutral,Anderson (SC),D2,1.6,Carson-Newman,D2,1.6
-2015-11-06,home,Angelo St.,D2,2.4,West Tex. A&M,D2,0.5
-2015-11-06,neutral,Appalachian St.,D1,0.8,South Ala.,D1,2.2
-2015-11-06,home,Arizona,D1,1.7,Arizona St.,D1,1.4
-2015-11-06,neutral,Armstrong,D2,0.9,North Georgia,D2,1.2
-2015-11-06,neutral,Ashland,D2,1.2,Ferris St.,D2,1.6
-2015-11-06,neutral,Auburn,D1,1.2,Florida,D1,1.9
-2015-11-06,neutral,Augustana (SD),D2,1.0,Minot St.,D2,0.9
-2015-11-06,neutral,Austin,D3,0.6,Texas Lutheran,D3,1.7
-2015-11-06,home,Barry,D2,1.3,Florida Tech,D2,0.6
-2015-11-06,neutral,Baylor,D1,1.2,Kansas,D1,0.8
-2015-11-06,home,Bellarmine,D2,1.0,Mo.-St. Louis,D2,0.8
-2015-11-06,home,Boston U.,D1,2.7,Loyola Maryland,D1,0.5
-2015-11-06,neutral,Bryant,D1,0.9,Robert Morris,D1,1.9
-2015-11-06,home,Bucknell,D1,1.4,Navy,D1,0.8
-2015-11-06,neutral,Buffalo,D1,0.7,Western Mich.,D1,1.0
-2015-11-06,neutral,Cal St. Stanislaus,D2,1.5,Chico St.,D2,1.2
-2015-11-06,neutral,Campbell,D1,1.1,Coastal Caro.,D1,1.5
-2015-11-06,neutral,Carroll (WI),D3,2.1,St. Norbert,D3,1.6
-2015-11-06,neutral,Carson-Newman,D2,1.6,Anderson (SC),D2,1.6
-2015-11-06,home,Central Mo.,D2,1.9,Fort Hays St.,D2,0.5
-2015-11-06,neutral,Central Okla.,D2,1.2,Northeastern St.,D2,2.1
-2015-11-06,home,Centre,D3,2.1,Berry,D3,1.0
-2015-11-06,neutral,Chico St.,D2,1.2,Stanislaus St.,D2,1.5
-2015-11-06,neutral,Clemson,D1,0.8,Virginia,D1,2.0
-2015-11-06,neutral,Coastal Caro.,D1,1.5,Campbell,D1,1.1
-2015-11-06,home,Colorado Mines,D2,1.5,MSU Denver,D2,0.8
-2015-11-06,neutral,Columbus St.,D2,2.2,Georgia College,D2,0.7
-2015-11-06,neutral,CSU Bakersfield,D1,0.7,Seattle,D1,2.3
-2015-11-06,neutral,Dallas,D3,0.4,Schreiner,D3,1.6
-2015-11-06,home,Dallas,D3,1.3,Southwestern (TX),D3,1.4
-2015-11-06,home,Dallas Baptist,D2,2.3,St. Mary's (TX),D2,0.6
-2015-11-06,neutral,Drake,D1,1.5,Loyola Chicago,D1,1.3
-2015-11-06,neutral,Duquesne,D1,1.2,La Salle,D1,1.3
-2015-11-06,neutral,East Stroudsburg,D2,0.8,Slippery Rock,D2,1.7
-2015-11-06,neutral,Evansville,D1,0.8,UNI,D1,0.9
-2015-11-06,neutral,Fairleigh Dickinson,D1,3.2,Saint Francis (PA),D1,1.3
-2015-11-06,home,Fairleigh Dickinson,D1,3.5,Saint Francis (PA),D1,1.1
-2015-11-06,home,Ferris St.,D2,1.7,Ashland,D2,1.1
-2015-11-06,neutral,Ferris St.,D2,1.6,Ashland,D2,1.2
-2015-11-06,home,FGCU,D1,4.0,Stetson,D1,0.5
-2015-11-06,neutral,Florida,D1,1.9,Auburn,D1,1.2
-2015-11-06,neutral,Florida St.,D1,1.1,North Carolina,D1,0.9
-2015-11-06,neutral,Fordham,D1,1.1,George Mason,D1,0.8
-2015-11-06,neutral,Fort Lewis,D2,1.1,UC-Colo. Springs,D2,0.7
-2015-11-06,home,Gannon,D2,2.0,Edinboro,D2,1.1
-2015-11-06,neutral,George Mason,D1,0.8,Fordham,D1,1.1
-2015-11-06,home,Georgetown,D1,1.8,Providence,D1,0.9
-2015-11-06,neutral,Georgia College,D2,0.7,Columbus St.,D2,2.2
-2015-11-06,neutral,Georgia St.,D1,0.7,Troy,D1,1.6
-2015-11-06,home,Grand Valley St.,D2,4.0,Ohio Dominican,D2,0.5
-2015-11-06,home,Hardin-Simmons,D3,2.8,Mary Hardin-Baylor,D3,0.9
-2015-11-06,neutral,High Point,D1,1.0,Liberty,D1,0.6
-2015-11-06,home,Hofstra,D1,1.8,James Madison,D1,0.9
-2015-11-06,neutral,Houston Baptist,D1,0.8,Sam Houston St.,D1,0.9
-2015-11-06,neutral,Howard,D1,2.0,Mississippi Val.,D1,1.7
-2015-11-06,neutral,Idaho,D1,1.7,Montana,D1,0.6
-2015-11-06,home,Ithaca,D3,1.0,Nazareth,D3,0.7
-2015-11-06,neutral,Ithaca,D3,0.9,Nazareth,D3,0.8
-2015-11-06,neutral,Jacksonville,D1,0.5,Lipscomb,D1,1.4
-2015-11-06,neutral,Kansas,D1,0.8,Baylor,D1,1.2
-2015-11-06,home,Lake Forest,D3,2.4,Knox,D3,1.1
-2015-11-06,neutral,La Salle,D1,1.3,Duquesne,D1,1.2
-2015-11-06,neutral,Lee,D2,0.9,West Florida,D2,1.5
-2015-11-06,neutral,Liberty,D1,0.6,High Point,D1,1.0
-2015-11-06,neutral,Lipscomb,D1,1.4,Jacksonville,D1,0.5
-2015-11-06,neutral,Loyola Chicago,D1,1.3,Drake,D1,1.5
-2015-11-06,neutral,LSU,D1,1.4,Texas A&M,D1,1.8
-2015-11-06,neutral,Lubbock Christian,D2,0.7,St. Edward's,D2,2.8
-2015-11-06,neutral,Manhattan,D1,0.8,Rider,D1,0.6
-2015-11-06,neutral,Marshall,D1,1.2,Old Dominion,D1,0.6
-2015-11-06,neutral,Maryville (TN),D3,0.6,Piedmont,D3,1.1
-2015-11-06,neutral,Mercer,D1,0.7,Samford,D1,1.4
-2015-11-06,home,Meredith,D3,1.1,Methodist,D3,0.9
-2015-11-06,home,Miami (OH),D1,1.6,Akron,D1,0.4
-2015-11-06,neutral,Miami (OH),D1,1.4,Akron,D1,0.5
-2015-11-06,neutral,Michigan,D1,1.0,Penn St.,D1,1.9
-2015-11-06,neutral,Middle Tenn.,D1,0.4,North Texas,D1,1.0
-2015-11-06,neutral,Mills,D3,2.0,Wesleyan (GA),D3,1.6
-2015-11-06,home,Minn. St. Mankato,D2,1.9,Winona St.,D2,0.5
-2015-11-06,neutral,Minot St.,D2,0.9,Augustana (SD),D2,1.0
-2015-11-06,neutral,Mississippi Val.,D1,1.7,Howard,D1,2.0
-2015-11-06,neutral,Monmouth,D1,1.6,Siena,D1,0.9
-2015-11-06,neutral,Montana,D1,0.6,Idaho,D1,1.7
-2015-11-06,neutral,Morehead St.,D1,1.1,Murray St.,D1,2.4
-2015-11-06,neutral,Mount Mary,D3,0.1,Salem,D3,15.5
-2015-11-06,neutral,Murray St.,D1,2.4,Morehead St.,D1,1.1
-2015-11-06,home,Murray St.,D1,2.7,Morehead St.,D1,1.0
-2015-11-06,neutral,Nazareth,D3,0.8,Ithaca,D3,0.9
-2015-11-06,home,North Ala.,D2,1.7,West Ala.,D2,0.8
-2015-11-06,neutral,North Carolina,D1,0.9,Florida St.,D1,1.1
-2015-11-06,neutral,Northeastern St.,D2,2.1,Central Okla.,D2,1.2
-2015-11-06,neutral,Northern Colo.,D1,1.2,Sacramento St.,D1,1.0
-2015-11-06,neutral,North Georgia,D2,1.2,Armstrong St.,D2,0.9
-2015-11-06,neutral,North Texas,D1,1.0,Middle Tenn.,D1,0.4
-2015-11-06,neutral,Nova Southeastern,D2,1.3,Tampa,D2,1.6
-2015-11-06,neutral,Ohio St.,D1,0.5,Rutgers,D1,1.3
-2015-11-06,neutral,Old Dominion,D1,0.6,Marshall,D1,1.2
-2015-11-06,home,Oregon St.,D1,0.9,Oregon,D1,0.4
-2015-11-06,home,Pacific (OR),D3,0.4,Willamette,D3,0.9
-2015-11-06,neutral,Penn St.,D1,1.9,Michigan,D1,1.0
-2015-11-06,neutral,Piedmont,D3,1.1,Maryville (TN),D3,0.6
-2015-11-06,neutral,Prairie View,D1,2.4,Alabama St.,D1,2.7
-2015-11-06,neutral,Queens (NC),D2,0.4,Wingate,D2,0.8
-2015-11-06,neutral,Quincy,D2,1.1,Truman,D2,0.9
-2015-11-06,neutral,Rhodes,D3,1.0,Sewanee,D3,1.5
-2015-11-06,neutral,Rider,D1,0.6,Manhattan,D1,0.8
-2015-11-06,neutral,Robert Morris,D1,1.9,Bryant,D1,0.9
-2015-11-06,home,Rowan,D3,0.7,TCNJ,D3,0.9
-2015-11-06,neutral,Rutgers,D1,1.3,Ohio St.,D1,0.5
-2015-11-06,neutral,Sacramento St.,D1,1.0,Northern Colo.,D1,1.2
-2015-11-06,neutral,Saint Francis (PA),D1,1.3,Fairleigh Dickinson,D1,3.2
-2015-11-06,home,Saint Rose,D2,2.6,Assumption,D2,1.1
-2015-11-06,neutral,Salem,D3,15.5,Mount Mary,D3,0.1
-2015-11-06,home,Salem,D3,17.2,Mount Mary,D3,0.1
-2015-11-06,neutral,Samford,D1,1.4,Mercer,D1,0.7
-2015-11-06,neutral,Sam Houston St.,D1,0.9,Houston Baptist,D1,0.8
-2015-11-06,home,San Diego,D1,2.0,Pacific,D1,0.5
-2015-11-06,neutral,Schreiner,D3,1.6,Dallas,D3,0.4
-2015-11-06,neutral,Seattle,D1,2.3,CSU Bakersfield,D1,0.7
-2015-11-06,neutral,Sewanee,D3,1.5,Rhodes,D3,1.0
-2015-11-06,neutral,Siena,D1,0.9,Monmouth,D1,1.6
-2015-11-06,neutral,Slippery Rock,D2,1.7,East Stroudsburg,D2,0.8
-2015-11-06,neutral,Sonoma St.,D2,1.0,UC San Diego,D2,0.7
-2015-11-06,neutral,South Ala.,D1,2.2,Appalachian St.,D1,0.8
-2015-11-06,neutral,Southeastern La.,D1,1.2,Stephen F. Austin,D1,0.9
-2015-11-06,neutral,Southeast Mo. St.,D1,0.9,Tennessee Tech,D1,0.8
-2015-11-06,neutral,Southern Wesleyan,D2,0.7,Spring Hill,D2,2.5
-2015-11-06,home,Southwestern (TX),D3,1.7,Dallas,D3,1.0
-2015-11-06,neutral,Spring Hill,D2,2.5,Southern Wesleyan,D2,0.7
-2015-11-06,home,Stanford,D1,1.0,California,D1,0.8
-2015-11-06,neutral,St. Edward's,D2,2.8,Lubbock Christian,D2,0.7
-2015-11-06,neutral,Stephen F. Austin,D1,0.9,Southeastern La.,D1,1.2
-2015-11-06,home,Stevens,D3,2.4,Houghton,D3,0.7
-2015-11-06,home,St. John's (NY),D1,1.5,Butler,D1,0.5
-2015-11-06,neutral,St. Norbert,D3,1.6,Carroll (WI),D3,2.1
-2015-11-06,home,St. Norbert,D3,1.8,Carroll (WI),D3,1.8
-2015-11-06,neutral,Tampa,D2,1.6,Nova Southeastern,D2,1.3
-2015-11-06,home,Tennessee Tech,D1,0.9,Southeast Mo. St.,D1,0.8
-2015-11-06,neutral,Tennessee Tech,D1,0.8,Southeast Mo. St.,D1,0.9
-2015-11-06,neutral,Tex. A&M-Commerce,D2,1.4,Texas Woman's,D2,0.8
-2015-11-06,neutral,Texas A&M,D1,1.8,LSU,D1,1.4
-2015-11-06,neutral,Texas-Dallas,D3,0.7,Texas-Tyler,D3,2.6
-2015-11-06,neutral,Texas Lutheran,D3,1.7,Austin,D3,0.6
-2015-11-06,neutral,Texas Tech,D1,0.5,West Virginia,D1,1.6
-2015-11-06,neutral,Texas-Tyler,D3,2.6,Texas-Dallas,D3,0.7
-2015-11-06,neutral,Texas Woman's,D2,0.8,Tex. A&M-Commerce,D2,1.4
-2015-11-06,neutral,Troy,D1,1.6,Georgia St.,D1,0.7
-2015-11-06,neutral,Truman,D2,0.9,Quincy,D2,1.1
-2015-11-06,neutral,UC-Colo. Springs,D2,0.7,Fort Lewis,D2,1.1
-2015-11-06,home,UCLA,D1,0.8,Southern California,D1,1.8
-2015-11-06,neutral,UC San Diego,D2,0.7,Sonoma St.,D2,1.0
-2015-11-06,neutral,UMKC,D1,1.3,Utah Valley,D1,1.1
-2015-11-06,neutral,UNCG,D1,1.6,Wofford,D1,1.0
-2015-11-06,neutral,UNCW,D1,1.2,William & Mary,D1,1.8
-2015-11-06,neutral,UNI,D1,0.9,Evansville,D1,0.8
-2015-11-06,home,Utah,D1,1.2,Colorado,D1,0.9
-2015-11-06,neutral,Utah Valley,D1,1.1,UMKC,D1,1.3
-2015-11-06,neutral,Virginia,D1,2.0,Clemson,D1,0.8
-2015-11-06,neutral,Wesleyan (GA),D3,1.6,Mills,D3,2.0
-2015-11-06,home,Western Mich.,D1,1.1,Buffalo,D1,0.6
-2015-11-06,neutral,Western Mich.,D1,1.0,Buffalo,D1,0.7
-2015-11-06,home,Westfield St.,D3,1.4,Bridgewater St.,D3,0.7
-2015-11-06,neutral,West Florida,D2,1.5,Lee,D2,0.9
-2015-11-06,neutral,West Virginia,D1,1.6,Texas Tech,D1,0.5
-2015-11-06,neutral,William & Mary,D1,1.8,UNCW,D1,1.2
-2015-11-06,neutral,Wingate,D2,0.8,Queens (NC),D2,0.4
-2015-11-06,neutral,Wofford,D1,1.0,UNCG,D1,1.6
-2015-11-06,home,Worcester St.,D3,1.9,Framingham St.,D3,0.5
+2015-11-08,home,Adelphi,D2,1.5,Saint Rose,D2,0.9
+2015-11-08,neutral,Alabama St.,D1,1.5,Howard,D1,3.1
+2015-11-08,neutral,Augustana (SD),D2,0.9,Winona St.,D2,0.5
+2015-11-08,home,Augustana (SD),D2,1.0,Winona St.,D2,0.4
+2015-11-08,neutral,Babson,D3,1.0,Springfield,D3,0.9
+2015-11-08,home,Barry,D2,1.8,Tampa,D2,0.7
+2015-11-08,neutral,Boston U.,D1,1.2,Bucknell,D1,0.8
+2015-11-08,neutral,Bucknell,D1,0.8,Boston U.,D1,1.2
+2015-11-08,neutral,Butler,D1,1.0,Providence,D1,0.9
+2015-11-08,neutral,Cal St. Fullerton,D1,1.0,Long Beach St.,D1,1.0
+2015-11-08,neutral,Cal St. Stanislaus,D2,1.1,UC San Diego,D2,1.6
+2015-11-08,neutral,Campbell,D1,0.9,Liberty,D1,1.0
+2015-11-08,neutral,Carson-Newman,D2,0.8,Wingate,D2,0.9
+2015-11-08,home,Central Mo.,D2,1.9,Northeastern St.,D2,0.8
+2015-11-08,home,Centre,D3,2.0,Rhodes,D3,0.8
+2015-11-08,home,Colorado Mines,D2,1.0,Fort Lewis,D2,0.6
+2015-11-08,neutral,Columbus St.,D2,1.5,North Georgia,D2,1.2
+2015-11-08,home,Dallas Baptist,D2,1.0,St. Edward's,D2,0.7
+2015-11-08,neutral,Duquesne,D1,1.0,Fordham,D1,1.1
+2015-11-08,neutral,East Stroudsburg,D2,1.3,Edinboro,D2,1.4
+2015-11-08,neutral,Edinboro,D2,1.4,East Stroudsburg,D2,1.3
+2015-11-08,home,Evansville,D1,0.8,Loyola Chicago,D1,0.8
+2015-11-08,home,Fairleigh Dickinson,D1,3.6,Robert Morris,D1,1.2
+2015-11-08,home,FGCU,D1,1.6,Lipscomb,D1,0.5
+2015-11-08,neutral,Florida,D1,1.9,Texas A&M,D1,1.5
+2015-11-08,neutral,Florida St.,D1,1.2,Virginia,D1,1.5
+2015-11-08,neutral,Fordham,D1,1.1,Duquesne,D1,1.0
+2015-11-08,home,Furman,D1,0.9,Mercer,D1,0.7
+2015-11-08,neutral,Georgia St.,D1,0.8,South Ala.,D1,2.8
+2015-11-08,home,Grand Valley St.,D2,4.2,Ashland,D2,0.5
+2015-11-08,home,Hardin-Simmons,D3,1.4,Texas-Tyler,D3,1.2
+2015-11-08,neutral,Howard,D1,3.1,Alabama St.,D1,1.5
+2015-11-08,neutral,Idaho,D1,1.5,Northern Colo.,D1,0.7
+2015-11-08,neutral,James Madison,D1,0.8,William & Mary,D1,1.4
+2015-11-08,neutral,Kansas,D1,0.6,Texas Tech,D1,1.2
+2015-11-08,neutral,Liberty,D1,1.0,Campbell,D1,0.9
+2015-11-08,home,Linfield,D3,2.3,George Fox,D3,0.6
+2015-11-08,neutral,Long Beach St.,D1,1.0,Cal St. Fullerton,D1,1.0
+2015-11-08,home,Lynchburg,D3,1.2,Roanoke,D3,0.3
+2015-11-08,neutral,Manhattan,D1,1.2,Siena,D1,0.9
+2015-11-08,neutral,Marshall,D1,0.4,North Texas,D1,0.8
+2015-11-08,neutral,Mo.-St. Louis,D2,1.1,Truman,D2,1.1
+2015-11-08,home,North Ala.,D2,1.7,Lee,D2,1.0
+2015-11-08,neutral,Northern Colo.,D1,0.7,Idaho,D1,1.5
+2015-11-08,neutral,North Georgia,D2,1.2,Columbus St.,D2,1.5
+2015-11-08,neutral,North Texas,D1,0.8,Marshall,D1,0.4
+2015-11-08,home,Pacific (OR),D3,0.3,Pacific Lutheran,D3,1.9
+2015-11-08,neutral,Palm Beach Atl.,D2,2.9,Spring Hill,D2,1.2
+2015-11-08,home,Penn St.,D1,0.9,Rutgers,D1,0.7
+2015-11-08,home,Penn St.-Berks,D3,2.8,Penn St.-Abington,D3,0.7
+2015-11-08,neutral,Providence,D1,0.9,Butler,D1,1.0
+2015-11-08,neutral,Salem,D3,2.3,UC Santa Cruz,D3,1.5
+2015-11-08,neutral,Sam Houston St.,D1,0.7,Southeastern La.,D1,1.1
+2015-11-08,neutral,Seattle,D1,1.4,Utah Valley,D1,0.9
+2015-11-08,neutral,Siena,D1,0.9,Manhattan,D1,1.2
+2015-11-08,neutral,South Ala.,D1,2.8,Georgia St.,D1,0.8
+2015-11-08,neutral,Southeastern La.,D1,1.1,Sam Houston St.,D1,0.7
+2015-11-08,neutral,Springfield,D3,0.9,Babson,D3,1.0
+2015-11-08,neutral,Spring Hill,D2,1.2,Palm Beach Atl.,D2,2.9
+2015-11-08,home,Swarthmore,D3,2.0,Johns Hopkins,D3,0.8
+2015-11-08,neutral,Tex. A&M-Commerce,D2,1.8,West Tex. A&M,D2,0.7
+2015-11-08,neutral,Texas A&M,D1,1.5,Florida,D1,1.9
+2015-11-08,neutral,Texas Lutheran,D3,0.3,Trinity (TX),D3,2.5
+2015-11-08,neutral,Texas Tech,D1,1.2,Kansas,D1,0.6
+2015-11-08,neutral,Trinity (TX),D3,2.5,Texas Lutheran,D3,0.3
+2015-11-08,neutral,Truman,D2,1.1,Mo.-St. Louis,D2,1.1
+2015-11-08,neutral,UC San Diego,D2,1.6,Stanislaus St.,D2,1.1
+2015-11-08,neutral,UC Santa Cruz,D3,1.5,Salem,D3,2.3
+2015-11-08,neutral,Utah Valley,D1,0.9,Seattle,D1,1.4
+2015-11-08,neutral,Virginia,D1,1.5,Florida St.,D1,1.2
+2015-11-08,home,Western Mich.,D1,0.9,Miami (OH),D1,0.5
+2015-11-08,neutral,West Tex. A&M,D2,0.7,Tex. A&M-Commerce,D2,1.8
+2015-11-08,home,West Va. Wesleyan,D2,0.9,Charleston (WV),D2,0.3
+2015-11-08,home,Whitman,D3,1.0,Lewis & Clark,D3,1.4
+2015-11-08,home,Willamette,D3,0.3,Puget Sound,D3,1.0
+2015-11-08,neutral,William & Mary,D1,1.4,James Madison,D1,0.8
+2015-11-08,home,Williams,D3,1.5,Bowdoin,D3,0.6
+2015-11-08,neutral,Wingate,D2,0.9,Carson-Newman,D2,0.8
+2015-11-08,neutral,Winona St.,D2,0.5,Augustana (SD),D2,0.9
+2015-11-08,home,Worcester St.,D3,1.1,Westfield St.,D3,0.8
+2015-11-08,home,York (NY),D3,2.3,Yeshiva,D3,2.0
