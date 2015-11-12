@@ -1,311 +1,311 @@
 rd,name,p
 2,Virginia,1.000
-2,Florida State,0.990
-2,West Virginia,0.967
-2,Penn St.,0.967
-2,Rutgers,0.961
-2,Notre Dame,0.938
-2,North Carolina,0.923
-2,Stanford,0.878
-2,BYU,0.877
-2,Connecticut,0.867
-2,Arizona,0.838
-2,Florida,0.836
-2,Clemson,0.821
-2,Duke,0.814
-2,Mississippi,0.812
-2,Auburn,0.810
-2,California,0.778
-2,Minnesota,0.778
-2,USC,0.761
-2,Virginia Tech,0.720
-2,William & Mary,0.663
-2,Ohio State,0.646
-2,South Carolina,0.630
-2,Texas A&M,0.626
-2,Santa Clara,0.601
-2,St. John's (NY),0.583
-2,Hofstra,0.565
-2,Washington St.,0.552
-2,Boston College,0.545
+2,Florida State,0.987
+2,West Virginia,0.961
+2,Penn St.,0.961
+2,Rutgers,0.954
+2,Notre Dame,0.926
+2,North Carolina,0.911
+2,BYU,0.865
+2,Stanford,0.864
+2,Connecticut,0.857
+2,Florida,0.826
+2,Arizona,0.826
+2,Clemson,0.807
+2,Mississippi,0.803
+2,Duke,0.799
+2,Auburn,0.797
+2,California,0.766
+2,Minnesota,0.765
+2,USC,0.750
+2,Virginia Tech,0.712
+2,William & Mary,0.656
+2,Ohio State,0.639
+2,South Carolina,0.626
+2,Texas A&M,0.621
+2,Santa Clara,0.594
+2,St. John's (NY),0.578
+2,Hofstra,0.563
+2,Washington St.,0.549
+2,Boston College,0.544
 2,LSU,0.503
 2,FGCU,0.503
 2,Texas Tech,0.502
 2,North Texas,0.498
 2,South Florida,0.497
 2,South Alabama,0.497
-2,Princeton,0.455
-2,Northwestern,0.448
-2,Georgetown,0.435
-2,Boston U.,0.417
-2,Long Beach St.,0.399
-2,Washington,0.374
-2,UNCW,0.370
-2,Butler,0.354
-2,UCF,0.337
-2,Cincinnati,0.280
-2,CSU Fullerton,0.239
-2,Loyola Marymount,0.222
-2,South Dakota St.,0.222
-2,Southeastern La.,0.190
-2,Murray State,0.188
-2,James Madison,0.186
-2,Furman,0.179
-2,Western Mich.,0.164
-2,Northern Colo.,0.162
-2,Siena,0.133
-2,Utah Valley,0.123
-2,San Jose State,0.122
-2,Liberty,0.077
-2,Oakland,0.062
-2,Fairleigh Dickinson,0.039
-2,Albany (NY),0.033
-2,Duquesne,0.033
-2,Evansville,0.010
+2,Princeton,0.456
+2,Northwestern,0.451
+2,Georgetown,0.437
+2,Boston U.,0.422
+2,Long Beach St.,0.406
+2,Washington,0.379
+2,UNCW,0.374
+2,Butler,0.361
+2,UCF,0.344
+2,Cincinnati,0.288
+2,CSU Fullerton,0.250
+2,South Dakota St.,0.235
+2,Loyola Marymount,0.234
+2,Southeastern La.,0.203
+2,James Madison,0.201
+2,Murray State,0.197
+2,Furman,0.193
+2,Northern Colo.,0.174
+2,Western Mich.,0.174
+2,Siena,0.143
+2,San Jose State,0.136
+2,Utah Valley,0.135
+2,Liberty,0.089
+2,Oakland,0.074
+2,Fairleigh Dickinson,0.046
+2,Albany (NY),0.039
+2,Duquesne,0.039
+2,Evansville,0.013
 2,Howard,0.000
-3,Virginia,0.908
-3,Florida State,0.871
-3,Penn St.,0.808
-3,West Virginia,0.808
-3,Rutgers,0.780
-3,Notre Dame,0.712
-3,North Carolina,0.645
-3,Florida,0.616
-3,Clemson,0.585
-3,USC,0.560
-3,California,0.558
-3,Stanford,0.532
-3,Virginia Tech,0.501
-3,Duke,0.479
+3,Virginia,0.902
+3,Florida State,0.858
+3,Penn St.,0.792
+3,West Virginia,0.789
+3,Rutgers,0.761
+3,Notre Dame,0.694
+3,North Carolina,0.629
+3,Florida,0.603
+3,Clemson,0.571
+3,USC,0.545
+3,California,0.543
+3,Stanford,0.523
+3,Virginia Tech,0.491
+3,Duke,0.466
 3,BYU,0.426
-3,Santa Clara,0.380
-3,Auburn,0.364
-3,Arizona,0.362
-3,Mississippi,0.324
-3,Texas Tech,0.300
-3,Minnesota,0.294
-3,North Texas,0.291
-3,Connecticut,0.263
+3,Santa Clara,0.374
+3,Auburn,0.361
+3,Arizona,0.360
+3,Mississippi,0.328
+3,Texas Tech,0.298
+3,Minnesota,0.296
+3,North Texas,0.290
+3,Connecticut,0.274
 3,Ohio State,0.255
-3,William & Mary,0.249
-3,Texas A&M,0.234
-3,FGCU,0.233
-3,South Florida,0.230
-3,Long Beach St.,0.229
-3,Boston College,0.177
-3,Cincinnati,0.153
-3,Princeton,0.134
-3,Hofstra,0.132
-3,CSU Fullerton,0.129
-3,St. John's (NY),0.126
-3,Loyola Marymount,0.115
-3,Washington,0.105
-3,Washington St.,0.098
-3,Butler,0.092
-3,Northwestern,0.086
-3,Georgetown,0.082
-3,UCF,0.074
-3,South Carolina,0.072
-3,LSU,0.066
-3,South Alabama,0.063
-3,Western Mich.,0.061
-3,Furman,0.060
-3,James Madison,0.058
-3,Boston U.,0.058
-3,Southeastern La.,0.045
-3,South Dakota St.,0.034
-3,Murray State,0.030
-3,Northern Colo.,0.029
-3,San Jose State,0.027
-3,UNCW,0.019
-3,Liberty,0.017
-3,Utah Valley,0.015
-3,Oakland,0.015
-3,Siena,0.011
-3,Albany (NY),0.008
-3,Duquesne,0.008
-3,Fairleigh Dickinson,0.006
+3,William & Mary,0.252
+3,Texas A&M,0.239
+3,FGCU,0.236
+3,South Florida,0.233
+3,Long Beach St.,0.233
+3,Boston College,0.182
+3,Cincinnati,0.157
+3,Hofstra,0.141
+3,Princeton,0.138
+3,CSU Fullerton,0.135
+3,St. John's (NY),0.134
+3,Loyola Marymount,0.122
+3,Washington,0.112
+3,Washington St.,0.106
+3,Butler,0.097
+3,Northwestern,0.095
+3,Georgetown,0.090
+3,UCF,0.079
+3,South Carolina,0.077
+3,LSU,0.072
+3,South Alabama,0.069
+3,Furman,0.067
+3,Western Mich.,0.066
+3,James Madison,0.065
+3,Boston U.,0.064
+3,Southeastern La.,0.050
+3,South Dakota St.,0.039
+3,Northern Colo.,0.034
+3,Murray State,0.034
+3,San Jose State,0.033
+3,UNCW,0.021
+3,Liberty,0.020
+3,Utah Valley,0.018
+3,Oakland,0.018
+3,Siena,0.014
+3,Albany (NY),0.010
+3,Duquesne,0.010
+3,Fairleigh Dickinson,0.008
 3,Evansville,0.001
 3,Howard,0.000
-4,Virginia,0.776
-4,Florida State,0.716
-4,Penn St.,0.669
-4,West Virginia,0.632
-4,Rutgers,0.472
-4,North Carolina,0.446
-4,Stanford,0.388
-4,Florida,0.381
-4,Notre Dame,0.380
-4,BYU,0.282
-4,Clemson,0.269
-4,Duke,0.253
-4,California,0.201
-4,Virginia Tech,0.146
-4,USC,0.145
-4,Santa Clara,0.141
-4,Texas A&M,0.128
-4,William & Mary,0.113
-4,FGCU,0.099
-4,South Florida,0.098
-4,Mississippi,0.096
-4,Arizona,0.096
-4,Connecticut,0.083
-4,Long Beach St.,0.079
-4,North Texas,0.077
-4,Texas Tech,0.074
-4,Auburn,0.069
-4,Minnesota,0.063
-4,St. John's (NY),0.062
-4,Ohio State,0.053
-4,Washington,0.045
-4,Washington St.,0.044
-4,Hofstra,0.041
-4,South Carolina,0.037
-4,Northwestern,0.036
-4,Cincinnati,0.033
-4,LSU,0.032
-4,South Alabama,0.030
-4,UCF,0.023
-4,Boston U.,0.023
-4,Georgetown,0.021
-4,Loyola Marymount,0.020
-4,Western Mich.,0.018
-4,James Madison,0.014
-4,Boston College,0.014
-4,CSU Fullerton,0.012
-4,Butler,0.012
-4,Furman,0.010
-4,Princeton,0.009
-4,San Jose State,0.008
-4,UNCW,0.008
-4,Liberty,0.004
-4,Murray State,0.003
+4,Virginia,0.765
+4,Florida State,0.695
+4,Penn St.,0.649
+4,West Virginia,0.610
+4,Rutgers,0.460
+4,North Carolina,0.432
+4,Stanford,0.377
+4,Notre Dame,0.375
+4,Florida,0.372
+4,BYU,0.278
+4,Clemson,0.266
+4,Duke,0.247
+4,California,0.204
+4,Virginia Tech,0.149
+4,USC,0.148
+4,Santa Clara,0.143
+4,Texas A&M,0.131
+4,William & Mary,0.116
+4,FGCU,0.102
+4,Mississippi,0.101
+4,South Florida,0.101
+4,Arizona,0.100
+4,Connecticut,0.091
+4,Long Beach St.,0.083
+4,North Texas,0.082
+4,Texas Tech,0.078
+4,Auburn,0.074
+4,Minnesota,0.068
+4,St. John's (NY),0.066
+4,Ohio State,0.057
+4,Washington St.,0.049
+4,Washington,0.049
+4,Hofstra,0.046
+4,Northwestern,0.040
+4,South Carolina,0.040
+4,Cincinnati,0.037
+4,LSU,0.035
+4,South Alabama,0.033
+4,Boston U.,0.026
+4,UCF,0.025
+4,Georgetown,0.025
+4,Loyola Marymount,0.024
+4,Western Mich.,0.021
+4,James Madison,0.016
+4,Boston College,0.015
+4,Butler,0.014
+4,CSU Fullerton,0.014
+4,Furman,0.012
+4,Princeton,0.010
+4,San Jose State,0.010
+4,UNCW,0.009
+4,Liberty,0.005
+4,Murray State,0.004
+4,Utah Valley,0.004
+4,Northern Colo.,0.004
+4,South Dakota St.,0.003
 4,Southeastern La.,0.003
-4,Utah Valley,0.003
-4,Northern Colo.,0.003
-4,Duquesne,0.002
 4,Oakland,0.002
-4,South Dakota St.,0.002
 4,Albany (NY),0.002
+4,Duquesne,0.002
 4,Siena,0.001
-4,Evansville,0.000
+4,Fairleigh Dickinson,0.001
 4,Howard,0.000
-4,Fairleigh Dickinson,0.000
-5,Virginia,0.572
-5,Florida State,0.546
-5,West Virginia,0.391
-5,Penn St.,0.379
-5,Stanford,0.237
-5,Florida,0.198
-5,North Carolina,0.197
-5,Rutgers,0.170
-5,BYU,0.152
-5,Notre Dame,0.143
-5,Duke,0.138
-5,California,0.094
-5,Clemson,0.073
-5,USC,0.070
-5,Santa Clara,0.059
-5,William & Mary,0.050
-5,South Florida,0.045
-5,FGCU,0.045
-5,Virginia Tech,0.044
-5,Texas A&M,0.037
-5,North Texas,0.034
-5,Texas Tech,0.033
-5,Arizona,0.029
-5,Long Beach St.,0.029
-5,Auburn,0.026
-5,Mississippi,0.019
-5,Minnesota,0.019
-5,St. John's (NY),0.017
-5,South Carolina,0.014
-5,Washington St.,0.014
-5,LSU,0.012
-5,Ohio State,0.012
-5,Connecticut,0.012
-5,Northwestern,0.011
-5,South Alabama,0.011
-5,Washington,0.010
-5,Cincinnati,0.008
-5,UCF,0.007
-5,Western Mich.,0.005
-5,Hofstra,0.005
-5,Loyola Marymount,0.005
+4,Evansville,0.000
+5,Virginia,0.560
+5,Florida State,0.525
+5,West Virginia,0.379
+5,Penn St.,0.370
+5,Stanford,0.229
+5,North Carolina,0.196
+5,Florida,0.195
+5,Rutgers,0.171
+5,BYU,0.150
+5,Notre Dame,0.145
+5,Duke,0.135
+5,California,0.097
+5,Clemson,0.077
+5,USC,0.072
+5,Santa Clara,0.060
+5,William & Mary,0.052
+5,South Florida,0.047
+5,Virginia Tech,0.047
+5,FGCU,0.047
+5,Texas A&M,0.040
+5,North Texas,0.037
+5,Texas Tech,0.035
+5,Long Beach St.,0.032
+5,Arizona,0.031
+5,Auburn,0.029
+5,Mississippi,0.022
+5,Minnesota,0.021
+5,St. John's (NY),0.019
+5,Washington St.,0.016
+5,South Carolina,0.016
+5,Connecticut,0.014
+5,Ohio State,0.013
+5,South Alabama,0.013
+5,LSU,0.013
+5,Northwestern,0.013
+5,Washington,0.011
+5,Cincinnati,0.009
+5,UCF,0.008
+5,Western Mich.,0.006
+5,Hofstra,0.006
+5,Loyola Marymount,0.006
+5,Boston U.,0.005
+5,James Madison,0.005
 5,Boston College,0.004
 5,CSU Fullerton,0.004
-5,Boston U.,0.004
-5,James Madison,0.004
-5,UNCW,0.002
+5,Princeton,0.003
+5,UNCW,0.003
 5,Georgetown,0.002
-5,Princeton,0.002
+5,Furman,0.002
+5,San Jose State,0.002
 5,Butler,0.002
-5,Furman,0.001
-5,San Jose State,0.001
-5,Evansville,0.000
-5,Fairleigh Dickinson,0.000
-5,Liberty,0.000
-5,Siena,0.000
-5,Murray State,0.000
-5,Southeastern La.,0.000
+5,Liberty,0.001
+5,Utah Valley,0.001
+5,Southeastern La.,0.001
 5,Oakland,0.000
+5,South Dakota St.,0.000
+5,Albany (NY),0.000
 5,Northern Colo.,0.000
 5,Duquesne,0.000
-5,Albany (NY),0.000
-5,South Dakota St.,0.000
-5,Utah Valley,0.000
+5,Siena,0.000
 5,Howard,0.000
-6,Virginia,0.377
-6,Florida State,0.371
-6,West Virginia,0.201
-6,Penn St.,0.158
-6,North Carolina,0.130
-6,Stanford,0.100
-6,Rutgers,0.084
-6,Florida,0.078
-6,Notre Dame,0.074
-6,Duke,0.070
-6,BYU,0.065
-6,California,0.034
-6,USC,0.031
-6,Clemson,0.030
-6,Santa Clara,0.018
-6,William & Mary,0.017
-6,FGCU,0.016
-6,South Florida,0.016
-6,Texas A&M,0.016
-6,North Texas,0.015
-6,Texas Tech,0.014
-6,Virginia Tech,0.010
-6,Auburn,0.009
-6,Long Beach St.,0.008
-6,Arizona,0.006
-6,Mississippi,0.006
+5,Evansville,0.000
+5,Fairleigh Dickinson,0.000
+5,Murray State,0.000
+6,Virginia,0.369
+6,Florida State,0.354
+6,West Virginia,0.196
+6,Penn St.,0.157
+6,North Carolina,0.128
+6,Stanford,0.099
+6,Rutgers,0.086
+6,Florida,0.079
+6,Notre Dame,0.076
+6,Duke,0.069
+6,BYU,0.066
+6,California,0.036
+6,USC,0.033
+6,Clemson,0.032
+6,Santa Clara,0.020
+6,Texas A&M,0.018
+6,William & Mary,0.018
+6,FGCU,0.017
+6,South Florida,0.017
+6,North Texas,0.016
+6,Texas Tech,0.015
+6,Virginia Tech,0.011
+6,Auburn,0.011
+6,Long Beach St.,0.010
+6,Arizona,0.007
+6,Mississippi,0.007
 6,South Carolina,0.005
-6,Minnesota,0.004
-6,South Alabama,0.004
-6,LSU,0.004
+6,Minnesota,0.005
+6,LSU,0.005
 6,St. John's (NY),0.004
-6,Washington,0.003
-6,Washington St.,0.003
-6,Connecticut,0.003
+6,Washington St.,0.004
+6,Connecticut,0.004
+6,Washington,0.004
+6,South Alabama,0.004
+6,Northwestern,0.003
+6,Cincinnati,0.002
 6,Ohio State,0.002
-6,Northwestern,0.002
-6,Loyola Marymount,0.001
-6,Western Mich.,0.001
+6,UCF,0.002
+6,Boston U.,0.001
 6,Boston College,0.001
-6,UCF,0.001
-6,Hofstra,0.001
+6,Western Mich.,0.001
 6,CSU Fullerton,0.001
 6,James Madison,0.001
-6,Cincinnati,0.001
+6,Princeton,0.001
+6,Hofstra,0.001
 6,UNCW,0.001
-6,Boston U.,0.001
-6,Siena,0.000
-6,Furman,0.000
-6,Utah Valley,0.000
-6,Butler,0.000
+6,Loyola Marymount,0.001
 6,Albany (NY),0.000
+6,Utah Valley,0.000
+6,Siena,0.000
+6,Butler,0.000
 6,Southeastern La.,0.000
 6,Evansville,0.000
 6,Liberty,0.000
@@ -313,68 +313,66 @@ rd,name,p
 6,San Jose State,0.000
 6,Fairleigh Dickinson,0.000
 6,Georgetown,0.000
-6,Princeton,0.000
 6,South Dakota St.,0.000
 6,Northern Colo.,0.000
 6,Duquesne,0.000
 6,Oakland,0.000
 6,Howard,0.000
-7,Virginia,0.254
-7,Florida State,0.189
-7,West Virginia,0.122
+6,Furman,0.000
+7,Virginia,0.249
+7,Florida State,0.182
+7,West Virginia,0.119
 7,Penn St.,0.082
-7,North Carolina,0.065
-7,Rutgers,0.043
-7,Notre Dame,0.040
+7,North Carolina,0.064
+7,Rutgers,0.044
+7,Notre Dame,0.041
 7,Stanford,0.036
-7,Duke,0.031
-7,Florida,0.025
-7,BYU,0.024
-7,California,0.016
-7,USC,0.014
-7,Clemson,0.007
+7,Duke,0.032
+7,Florida,0.026
+7,BYU,0.025
+7,California,0.017
+7,USC,0.015
+7,Clemson,0.008
 7,Santa Clara,0.005
-7,South Florida,0.005
 7,FGCU,0.005
+7,North Texas,0.005
+7,South Florida,0.005
+7,William & Mary,0.005
+7,Texas A&M,0.005
+7,Virginia Tech,0.004
 7,Texas Tech,0.004
-7,North Texas,0.004
-7,William & Mary,0.004
-7,Texas A&M,0.004
-7,Virginia Tech,0.003
-7,South Carolina,0.002
-7,Long Beach St.,0.002
 7,Auburn,0.002
-7,Mississippi,0.001
-7,Connecticut,0.001
-7,Northwestern,0.001
-7,LSU,0.001
-7,Washington,0.001
-7,Arizona,0.001
-7,Minnesota,0.001
+7,Long Beach St.,0.002
+7,South Carolina,0.002
 7,Washington St.,0.001
 7,South Alabama,0.001
+7,Minnesota,0.001
+7,LSU,0.001
+7,Connecticut,0.001
+7,Mississippi,0.001
 7,St. John's (NY),0.001
-7,Albany (NY),0.000
-7,Boston College,0.000
+7,Washington,0.001
+7,Northwestern,0.001
+7,Ohio State,0.001
+7,Arizona,0.001
+7,CSU Fullerton,0.000
+7,Georgetown,0.000
 7,Fairleigh Dickinson,0.000
 7,Cincinnati,0.000
-7,Oakland,0.000
+7,Northern Colo.,0.000
 7,Murray State,0.000
+7,Princeton,0.000
 7,Duquesne,0.000
 7,South Dakota St.,0.000
+7,Oakland,0.000
 7,James Madison,0.000
 7,Howard,0.000
 7,Loyola Marymount,0.000
-7,Princeton,0.000
-7,Southeastern La.,0.000
-7,Western Mich.,0.000
-7,Evansville,0.000
-7,San Jose State,0.000
 7,Liberty,0.000
-7,Ohio State,0.000
-7,CSU Fullerton,0.000
+7,Evansville,0.000
+7,Western Mich.,0.000
+7,Southeastern La.,0.000
 7,Butler,0.000
-7,Georgetown,0.000
 7,Boston U.,0.000
 7,Hofstra,0.000
 7,UNCW,0.000
@@ -382,4 +380,6 @@ rd,name,p
 7,Utah Valley,0.000
 7,UCF,0.000
 7,Siena,0.000
-7,Northern Colo.,0.000
+7,Boston College,0.000
+7,San Jose State,0.000
+7,Albany (NY),0.000

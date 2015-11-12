@@ -85,9 +85,9 @@ r1.year,
 r1.school_id,
 r2.school_id,
 (m1.c*m1.tof*m1.ofd*m2.tdf) as t_mu,
-(15.0/70.0)*(m1.c*m1.tof*m1.ofd*m2.tdf) as to_mu,
+(10.0/90.0)*(m1.c*m1.tof*m1.ofd*m2.tdf) as to_mu,
 (m1.c*m2.tof*m2.dfd*m1.tdf) as o_mu,
-(15.0/70.0)*(m1.c*m2.tof*m2.dfd*m1.tdf) as oo_mu
+(10.0/90.0)*(m1.c*m2.tof*m2.dfd*m1.tdf) as oo_mu
 from ncaa.rounds r1
 join ncaa.rounds r2
   on ((r2.year)=(r1.year) and not((r2.school_id)=(r1.school_id)))
@@ -107,9 +107,9 @@ r1.year,
 r1.school_id,
 r2.school_id,
 (m1.c*m1.tof*m1.dfd*m2.tdf) as t_mu,
-(15.0/70.0)*(m1.c*m1.tof*m1.dfd*m2.tdf) as to_mu,
+(10.0/90.0)*(m1.c*m1.tof*m1.dfd*m2.tdf) as to_mu,
 (m1.c*m2.tof*m2.ofd*m1.tdf) as o_mu,
-(15.0/70.0)*(m1.c*m2.tof*m2.ofd*m1.tdf) as oo_mu
+(10.0/90.0)*(m1.c*m2.tof*m2.ofd*m1.tdf) as oo_mu
 from ncaa.rounds r1
 join ncaa.rounds r2
   on ((r2.year)=(r1.year) and not((r2.school_id)=(r1.school_id)))
@@ -129,9 +129,9 @@ r1.year,
 r1.school_id,
 r2.school_id,
 (m1.c*m1.tof*m2.tdf) as t_mu,
-(15.0/70.0)*(m1.c*m1.tof*m2.tdf) as to_mu,
+(10.0/90.0)*(m1.c*m1.tof*m2.tdf) as to_mu,
 (m1.c*m2.tof*m1.tdf) as o_mu,
-(15.0/70.0)*(m1.c*m2.tof*m1.tdf) as oo_mu
+(10.0/90.0)*(m1.c*m2.tof*m1.tdf) as oo_mu
 from ncaa.rounds r1
 join ncaa.rounds r2
   on ((r2.year)=(r1.year) and not((r2.school_id)=(r1.school_id)))
