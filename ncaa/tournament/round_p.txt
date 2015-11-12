@@ -1,0 +1,391 @@
+BEGIN
+ rd |        name         |   p   
+----+---------------------+-------
+  2 | Virginia            | 0.999
+  2 | Florida State       | 0.983
+  2 | West Virginia       | 0.948
+  2 | Penn St.            | 0.947
+  2 | Rutgers             | 0.940
+  2 | Notre Dame          | 0.913
+  2 | North Carolina      | 0.893
+  2 | BYU                 | 0.877
+  2 | Connecticut         | 0.867
+  2 | Arizona             | 0.838
+  2 | Stanford            | 0.836
+  2 | Mississippi         | 0.812
+  2 | Minnesota           | 0.778
+  2 | Florida             | 0.777
+  2 | Clemson             | 0.768
+  2 | Duke                | 0.763
+  2 | Auburn              | 0.752
+  2 | California          | 0.718
+  2 | USC                 | 0.696
+  2 | William & Mary      | 0.663
+  2 | Ohio State          | 0.646
+  2 | Virginia Tech       | 0.642
+  2 | South Carolina      | 0.630
+  2 | Texas A&M           | 0.626
+  2 | St. John's (NY)     | 0.583
+  2 | Hofstra             | 0.565
+  2 | Washington St.      | 0.552
+  2 | Boston College      | 0.545
+  2 | Santa Clara         | 0.542
+  2 | LSU                 | 0.503
+  2 | FGCU                | 0.503
+  2 | Texas Tech          | 0.502
+  2 | North Texas         | 0.498
+  2 | South Florida       | 0.497
+  2 | South Alabama       | 0.497
+  2 | Long Beach St.      | 0.458
+  2 | Princeton           | 0.455
+  2 | Northwestern        | 0.448
+  2 | Georgetown          | 0.435
+  2 | Boston U.           | 0.417
+  2 | Washington          | 0.374
+  2 | UNCW                | 0.370
+  2 | Cincinnati          | 0.358
+  2 | Butler              | 0.354
+  2 | UCF                 | 0.337
+  2 | CSU Fullerton       | 0.304
+  2 | Loyola Marymount    | 0.282
+  2 | Southeastern La.    | 0.248
+  2 | James Madison       | 0.237
+  2 | Furman              | 0.232
+  2 | Western Mich.       | 0.223
+  2 | South Dakota St.    | 0.222
+  2 | Murray State        | 0.188
+  2 | San Jose State      | 0.164
+  2 | Northern Colo.      | 0.162
+  2 | Siena               | 0.133
+  2 | Utah Valley         | 0.123
+  2 | Liberty             | 0.107
+  2 | Oakland             | 0.087
+  2 | Fairleigh Dickinson | 0.060
+  2 | Albany (NY)         | 0.053
+  2 | Duquesne            | 0.052
+  2 | Evansville          | 0.017
+  2 | Howard              | 0.001
+  3 | Virginia            | 0.863
+  3 | Florida State       | 0.816
+  3 | West Virginia       | 0.746
+  3 | Penn St.            | 0.741
+  3 | Rutgers             | 0.713
+  3 | Notre Dame          | 0.693
+  3 | North Carolina      | 0.624
+  3 | California          | 0.514
+  3 | USC                 | 0.512
+  3 | Florida             | 0.511
+  3 | Clemson             | 0.491
+  3 | BYU                 | 0.487
+  3 | Stanford            | 0.456
+  3 | Duke                | 0.449
+  3 | Virginia Tech       | 0.447
+  3 | Mississippi         | 0.391
+  3 | Arizona             | 0.365
+  3 | Santa Clara         | 0.343
+  3 | Auburn              | 0.338
+  3 | William & Mary      | 0.307
+  3 | Texas Tech          | 0.306
+  3 | Minnesota           | 0.304
+  3 | North Texas         | 0.297
+  3 | Connecticut         | 0.275
+  3 | Long Beach St.      | 0.263
+  3 | Ohio State          | 0.262
+  3 | Texas A&M           | 0.243
+  3 | FGCU                | 0.240
+  3 | South Florida       | 0.237
+  3 | Cincinnati          | 0.195
+  3 | Boston College      | 0.185
+  3 | Hofstra             | 0.168
+  3 | St. John's (NY)     | 0.164
+  3 | CSU Fullerton       | 0.164
+  3 | Loyola Marymount    | 0.146
+  3 | Princeton           | 0.139
+  3 | Washington St.      | 0.132
+  3 | Washington          | 0.110
+  3 | Northwestern        | 0.109
+  3 | Georgetown          | 0.109
+  3 | South Carolina      | 0.106
+  3 | UCF                 | 0.100
+  3 | Butler              | 0.096
+  3 | LSU                 | 0.093
+  3 | South Alabama       | 0.089
+  3 | Western Mich.       | 0.083
+  3 | Boston U.           | 0.081
+  3 | Furman              | 0.078
+  3 | James Madison       | 0.074
+  3 | Southeastern La.    | 0.058
+  3 | Murray State        | 0.040
+  3 | San Jose State      | 0.037
+  3 | South Dakota St.    | 0.035
+  3 | UNCW                | 0.032
+  3 | Northern Colo.      | 0.030
+  3 | Liberty             | 0.023
+  3 | Oakland             | 0.020
+  3 | Utah Valley         | 0.020
+  3 | Albany (NY)         | 0.014
+  3 | Duquesne            | 0.013
+  3 | Siena               | 0.012
+  3 | Fairleigh Dickinson | 0.009
+  3 | Evansville          | 0.002
+  3 | Howard              | 0.000
+  4 | Virginia            | 0.702
+  4 | Florida State       | 0.631
+  4 | Penn St.            | 0.573
+  4 | West Virginia       | 0.548
+  4 | North Carolina      | 0.466
+  4 | Notre Dame          | 0.413
+  4 | Rutgers             | 0.396
+  4 | BYU                 | 0.323
+  4 | Stanford            | 0.305
+  4 | Florida             | 0.278
+  4 | Duke                | 0.267
+  4 | California          | 0.222
+  4 | Clemson             | 0.191
+  4 | USC                 | 0.170
+  4 | Virginia Tech       | 0.167
+  4 | Texas A&M           | 0.148
+  4 | Santa Clara         | 0.141
+  4 | William & Mary      | 0.141
+  4 | Mississippi         | 0.119
+  4 | FGCU                | 0.119
+  4 | South Florida       | 0.117
+  4 | Arizona             | 0.112
+  4 | Connecticut         | 0.103
+  4 | Long Beach St.      | 0.099
+  4 | North Texas         | 0.097
+  4 | Texas Tech          | 0.095
+  4 | Auburn              | 0.084
+  4 | Minnesota           | 0.083
+  4 | St. John's (NY)     | 0.081
+  4 | Ohio State          | 0.071
+  4 | Washington St.      | 0.061
+  4 | South Carolina      | 0.055
+  4 | Cincinnati          | 0.055
+  4 | Hofstra             | 0.053
+  4 | Washington          | 0.053
+  4 | Northwestern        | 0.046
+  4 | LSU                 | 0.045
+  4 | South Alabama       | 0.043
+  4 | Loyola Marymount    | 0.034
+  4 | Boston U.           | 0.033
+  4 | UCF                 | 0.031
+  4 | Georgetown          | 0.029
+  4 | Western Mich.       | 0.025
+  4 | CSU Fullerton       | 0.023
+  4 | Boston College      | 0.022
+  4 | James Madison       | 0.021
+  4 | Butler              | 0.017
+  4 | Princeton           | 0.014
+  4 | Furman              | 0.013
+  4 | UNCW                | 0.013
+  4 | San Jose State      | 0.011
+  4 | Liberty             | 0.006
+  4 | Southeastern La.    | 0.005
+  4 | Utah Valley         | 0.005
+  4 | Murray State        | 0.004
+  4 | South Dakota St.    | 0.004
+  4 | Duquesne            | 0.003
+  4 | Albany (NY)         | 0.003
+  4 | Oakland             | 0.003
+  4 | Northern Colo.      | 0.003
+  4 | Fairleigh Dickinson | 0.001
+  4 | Siena               | 0.001
+  4 | Howard              | 0.000
+  4 | Evansville          | 0.000
+  5 | Virginia            | 0.482
+  5 | Florida State       | 0.442
+  5 | West Virginia       | 0.381
+  5 | Penn St.            | 0.297
+  5 | North Carolina      | 0.241
+  5 | Notre Dame          | 0.187
+  5 | BYU                 | 0.177
+  5 | Rutgers             | 0.171
+  5 | Stanford            | 0.167
+  5 | Florida             | 0.157
+  5 | Duke                | 0.154
+  5 | California          | 0.121
+  5 | USC                 | 0.084
+  5 | William & Mary      | 0.068
+  5 | Clemson             | 0.065
+  5 | Santa Clara         | 0.060
+  5 | FGCU                | 0.059
+  5 | South Florida       | 0.057
+  5 | Virginia Tech       | 0.055
+  5 | Texas A&M           | 0.054
+  5 | North Texas         | 0.043
+  5 | Texas Tech          | 0.042
+  5 | Long Beach St.      | 0.038
+  5 | Arizona             | 0.035
+  5 | Auburn              | 0.032
+  5 | Mississippi         | 0.031
+  5 | Minnesota           | 0.030
+  5 | St. John's (NY)     | 0.024
+  5 | Washington St.      | 0.024
+  5 | South Carolina      | 0.022
+  5 | Connecticut         | 0.021
+  5 | LSU                 | 0.017
+  5 | Northwestern        | 0.017
+  5 | Ohio State          | 0.017
+  5 | South Alabama       | 0.016
+  5 | Cincinnati          | 0.014
+  5 | Washington          | 0.014
+  5 | Loyola Marymount    | 0.011
+  5 | UCF                 | 0.010
+  5 | Hofstra             | 0.009
+  5 | Western Mich.       | 0.008
+  5 | CSU Fullerton       | 0.007
+  5 | James Madison       | 0.007
+  5 | Boston U.           | 0.007
+  5 | Boston College      | 0.006
+  5 | UNCW                | 0.004
+  5 | Princeton           | 0.004
+  5 | Georgetown          | 0.004
+  5 | Butler              | 0.003
+  5 | San Jose State      | 0.002
+  5 | Furman              | 0.002
+  5 | Utah Valley         | 0.001
+  5 | Southeastern La.    | 0.001
+  5 | Liberty             | 0.001
+  5 | Northern Colo.      | 0.000
+  5 | South Dakota St.    | 0.000
+  5 | Fairleigh Dickinson | 0.000
+  5 | Oakland             | 0.000
+  5 | Siena               | 0.000
+  5 | Murray State        | 0.000
+  5 | Evansville          | 0.000
+  5 | Albany (NY)         | 0.000
+  5 | Howard              | 0.000
+  5 | Duquesne            | 0.000
+  6 | Virginia            | 0.326
+  6 | Florida State       | 0.307
+  6 | West Virginia       | 0.204
+  6 | North Carolina      | 0.147
+  6 | Penn St.            | 0.130
+  6 | Notre Dame          | 0.100
+  6 | Rutgers             | 0.088
+  6 | BYU                 | 0.082
+  6 | Stanford            | 0.076
+  6 | Duke                | 0.073
+  6 | Florida             | 0.068
+  6 | California          | 0.047
+  6 | USC                 | 0.039
+  6 | Clemson             | 0.027
+  6 | Texas A&M           | 0.025
+  6 | William & Mary      | 0.025
+  6 | FGCU                | 0.022
+  6 | South Florida       | 0.022
+  6 | Santa Clara         | 0.021
+  6 | North Texas         | 0.019
+  6 | Texas Tech          | 0.018
+  6 | Virginia Tech       | 0.014
+  6 | Auburn              | 0.012
+  6 | Long Beach St.      | 0.012
+  6 | Mississippi         | 0.010
+  6 | Arizona             | 0.009
+  6 | South Carolina      | 0.008
+  6 | Minnesota           | 0.007
+  6 | Washington St.      | 0.006
+  6 | St. John's (NY)     | 0.006
+  6 | Connecticut         | 0.006
+  6 | South Alabama       | 0.006
+  6 | LSU                 | 0.006
+  6 | Washington          | 0.005
+  6 | Northwestern        | 0.004
+  6 | Cincinnati          | 0.003
+  6 | Ohio State          | 0.003
+  6 | Western Mich.       | 0.002
+  6 | UCF                 | 0.002
+  6 | Loyola Marymount    | 0.002
+  6 | CSU Fullerton       | 0.002
+  6 | Hofstra             | 0.002
+  6 | Boston U.           | 0.001
+  6 | Princeton           | 0.001
+  6 | UNCW                | 0.001
+  6 | Boston College      | 0.001
+  6 | James Madison       | 0.001
+  6 | Georgetown          | 0.001
+  6 | Northern Colo.      | 0.000
+  6 | Duquesne            | 0.000
+  6 | South Dakota St.    | 0.000
+  6 | Fairleigh Dickinson | 0.000
+  6 | Murray State        | 0.000
+  6 | Albany (NY)         | 0.000
+  6 | Furman              | 0.000
+  6 | Utah Valley         | 0.000
+  6 | Siena               | 0.000
+  6 | Butler              | 0.000
+  6 | Southeastern La.    | 0.000
+  6 | Evansville          | 0.000
+  6 | Liberty             | 0.000
+  6 | San Jose State      | 0.000
+  6 | Oakland             | 0.000
+  6 | Howard              | 0.000
+  7 | Virginia            | 0.230
+  7 | Florida State       | 0.161
+  7 | West Virginia       | 0.130
+  7 | Penn St.            | 0.072
+  7 | North Carolina      | 0.065
+  7 | Notre Dame          | 0.056
+  7 | Rutgers             | 0.047
+  7 | BYU                 | 0.031
+  7 | Duke                | 0.029
+  7 | Stanford            | 0.028
+  7 | Florida             | 0.023
+  7 | California          | 0.023
+  7 | USC                 | 0.019
+  7 | Clemson             | 0.007
+  7 | FGCU                | 0.007
+  7 | South Florida       | 0.007
+  7 | William & Mary      | 0.007
+  7 | Texas A&M           | 0.007
+  7 | Santa Clara         | 0.006
+  7 | North Texas         | 0.006
+  7 | Virginia Tech       | 0.005
+  7 | Texas Tech          | 0.005
+  7 | Long Beach St.      | 0.003
+  7 | Auburn              | 0.003
+  7 | South Carolina      | 0.003
+  7 | Connecticut         | 0.002
+  7 | Minnesota           | 0.002
+  7 | Mississippi         | 0.002
+  7 | St. John's (NY)     | 0.002
+  7 | Washington St.      | 0.002
+  7 | Washington          | 0.001
+  7 | CSU Fullerton       | 0.001
+  7 | Ohio State          | 0.001
+  7 | Northwestern        | 0.001
+  7 | Hofstra             | 0.001
+  7 | LSU                 | 0.001
+  7 | South Alabama       | 0.001
+  7 | Cincinnati          | 0.001
+  7 | Arizona             | 0.001
+  7 | Loyola Marymount    | 0.001
+  7 | UNCW                | 0.000
+  7 | Boston U.           | 0.000
+  7 | James Madison       | 0.000
+  7 | Albany (NY)         | 0.000
+  7 | Butler              | 0.000
+  7 | Liberty             | 0.000
+  7 | Evansville          | 0.000
+  7 | Fairleigh Dickinson | 0.000
+  7 | Western Mich.       | 0.000
+  7 | Howard              | 0.000
+  7 | Southeastern La.    | 0.000
+  7 | Murray State        | 0.000
+  7 | Oakland             | 0.000
+  7 | Boston College      | 0.000
+  7 | San Jose State      | 0.000
+  7 | Georgetown          | 0.000
+  7 | Duquesne            | 0.000
+  7 | Northern Colo.      | 0.000
+  7 | South Dakota St.    | 0.000
+  7 | Princeton           | 0.000
+  7 | UCF                 | 0.000
+  7 | Siena               | 0.000
+  7 | Utah Valley         | 0.000
+  7 | Furman              | 0.000
+(384 rows)
+
+COPY 384
+COMMIT
