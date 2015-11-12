@@ -10,7 +10,7 @@ as $$
 
 from scipy.stats import skellam
 
-if (outcome=="tie"):
+if (outcome=="draw"):
    p = skellam.pmf(0, mu1, mu2)
 elif (outcome == "lose"):
    p = skellam.cdf(-1, mu1, mu2)
