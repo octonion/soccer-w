@@ -157,28 +157,30 @@ opponent_p=
 +skellam(t_mu,o_mu,'draw')*exp(-to_mu-oo_mu)*oo_mu/(to_mu+oo_mu)*(1-exp(-to_mu-oo_mu))
 +0.5*skellam(t_mu,o_mu,'draw')*exp(-2*to_mu)*exp(-2*oo_mu));
 
--- home advantage
-
--- Determined by:
+-- Home advantage
 
 drop table if exists ncaa.matrix_field;
 
 create table ncaa.matrix_field (
 	year				integer,
 	round_id			integer,
-	school_id				integer,
+	school_id			integer,
+	school_seed			integer,
 	opponent_id			integer,
+	opponent_seed			integer,
 	field				text,
 	primary key (year,round_id,school_id,opponent_id)
 );
 
 insert into ncaa.matrix_field
-(year,round_id,school_id,opponent_id,field)
+(year,round_id,school_id,school_seed,opponent_id,opponent_seed,field)
 (select
 r1.year,
 gs.round_id,
 r1.school_id,
+r1.seed,
 r2.school_id,
+r2.seed,
 'neutral'
 from ncaa.rounds r1
 join ncaa.rounds r2
@@ -189,107 +191,62 @@ where
   r1.year=2016
 );
 
-/*
--- Massachusetts vs Kent St.
+-- 1st round seeds have home
 
 update ncaa.matrix_field
 set field='home'
-where (year,round_id,school_id,opponent_id)=(2016,1,400,331);
+where
+    round_id=1
+and school_seed is not null;
 
 update ncaa.matrix_field
 set field='away'
-where (year,round_id,school_id,opponent_id)=(2016,1,331,400);
+where
+    round_id=1
+and opponent_seed is not null;
 
--- Boston U. vs Fairfield
+-- 2nd, 3rd round seeds 1-2 have home
 
 update ncaa.matrix_field
 set field='home'
-where (year,round_id,school_id,opponent_id)=(2016,1,68,220);
+where year=2016
+and round_id in (2,3)
+and school_seed in (1,2);
 
 update ncaa.matrix_field
 set field='away'
-where (year,round_id,school_id,opponent_id)=(2016,1,220,68);
+where year=2016
+and round_id in (2,3)
+and opponent_seed in (1,2);
 
--- 1st and 2nd round seeds have home
+-- 4th round seeds 1 have home
 
 update ncaa.matrix_field
 set field='home'
-from ncaa.rounds r
-where (r.year,r.school_id)=
-      (matrix_field.year,matrix_field.school_id)
-and r.round_id=1
-and matrix_field.round_id=2
-and r.seed is not null;
+where year=2016
+and round_id in (4)
+and school_seed in (1);
 
 update ncaa.matrix_field
 set field='away'
-from ncaa.rounds r
-where (r.year,r.school_id)=
-      (matrix_field.year,matrix_field.school_id)
-and r.round_id=1
-and matrix_field.round_id=2
-and r.seed is null;
+where year=2016
+and round_id in (4)
+and opponent_seed in (1);
 
--- 2nd round
-
--- Syracuse
+-- Rounds 5 and 6 are in NC
 
 update ncaa.matrix_field
 set field='home'
-where (year,round_id,school_id)=(2016,3,688);
+where year=2016
+and round_id in (5,6)
+and school_id in (193,457,460)
+and not opponent_id in (193,457,460);
 
 update ncaa.matrix_field
 set field='away'
-where (year,round_id,opponent_id)=(2016,3,688);
-
--- Virginia
-
-update ncaa.matrix_field
-set field='home'
-where (year,round_id,school_id)=(2016,3,746);
-
-update ncaa.matrix_field
-set field='away'
-where (year,round_id,opponent_id)=(2016,3,746);
-
--- UConn
-
-update ncaa.matrix_field
-set field='home'
-where (year,round_id,school_id)=(2016,3,164);
-
-update ncaa.matrix_field
-set field='away'
-where (year,round_id,opponent_id)=(2016,3,164);
-
--- North Carolina
-
-update ncaa.matrix_field
-set field='home'
-where (year,round_id,school_id)=(2016,3,457);
-
-update ncaa.matrix_field
-set field='away'
-where (year,round_id,opponent_id)=(2016,3,457);
-
-
--- 3rd and 4th round Michigan home
-
-update ncaa.matrix_field
-set field='home'
-where (year,round_id,school_id)=(2016,4,418);
-
-update ncaa.matrix_field
-set field='away'
-where (year,round_id,opponent_id)=(2016,4,418);
-
-update ncaa.matrix_field
-set field='home'
-where (year,round_id,school_id)=(2016,5,418);
-
-update ncaa.matrix_field
-set field='away'
-where (year,round_id,opponent_id)=(2016,5,418);
-*/
+where year=2016
+and round_id in (5,6)
+and opponent_id in (193,457,460)
+and not school_id in (193,457,460);
 
 commit;
