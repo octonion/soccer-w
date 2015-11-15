@@ -1,55 +1,40 @@
 BEGIN
     team_name     |   p   
 ------------------+-------
- Virginia         | 0.372
- Florida State    | 0.342
- West Virginia    | 0.208
- Penn St.         | 0.159
- North Carolina   | 0.140
- Stanford         | 0.113
- Duke             | 0.106
- Rutgers          | 0.081
- Notre Dame       | 0.079
- Florida          | 0.067
- BYU              | 0.055
- USC              | 0.031
- California       | 0.030
- Texas Tech       | 0.028
- Clemson          | 0.026
- Texas A&M        | 0.022
- Santa Clara      | 0.016
- William & Mary   | 0.015
- FGCU             | 0.013
- South Florida    | 0.013
- Virginia Tech    | 0.010
- Auburn           | 0.009
- Long Beach St.   | 0.008
- Mississippi      | 0.007
- Arizona          | 0.007
- Minnesota        | 0.007
- South Alabama    | 0.004
- St. John's (NY)  | 0.004
- LSU              | 0.004
- Washington St.   | 0.003
- Connecticut      | 0.003
+ Virginia         | 0.371
+ Florida State    | 0.336
+ West Virginia    | 0.218
+ Penn St.         | 0.160
+ North Carolina   | 0.134
+ Duke             | 0.102
+ Stanford         | 0.100
+ Notre Dame       | 0.095
+ Rutgers          | 0.076
+ Florida          | 0.071
+ BYU              | 0.061
+ Clemson          | 0.040
+ USC              | 0.030
+ Santa Clara      | 0.030
+ Texas Tech       | 0.025
+ FGCU             | 0.024
+ William & Mary   | 0.023
+ Texas A&M        | 0.019
+ Virginia Tech    | 0.018
+ Auburn           | 0.011
+ South Alabama    | 0.010
+ Minnesota        | 0.009
+ Northwestern     | 0.008
+ Arizona          | 0.006
+ Mississippi      | 0.005
  UNCW             | 0.003
- Northwestern     | 0.003
+ Connecticut      | 0.003
+ Loyola Marymount | 0.003
+ Hofstra          | 0.002
  Ohio State       | 0.002
- Loyola Marymount | 0.001
- UCF              | 0.001
- Western Mich.    | 0.001
- Hofstra          | 0.001
  Boston U.        | 0.001
- Cincinnati       | 0.001
- Boston College   | 0.001
- Utah Valley      | 0.000
- Princeton        | 0.000
- Butler           | 0.000
- Furman           | 0.000
- Southeastern La. | 0.000
+ Princeton        | 0.001
  Siena            | 0.000
- Georgetown       | 0.000
-(48 rows)
+(33 rows)
 
-COPY 48
+COPY 33
 COMMIT
