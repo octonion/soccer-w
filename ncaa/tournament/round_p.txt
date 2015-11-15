@@ -1,14 +1,12 @@
 BEGIN
  rd |       name       |   p   
 ----+------------------+-------
-  2 | Connecticut      | 0.854
-  2 | Siena            | 0.146
   3 | Virginia         | 0.932
   3 | Penn St.         | 0.870
   3 | Florida State    | 0.852
   3 | West Virginia    | 0.802
-  3 | Notre Dame       | 0.779
   3 | Rutgers          | 0.773
+  3 | Notre Dame       | 0.750
   3 | USC              | 0.720
   3 | Clemson          | 0.693
   3 | Virginia Tech    | 0.684
@@ -29,20 +27,19 @@ BEGIN
   3 | Ohio State       | 0.316
   3 | Mississippi      | 0.307
   3 | Princeton        | 0.280
+  3 | Connecticut      | 0.250
   3 | Hofstra          | 0.227
-  3 | Connecticut      | 0.213
   3 | Northwestern     | 0.198
   3 | South Alabama    | 0.148
   3 | Boston U.        | 0.130
   3 | UNCW             | 0.068
-  3 | Siena            | 0.008
   4 | Virginia         | 0.791
   4 | Florida State    | 0.693
   4 | West Virginia    | 0.687
   4 | Penn St.         | 0.685
   4 | North Carolina   | 0.445
-  4 | Notre Dame       | 0.435
-  4 | Rutgers          | 0.433
+  4 | Rutgers          | 0.437
+  4 | Notre Dame       | 0.419
   4 | Stanford         | 0.396
   4 | Florida          | 0.365
   4 | Duke             | 0.334
@@ -60,16 +57,15 @@ BEGIN
   4 | Northwestern     | 0.098
   4 | Auburn           | 0.089
   4 | Mississippi      | 0.083
+  4 | Connecticut      | 0.081
   4 | Loyola Marymount | 0.079
   4 | South Alabama    | 0.074
-  4 | Connecticut      | 0.069
-  4 | Hofstra          | 0.062
+  4 | Hofstra          | 0.063
   4 | Ohio State       | 0.061
   4 | Boston U.        | 0.045
   4 | UNCW             | 0.028
   4 | Princeton        | 0.018
-  4 | Siena            | 0.001
-  5 | Virginia         | 0.567
+  5 | Virginia         | 0.570
   5 | Florida State    | 0.512
   5 | West Virginia    | 0.422
   5 | Penn St.         | 0.390
@@ -77,13 +73,13 @@ BEGIN
   5 | North Carolina   | 0.207
   5 | Duke             | 0.188
   5 | Florida          | 0.183
-  5 | Notre Dame       | 0.175
-  5 | Rutgers          | 0.155
+  5 | Notre Dame       | 0.168
+  5 | Rutgers          | 0.157
   5 | BYU              | 0.142
   5 | Clemson          | 0.096
   5 | Santa Clara      | 0.090
   5 | Virginia Tech    | 0.073
-  5 | USC              | 0.072
+  5 | USC              | 0.073
   5 | FGCU             | 0.069
   5 | William & Mary   | 0.066
   5 | Texas Tech       | 0.061
@@ -96,26 +92,25 @@ BEGIN
   5 | Loyola Marymount | 0.019
   5 | Mississippi      | 0.017
   5 | Ohio State       | 0.014
+  5 | Connecticut      | 0.012
   5 | Boston U.        | 0.010
-  5 | Connecticut      | 0.010
-  5 | UNCW             | 0.008
+  5 | UNCW             | 0.009
   5 | Hofstra          | 0.007
   5 | Princeton        | 0.005
-  5 | Siena            | 0.000
-  6 | Virginia         | 0.371
+  6 | Virginia         | 0.373
   6 | Florida State    | 0.336
   6 | West Virginia    | 0.218
-  6 | Penn St.         | 0.160
+  6 | Penn St.         | 0.161
   6 | North Carolina   | 0.134
   6 | Duke             | 0.102
   6 | Stanford         | 0.100
-  6 | Notre Dame       | 0.095
+  6 | Notre Dame       | 0.091
   6 | Rutgers          | 0.076
   6 | Florida          | 0.071
   6 | BYU              | 0.061
   6 | Clemson          | 0.040
-  6 | USC              | 0.030
   6 | Santa Clara      | 0.030
+  6 | USC              | 0.030
   6 | Texas Tech       | 0.025
   6 | FGCU             | 0.024
   6 | William & Mary   | 0.023
@@ -127,20 +122,19 @@ BEGIN
   6 | Northwestern     | 0.008
   6 | Arizona          | 0.006
   6 | Mississippi      | 0.005
-  6 | UNCW             | 0.003
   6 | Loyola Marymount | 0.003
   6 | Connecticut      | 0.003
+  6 | UNCW             | 0.003
   6 | Hofstra          | 0.002
   6 | Ohio State       | 0.002
   6 | Princeton        | 0.001
   6 | Boston U.        | 0.001
-  6 | Siena            | 0.000
-  7 | Virginia         | 0.248
+  7 | Virginia         | 0.249
   7 | Florida State    | 0.170
-  7 | West Virginia    | 0.132
-  7 | Penn St.         | 0.082
+  7 | West Virginia    | 0.133
+  7 | Penn St.         | 0.083
   7 | North Carolina   | 0.068
-  7 | Notre Dame       | 0.052
+  7 | Notre Dame       | 0.050
   7 | Duke             | 0.048
   7 | Rutgers          | 0.038
   7 | Stanford         | 0.036
@@ -149,26 +143,25 @@ BEGIN
   7 | USC              | 0.013
   7 | Clemson          | 0.010
   7 | Santa Clara      | 0.008
-  7 | Texas Tech       | 0.007
   7 | William & Mary   | 0.007
+  7 | Texas Tech       | 0.007
   7 | FGCU             | 0.007
   7 | Virginia Tech    | 0.006
   7 | Texas A&M        | 0.005
   7 | Minnesota        | 0.003
-  7 | Auburn           | 0.002
   7 | Northwestern     | 0.002
+  7 | Auburn           | 0.002
   7 | South Alabama    | 0.002
-  7 | Arizona          | 0.001
-  7 | Connecticut      | 0.001
   7 | Ohio State       | 0.001
-  7 | Loyola Marymount | 0.001
+  7 | Arizona          | 0.001
   7 | UNCW             | 0.001
+  7 | Connecticut      | 0.001
   7 | Mississippi      | 0.001
+  7 | Loyola Marymount | 0.001
   7 | Boston U.        | 0.000
   7 | Hofstra          | 0.000
   7 | Princeton        | 0.000
-  7 | Siena            | 0.000
-(167 rows)
+(160 rows)
 
-COPY 167
+COPY 160
 COMMIT
