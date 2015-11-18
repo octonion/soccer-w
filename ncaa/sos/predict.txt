@@ -1,8 +1,56 @@
 BEGIN
 SET
- date | site | team | div | t_score | opp | div | o_score 
-------+------+------+-----+---------+-----+-----+---------
-(0 rows)
+    date    |  site   |         team         | div | t_score |         opp         | div | o_score 
+------------+---------+----------------------+-----+---------+---------------------+-----+---------
+ 2015-11-19 | neutral | Arizona              | D1  |     1.0 | Santa Clara         | D1  |     1.4
+ 2015-11-20 | neutral | Auburn               | D1  |     0.8 | Texas Tech          | D1  |     1.0
+ 2015-11-20 | neutral | Barry                | D2  |     1.4 | Tampa               | D2  |     0.8
+ 2015-11-20 | neutral | Bellarmine           | D2  |     0.5 | Grand Valley St.    | D2  |     1.7
+ 2015-11-20 | home    | Bridgeport           | D2  |     0.9 | Adelphi             | D2  |     0.7
+ 2015-11-20 | home    | Carnegie Mellon      | D3  |     1.4 | Calvin              | D3  |     0.6
+ 2015-11-20 | home    | Carson-Newman        | D2  |     1.3 | Columbus St.        | D2  |     1.6
+ 2015-11-20 | home    | Central Mo.          | D2  |     1.5 | Minn. St. Mankato   | D2  |     1.0
+ 2015-11-20 | neutral | Centre               | D3  |     0.6 | Thomas More         | D3  |     1.3
+ 2015-11-20 | home    | Clemson              | D1  |     1.7 | Ole Miss            | D1  |     1.0
+ 2015-11-20 | neutral | Dallas Baptist       | D2  |     0.8 | St. Edward's        | D2  |     0.8
+ 2015-11-20 | neutral | Duke                 | D1  |     1.1 | FGCU                | D1  |     0.8
+ 2015-11-20 | neutral | East Stroudsburg     | D2  |     1.3 | Edinboro            | D2  |     1.3
+ 2015-11-20 | neutral | Edinboro             | D2  |     1.3 | East Stroudsburg    | D2  |     1.3
+ 2015-11-20 | neutral | FGCU                 | D1  |     0.8 | Duke                | D1  |     1.1
+ 2015-11-20 | home    | Florida              | D1  |     1.7 | William & Mary      | D1  |     1.1
+ 2015-11-20 | home    | Florida St.          | D1  |     2.4 | South Ala.          | D1  |     0.7
+ 2015-11-20 | neutral | Grand Valley St.     | D2  |     1.7 | Bellarmine          | D2  |     0.5
+ 2015-11-20 | neutral | Hardin-Simmons       | D3  |     0.8 | Swarthmore          | D3  |     1.7
+ 2015-11-20 | neutral | Ill. Wesleyan        | D3  |     1.5 | Wis.-Whitewater     | D3  |     0.9
+ 2015-11-20 | neutral | Loyola Marymount     | D1  |     1.1 | Minnesota           | D1  |     1.4
+ 2015-11-20 | home    | Messiah              | D3  |     1.7 | Rowan               | D3  |     0.3
+ 2015-11-20 | neutral | Minnesota            | D1  |     1.4 | Loyola Marymount    | D1  |     1.1
+ 2015-11-20 | neutral | North Carolina       | D1  |     1.6 | Texas A&M           | D1  |     0.9
+ 2015-11-20 | neutral | Notre Dame           | D1  |     1.5 | UConn               | D1  |     0.6
+ 2015-11-20 | neutral | Ohio St.             | D1  |     1.2 | Virginia Tech       | D1  |     2.0
+ 2015-11-20 | home    | Penn St.             | D1  |     2.5 | Boston U.           | D1  |     0.6
+ 2015-11-20 | neutral | Princeton            | D1  |     1.0 | Southern California | D1  |     2.0
+ 2015-11-20 | home    | Rutgers              | D1  |     1.5 | Hofstra             | D1  |     0.5
+ 2015-11-19 | neutral | Santa Clara          | D1  |     1.4 | Arizona             | D1  |     1.0
+ 2015-11-20 | neutral | Southern California  | D1  |     2.0 | Princeton           | D1  |     1.0
+ 2015-11-19 | home    | Stanford             | D1  |     0.8 | BYU                 | D1  |     0.6
+ 2015-11-20 | neutral | St. Edward's         | D2  |     0.8 | Dallas Baptist      | D2  |     0.8
+ 2015-11-20 | neutral | Stevens              | D3  |     1.4 | Williams            | D3  |     1.5
+ 2015-11-20 | neutral | Swarthmore           | D3  |     1.7 | Hardin-Simmons      | D3  |     0.8
+ 2015-11-20 | neutral | Tampa                | D2  |     0.8 | Barry               | D2  |     1.4
+ 2015-11-20 | neutral | Texas A&M            | D1  |     0.9 | North Carolina      | D1  |     1.6
+ 2015-11-20 | neutral | Texas Tech           | D1  |     1.0 | Auburn              | D1  |     0.8
+ 2015-11-20 | neutral | Thomas More          | D3  |     1.3 | Centre              | D3  |     0.6
+ 2015-11-20 | neutral | UConn                | D1  |     0.6 | Notre Dame          | D1  |     1.5
+ 2015-11-20 | home    | Virginia             | D1  |     3.6 | UNCW                | D1  |     0.9
+ 2015-11-20 | neutral | Virginia Tech        | D1  |     2.0 | Ohio St.            | D1  |     1.2
+ 2015-11-20 | home    | Washington-St. Louis | D3  |     1.6 | Wartburg            | D3  |     0.5
+ 2015-11-20 | home    | Western Wash.        | D2  |     0.9 | Azusa Pacific       | D2  |     0.7
+ 2015-11-20 | home    | West Virginia        | D1  |     1.4 | Northwestern        | D1  |     0.3
+ 2015-11-20 | neutral | Williams             | D3  |     1.5 | Stevens             | D3  |     1.4
+ 2015-11-20 | home    | William Smith        | D3  |     1.5 | Brandeis            | D3  |     0.4
+ 2015-11-20 | neutral | Wis.-Whitewater      | D3  |     0.9 | Ill. Wesleyan       | D3  |     1.5
+(48 rows)
 
-COPY 0
+COPY 48
 COMMIT
