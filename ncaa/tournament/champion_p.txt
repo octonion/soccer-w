@@ -1,39 +1,23 @@
 BEGIN
     team_name     |   p   
 ------------------+-------
- Virginia         | 0.343
- Florida State    | 0.331
- West Virginia    | 0.220
- Penn St.         | 0.183
- North Carolina   | 0.135
- Duke             | 0.100
- Stanford         | 0.100
- Notre Dame       | 0.091
- Rutgers          | 0.080
- Florida          | 0.075
- BYU              | 0.061
- Clemson          | 0.039
- USC              | 0.031
- Santa Clara      | 0.030
- Texas Tech       | 0.028
- FGCU             | 0.026
- William & Mary   | 0.023
- Texas A&M        | 0.019
- Virginia Tech    | 0.018
- Auburn           | 0.011
- South Alabama    | 0.010
- Minnesota        | 0.010
- Northwestern     | 0.008
- Arizona          | 0.007
- Mississippi      | 0.005
- Connecticut      | 0.004
- UNCW             | 0.003
- Loyola Marymount | 0.003
- Ohio State       | 0.002
- Hofstra          | 0.002
- Boston U.        | 0.001
- Princeton        | 0.001
-(32 rows)
+ Florida State    | 0.472
+ Virginia         | 0.323
+ West Virginia    | 0.271
+ Penn St.         | 0.223
+ Stanford         | 0.179
+ Duke             | 0.152
+ Rutgers          | 0.120
+ Florida          | 0.089
+ Texas A&M        | 0.061
+ USC              | 0.043
+ Auburn           | 0.018
+ Mississippi      | 0.017
+ Connecticut      | 0.013
+ Arizona          | 0.012
+ Loyola Marymount | 0.005
+ Ohio State       | 0.003
+(16 rows)
 
-COPY 32
+COPY 16
 COMMIT
