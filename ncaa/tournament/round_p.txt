@@ -4,7 +4,6 @@ BEGIN
   4 | Penn St.         | 0.883
   4 | West Virginia    | 0.883
   4 | Florida State    | 0.867
-  4 | Stanford         | 0.775
   4 | Virginia         | 0.770
   4 | Rutgers          | 0.711
   4 | Texas A&M        | 0.631
@@ -13,59 +12,55 @@ BEGIN
   4 | Mississippi      | 0.369
   4 | Connecticut      | 0.289
   4 | USC              | 0.230
-  4 | Arizona          | 0.225
   4 | Auburn           | 0.133
   4 | Ohio State       | 0.117
   4 | Loyola Marymount | 0.117
   5 | Florida State    | 0.729
   5 | Virginia         | 0.565
+  5 | Stanford         | 0.555
   5 | West Virginia    | 0.488
   5 | Penn St.         | 0.470
-  5 | Stanford         | 0.430
-  5 | Duke             | 0.280
   5 | Rutgers          | 0.268
-  5 | Florida          | 0.233
+  5 | Duke             | 0.249
+  5 | Florida          | 0.196
   5 | Texas A&M        | 0.154
   5 | USC              | 0.114
   5 | Mississippi      | 0.059
   5 | Auburn           | 0.058
-  5 | Arizona          | 0.057
   5 | Connecticut      | 0.052
   5 | Loyola Marymount | 0.023
   5 | Ohio State       | 0.020
-  6 | Florida State    | 0.472
+  6 | Florida State    | 0.465
   6 | Virginia         | 0.323
   6 | West Virginia    | 0.271
+  6 | Stanford         | 0.232
   6 | Penn St.         | 0.223
-  6 | Stanford         | 0.179
-  6 | Duke             | 0.152
+  6 | Duke             | 0.135
   6 | Rutgers          | 0.120
-  6 | Florida          | 0.089
-  6 | Texas A&M        | 0.061
+  6 | Florida          | 0.075
+  6 | Texas A&M        | 0.060
   6 | USC              | 0.043
-  6 | Auburn           | 0.018
-  6 | Mississippi      | 0.017
+  6 | Auburn           | 0.017
+  6 | Mississippi      | 0.016
   6 | Connecticut      | 0.013
-  6 | Arizona          | 0.012
   6 | Loyola Marymount | 0.005
   6 | Ohio State       | 0.003
-  7 | Florida State    | 0.243
+  7 | Florida State    | 0.240
   7 | Virginia         | 0.203
   7 | West Virginia    | 0.165
   7 | Penn St.         | 0.118
-  7 | Duke             | 0.073
-  7 | Stanford         | 0.064
+  7 | Stanford         | 0.082
+  7 | Duke             | 0.065
   7 | Rutgers          | 0.060
-  7 | Florida          | 0.027
+  7 | Florida          | 0.023
   7 | USC              | 0.018
   7 | Texas A&M        | 0.016
   7 | Connecticut      | 0.004
-  7 | Mississippi      | 0.003
   7 | Auburn           | 0.003
-  7 | Arizona          | 0.002
-  7 | Loyola Marymount | 0.001
+  7 | Mississippi      | 0.003
   7 | Ohio State       | 0.001
-(64 rows)
+  7 | Loyola Marymount | 0.001
+(59 rows)
 
-COPY 64
+COPY 59
 COMMIT
