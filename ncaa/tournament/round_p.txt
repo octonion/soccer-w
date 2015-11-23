@@ -1,66 +1,31 @@
 BEGIN
- rd |       name       |   p   
-----+------------------+-------
-  4 | Penn St.         | 0.883
-  4 | West Virginia    | 0.883
-  4 | Florida State    | 0.867
-  4 | Virginia         | 0.770
-  4 | Rutgers          | 0.711
-  4 | Texas A&M        | 0.631
-  4 | Duke             | 0.508
-  4 | Florida          | 0.492
-  4 | Mississippi      | 0.369
-  4 | Connecticut      | 0.289
-  4 | USC              | 0.230
-  4 | Auburn           | 0.133
-  4 | Ohio State       | 0.117
-  4 | Loyola Marymount | 0.117
-  5 | Florida State    | 0.729
-  5 | Virginia         | 0.565
-  5 | Stanford         | 0.555
-  5 | West Virginia    | 0.488
-  5 | Penn St.         | 0.470
-  5 | Rutgers          | 0.268
-  5 | Duke             | 0.249
-  5 | Florida          | 0.196
-  5 | Texas A&M        | 0.154
-  5 | USC              | 0.114
-  5 | Mississippi      | 0.059
-  5 | Auburn           | 0.058
-  5 | Connecticut      | 0.052
-  5 | Loyola Marymount | 0.023
-  5 | Ohio State       | 0.020
-  6 | Florida State    | 0.465
-  6 | Virginia         | 0.323
-  6 | West Virginia    | 0.271
-  6 | Stanford         | 0.232
-  6 | Penn St.         | 0.223
-  6 | Duke             | 0.135
-  6 | Rutgers          | 0.120
-  6 | Florida          | 0.075
-  6 | Texas A&M        | 0.060
-  6 | USC              | 0.043
-  6 | Auburn           | 0.017
-  6 | Mississippi      | 0.016
-  6 | Connecticut      | 0.013
-  6 | Loyola Marymount | 0.005
-  6 | Ohio State       | 0.003
-  7 | Florida State    | 0.240
-  7 | Virginia         | 0.203
-  7 | West Virginia    | 0.165
-  7 | Penn St.         | 0.118
-  7 | Stanford         | 0.082
-  7 | Duke             | 0.065
-  7 | Rutgers          | 0.060
-  7 | Florida          | 0.023
-  7 | USC              | 0.018
-  7 | Texas A&M        | 0.016
-  7 | Connecticut      | 0.004
-  7 | Auburn           | 0.003
-  7 | Mississippi      | 0.003
-  7 | Ohio State       | 0.001
-  7 | Loyola Marymount | 0.001
-(59 rows)
+ rd |     name      |   p   
+----+---------------+-------
+  5 | Florida State | 0.812
+  5 | Virginia      | 0.675
+  5 | West Virginia | 0.511
+  5 | Stanford      | 0.510
+  5 | Duke          | 0.490
+  5 | Penn St.      | 0.489
+  5 | Rutgers       | 0.325
+  5 | Texas A&M     | 0.188
+  6 | Florida State | 0.485
+  6 | Virginia      | 0.376
+  6 | West Virginia | 0.268
+  6 | Duke          | 0.251
+  6 | Penn St.      | 0.215
+  6 | Stanford      | 0.197
+  6 | Rutgers       | 0.142
+  6 | Texas A&M     | 0.067
+  7 | Florida State | 0.243
+  7 | Virginia      | 0.225
+  7 | West Virginia | 0.156
+  7 | Duke          | 0.117
+  7 | Penn St.      | 0.108
+  7 | Rutgers       | 0.067
+  7 | Stanford      | 0.067
+  7 | Texas A&M     | 0.017
+(24 rows)
 
-COPY 59
+COPY 24
 COMMIT

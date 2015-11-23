@@ -1,22 +1,15 @@
 BEGIN
-    team_name     |   p   
-------------------+-------
- Florida State    | 0.240
- Virginia         | 0.203
- West Virginia    | 0.165
- Penn St.         | 0.118
- Stanford         | 0.082
- Duke             | 0.065
- Rutgers          | 0.060
- Florida          | 0.023
- USC              | 0.018
- Texas A&M        | 0.016
- Connecticut      | 0.004
- Mississippi      | 0.003
- Auburn           | 0.003
- Loyola Marymount | 0.001
- Ohio State       | 0.001
-(15 rows)
+   team_name   |   p   
+---------------+-------
+ Florida State | 0.243
+ Virginia      | 0.225
+ West Virginia | 0.156
+ Duke          | 0.117
+ Penn St.      | 0.108
+ Rutgers       | 0.067
+ Stanford      | 0.067
+ Texas A&M     | 0.017
+(8 rows)
 
-COPY 15
+COPY 8
 COMMIT
