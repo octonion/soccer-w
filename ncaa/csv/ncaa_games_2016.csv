@@ -4410,8 +4410,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Duke,193,North Carolina St.,490,11/01/2015,5,0,Home,"",-,336
 2016,Duke,193,James Madison,317,11/13/2015,5,0,Home,"",-,540
 2016,Duke,193,FGCU,28755,11/20/2015,2,0,Neutral,"Gainesville, Fla.",-,"1,012"
+2016,Duke,193,Florida,235,11/22/2015,2,1,Away,"",-,842
 2016,Duke,193,Florida,235,11/22/2015,2,1,Neutral,"Gainesville, FL",-,842
-2016,Duke,193,Stanford,674,11/27/2015,0,0,Away,"",-,0
+2016,Duke,193,Stanford,674,11/27/2015,1,1,Away,"",3 OT,"2,100"
 2016,Duquesne,194,Robert Morris,579,08/21/2015,2,0,Home,"",-,402
 2016,Duquesne,194,Saint Francis (PA),600,08/23/2015,3,0,Home,"",-,432
 2016,Duquesne,194,West Virginia,768,08/30/2015,0,5,Away,"",-,"1,378"
@@ -5374,8 +5375,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Florida,235,Vanderbilt,736,11/04/2015,2,1,Neutral,"Orange Beach, Ala.",-,0
 2016,Florida,235,Auburn,37,11/06/2015,2,0,Neutral,"Orange Beach, Ala.",-,0
 2016,Florida,235,Texas A&M,697,11/08/2015,2,1,Neutral,"Orange Beach, Ala.",-,0
+2016,Florida,235,Western Mich.,774,11/14/2015,1,0,Home,"",-,832
 2016,Florida,235,Western Mich.,774,11/14/2015,1,0,Neutral,"Gainesville, FL",-,832
 2016,Florida,235,William & Mary,786,11/20/2015,5,2,Home,"",-,"1,012"
+2016,Florida,235,Duke,193,11/22/2015,1,2,Home,"",-,842
 2016,Florida,235,Duke,193,11/22/2015,1,2,Neutral,"Gainesville, FL",-,842
 2016,Florida St.,234,New Mexico,473,08/21/2015,3,1,Away,"",-,"2,589"
 2016,Florida St.,234,Southern California,657,08/23/2015,1,0,Neutral,"Albuquerque, N.M.",-,57
@@ -5395,12 +5398,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Florida St.,234,Virginia Tech,742,10/22/2015,0,0,Away,"",2 OT,"1,273"
 2016,Florida St.,234,Virginia,746,10/25/2015,0,1,Away,"",-,"2,458"
 2016,Florida St.,234,Boston College,67,11/01/2015,2,2,Home,"",2 OT,"1,312"
-2016,Florida St.,234,North Carolina,457,11/06/2015,2,1,Neutral,"",-,0
+2016,Florida St.,234,North Carolina,457,11/06/2015,2,1,Neutral,"Cary, NC",-,"5,158"
 2016,Florida St.,234,Virginia,746,11/08/2015,2,2,Neutral,"Cary, N.C.",3 OT,"3,519"
 2016,Florida St.,234,Evansville,219,11/13/2015,3,0,Home,"",-,"1,240"
 2016,Florida St.,234,South Ala.,646,11/20/2015,5,0,Home,"",-,"1,487"
 2016,Florida St.,234,Auburn,37,11/22/2015,2,0,Home,"",-,"1,327"
-2016,Florida St.,234,Texas A&M,697,11/27/2015,0,0,Home,"",-,0
+2016,Florida St.,234,Texas A&M,697,11/27/2015,5,0,Home,"",-,"1,937"
 2016,Florida Tech,230,St. Mary's (TX),1346,09/03/2015,2,0,Away,"",-,523
 2016,Florida Tech,230,St. Edward's,1334,09/05/2015,1,2,Away,"",-,148
 2016,Florida Tech,230,S.C. Beaufort,,09/10/2015,8,0,Away,"",-,111
@@ -11074,7 +11077,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,North Carolina,457,Notre Dame,513,10/22/2015,2,1,Home,"",-,"1,510"
 2016,North Carolina,457,Clemson,147,10/25/2015,1,0,Home,"",-,"1,712"
 2016,North Carolina,457,Miami (FL),415,10/31/2015,2,0,Away,"",-,305
-2016,North Carolina,457,Florida St.,234,11/06/2015,1,2,Neutral,"",-,0
+2016,North Carolina,457,Florida St.,234,11/06/2015,1,2,Neutral,"Cary, NC",-,"5,158"
 2016,North Carolina,457,Liberty,355,11/13/2015,3,0,Home,"",-,"1,152"
 2016,North Carolina,457,Texas A&M,697,11/20/2015,0,1,Neutral,"Clemson, S.C.",-,145
 2016,North Carolina St.,490,San Diego,627,08/21/2015,1,2,Away,"",-,734
@@ -13563,7 +13566,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Rutgers,587,Fairleigh Dickinson,222,11/13/2015,1,0,Home,"",-,"1,157"
 2016,Rutgers,587,Hofstra,283,11/20/2015,2,0,Home,"",-,"1,408"
 2016,Rutgers,587,UConn,164,11/22/2015,4,0,Home,"",-,881
-2016,Rutgers,587,Virginia,746,11/27/2015,0,0,Away,"",-,0
+2016,Rutgers,587,Virginia,746,11/27/2015,0,0,Away,"",2 OT,"2,789"
 2016,Rutgers-Camden,588,Rensselaer,570,09/03/2015,0,1,Home,"",-,100
 2016,Rutgers-Camden,588,Cabrini,88,09/04/2015,4,1,Home,"",-,100
 2016,Rutgers-Camden,588,Mt. St. Mary (NY),1468,09/12/2015,1,2,Neutral,"Madison, N.J.",-,57
@@ -15534,7 +15537,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Stanford,674,San Jose St.,630,11/13/2015,2,0,Home,"",-,"2,037"
 2016,Stanford,674,BYU,77,11/19/2015,2,1,Home,"",-,"1,223"
 2016,Stanford,674,Arizona,29,11/21/2015,3,0,Home,"",-,"1,470"
-2016,Stanford,674,Duke,193,11/27/2015,0,0,Home,"",-,0
+2016,Stanford,674,Duke,193,11/27/2015,1,1,Home,"",3 OT,"2,100"
 2016,Staten Island,675,New Jersey City,319,09/01/2015,4,0,Home,"",-,142
 2016,Staten Island,675,Old Westbury,524,09/06/2015,1,0,Home,"",-,134
 2016,Staten Island,675,Rutgers-Newark,589,09/09/2015,0,5,Away,"",-,222
@@ -16199,7 +16202,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Texas A&M,697,North Carolina,457,11/20/2015,1,0,Neutral,"Clemson, S.C.",-,145
 2016,Texas A&M,697,Ole Miss,433,11/22/2015,1,1,Neutral,"Clemson, SC",2 OT,218
 2016,Texas A&M,697,Ole Miss,433,11/23/2015,0,0,Neutral,"",-,0
-2016,Texas A&M,697,Florida St.,234,11/27/2015,0,0,Away,"",-,0
+2016,Texas A&M,697,Florida St.,234,11/27/2015,0,5,Away,"",-,"1,937"
 2016,Texas Lutheran,1400,Concordia (TX),24400,09/01/2015,2,1,Away,"",-,35
 2016,Texas Lutheran,1400,East Tex. Baptist,1062,09/04/2015,2,0,Home,"",-,100
 2016,Texas Lutheran,1400,LeTourneau,8490,09/05/2015,2,0,Home,"",-,100
@@ -17607,7 +17610,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Virginia,746,Howard,290,11/13/2015,7,1,Home,"",-,931
 2016,Virginia,746,UNCW,460,11/20/2015,2,0,Home,"",-,"1,023"
 2016,Virginia,746,Southern California,657,11/22/2015,2,0,Home,"",-,"1,037"
-2016,Virginia,746,Rutgers,587,11/27/2015,0,0,Home,"",-,0
+2016,Virginia,746,Rutgers,587,11/27/2015,0,0,Home,"",2 OT,"2,789"
 2016,Virginia Tech,742,Indiana,306,08/21/2015,2,1,Away,"",-,397
 2016,Virginia Tech,742,West Virginia,768,08/23/2015,2,1,Neutral,"Bloomington, Ind.",-,67
 2016,Virginia Tech,742,James Madison,317,08/28/2015,2,1,Home,"",-,"1,703"
@@ -18306,6 +18309,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Western Mich.,774,Buffalo,86,11/06/2015,1,0,Home,"",-,305
 2016,Western Mich.,774,Miami (OH),414,11/08/2015,2,0,Home,"",-,397
 2016,Western Mich.,774,Florida,235,11/14/2015,0,1,Neutral,"Gainesville, FL",-,832
+2016,Western Mich.,774,Florida,235,11/14/2015,0,1,Away,"",-,832
 2016,Western New Eng.,775,Western Conn. St.,770,09/03/2015,0,2,Home,"",-,75
 2016,Western New Eng.,775,Husson,1133,09/05/2015,1,1,Away,"",2 OT,100
 2016,Western New Eng.,775,Newbury,21772,09/06/2015,4,0,Neutral,"Bangor, Maine",-,50

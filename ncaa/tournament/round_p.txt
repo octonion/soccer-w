@@ -1,19 +1,15 @@
 BEGIN
  rd |     name      |   p   
 ----+---------------+-------
-  5 | Penn St.      | 0.534
-  5 | West Virginia | 0.466
-  6 | Florida State | 0.534
-  6 | Duke          | 0.466
-  6 | Rutgers       | 0.462
-  6 | Penn St.      | 0.280
-  6 | West Virginia | 0.259
-  7 | Florida State | 0.287
-  7 | Duke          | 0.234
-  7 | Rutgers       | 0.212
-  7 | West Virginia | 0.134
-  7 | Penn St.      | 0.133
-(12 rows)
+  6 | Florida State | 0.549
+  6 | Penn St.      | 0.502
+  6 | Rutgers       | 0.498
+  6 | Duke          | 0.451
+  7 | Florida State | 0.307
+  7 | Rutgers       | 0.233
+  7 | Duke          | 0.231
+  7 | Penn St.      | 0.229
+(8 rows)
 
-COPY 12
+COPY 8
 COMMIT
