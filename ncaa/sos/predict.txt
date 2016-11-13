@@ -1,180 +1,80 @@
 BEGIN
 SET
-    date    |  site   |         team         | div | t_score |         opp          | div | o_score 
-------------+---------+----------------------+-----+---------+----------------------+-----+---------
- 2016-11-01 | home    | Academy of Art       | D2  |     1.1 | Hawaii Pacific       | D2  |     1.2
- 2016-10-30 | home    | Adams St.            | D2  |     0.5 | Colorado Mines       | D2  |     1.9
- 2016-10-30 | home    | Alabama              | D1  |     1.0 | Texas A&M            | D1  |     0.9
- 2016-10-30 | home    | Albany (NY)          | D1  |     1.4 | New Hampshire        | D1  |     1.0
- 2016-10-30 | home    | Albertus Magnus      | D3  |     1.9 | Emmanuel (MA)        | D3  |     1.1
- 2016-10-31 | home    | Albion               | D3  |     2.1 | Adrian               | D3  |     0.6
- 2016-10-31 | home    | Alma                 | D3  |     5.6 | St. Mary's (IN)      | D3  |     0.5
- 2016-11-02 | neutral | Appalachian St.      | D1  |     1.9 | UL Lafayette         | D1  |     1.7
- 2016-10-30 | home    | Arizona              | D1  |     0.8 | California           | D1  |     1.7
- 2016-10-30 | home    | Arizona St.          | D1  |     0.9 | Stanford             | D1  |     2.6
- 2016-11-04 | home    | Arizona St.          | D1  |     1.5 | Arizona              | D1  |     1.5
- 2016-10-30 | home    | Armstrong            | D2  |     1.6 | North Georgia        | D2  |     1.1
- 2016-11-05 | home    | Azusa Pacific        | D2  |     1.0 | Point Loma           | D2  |     0.7
- 2016-10-30 | home    | Ball St.             | D1  |     1.3 | Northern Ill.        | D1  |     0.5
- 2016-10-30 | home    | Bemidji St.          | D2  |     2.0 | Minn. Duluth         | D2  |     0.6
- 2016-10-30 | home    | Brandeis             | D3  |     1.8 | Rochester (NY)       | D3  |     0.6
- 2016-11-05 | home    | Brown                | D1  |     1.4 | Yale                 | D1  |     0.6
- 2016-11-05 | home    | BYU                  | D1  |     5.0 | Gonzaga              | D1  |     0.5
- 2016-11-04 | home    | California           | D1  |     1.3 | Stanford             | D1  |     1.1
- 2016-11-03 | home    | California Baptist   | D2  |     2.7 | Academy of Art       | D2  |     0.3
- 2016-10-30 | home    | Cal Poly             | D1  |     1.1 | UC Davis             | D1  |     1.1
- 2016-10-30 | home    | Cal St. Fullerton    | D1  |     0.7 | UC Irvine            | D1  |     1.0
- 2016-10-31 | home    | Calvin               | D3  |     1.4 | Hope                 | D3  |     1.6
- 2016-10-30 | home    | Carnegie Mellon      | D3  |     0.8 | Chicago              | D3  |     1.5
- 2016-11-05 | home    | Carnegie Mellon      | D3  |     2.1 | CWRU                 | D3  |     0.5
- 2016-10-30 | home    | Case                 | D3  |     0.4 | Washington-St. Louis | D3  |     1.9
- 2016-10-30 | home    | Central Mich.        | D1  |     1.1 | Buffalo              | D1  |     0.6
- 2016-10-30 | home    | Central Mo.          | D2  |     2.9 | Mo. Western St.      | D2  |     0.3
- 2016-10-30 | home    | Central Okla.        | D2  |     2.0 | Mo. Southern St.     | D2  |     0.6
- 2016-10-30 | home    | Cincinnati           | D1  |     1.6 | Temple               | D1  |     0.4
- 2016-10-30 | home    | Clayton St.          | D2  |     1.2 | Flagler              | D2  |     1.6
- 2016-10-30 | home    | Clemson              | D1  |     1.8 | Miami (FL)           | D1  |     0.8
- 2016-10-30 | neutral | Cobleskill St.       | D3  |     2.7 | Wilson               | D3  |     3.1
- 2016-10-30 | home    | Colby-Sawyer         | D3  |     3.0 | Me.-Farmington       | D3  |     1.3
- 2016-10-30 | home    | Colorado             | D1  |     0.6 | Southern California  | D1  |     1.5
- 2016-11-04 | home    | Colorado             | D1  |     0.9 | Utah                 | D1  |     0.8
- 2016-10-30 | home    | Colorado Mesa        | D2  |     4.0 | Black Hills St.      | D2  |     0.5
- 2016-10-30 | home    | Concordia-St. Paul   | D2  |     1.4 | Winona St.           | D2  |     1.2
- 2016-11-05 | home    | Cornell              | D1  |     0.5 | Dartmouth            | D1  |     0.7
- 2016-10-30 | home    | CSUN                 | D1  |     1.0 | Hawaii               | D1  |     0.4
- 2016-10-30 | home    | Dallas               | D3  |     0.2 | Trinity (TX)         | D3  |     5.9
- 2016-10-30 | home    | Davidson             | D1  |     0.7 | Rhode Island         | D1  |     1.4
- 2016-10-30 | home    | Davis & Elkins       | D2  |     0.2 | Miami (FL)           | D1  |     5.0
- 2016-10-30 | home    | Dayton               | D1  |     1.6 | Massachusetts        | D1  |     0.7
- 2016-11-01 | home    | Dayton               | D1  |     1.6 | Massachusetts        | D1  |     0.7
- 2016-10-30 | home    | Denver               | D1  |     1.1 | Omaha                | D1  |     0.7
- 2016-10-31 | home    | Dixie St.            | D2  |     1.8 | Notre Dame de Namur  | D2  |     1.1
- 2016-11-05 | home    | Dixie St.            | D2  |     1.1 | California Baptist   | D2  |     1.1
- 2016-11-03 | home    | Dominican (CA)       | D2  |     1.8 | Chaminade            | D2  |     0.7
- 2016-11-05 | home    | Dominican (CA)       | D2  |     1.4 | BYU-Hawaii           | D2  |     0.8
- 2016-10-30 | home    | Duke                 | D1  |     0.9 | Florida St.          | D1  |     0.6
- 2016-10-30 | home    | Duquesne             | D1  |     1.6 | La Salle             | D1  |     0.8
- 2016-10-30 | home    | East Carolina        | D1  |     0.8 | UConn                | D1  |     2.4
- 2016-10-30 | neutral | Eastern Mich.        | D1  |     0.6 | Kent St.             | D1  |     2.0
- 2016-10-30 | home    | FIU                  | D1  |     0.8 | Old Dominion         | D1  |     1.2
- 2016-10-31 | home    | FIU                  | D1  |     0.8 | Old Dominion         | D1  |     1.2
- 2016-10-30 | home    | Fla. Southern        | D2  |     1.0 | Lynn                 | D2  |     0.7
- 2016-10-30 | home    | Fort Hays St.        | D2  |     1.6 | Washburn             | D2  |     0.3
- 2016-10-30 | home    | Fort Lewis           | D2  |     0.9 | Colo. Christian      | D2  |     0.8
- 2016-11-03 | home    | Fresno Pacific       | D2  |     2.1 | Hawaii Hilo          | D2  |     0.5
- 2016-11-05 | home    | Fresno Pacific       | D2  |     3.1 | Hawaii Pacific       | D2  |     0.5
- 2016-10-31 | home    | Gallaudet            | D3  |     0.7 | Marymount (VA)       | D3  |     5.8
- 2016-11-05 | home    | George Fox           | D3  |     0.2 | Pacific Lutheran     | D3  |     1.9
- 2016-10-30 | home    | George Mason         | D1  |     1.3 | Fordham              | D1  |     1.1
- 2016-10-31 | home    | Goldey-Beacom        | D2  |     1.5 | Holy Family          | D2  |     1.2
- 2016-10-30 | home    | Hartford             | D1  |     1.8 | Vermont              | D1  |     0.7
- 2016-11-05 | home    | Harvard              | D1  |     1.0 | Columbia             | D1  |     0.6
- 2016-10-30 | home    | High Point           | D1  |     2.3 | Charleston So.       | D1  |     0.7
- 2016-11-03 | home    | Holy Names           | D2  |     0.7 | BYU-Hawaii           | D2  |     1.2
- 2016-11-05 | home    | Holy Names           | D2  |     0.7 | Hawaii Hilo          | D2  |     1.2
- 2016-10-30 | home    | Indiana St.          | D1  |     0.9 | Drake                | D1  |     1.7
- 2016-10-30 | home    | James Madison        | D1  |     1.8 | Col. of Charleston   | D1  |     1.3
- 2016-10-30 | home    | Johnson & Wales (RI) | D3  |     3.5 | Suffolk              | D3  |     0.8
- 2016-10-30 | home    | Kent St.             | D1  |     2.2 | Eastern Mich.        | D1  |     0.5
- 2016-10-30 | neutral | Kent St.             | D1  |     2.0 | Eastern Mich.        | D1  |     0.6
- 2016-10-30 | home    | Lake Forest          | D3  |     1.5 | Ripon                | D3  |     1.4
- 2016-11-02 | neutral | La.-Lafayette        | D1  |     1.7 | Appalachian St.      | D1  |     1.9
- 2016-10-30 | home    | Lasell               | D3  |     3.6 | St. Joseph (CT)      | D3  |     0.4
- 2016-11-06 | home    | Lewis & Clark        | D3  |     0.4 | Puget Sound          | D3  |     2.2
- 2016-10-30 | home    | Liberty              | D1  |     1.8 | Radford              | D1  |     0.6
- 2016-10-30 | home    | Liberty              | D1  |     3.0 | UNC Asheville        | D1  |     0.5
- 2016-10-30 | home    | Lindenwood (MO)      | D2  |     2.4 | Northwest Mo. St.    | D2  |     1.1
- 2016-11-02 | home    | Linfield             | D3  |     1.0 | Pacific (OR)         | D3  |     0.6
- 2016-11-05 | home    | Linfield             | D3  |     1.6 | Whitman              | D3  |     0.9
- 2016-11-06 | home    | Linfield             | D3  |     1.2 | Whitworth            | D3  |     1.1
- 2016-10-30 | home    | Long Beach St.       | D1  |     1.3 | UC Santa Barbara     | D1  |     0.7
- 2016-10-30 | home    | Maine Maritime       | D3  |     1.3 | Castleton            | D3  |     0.9
- 2016-10-30 | home    | Mary                 | D2  |     2.8 | MSU Moorhead         | D2  |     0.8
- 2016-10-30 | home    | McKendree            | D2  |     0.9 | Bellarmine           | D2  |     0.7
- 2016-10-30 | home    | Memphis              | D1  |     2.1 | UCF                  | D1  |     1.1
- 2016-10-30 | home    | Mercer               | D1  |     1.7 | Chattanooga          | D1  |     0.8
- 2016-10-30 | home    | Michigan             | D1  |     1.2 | Wisconsin            | D1  |     1.0
- 2016-10-30 | home    | Minn.-Crookston      | D2  |     0.5 | St. Cloud St.        | D2  |     1.2
- 2016-10-30 | home    | Minnesota            | D1  |     2.8 | Indiana              | D1  |     0.5
- 2016-10-30 | home    | Minn. St. Mankato    | D2  |     2.8 | Upper Iowa           | D2  |     0.5
- 2016-10-30 | home    | Minot St.            | D2  |     1.6 | Northern St.         | D2  |     0.4
- 2016-10-30 | home    | Molloy               | D2  |     1.6 | Queens (NY)          | D2  |     0.7
- 2016-10-30 | home    | Mo.-St. Louis        | D2  |     1.7 | Wis.-Parkside        | D2  |     0.9
- 2016-10-30 | home    | Mt. St. Mary's       | D1  |     1.4 | Fairleigh Dickinson  | D1  |     1.8
- 2016-10-30 | home    | Neb.-Kearney         | D2  |     0.6 | Emporia St.          | D2  |     0.7
- 2016-10-30 | home    | North Carolina       | D1  |     1.5 | Miami (FL)           | D1  |     0.7
- 2016-10-30 | home    | North Carolina       | D1  |     1.3 | Virginia             | D1  |     1.1
- 2016-10-30 | home    | North Dakota St.     | D1  |     2.5 | IUPUI                | D1  |     1.0
- 2016-10-30 | home    | Northeastern St.     | D2  |     3.7 | Southwest Baptist    | D2  |     0.3
- 2016-10-30 | home    | North Texas          | D1  |     1.8 | Louisiana Tech       | D1  |     0.7
- 2016-10-30 | home    | Northwestern         | D1  |     0.8 | Nebraska             | D1  |     0.4
- 2016-10-30 | home    | Notre Dame           | D1  |     1.2 | North Carolina St.   | D1  |     0.5
- 2016-11-03 | home    | Notre Dame de Namur  | D2  |     2.9 | Hawaii Pacific       | D2  |     0.7
- 2016-11-05 | home    | Notre Dame de Namur  | D2  |     2.3 | Chaminade            | D2  |     0.7
- 2016-10-30 | home    | NYU                  | D3  |     1.1 | Emory                | D3  |     1.0
- 2016-11-05 | home    | NYU                  | D3  |     0.7 | Brandeis             | D3  |     1.0
- 2016-10-31 | home    | Olivet               | D3  |     1.2 | Kalamazoo            | D3  |     2.6
- 2016-11-04 | home    | Oregon               | D1  |     1.9 | Oregon St.           | D1  |     0.9
- 2016-11-05 | home    | Pacific              | D1  |     0.5 | Pepperdine           | D1  |     2.1
- 2016-10-30 | home    | Pacific Lutheran     | D3  |     1.9 | Willamette           | D3  |     0.2
- 2016-11-02 | home    | Pacific Lutheran     | D3  |     1.2 | Puget Sound          | D3  |     0.7
- 2016-11-05 | home    | Pacific (OR)         | D3  |     0.8 | Whitworth            | D3  |     1.0
- 2016-11-06 | home    | Pacific (OR)         | D3  |     1.1 | Whitman              | D3  |     0.8
- 2016-10-30 | home    | Penn St.             | D1  |     1.1 | Rutgers              | D1  |     1.0
- 2016-10-30 | home    | Pepperdine           | D1  |     1.1 | Loyola Marymount     | D1  |     0.8
- 2016-11-05 | home    | Princeton            | D1  |     1.4 | Penn                 | D1  |     1.0
- 2016-10-30 | home    | Puget Sound          | D3  |     1.9 | Linfield             | D3  |     0.5
- 2016-10-30 | home    | Regis (CO)           | D2  |     1.4 | MSU Denver           | D2  |     1.0
- 2016-10-30 | home    | Robert Morris        | D1  |     0.6 | Central Conn. St.    | D1  |     1.2
- 2016-11-05 | home    | Rochester (NY)       | D3  |     1.1 | Emory                | D3  |     1.4
- 2016-10-30 | home    | Rockford             | D3  |     0.9 | Monmouth (IL)        | D3  |     6.9
- 2016-10-30 | home    | Rockhurst            | D2  |     1.5 | Quincy               | D2  |     0.4
- 2016-10-30 | home    | Sacred Heart         | D1  |     1.0 | Bryant               | D1  |     0.6
- 2016-10-30 | home    | Saint Francis (PA)   | D1  |     3.1 | Wagner               | D1  |     0.8
- 2016-10-30 | home    | Saint Joseph's       | D1  |     3.4 | St. Bonaventure      | D1  |     0.9
- 2016-10-30 | home    | Saint Leo            | D2  |     3.0 | Palm Beach Atl.      | D2  |     0.8
- 2016-10-30 | home    | Saint Louis          | D1  |     0.9 | George Washington    | D1  |     0.5
- 2016-11-04 | home    | San Diego            | D1  |     1.0 | Portland             | D1  |     1.0
- 2016-10-30 | home    | San Francisco        | D1  |     1.8 | Gonzaga              | D1  |     1.3
- 2016-11-05 | home    | San Francisco        | D1  |     0.7 | Santa Clara          | D1  |     1.2
- 2016-10-30 | home    | Santa Clara          | D1  |     1.1 | Portland             | D1  |     0.6
- 2016-10-30 | home    | Sioux Falls          | D2  |     0.6 | Augustana (SD)       | D2  |     1.5
- 2016-10-30 | home    | SIUE                 | D1  |     1.1 | Austin Peay          | D1  |     1.0
- 2016-10-30 | home    | South Dakota         | D1  |     2.1 | Fort Wayne           | D1  |     0.7
- 2016-11-04 | home    | Southern California  | D1  |     2.3 | UCLA                 | D1  |     0.6
- 2016-10-30 | home    | Southwest Minn. St.  | D2  |     1.6 | Wayne St. (NE)       | D2  |     1.6
- 2016-11-05 | home    | St. Mary's (CA)      | D1  |     0.7 | Loyola Marymount     | D1  |     1.7
- 2016-10-30 | home    | Tennessee            | D1  |     1.8 | Ole Miss             | D1  |     1.0
- 2016-10-30 | home    | Tennessee Tech       | D1  |     1.1 | Belmont              | D1  |     0.4
- 2016-10-30 | home    | Tex. A&M-Commerce    | D2  |     1.5 | Angelo St.           | D2  |     0.7
- 2016-10-30 | home    | Texas Woman's        | D2  |     2.2 | Tex. Permian Basin   | D2  |     0.4
- 2016-10-30 | home    | Trinity Washington   | D3  |     1.8 | CCNY                 | D3  |     2.1
- 2016-10-30 | home    | Truman               | D2  |     1.6 | Southern Ind.        | D2  |     0.4
- 2016-10-30 | home    | Tulsa                | D1  |     1.8 | South Fla.           | D1  |     1.8
- 2016-10-30 | home    | UC-Colo. Springs     | D2  |     2.2 | N.M. Highlands       | D2  |     2.9
- 2016-11-05 | home    | UC Santa Cruz        | D3  |     4.5 | Mills                | D3  |     0.7
- 2016-11-01 | home    | UMass Lowell         | D1  |     0.4 | Dartmouth            | D1  |     0.7
- 2016-10-30 | home    | UNCW                 | D1  |     1.6 | William & Mary       | D1  |     1.1
- 2016-10-30 | home    | UNI                  | D1  |     1.3 | Loyola Chicago       | D1  |     1.1
- 2016-10-30 | home    | Urbana               | D2  |     0.5 | Shepherd             | D2  |     0.8
- 2016-10-31 | home    | Urbana               | D2  |     0.5 | Shepherd             | D2  |     0.8
- 2016-10-30 | home    | Utah                 | D1  |     1.3 | UCLA                 | D1  |     0.9
- 2016-10-30 | home    | VCU                  | D1  |     1.8 | Richmond             | D1  |     1.5
- 2016-10-30 | home    | Washington           | D1  |     1.7 | Oregon St.           | D1  |     0.8
- 2016-10-30 | home    | Washington St.       | D1  |     1.3 | Oregon               | D1  |     1.0
- 2016-11-03 | home    | Washington St.       | D1  |     1.2 | Washington           | D1  |     0.9
- 2016-11-05 | home    | Washington-St. Louis | D3  |     0.9 | Chicago              | D3  |     0.9
- 2016-10-30 | home    | Western Ill.         | D1  |     0.5 | Oral Roberts         | D1  |     1.6
- 2016-10-30 | home    | Western Mich.        | D1  |     1.3 | Miami (OH)           | D1  |     0.8
- 2016-10-30 | home    | Western St.          | D2  |     0.7 | Colorado St.-Pueblo  | D2  |     1.1
- 2016-10-30 | home    | West Tex. A&M        | D2  |     1.2 | Midwestern St.       | D2  |     0.8
- 2016-10-30 | home    | Whitman              | D3  |     1.7 | Lewis & Clark        | D3  |     0.9
- 2016-10-30 | home    | Whitworth            | D3  |     1.5 | George Fox           | D3  |     0.4
- 2016-11-05 | home    | Willamette           | D3  |     1.0 | Lewis & Clark        | D3  |     0.5
- 2016-11-06 | home    | Willamette           | D3  |     0.7 | George Fox           | D3  |     0.3
- 2016-10-30 | neutral | Wilson               | D3  |     3.1 | Cobleskill St.       | D3  |     2.7
- 2016-10-30 | home    | Young Harris         | D2  |     1.2 | UNC Pembroke         | D2  |     0.6
-(172 rows)
+    date    |  site   |        team         | div | t_score |        opp         | div | o_score 
+------------+---------+---------------------+-----+---------+--------------------+-----+---------
+ 2016-11-12 | home    | Albright            | D3  |     4.6 | Neumann            | D3  |     0.5
+ 2016-11-12 | home    | Amherst             | D3  |     1.9 | Lasell             | D3  |     0.6
+ 2016-11-12 | neutral | Arcadia             | D3  |     1.4 | Wentworth          | D3  |     1.3
+ 2016-11-12 | home    | Auburn              | D1  |     1.8 | South Ala.         | D1  |     0.9
+ 2016-11-12 | neutral | Augsburg            | D3  |     1.8 | MSOE               | D3  |     0.6
+ 2016-11-12 | neutral | Brandeis            | D3  |     1.4 | Va. Wesleyan       | D3  |     0.6
+ 2016-11-12 | neutral | Carnegie Mellon     | D3  |     1.1 | Penn St.-Berks     | D3  |     1.3
+ 2016-11-12 | home    | Centre              | D3  |     2.1 | Piedmont           | D3  |     0.5
+ 2016-11-12 | home    | Chicago             | D3  |     4.7 | Webster            | D3  |     0.3
+ 2016-11-12 | neutral | Chris. Newport      | D3  |     0.9 | Rowan              | D3  |     0.8
+ 2016-11-12 | neutral | Claremont-M-S       | D3  |     1.0 | Pacific Lutheran   | D3  |     1.2
+ 2016-11-13 | home    | Clemson             | D1  |     2.3 | Northeastern       | D1  |     0.7
+ 2016-11-12 | home    | Colorado            | D1  |     1.9 | Oklahoma St.       | D1  |     1.0
+ 2016-11-12 | home    | Colorado Mines      | D2  |     1.3 | Dallas Baptist     | D2  |     0.4
+ 2016-11-12 | neutral | Connecticut Col.    | D3  |     0.9 | Scranton           | D3  |     1.6
+ 2016-11-12 | home    | Duke                | D1  |     3.3 | Charlotte          | D1  |     0.6
+ 2016-11-12 | neutral | FDU-Florham         | D3  |     0.9 | Wm. Paterson       | D3  |     0.8
+ 2016-11-12 | home    | Florida St.         | D1  |     1.7 | Samford            | D1  |     0.4
+ 2016-11-12 | neutral | Frostburg St.       | D3  |     1.0 | Grove City         | D3  |     1.3
+ 2016-11-13 | home    | Georgetown          | D1  |     4.2 | Saint Francis (PA) | D1  |     0.4
+ 2016-11-12 | neutral | Grove City          | D3  |     1.3 | Frostburg St.      | D3  |     1.0
+ 2016-11-12 | neutral | Hardin-Simmons      | D3  |     1.6 | Wash. & Lee        | D3  |     0.6
+ 2016-11-12 | home    | Ill. Wesleyan       | D3  |     1.9 | Hanover            | D3  |     1.2
+ 2016-11-12 | home    | Johns Hopkins       | D3  |     3.4 | Western Conn. St.  | D3  |     1.0
+ 2016-11-13 | home    | Kansas              | D1  |     1.5 | Missouri           | D1  |     1.0
+ 2016-11-12 | neutral | Kent St.            | D1  |     0.4 | Northwestern       | D1  |     1.0
+ 2016-11-12 | neutral | Loras               | D3  |     0.6 | St. Thomas (MN)    | D3  |     0.7
+ 2016-11-12 | home    | Luther              | D3  |     1.5 | Denison            | D3  |     0.7
+ 2016-11-12 | neutral | Maine Maritime      | D3  |     0.9 | Salve Regina       | D3  |     0.8
+ 2016-11-12 | home    | McDaniel            | D3  |     1.9 | Farmingdale St.    | D3  |     0.4
+ 2016-11-12 | home    | Messiah             | D3  |     3.9 | Staten Island      | D3  |     0.2
+ 2016-11-12 | home    | Michigan            | D1  |     1.7 | Illinois St.       | D1  |     1.0
+ 2016-11-12 | home    | Middlebury          | D3  |     1.5 | MIT                | D3  |     1.1
+ 2016-11-12 | home    | Minnesota           | D1  |     1.8 | North Carolina St. | D1  |     0.7
+ 2016-11-12 | neutral | MSOE                | D3  |     0.6 | Augsburg           | D3  |     1.8
+ 2016-11-12 | home    | North Carolina      | D1  |     2.3 | Liberty            | D1  |     0.4
+ 2016-11-12 | home    | Northwestern        | D1  |     1.1 | Kent St.           | D1  |     0.4
+ 2016-11-12 | neutral | Northwestern        | D1  |     1.0 | Kent St.           | D1  |     0.4
+ 2016-11-12 | home    | NYU                 | D3  |     1.7 | Stockton           | D3  |     0.7
+ 2016-11-12 | home    | Ohio St.            | D1  |     2.3 | Dayton             | D1  |     1.3
+ 2016-11-12 | neutral | Pacific Lutheran    | D3  |     1.2 | Claremont-M-S      | D3  |     1.0
+ 2016-11-12 | neutral | Penn St.-Berks      | D3  |     1.3 | Carnegie Mellon    | D3  |     1.1
+ 2016-11-12 | home    | Pepperdine          | D1  |     0.8 | California         | D1  |     0.9
+ 2016-11-12 | neutral | Rowan               | D3  |     0.8 | Chris. Newport     | D3  |     0.9
+ 2016-11-12 | home    | Rutgers             | D1  |     2.1 | Harvard            | D1  |     0.6
+ 2016-11-12 | neutral | Salve Regina        | D3  |     0.8 | Maine Maritime     | D3  |     0.9
+ 2016-11-12 | home    | Santa Clara         | D1  |     1.0 | Long Beach St.     | D1  |     0.7
+ 2016-11-12 | neutral | Scranton            | D3  |     1.6 | Connecticut Col.   | D3  |     0.9
+ 2016-11-12 | home    | Southern California | D1  |     3.6 | Eastern Wash.      | D1  |     0.4
+ 2016-11-12 | home    | Springfield         | D3  |     2.3 | Curry              | D3  |     0.3
+ 2016-11-12 | home    | Stevens             | D3  |     5.5 | Colby-Sawyer       | D3  |     0.4
+ 2016-11-12 | home    | Stevenson           | D3  |     2.6 | Chatham            | D3  |     0.6
+ 2016-11-12 | neutral | St. Thomas (MN)     | D3  |     0.7 | Loras              | D3  |     0.6
+ 2016-11-12 | home    | TCNJ                | D3  |     7.3 | Marywood           | D3  |     0.4
+ 2016-11-12 | home    | TCU                 | D1  |     1.1 | Texas A&M          | D1  |     0.9
+ 2016-11-12 | home    | Thomas More         | D3  |     0.6 | Lynchburg          | D3  |     0.6
+ 2016-11-12 | home    | Trinity (CT)        | D3  |     0.9 | WPI                | D3  |     0.5
+ 2016-11-12 | home    | Trinity (TX)        | D3  |     4.2 | Mount Union        | D3  |     0.5
+ 2016-11-12 | home    | UConn               | D1  |     2.7 | Albany (NY)        | D1  |     0.6
+ 2016-11-12 | home    | UC San Diego        | D2  |     2.2 | Azusa Pacific      | D2  |     0.6
+ 2016-11-12 | home    | Utah                | D1  |     1.3 | Texas Tech         | D1  |     0.4
+ 2016-11-12 | neutral | Va. Wesleyan        | D3  |     0.6 | Brandeis           | D3  |     1.4
+ 2016-11-12 | neutral | Wash. & Lee         | D3  |     0.6 | Hardin-Simmons     | D3  |     1.6
+ 2016-11-12 | neutral | Wentworth           | D3  |     1.3 | Arcadia            | D3  |     1.4
+ 2016-11-12 | home    | Western Wash.       | D2  |     1.9 | Central Wash.      | D2  |     0.4
+ 2016-11-13 | home    | Western Wash.       | D2  |     1.9 | Central Wash.      | D2  |     0.4
+ 2016-11-12 | home    | West Virginia       | D1  |     2.9 | Northern Ky.       | D1  |     0.3
+ 2016-11-12 | home    | Williams            | D3  |     2.7 | Elms               | D3  |     0.3
+ 2016-11-12 | home    | William Smith       | D3  |     4.3 | Worcester St.      | D3  |     0.3
+ 2016-11-12 | home    | Wis.-Whitewater     | D3  |     5.0 | Minn.-Morris       | D3  |     0.4
+ 2016-11-12 | home    | Wittenberg          | D3  |     0.5 | Nazareth           | D3  |     1.0
+ 2016-11-12 | neutral | Wm. Paterson        | D3  |     0.8 | FDU-Florham        | D3  |     0.9
+(72 rows)
 
-COPY 172
+COPY 72
 COMMIT
