@@ -1,69 +1,17 @@
 date,site,team,div,t_score,opp,div,o_score
-2016-11-12,home,Albright,D3,4.6,Neumann,D3,0.5
-2016-11-12,home,Amherst,D3,1.9,Lasell,D3,0.6
-2016-11-12,neutral,Arcadia,D3,1.4,Wentworth,D3,1.3
-2016-11-12,home,Auburn,D1,1.8,South Ala.,D1,0.9
-2016-11-12,neutral,Augsburg,D3,1.8,MSOE,D3,0.6
-2016-11-12,neutral,Brandeis,D3,1.4,Va. Wesleyan,D3,0.6
-2016-11-12,neutral,Carnegie Mellon,D3,1.1,Penn St.-Berks,D3,1.3
-2016-11-12,home,Centre,D3,2.1,Piedmont,D3,0.5
-2016-11-12,home,Chicago,D3,4.7,Webster,D3,0.3
-2016-11-12,neutral,Chris. Newport,D3,0.9,Rowan,D3,0.8
-2016-11-12,neutral,Claremont-M-S,D3,1.0,Pacific Lutheran,D3,1.2
-2016-11-12,home,Colorado,D1,1.9,Oklahoma St.,D1,1.0
-2016-11-12,home,Colorado Mines,D2,1.3,Dallas Baptist,D2,0.4
-2016-11-12,neutral,Connecticut Col.,D3,0.9,Scranton,D3,1.6
-2016-11-12,home,Duke,D1,3.3,Charlotte,D1,0.6
-2016-11-12,neutral,FDU-Florham,D3,0.9,Wm. Paterson,D3,0.8
-2016-11-12,home,Florida St.,D1,1.7,Samford,D1,0.4
-2016-11-12,neutral,Frostburg St.,D3,1.0,Grove City,D3,1.3
-2016-11-12,neutral,Grove City,D3,1.3,Frostburg St.,D3,1.0
-2016-11-12,neutral,Hardin-Simmons,D3,1.6,Wash. & Lee,D3,0.6
-2016-11-12,home,Ill. Wesleyan,D3,1.9,Hanover,D3,1.2
-2016-11-12,home,Johns Hopkins,D3,3.4,Western Conn. St.,D3,1.0
-2016-11-12,neutral,Kent St.,D1,0.4,Northwestern,D1,1.0
-2016-11-12,neutral,Loras,D3,0.6,St. Thomas (MN),D3,0.7
-2016-11-12,home,Luther,D3,1.5,Denison,D3,0.7
-2016-11-12,neutral,Maine Maritime,D3,0.9,Salve Regina,D3,0.8
-2016-11-12,home,McDaniel,D3,1.9,Farmingdale St.,D3,0.4
-2016-11-12,home,Messiah,D3,3.9,Staten Island,D3,0.2
-2016-11-12,home,Michigan,D1,1.7,Illinois St.,D1,1.0
-2016-11-12,home,Middlebury,D3,1.5,MIT,D3,1.1
-2016-11-12,home,Minnesota,D1,1.8,North Carolina St.,D1,0.7
-2016-11-12,neutral,MSOE,D3,0.6,Augsburg,D3,1.8
-2016-11-12,home,North Carolina,D1,2.3,Liberty,D1,0.4
-2016-11-12,home,Northwestern,D1,1.1,Kent St.,D1,0.4
-2016-11-12,neutral,Northwestern,D1,1.0,Kent St.,D1,0.4
-2016-11-12,home,NYU,D3,1.7,Stockton,D3,0.7
-2016-11-12,home,Ohio St.,D1,2.3,Dayton,D1,1.3
-2016-11-12,neutral,Pacific Lutheran,D3,1.2,Claremont-M-S,D3,1.0
-2016-11-12,neutral,Penn St.-Berks,D3,1.3,Carnegie Mellon,D3,1.1
-2016-11-12,home,Pepperdine,D1,0.8,California,D1,0.9
-2016-11-12,neutral,Rowan,D3,0.8,Chris. Newport,D3,0.9
-2016-11-12,home,Rutgers,D1,2.1,Harvard,D1,0.6
-2016-11-12,neutral,Salve Regina,D3,0.8,Maine Maritime,D3,0.9
-2016-11-12,home,Santa Clara,D1,1.0,Long Beach St.,D1,0.7
-2016-11-12,neutral,Scranton,D3,1.6,Connecticut Col.,D3,0.9
-2016-11-12,home,Southern California,D1,3.6,Eastern Wash.,D1,0.4
-2016-11-12,home,Springfield,D3,2.3,Curry,D3,0.3
-2016-11-12,home,Stevens,D3,5.5,Colby-Sawyer,D3,0.4
-2016-11-12,home,Stevenson,D3,2.6,Chatham,D3,0.6
-2016-11-12,neutral,St. Thomas (MN),D3,0.7,Loras,D3,0.6
-2016-11-12,home,TCNJ,D3,7.3,Marywood,D3,0.4
-2016-11-12,home,TCU,D1,1.1,Texas A&M,D1,0.9
-2016-11-12,home,Thomas More,D3,0.6,Lynchburg,D3,0.6
-2016-11-12,home,Trinity (CT),D3,0.9,WPI,D3,0.5
-2016-11-12,home,Trinity (TX),D3,4.2,Mount Union,D3,0.5
-2016-11-12,home,UConn,D1,2.7,Albany (NY),D1,0.6
-2016-11-12,home,UC San Diego,D2,2.2,Azusa Pacific,D2,0.6
-2016-11-12,home,Utah,D1,1.3,Texas Tech,D1,0.4
-2016-11-12,neutral,Va. Wesleyan,D3,0.6,Brandeis,D3,1.4
-2016-11-12,neutral,Wash. & Lee,D3,0.6,Hardin-Simmons,D3,1.6
-2016-11-12,neutral,Wentworth,D3,1.3,Arcadia,D3,1.4
-2016-11-12,home,Western Wash.,D2,1.9,Central Wash.,D2,0.4
-2016-11-12,home,West Virginia,D1,2.9,Northern Ky.,D1,0.3
-2016-11-12,home,Williams,D3,2.7,Elms,D3,0.3
-2016-11-12,home,William Smith,D3,4.3,Worcester St.,D3,0.3
-2016-11-12,home,Wis.-Whitewater,D3,5.0,Minn.-Morris,D3,0.4
-2016-11-12,home,Wittenberg,D3,0.5,Nazareth,D3,1.0
-2016-11-12,neutral,Wm. Paterson,D3,0.8,FDU-Florham,D3,0.9
+2016-11-19,neutral,Amherst,D3,0.9,William Smith,D3,2.0
+2016-11-19,home,Brandeis,D3,1.1,McDaniel,D3,0.7
+2016-11-19,neutral,Chicago,D3,1.1,Thomas More,D3,0.6
+2016-11-19,neutral,Grove City,D3,0.7,NYU,D3,1.4
+2016-11-19,neutral,Hardin-Simmons,D3,0.6,Washington-St. Louis,D3,0.6
+2016-11-19,neutral,Messiah,D3,1.6,Middlebury,D3,0.6
+2016-11-19,neutral,Middlebury,D3,0.6,Messiah,D3,1.6
+2016-11-19,neutral,NYU,D3,1.4,Grove City,D3,0.7
+2016-11-19,home,South Carolina,D1,0.9,BYU,D1,0.8
+2016-11-19,home,Springfield,D3,1.6,Kean,D3,0.4
+2016-11-19,neutral,Thomas More,D3,0.6,Chicago,D3,1.1
+2016-11-19,home,Trinity (TX),D3,1.5,Penn St.-Berks,D3,0.9
+2016-11-19,neutral,Washington-St. Louis,D3,0.6,Hardin-Simmons,D3,0.6
+2016-11-19,home,Williams,D3,1.8,Johns Hopkins,D3,1.1
+2016-11-19,neutral,William Smith,D3,2.0,Amherst,D3,0.9
+2016-11-19,home,Wis.-Whitewater,D3,0.9,Pomona-Pitzer,D3,1.4
