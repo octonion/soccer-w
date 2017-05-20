@@ -20,9 +20,16 @@ cat csv/ncaa_players_*.csv >> /tmp/ncaa_statistics.csv
 rpl ",-," ",," /tmp/ncaa_statistics.csv
 rpl ",-," ",," /tmp/ncaa_statistics.csv
 rpl ".," "," /tmp/ncaa_statistics.csv
+
 rpl ".0," "," /tmp/ncaa_statistics.csv
+rpl -e ".0\n" "\n" /tmp/ncaa_statistics.csv
+
 rpl ".00," "," /tmp/ncaa_statistics.csv
+rpl -e ".00\n" "\n" /tmp/ncaa_statistics.csv
+
 rpl ".000," "," /tmp/ncaa_statistics.csv
+rpl -e ".000\n" "\n" /tmp/ncaa_statistics.csv
+
 rpl -e ",-\n" ",\n" /tmp/ncaa_statistics.csv
 psql soccer-w -f loaders/load_statistics.sql
 rm /tmp/ncaa_statistics.csv

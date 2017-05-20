@@ -1,24 +1,8 @@
 BEGIN
 SET
-    date    |  site   |         team         | div | t_score |         opp          | div | o_score 
-------------+---------+----------------------+-----+---------+----------------------+-----+---------
- 2016-11-19 | neutral | Amherst              | D3  |     0.9 | William Smith        | D3  |     2.0
- 2016-11-19 | home    | Brandeis             | D3  |     1.1 | McDaniel             | D3  |     0.7
- 2016-11-19 | neutral | Chicago              | D3  |     1.1 | Thomas More          | D3  |     0.6
- 2016-11-19 | neutral | Grove City           | D3  |     0.7 | NYU                  | D3  |     1.4
- 2016-11-19 | neutral | Hardin-Simmons       | D3  |     0.6 | Washington-St. Louis | D3  |     0.6
- 2016-11-19 | neutral | Messiah              | D3  |     1.6 | Middlebury           | D3  |     0.6
- 2016-11-19 | neutral | Middlebury           | D3  |     0.6 | Messiah              | D3  |     1.6
- 2016-11-19 | neutral | NYU                  | D3  |     1.4 | Grove City           | D3  |     0.7
- 2016-11-19 | home    | South Carolina       | D1  |     0.9 | BYU                  | D1  |     0.8
- 2016-11-19 | home    | Springfield          | D3  |     1.6 | Kean                 | D3  |     0.4
- 2016-11-19 | neutral | Thomas More          | D3  |     0.6 | Chicago              | D3  |     1.1
- 2016-11-19 | home    | Trinity (TX)         | D3  |     1.5 | Penn St.-Berks       | D3  |     0.9
- 2016-11-19 | neutral | Washington-St. Louis | D3  |     0.6 | Hardin-Simmons       | D3  |     0.6
- 2016-11-19 | home    | Williams             | D3  |     1.8 | Johns Hopkins        | D3  |     1.1
- 2016-11-19 | neutral | William Smith        | D3  |     2.0 | Amherst              | D3  |     0.9
- 2016-11-19 | home    | Wis.-Whitewater      | D3  |     0.9 | Pomona-Pitzer        | D3  |     1.4
-(16 rows)
+ date | site | team | div | t_score | opp | div | o_score 
+------+------+------+-----+---------+-----+-----+---------
+(0 rows)
 
-COPY 16
+COPY 0
 COMMIT

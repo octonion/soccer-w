@@ -643,18 +643,18 @@ WSO,Arkansas St.,30,Arkansas St.,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 
 WSO,Arkansas St.,30,Arkansas St.,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 30);",2015,1,2014-15,Women's Soccer,I
 WSO,Arkansas St.,30,Arkansas St.,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 30);",2016,1,2015-16,Women's Soccer,I
 WSO,Arkansas St.,30,Arkansas St.,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 30);",2017,1,2016-17,Women's Soccer,I
-WSO,Armstrong,33,Armstrong St.,"javascript:showTeamPage(-100, 2006, 'WSO', 2, 33);",2006,2,2005-06,Women's Soccer,II
-WSO,Armstrong,33,Armstrong St.,"javascript:showTeamPage(-100, 2007, 'WSO', 2, 33);",2007,2,2006-07,Women's Soccer,II
-WSO,Armstrong,33,Armstrong St.,"javascript:showTeamPage(-100, 2008, 'WSO', 2, 33);",2008,2,2007-08,Women's Soccer,II
-WSO,Armstrong,33,Armstrong St.,"javascript:showTeamPage(-100, 2009, 'WSO', 2, 33);",2009,2,2008-09,Women's Soccer,II
-WSO,Armstrong,33,Armstrong St.,"javascript:showTeamPage(-100, 2010, 'WSO', 2, 33);",2010,2,2009-10,Women's Soccer,II
-WSO,Armstrong,33,Armstrong St.,"javascript:showTeamPage(-100, 2011, 'WSO', 2, 33);",2011,2,2010-11,Women's Soccer,II
-WSO,Armstrong,33,Armstrong St.,"javascript:showTeamPage(-100, 2012, 'WSO', 2, 33);",2012,2,2011-12,Women's Soccer,II
-WSO,Armstrong,33,Armstrong St.,"javascript:showTeamPage(-100, 2013, 'WSO', 2, 33);",2013,2,2012-13,Women's Soccer,II
-WSO,Armstrong,33,Armstrong St.,"javascript:showTeamPage(-100, 2014, 'WSO', 2, 33);",2014,2,2013-14,Women's Soccer,II
-WSO,Armstrong,33,Armstrong St.,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 33);",2015,2,2014-15,Women's Soccer,II
-WSO,Armstrong,33,Armstrong St.,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 33);",2016,2,2015-16,Women's Soccer,II
-WSO,Armstrong,33,Armstrong St.,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 33);",2017,2,2016-17,Women's Soccer,II
+WSO,Armstrong St.,33,Armstrong St.,"javascript:showTeamPage(-100, 2006, 'WSO', 2, 33);",2006,2,2005-06,Women's Soccer,II
+WSO,Armstrong St.,33,Armstrong St.,"javascript:showTeamPage(-100, 2007, 'WSO', 2, 33);",2007,2,2006-07,Women's Soccer,II
+WSO,Armstrong St.,33,Armstrong St.,"javascript:showTeamPage(-100, 2008, 'WSO', 2, 33);",2008,2,2007-08,Women's Soccer,II
+WSO,Armstrong St.,33,Armstrong St.,"javascript:showTeamPage(-100, 2009, 'WSO', 2, 33);",2009,2,2008-09,Women's Soccer,II
+WSO,Armstrong St.,33,Armstrong St.,"javascript:showTeamPage(-100, 2010, 'WSO', 2, 33);",2010,2,2009-10,Women's Soccer,II
+WSO,Armstrong St.,33,Armstrong St.,"javascript:showTeamPage(-100, 2011, 'WSO', 2, 33);",2011,2,2010-11,Women's Soccer,II
+WSO,Armstrong St.,33,Armstrong St.,"javascript:showTeamPage(-100, 2012, 'WSO', 2, 33);",2012,2,2011-12,Women's Soccer,II
+WSO,Armstrong St.,33,Armstrong St.,"javascript:showTeamPage(-100, 2013, 'WSO', 2, 33);",2013,2,2012-13,Women's Soccer,II
+WSO,Armstrong St.,33,Armstrong St.,"javascript:showTeamPage(-100, 2014, 'WSO', 2, 33);",2014,2,2013-14,Women's Soccer,II
+WSO,Armstrong St.,33,Armstrong St.,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 33);",2015,2,2014-15,Women's Soccer,II
+WSO,Armstrong St.,33,Armstrong St.,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 33);",2016,2,2015-16,Women's Soccer,II
+WSO,Armstrong St.,33,Armstrong St.,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 33);",2017,2,2016-17,Women's Soccer,II
 WSO,Army West Point,725,Army West Point,"javascript:showTeamPage(-100, 1999, 'WSO', 1, 725);",1999,1,1998-99,Women's Soccer,I
 WSO,Army West Point,725,Army West Point,"javascript:showTeamPage(-100, 2000, 'WSO', 1, 725);",2000,1,1999-00,Women's Soccer,I
 WSO,Army West Point,725,Army West Point,"javascript:showTeamPage(-100, 2001, 'WSO', 1, 725);",2001,1,2000-01,Women's Soccer,I
@@ -786,6 +786,8 @@ WSO,Augustana (SD),41,Augustana (SD),"javascript:showTeamPage(-100, 2014, 'WSO',
 WSO,Augustana (SD),41,Augustana (SD),"javascript:showTeamPage(-100, 2015, 'WSO', 2, 41);",2015,2,2014-15,Women's Soccer,II
 WSO,Augustana (SD),41,Augustana (SD),"javascript:showTeamPage(-100, 2016, 'WSO', 2, 41);",2016,2,2015-16,Women's Soccer,II
 WSO,Augustana (SD),41,Augustana (SD),"javascript:showTeamPage(-100, 2017, 'WSO', 2, 41);",2017,2,2016-17,Women's Soccer,II
+WSO,AUM,30093,AUM,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 30093);",2016,2,2015-16,Women's Soccer,II
+WSO,AUM,30093,AUM,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 30093);",2017,2,2016-17,Women's Soccer,II
 WSO,Aurora,42,Aurora,"javascript:showTeamPage(-100, 2000, 'WSO', 3, 42);",2000,3,1999-00,Women's Soccer,III
 WSO,Aurora,42,Aurora,"javascript:showTeamPage(-100, 2001, 'WSO', 3, 42);",2001,3,2000-01,Women's Soccer,III
 WSO,Aurora,42,Aurora,"javascript:showTeamPage(-100, 2002, 'WSO', 3, 42);",2002,3,2001-02,Women's Soccer,III
@@ -1044,6 +1046,7 @@ WSO,Becker,26107,Becker,"javascript:showTeamPage(-100, 2014, 'WSO', 3, 26107);",
 WSO,Becker,26107,Becker,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 26107);",2015,3,2014-15,Women's Soccer,III
 WSO,Becker,26107,Becker,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 26107);",2016,3,2015-16,Women's Soccer,III
 WSO,Becker,26107,Becker,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 26107);",2017,3,2016-17,Women's Soccer,III
+WSO,Belhaven,30197,Belhaven,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 30197);",2017,3,2016-17,Women's Soccer,III
 WSO,Bellarmine,52,Bellarmine,"javascript:showTeamPage(-100, 1999, 'WSO', 2, 52);",1999,2,1998-99,Women's Soccer,II
 WSO,Bellarmine,52,Bellarmine,"javascript:showTeamPage(-100, 2000, 'WSO', 2, 52);",2000,2,1999-00,Women's Soccer,II
 WSO,Bellarmine,52,Bellarmine,"javascript:showTeamPage(-100, 2001, 'WSO', 2, 52);",2001,2,2000-01,Women's Soccer,II
@@ -1173,6 +1176,7 @@ WSO,Bentley,56,Bentley,"javascript:showTeamPage(-100, 2014, 'WSO', 2, 56);",2014
 WSO,Bentley,56,Bentley,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 56);",2015,2,2014-15,Women's Soccer,II
 WSO,Bentley,56,Bentley,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 56);",2016,2,2015-16,Women's Soccer,II
 WSO,Bentley,56,Bentley,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 56);",2017,2,2016-17,Women's Soccer,II
+WSO,Berea,30171,Berea,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 30171);",2017,3,2016-17,Women's Soccer,III
 WSO,Berry,973,Berry,"javascript:showTeamPage(-100, 2012, 'WSO', 3, 973);",2012,3,2011-12,Women's Soccer,III
 WSO,Berry,973,Berry,"javascript:showTeamPage(-100, 2013, 'WSO', 3, 973);",2013,3,2012-13,Women's Soccer,III
 WSO,Berry,973,Berry,"javascript:showTeamPage(-100, 2014, 'WSO', 3, 973);",2014,3,2013-14,Women's Soccer,III
@@ -1908,24 +1912,8 @@ WSO,Cal St. San B'dino,93,Cal St. San B'dino,"javascript:showTeamPage(-100, 2014
 WSO,Cal St. San B'dino,93,Cal St. San B'dino,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 93);",2015,2,2014-15,Women's Soccer,II
 WSO,Cal St. San B'dino,93,Cal St. San B'dino,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 93);",2016,2,2015-16,Women's Soccer,II
 WSO,Cal St. San B'dino,93,Cal St. San B'dino,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 93);",2017,2,2016-17,Women's Soccer,II
-WSO,Cal St. Stanislaus,103,Stanislaus St.,"javascript:showTeamPage(-100, 1999, 'WSO', 2, 103);",1999,2,1998-99,Women's Soccer,II
-WSO,Cal St. Stanislaus,103,Stanislaus St.,"javascript:showTeamPage(-100, 2001, 'WSO', 2, 103);",2001,2,2000-01,Women's Soccer,II
-WSO,Cal St. Stanislaus,103,Stanislaus St.,"javascript:showTeamPage(-100, 2002, 'WSO', 2, 103);",2002,2,2001-02,Women's Soccer,II
-WSO,Cal St. Stanislaus,103,Stanislaus St.,"javascript:showTeamPage(-100, 2003, 'WSO', 2, 103);",2003,2,2002-03,Women's Soccer,II
-WSO,Cal St. Stanislaus,103,Stanislaus St.,"javascript:showTeamPage(-100, 2004, 'WSO', 2, 103);",2004,2,2003-04,Women's Soccer,II
-WSO,Cal St. Stanislaus,103,Stanislaus St.,"javascript:showTeamPage(-100, 2005, 'WSO', 2, 103);",2005,2,2004-05,Women's Soccer,II
-WSO,Cal St. Stanislaus,103,Stanislaus St.,"javascript:showTeamPage(-100, 2006, 'WSO', 2, 103);",2006,2,2005-06,Women's Soccer,II
-WSO,Cal St. Stanislaus,103,Stanislaus St.,"javascript:showTeamPage(-100, 2007, 'WSO', 2, 103);",2007,2,2006-07,Women's Soccer,II
-WSO,Cal St. Stanislaus,103,Stanislaus St.,"javascript:showTeamPage(-100, 2008, 'WSO', 2, 103);",2008,2,2007-08,Women's Soccer,II
-WSO,Cal St. Stanislaus,103,Stanislaus St.,"javascript:showTeamPage(-100, 2009, 'WSO', 2, 103);",2009,2,2008-09,Women's Soccer,II
-WSO,Cal St. Stanislaus,103,Stanislaus St.,"javascript:showTeamPage(-100, 2010, 'WSO', 2, 103);",2010,2,2009-10,Women's Soccer,II
-WSO,Cal St. Stanislaus,103,Stanislaus St.,"javascript:showTeamPage(-100, 2011, 'WSO', 2, 103);",2011,2,2010-11,Women's Soccer,II
-WSO,Cal St. Stanislaus,103,Stanislaus St.,"javascript:showTeamPage(-100, 2012, 'WSO', 2, 103);",2012,2,2011-12,Women's Soccer,II
-WSO,Cal St. Stanislaus,103,Stanislaus St.,"javascript:showTeamPage(-100, 2013, 'WSO', 2, 103);",2013,2,2012-13,Women's Soccer,II
-WSO,Cal St. Stanislaus,103,Stanislaus St.,"javascript:showTeamPage(-100, 2014, 'WSO', 2, 103);",2014,2,2013-14,Women's Soccer,II
-WSO,Cal St. Stanislaus,103,Stanislaus St.,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 103);",2015,2,2014-15,Women's Soccer,II
-WSO,Cal St. Stanislaus,103,Stanislaus St.,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 103);",2016,2,2015-16,Women's Soccer,II
-WSO,Cal St. Stanislaus,103,Stanislaus St.,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 103);",2017,2,2016-17,Women's Soccer,II
+WSO,Cal St. San Marcos,30198,Cal St. San Marcos,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 30198);",2016,2,2015-16,Women's Soccer,II
+WSO,Cal St. San Marcos,30198,Cal St. San Marcos,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 30198);",2017,2,2016-17,Women's Soccer,II
 WSO,Caldwell,995,Caldwell,"javascript:showTeamPage(-100, 2002, 'WSO', 2, 995);",2002,2,2001-02,Women's Soccer,II
 WSO,Caldwell,995,Caldwell,"javascript:showTeamPage(-100, 2003, 'WSO', 2, 995);",2003,2,2002-03,Women's Soccer,II
 WSO,Caldwell,995,Caldwell,"javascript:showTeamPage(-100, 2004, 'WSO', 2, 995);",2004,2,2003-04,Women's Soccer,II
@@ -2156,25 +2144,6 @@ WSO,Carthage,121,Carthage,"javascript:showTeamPage(-100, 2014, 'WSO', 3, 121);",
 WSO,Carthage,121,Carthage,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 121);",2015,3,2014-15,Women's Soccer,III
 WSO,Carthage,121,Carthage,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 121);",2016,3,2015-16,Women's Soccer,III
 WSO,Carthage,121,Carthage,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 121);",2017,3,2016-17,Women's Soccer,III
-WSO,Case,122,CWRU,"javascript:showTeamPage(-100, 1999, 'WSO', 3, 122);",1999,3,1998-99,Women's Soccer,III
-WSO,Case,122,CWRU,"javascript:showTeamPage(-100, 2000, 'WSO', 3, 122);",2000,3,1999-00,Women's Soccer,III
-WSO,Case,122,CWRU,"javascript:showTeamPage(-100, 2001, 'WSO', 3, 122);",2001,3,2000-01,Women's Soccer,III
-WSO,Case,122,CWRU,"javascript:showTeamPage(-100, 2002, 'WSO', 3, 122);",2002,3,2001-02,Women's Soccer,III
-WSO,Case,122,CWRU,"javascript:showTeamPage(-100, 2003, 'WSO', 3, 122);",2003,3,2002-03,Women's Soccer,III
-WSO,Case,122,CWRU,"javascript:showTeamPage(-100, 2004, 'WSO', 3, 122);",2004,3,2003-04,Women's Soccer,III
-WSO,Case,122,CWRU,"javascript:showTeamPage(-100, 2005, 'WSO', 3, 122);",2005,3,2004-05,Women's Soccer,III
-WSO,Case,122,CWRU,"javascript:showTeamPage(-100, 2006, 'WSO', 3, 122);",2006,3,2005-06,Women's Soccer,III
-WSO,Case,122,CWRU,"javascript:showTeamPage(-100, 2007, 'WSO', 3, 122);",2007,3,2006-07,Women's Soccer,III
-WSO,Case,122,CWRU,"javascript:showTeamPage(-100, 2008, 'WSO', 3, 122);",2008,3,2007-08,Women's Soccer,III
-WSO,Case,122,CWRU,"javascript:showTeamPage(-100, 2009, 'WSO', 3, 122);",2009,3,2008-09,Women's Soccer,III
-WSO,Case,122,CWRU,"javascript:showTeamPage(-100, 2010, 'WSO', 3, 122);",2010,3,2009-10,Women's Soccer,III
-WSO,Case,122,CWRU,"javascript:showTeamPage(-100, 2011, 'WSO', 3, 122);",2011,3,2010-11,Women's Soccer,III
-WSO,Case,122,CWRU,"javascript:showTeamPage(-100, 2012, 'WSO', 3, 122);",2012,3,2011-12,Women's Soccer,III
-WSO,Case,122,CWRU,"javascript:showTeamPage(-100, 2013, 'WSO', 3, 122);",2013,3,2012-13,Women's Soccer,III
-WSO,Case,122,CWRU,"javascript:showTeamPage(-100, 2014, 'WSO', 3, 122);",2014,3,2013-14,Women's Soccer,III
-WSO,Case,122,CWRU,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 122);",2015,3,2014-15,Women's Soccer,III
-WSO,Case,122,CWRU,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 122);",2016,3,2015-16,Women's Soccer,III
-WSO,Case,122,CWRU,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 122);",2017,3,2016-17,Women's Soccer,III
 WSO,Castleton,123,Castleton,"javascript:showTeamPage(-100, 1999, 'WSO', 3, 123);",1999,3,1998-99,Women's Soccer,III
 WSO,Castleton,123,Castleton,"javascript:showTeamPage(-100, 2001, 'WSO', 3, 123);",2001,3,2000-01,Women's Soccer,III
 WSO,Castleton,123,Castleton,"javascript:showTeamPage(-100, 2002, 'WSO', 3, 123);",2002,3,2001-02,Women's Soccer,III
@@ -2729,22 +2698,6 @@ WSO,Cincinnati,140,Cincinnati,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 140
 WSO,Cincinnati,140,Cincinnati,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 140);",2015,1,2014-15,Women's Soccer,I
 WSO,Cincinnati,140,Cincinnati,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 140);",2016,1,2015-16,Women's Soccer,I
 WSO,Cincinnati,140,Cincinnati,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 140);",2017,1,2016-17,Women's Soccer,I
-WSO,Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2002, 'WSO', 1, 141);",2002,1,2001-02,Women's Soccer,I
-WSO,Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2003, 'WSO', 1, 141);",2003,1,2002-03,Women's Soccer,I
-WSO,Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2004, 'WSO', 1, 141);",2004,1,2003-04,Women's Soccer,I
-WSO,Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2005, 'WSO', 1, 141);",2005,1,2004-05,Women's Soccer,I
-WSO,Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2006, 'WSO', 1, 141);",2006,1,2005-06,Women's Soccer,I
-WSO,Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2007, 'WSO', 1, 141);",2007,1,2006-07,Women's Soccer,I
-WSO,Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2008, 'WSO', 1, 141);",2008,1,2007-08,Women's Soccer,I
-WSO,Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2009, 'WSO', 1, 141);",2009,1,2008-09,Women's Soccer,I
-WSO,Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2010, 'WSO', 1, 141);",2010,1,2009-10,Women's Soccer,I
-WSO,Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2011, 'WSO', 1, 141);",2011,1,2010-11,Women's Soccer,I
-WSO,Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2012, 'WSO', 1, 141);",2012,1,2011-12,Women's Soccer,I
-WSO,Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2013, 'WSO', 1, 141);",2013,1,2012-13,Women's Soccer,I
-WSO,Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 141);",2014,1,2013-14,Women's Soccer,I
-WSO,Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 141);",2015,1,2014-15,Women's Soccer,I
-WSO,Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 141);",2016,1,2015-16,Women's Soccer,I
-WSO,Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 141);",2017,1,2016-17,Women's Soccer,I
 WSO,Claremont-M-S,142,Claremont-M-S,"javascript:showTeamPage(-100, 1999, 'WSO', 3, 142);",1999,3,1998-99,Women's Soccer,III
 WSO,Claremont-M-S,142,Claremont-M-S,"javascript:showTeamPage(-100, 2000, 'WSO', 3, 142);",2000,3,1999-00,Women's Soccer,III
 WSO,Claremont-M-S,142,Claremont-M-S,"javascript:showTeamPage(-100, 2001, 'WSO', 3, 142);",2001,3,2000-01,Women's Soccer,III
@@ -2810,6 +2763,22 @@ WSO,Clarke,1020,Clarke,"javascript:showTeamPage(-100, 2009, 'WSO', 1, 1020);",20
 WSO,Clarke,1020,Clarke,"javascript:showTeamPage(-100, 2010, 'WSO', 1, 1020);",2010,1,2009-10,Women's Soccer,I
 WSO,Clarke,1020,Clarke,"javascript:showTeamPage(-100, 2011, 'WSO', 1, 1020);",2011,1,2010-11,Women's Soccer,I
 WSO,Clarke,1020,Clarke,"javascript:showTeamPage(-100, 2012, 'WSO', 1, 1020);",2012,1,2011-12,Women's Soccer,I
+WSO,Clarks Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2002, 'WSO', 3, 958);",2002,3,2001-02,Women's Soccer,III
+WSO,Clarks Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2003, 'WSO', 3, 958);",2003,3,2002-03,Women's Soccer,III
+WSO,Clarks Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2004, 'WSO', 3, 958);",2004,3,2003-04,Women's Soccer,III
+WSO,Clarks Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2005, 'WSO', 3, 958);",2005,3,2004-05,Women's Soccer,III
+WSO,Clarks Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2006, 'WSO', 3, 958);",2006,3,2005-06,Women's Soccer,III
+WSO,Clarks Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2007, 'WSO', 3, 958);",2007,3,2006-07,Women's Soccer,III
+WSO,Clarks Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2008, 'WSO', 3, 958);",2008,3,2007-08,Women's Soccer,III
+WSO,Clarks Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2009, 'WSO', 3, 958);",2009,3,2008-09,Women's Soccer,III
+WSO,Clarks Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2010, 'WSO', 3, 958);",2010,3,2009-10,Women's Soccer,III
+WSO,Clarks Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2011, 'WSO', 3, 958);",2011,3,2010-11,Women's Soccer,III
+WSO,Clarks Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2012, 'WSO', 3, 958);",2012,3,2011-12,Women's Soccer,III
+WSO,Clarks Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2013, 'WSO', 3, 958);",2013,3,2012-13,Women's Soccer,III
+WSO,Clarks Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2014, 'WSO', 3, 958);",2014,3,2013-14,Women's Soccer,III
+WSO,Clarks Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 958);",2015,3,2014-15,Women's Soccer,III
+WSO,Clarks Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 958);",2016,3,2015-16,Women's Soccer,III
+WSO,Clarks Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 958);",2017,3,2016-17,Women's Soccer,III
 WSO,Clarkson,146,Clarkson,"javascript:showTeamPage(-100, 1999, 'WSO', 3, 146);",1999,3,1998-99,Women's Soccer,III
 WSO,Clarkson,146,Clarkson,"javascript:showTeamPage(-100, 2000, 'WSO', 3, 146);",2000,3,1999-00,Women's Soccer,III
 WSO,Clarkson,146,Clarkson,"javascript:showTeamPage(-100, 2001, 'WSO', 3, 146);",2001,3,2000-01,Women's Soccer,III
@@ -3052,6 +3021,18 @@ WSO,Colo. Christian,11403,Colo. Christian,"javascript:showTeamPage(-100, 2014, '
 WSO,Colo. Christian,11403,Colo. Christian,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 11403);",2015,2,2014-15,Women's Soccer,II
 WSO,Colo. Christian,11403,Colo. Christian,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 11403);",2016,2,2015-16,Women's Soccer,II
 WSO,Colo. Christian,11403,Colo. Christian,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 11403);",2017,2,2016-17,Women's Soccer,II
+WSO,Colo. Sch. of Mines,155,Colo. Sch. of Mines,"javascript:showTeamPage(-100, 2006, 'WSO', 2, 155);",2006,2,2005-06,Women's Soccer,II
+WSO,Colo. Sch. of Mines,155,Colo. Sch. of Mines,"javascript:showTeamPage(-100, 2007, 'WSO', 2, 155);",2007,2,2006-07,Women's Soccer,II
+WSO,Colo. Sch. of Mines,155,Colo. Sch. of Mines,"javascript:showTeamPage(-100, 2008, 'WSO', 2, 155);",2008,2,2007-08,Women's Soccer,II
+WSO,Colo. Sch. of Mines,155,Colo. Sch. of Mines,"javascript:showTeamPage(-100, 2009, 'WSO', 2, 155);",2009,2,2008-09,Women's Soccer,II
+WSO,Colo. Sch. of Mines,155,Colo. Sch. of Mines,"javascript:showTeamPage(-100, 2010, 'WSO', 2, 155);",2010,2,2009-10,Women's Soccer,II
+WSO,Colo. Sch. of Mines,155,Colo. Sch. of Mines,"javascript:showTeamPage(-100, 2011, 'WSO', 2, 155);",2011,2,2010-11,Women's Soccer,II
+WSO,Colo. Sch. of Mines,155,Colo. Sch. of Mines,"javascript:showTeamPage(-100, 2012, 'WSO', 2, 155);",2012,2,2011-12,Women's Soccer,II
+WSO,Colo. Sch. of Mines,155,Colo. Sch. of Mines,"javascript:showTeamPage(-100, 2013, 'WSO', 2, 155);",2013,2,2012-13,Women's Soccer,II
+WSO,Colo. Sch. of Mines,155,Colo. Sch. of Mines,"javascript:showTeamPage(-100, 2014, 'WSO', 2, 155);",2014,2,2013-14,Women's Soccer,II
+WSO,Colo. Sch. of Mines,155,Colo. Sch. of Mines,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 155);",2015,2,2014-15,Women's Soccer,II
+WSO,Colo. Sch. of Mines,155,Colo. Sch. of Mines,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 155);",2016,2,2015-16,Women's Soccer,II
+WSO,Colo. Sch. of Mines,155,Colo. Sch. of Mines,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 155);",2017,2,2016-17,Women's Soccer,II
 WSO,Colorado,157,Colorado,"javascript:showTeamPage(-100, 1999, 'WSO', 1, 157);",1999,1,1998-99,Women's Soccer,I
 WSO,Colorado,157,Colorado,"javascript:showTeamPage(-100, 2000, 'WSO', 1, 157);",2000,1,1999-00,Women's Soccer,I
 WSO,Colorado,157,Colorado,"javascript:showTeamPage(-100, 2001, 'WSO', 1, 157);",2001,1,2000-01,Women's Soccer,I
@@ -3109,18 +3090,6 @@ WSO,Colorado Mesa,11416,Colorado Mesa,"javascript:showTeamPage(-100, 2014, 'WSO'
 WSO,Colorado Mesa,11416,Colorado Mesa,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 11416);",2015,2,2014-15,Women's Soccer,II
 WSO,Colorado Mesa,11416,Colorado Mesa,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 11416);",2016,2,2015-16,Women's Soccer,II
 WSO,Colorado Mesa,11416,Colorado Mesa,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 11416);",2017,2,2016-17,Women's Soccer,II
-WSO,Colorado Mines,155,Colorado Mines,"javascript:showTeamPage(-100, 2006, 'WSO', 2, 155);",2006,2,2005-06,Women's Soccer,II
-WSO,Colorado Mines,155,Colorado Mines,"javascript:showTeamPage(-100, 2007, 'WSO', 2, 155);",2007,2,2006-07,Women's Soccer,II
-WSO,Colorado Mines,155,Colorado Mines,"javascript:showTeamPage(-100, 2008, 'WSO', 2, 155);",2008,2,2007-08,Women's Soccer,II
-WSO,Colorado Mines,155,Colorado Mines,"javascript:showTeamPage(-100, 2009, 'WSO', 2, 155);",2009,2,2008-09,Women's Soccer,II
-WSO,Colorado Mines,155,Colorado Mines,"javascript:showTeamPage(-100, 2010, 'WSO', 2, 155);",2010,2,2009-10,Women's Soccer,II
-WSO,Colorado Mines,155,Colorado Mines,"javascript:showTeamPage(-100, 2011, 'WSO', 2, 155);",2011,2,2010-11,Women's Soccer,II
-WSO,Colorado Mines,155,Colorado Mines,"javascript:showTeamPage(-100, 2012, 'WSO', 2, 155);",2012,2,2011-12,Women's Soccer,II
-WSO,Colorado Mines,155,Colorado Mines,"javascript:showTeamPage(-100, 2013, 'WSO', 2, 155);",2013,2,2012-13,Women's Soccer,II
-WSO,Colorado Mines,155,Colorado Mines,"javascript:showTeamPage(-100, 2014, 'WSO', 2, 155);",2014,2,2013-14,Women's Soccer,II
-WSO,Colorado Mines,155,Colorado Mines,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 155);",2015,2,2014-15,Women's Soccer,II
-WSO,Colorado Mines,155,Colorado Mines,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 155);",2016,2,2015-16,Women's Soccer,II
-WSO,Colorado Mines,155,Colorado Mines,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 155);",2017,2,2016-17,Women's Soccer,II
 WSO,Colorado St.,156,Colorado St.,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 156);",2014,1,2013-14,Women's Soccer,I
 WSO,Colorado St.,156,Colorado St.,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 156);",2015,1,2014-15,Women's Soccer,I
 WSO,Colorado St.,156,Colorado St.,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 156);",2016,1,2015-16,Women's Soccer,I
@@ -3192,6 +3161,8 @@ WSO,Concord,1028,Concord,"javascript:showTeamPage(-100, 2014, 'WSO', 2, 1028);",
 WSO,Concord,1028,Concord,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 1028);",2015,2,2014-15,Women's Soccer,II
 WSO,Concord,1028,Concord,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 1028);",2016,2,2015-16,Women's Soccer,II
 WSO,Concord,1028,Concord,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 1028);",2017,2,2016-17,Women's Soccer,II
+WSO,Concordia (CA),30199,Concordia (CA),"javascript:showTeamPage(-100, 2016, 'WSO', 2, 30199);",2016,2,2015-16,Women's Soccer,II
+WSO,Concordia (CA),30199,Concordia (CA),"javascript:showTeamPage(-100, 2017, 'WSO', 2, 30199);",2017,2,2016-17,Women's Soccer,II
 WSO,Concordia (NY),162,Concordia (NY),"javascript:showTeamPage(-100, 2000, 'WSO', 2, 162);",2000,2,1999-00,Women's Soccer,II
 WSO,Concordia (NY),162,Concordia (NY),"javascript:showTeamPage(-100, 2001, 'WSO', 2, 162);",2001,2,2000-01,Women's Soccer,II
 WSO,Concordia (NY),162,Concordia (NY),"javascript:showTeamPage(-100, 2002, 'WSO', 2, 162);",2002,2,2001-02,Women's Soccer,II
@@ -3243,6 +3214,8 @@ WSO,Concordia Chicago,160,Concordia Chicago,"javascript:showTeamPage(-100, 2014,
 WSO,Concordia Chicago,160,Concordia Chicago,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 160);",2015,3,2014-15,Women's Soccer,III
 WSO,Concordia Chicago,160,Concordia Chicago,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 160);",2016,3,2015-16,Women's Soccer,III
 WSO,Concordia Chicago,160,Concordia Chicago,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 160);",2017,3,2016-17,Women's Soccer,III
+WSO,Concordia Portland,30200,Concordia Portland,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 30200);",2016,2,2015-16,Women's Soccer,II
+WSO,Concordia Portland,30200,Concordia Portland,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 30200);",2017,2,2016-17,Women's Soccer,II
 WSO,Concordia Wisconsin,1036,Concordia Wisconsin,"javascript:showTeamPage(-100, 1999, 'WSO', 3, 1036);",1999,3,1998-99,Women's Soccer,III
 WSO,Concordia Wisconsin,1036,Concordia Wisconsin,"javascript:showTeamPage(-100, 2000, 'WSO', 3, 1036);",2000,3,1999-00,Women's Soccer,III
 WSO,Concordia Wisconsin,1036,Concordia Wisconsin,"javascript:showTeamPage(-100, 2001, 'WSO', 3, 1036);",2001,3,2000-01,Women's Soccer,III
@@ -3460,6 +3433,25 @@ WSO,Curry,170,Curry,"javascript:showTeamPage(-100, 2014, 'WSO', 3, 170);",2014,3
 WSO,Curry,170,Curry,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 170);",2015,3,2014-15,Women's Soccer,III
 WSO,Curry,170,Curry,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 170);",2016,3,2015-16,Women's Soccer,III
 WSO,Curry,170,Curry,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 170);",2017,3,2016-17,Women's Soccer,III
+WSO,CWRU,122,CWRU,"javascript:showTeamPage(-100, 1999, 'WSO', 3, 122);",1999,3,1998-99,Women's Soccer,III
+WSO,CWRU,122,CWRU,"javascript:showTeamPage(-100, 2000, 'WSO', 3, 122);",2000,3,1999-00,Women's Soccer,III
+WSO,CWRU,122,CWRU,"javascript:showTeamPage(-100, 2001, 'WSO', 3, 122);",2001,3,2000-01,Women's Soccer,III
+WSO,CWRU,122,CWRU,"javascript:showTeamPage(-100, 2002, 'WSO', 3, 122);",2002,3,2001-02,Women's Soccer,III
+WSO,CWRU,122,CWRU,"javascript:showTeamPage(-100, 2003, 'WSO', 3, 122);",2003,3,2002-03,Women's Soccer,III
+WSO,CWRU,122,CWRU,"javascript:showTeamPage(-100, 2004, 'WSO', 3, 122);",2004,3,2003-04,Women's Soccer,III
+WSO,CWRU,122,CWRU,"javascript:showTeamPage(-100, 2005, 'WSO', 3, 122);",2005,3,2004-05,Women's Soccer,III
+WSO,CWRU,122,CWRU,"javascript:showTeamPage(-100, 2006, 'WSO', 3, 122);",2006,3,2005-06,Women's Soccer,III
+WSO,CWRU,122,CWRU,"javascript:showTeamPage(-100, 2007, 'WSO', 3, 122);",2007,3,2006-07,Women's Soccer,III
+WSO,CWRU,122,CWRU,"javascript:showTeamPage(-100, 2008, 'WSO', 3, 122);",2008,3,2007-08,Women's Soccer,III
+WSO,CWRU,122,CWRU,"javascript:showTeamPage(-100, 2009, 'WSO', 3, 122);",2009,3,2008-09,Women's Soccer,III
+WSO,CWRU,122,CWRU,"javascript:showTeamPage(-100, 2010, 'WSO', 3, 122);",2010,3,2009-10,Women's Soccer,III
+WSO,CWRU,122,CWRU,"javascript:showTeamPage(-100, 2011, 'WSO', 3, 122);",2011,3,2010-11,Women's Soccer,III
+WSO,CWRU,122,CWRU,"javascript:showTeamPage(-100, 2012, 'WSO', 3, 122);",2012,3,2011-12,Women's Soccer,III
+WSO,CWRU,122,CWRU,"javascript:showTeamPage(-100, 2013, 'WSO', 3, 122);",2013,3,2012-13,Women's Soccer,III
+WSO,CWRU,122,CWRU,"javascript:showTeamPage(-100, 2014, 'WSO', 3, 122);",2014,3,2013-14,Women's Soccer,III
+WSO,CWRU,122,CWRU,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 122);",2015,3,2014-15,Women's Soccer,III
+WSO,CWRU,122,CWRU,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 122);",2016,3,2015-16,Women's Soccer,III
+WSO,CWRU,122,CWRU,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 122);",2017,3,2016-17,Women's Soccer,III
 WSO,D'Youville,1059,D'Youville,"javascript:showTeamPage(-100, 2002, 'WSO', 3, 1059);",2002,3,2001-02,Women's Soccer,III
 WSO,D'Youville,1059,D'Youville,"javascript:showTeamPage(-100, 2003, 'WSO', 3, 1059);",2003,3,2002-03,Women's Soccer,III
 WSO,D'Youville,1059,D'Youville,"javascript:showTeamPage(-100, 2004, 'WSO', 3, 1059);",2004,3,2003-04,Women's Soccer,III
@@ -3499,22 +3491,6 @@ WSO,Dallas,1044,Dallas,"javascript:showTeamPage(-100, 2014, 'WSO', 3, 1044);",20
 WSO,Dallas,1044,Dallas,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 1044);",2015,3,2014-15,Women's Soccer,III
 WSO,Dallas,1044,Dallas,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 1044);",2016,3,2015-16,Women's Soccer,III
 WSO,Dallas,1044,Dallas,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 1044);",2017,3,2016-17,Women's Soccer,III
-WSO,Dallas Baptist,1045,Dallas Baptist,"javascript:showTeamPage(-100, 2002, 'WSO', 2, 1045);",2002,2,2001-02,Women's Soccer,II
-WSO,Dallas Baptist,1045,Dallas Baptist,"javascript:showTeamPage(-100, 2003, 'WSO', 2, 1045);",2003,2,2002-03,Women's Soccer,II
-WSO,Dallas Baptist,1045,Dallas Baptist,"javascript:showTeamPage(-100, 2004, 'WSO', 2, 1045);",2004,2,2003-04,Women's Soccer,II
-WSO,Dallas Baptist,1045,Dallas Baptist,"javascript:showTeamPage(-100, 2005, 'WSO', 2, 1045);",2005,2,2004-05,Women's Soccer,II
-WSO,Dallas Baptist,1045,Dallas Baptist,"javascript:showTeamPage(-100, 2006, 'WSO', 2, 1045);",2006,2,2005-06,Women's Soccer,II
-WSO,Dallas Baptist,1045,Dallas Baptist,"javascript:showTeamPage(-100, 2007, 'WSO', 2, 1045);",2007,2,2006-07,Women's Soccer,II
-WSO,Dallas Baptist,1045,Dallas Baptist,"javascript:showTeamPage(-100, 2008, 'WSO', 2, 1045);",2008,2,2007-08,Women's Soccer,II
-WSO,Dallas Baptist,1045,Dallas Baptist,"javascript:showTeamPage(-100, 2009, 'WSO', 2, 1045);",2009,2,2008-09,Women's Soccer,II
-WSO,Dallas Baptist,1045,Dallas Baptist,"javascript:showTeamPage(-100, 2010, 'WSO', 2, 1045);",2010,2,2009-10,Women's Soccer,II
-WSO,Dallas Baptist,1045,Dallas Baptist,"javascript:showTeamPage(-100, 2011, 'WSO', 2, 1045);",2011,2,2010-11,Women's Soccer,II
-WSO,Dallas Baptist,1045,Dallas Baptist,"javascript:showTeamPage(-100, 2012, 'WSO', 2, 1045);",2012,2,2011-12,Women's Soccer,II
-WSO,Dallas Baptist,1045,Dallas Baptist,"javascript:showTeamPage(-100, 2013, 'WSO', 2, 1045);",2013,2,2012-13,Women's Soccer,II
-WSO,Dallas Baptist,1045,Dallas Baptist,"javascript:showTeamPage(-100, 2014, 'WSO', 2, 1045);",2014,2,2013-14,Women's Soccer,II
-WSO,Dallas Baptist,1045,Dallas Baptist,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 1045);",2015,2,2014-15,Women's Soccer,II
-WSO,Dallas Baptist,1045,Dallas Baptist,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 1045);",2016,2,2015-16,Women's Soccer,II
-WSO,Dallas Baptist,1045,Dallas Baptist,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 1045);",2017,2,2016-17,Women's Soccer,II
 WSO,Daniel Webster,2691,Daniel Webster,"javascript:showTeamPage(-100, 1999, 'WSO', 3, 2691);",1999,3,1998-99,Women's Soccer,III
 WSO,Daniel Webster,2691,Daniel Webster,"javascript:showTeamPage(-100, 2001, 'WSO', 3, 2691);",2001,3,2000-01,Women's Soccer,III
 WSO,Daniel Webster,2691,Daniel Webster,"javascript:showTeamPage(-100, 2002, 'WSO', 3, 2691);",2002,3,2001-02,Women's Soccer,III
@@ -3606,6 +3582,22 @@ WSO,Dayton,175,Dayton,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 175);",2014
 WSO,Dayton,175,Dayton,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 175);",2015,1,2014-15,Women's Soccer,I
 WSO,Dayton,175,Dayton,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 175);",2016,1,2015-16,Women's Soccer,I
 WSO,Dayton,175,Dayton,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 175);",2017,1,2016-17,Women's Soccer,I
+WSO,DBU,1045,DBU,"javascript:showTeamPage(-100, 2002, 'WSO', 2, 1045);",2002,2,2001-02,Women's Soccer,II
+WSO,DBU,1045,DBU,"javascript:showTeamPage(-100, 2003, 'WSO', 2, 1045);",2003,2,2002-03,Women's Soccer,II
+WSO,DBU,1045,DBU,"javascript:showTeamPage(-100, 2004, 'WSO', 2, 1045);",2004,2,2003-04,Women's Soccer,II
+WSO,DBU,1045,DBU,"javascript:showTeamPage(-100, 2005, 'WSO', 2, 1045);",2005,2,2004-05,Women's Soccer,II
+WSO,DBU,1045,DBU,"javascript:showTeamPage(-100, 2006, 'WSO', 2, 1045);",2006,2,2005-06,Women's Soccer,II
+WSO,DBU,1045,DBU,"javascript:showTeamPage(-100, 2007, 'WSO', 2, 1045);",2007,2,2006-07,Women's Soccer,II
+WSO,DBU,1045,DBU,"javascript:showTeamPage(-100, 2008, 'WSO', 2, 1045);",2008,2,2007-08,Women's Soccer,II
+WSO,DBU,1045,DBU,"javascript:showTeamPage(-100, 2009, 'WSO', 2, 1045);",2009,2,2008-09,Women's Soccer,II
+WSO,DBU,1045,DBU,"javascript:showTeamPage(-100, 2010, 'WSO', 2, 1045);",2010,2,2009-10,Women's Soccer,II
+WSO,DBU,1045,DBU,"javascript:showTeamPage(-100, 2011, 'WSO', 2, 1045);",2011,2,2010-11,Women's Soccer,II
+WSO,DBU,1045,DBU,"javascript:showTeamPage(-100, 2012, 'WSO', 2, 1045);",2012,2,2011-12,Women's Soccer,II
+WSO,DBU,1045,DBU,"javascript:showTeamPage(-100, 2013, 'WSO', 2, 1045);",2013,2,2012-13,Women's Soccer,II
+WSO,DBU,1045,DBU,"javascript:showTeamPage(-100, 2014, 'WSO', 2, 1045);",2014,2,2013-14,Women's Soccer,II
+WSO,DBU,1045,DBU,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 1045);",2015,2,2014-15,Women's Soccer,II
+WSO,DBU,1045,DBU,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 1045);",2016,2,2015-16,Women's Soccer,II
+WSO,DBU,1045,DBU,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 1045);",2017,2,2016-17,Women's Soccer,II
 WSO,Defiance,1050,Defiance,"javascript:showTeamPage(-100, 1999, 'WSO', 3, 1050);",1999,3,1998-99,Women's Soccer,III
 WSO,Defiance,1050,Defiance,"javascript:showTeamPage(-100, 2000, 'WSO', 3, 1050);",2000,3,1999-00,Women's Soccer,III
 WSO,Defiance,1050,Defiance,"javascript:showTeamPage(-100, 2001, 'WSO', 3, 1050);",2001,3,2000-01,Women's Soccer,III
@@ -3786,25 +3778,25 @@ WSO,DeSales,20,DeSales,"javascript:showTeamPage(-100, 2014, 'WSO', 3, 20);",2014
 WSO,DeSales,20,DeSales,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 20);",2015,3,2014-15,Women's Soccer,III
 WSO,DeSales,20,DeSales,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 20);",2016,3,2015-16,Women's Soccer,III
 WSO,DeSales,20,DeSales,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 20);",2017,3,2016-17,Women's Soccer,III
-WSO,Detroit,184,Detroit,"javascript:showTeamPage(-100, 1999, 'WSO', 1, 184);",1999,1,1998-99,Women's Soccer,I
-WSO,Detroit,184,Detroit,"javascript:showTeamPage(-100, 2000, 'WSO', 1, 184);",2000,1,1999-00,Women's Soccer,I
-WSO,Detroit,184,Detroit,"javascript:showTeamPage(-100, 2001, 'WSO', 1, 184);",2001,1,2000-01,Women's Soccer,I
-WSO,Detroit,184,Detroit,"javascript:showTeamPage(-100, 2002, 'WSO', 1, 184);",2002,1,2001-02,Women's Soccer,I
-WSO,Detroit,184,Detroit,"javascript:showTeamPage(-100, 2003, 'WSO', 1, 184);",2003,1,2002-03,Women's Soccer,I
-WSO,Detroit,184,Detroit,"javascript:showTeamPage(-100, 2004, 'WSO', 1, 184);",2004,1,2003-04,Women's Soccer,I
-WSO,Detroit,184,Detroit,"javascript:showTeamPage(-100, 2005, 'WSO', 1, 184);",2005,1,2004-05,Women's Soccer,I
-WSO,Detroit,184,Detroit,"javascript:showTeamPage(-100, 2006, 'WSO', 1, 184);",2006,1,2005-06,Women's Soccer,I
-WSO,Detroit,184,Detroit,"javascript:showTeamPage(-100, 2007, 'WSO', 1, 184);",2007,1,2006-07,Women's Soccer,I
-WSO,Detroit,184,Detroit,"javascript:showTeamPage(-100, 2008, 'WSO', 1, 184);",2008,1,2007-08,Women's Soccer,I
-WSO,Detroit,184,Detroit,"javascript:showTeamPage(-100, 2009, 'WSO', 1, 184);",2009,1,2008-09,Women's Soccer,I
-WSO,Detroit,184,Detroit,"javascript:showTeamPage(-100, 2010, 'WSO', 1, 184);",2010,1,2009-10,Women's Soccer,I
-WSO,Detroit,184,Detroit,"javascript:showTeamPage(-100, 2011, 'WSO', 1, 184);",2011,1,2010-11,Women's Soccer,I
-WSO,Detroit,184,Detroit,"javascript:showTeamPage(-100, 2012, 'WSO', 1, 184);",2012,1,2011-12,Women's Soccer,I
-WSO,Detroit,184,Detroit,"javascript:showTeamPage(-100, 2013, 'WSO', 1, 184);",2013,1,2012-13,Women's Soccer,I
-WSO,Detroit,184,Detroit,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 184);",2014,1,2013-14,Women's Soccer,I
-WSO,Detroit,184,Detroit,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 184);",2015,1,2014-15,Women's Soccer,I
-WSO,Detroit,184,Detroit,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 184);",2016,1,2015-16,Women's Soccer,I
-WSO,Detroit,184,Detroit,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 184);",2017,1,2016-17,Women's Soccer,I
+WSO,Detroit Mercy,184,Detroit Mercy,"javascript:showTeamPage(-100, 1999, 'WSO', 1, 184);",1999,1,1998-99,Women's Soccer,I
+WSO,Detroit Mercy,184,Detroit Mercy,"javascript:showTeamPage(-100, 2000, 'WSO', 1, 184);",2000,1,1999-00,Women's Soccer,I
+WSO,Detroit Mercy,184,Detroit Mercy,"javascript:showTeamPage(-100, 2001, 'WSO', 1, 184);",2001,1,2000-01,Women's Soccer,I
+WSO,Detroit Mercy,184,Detroit Mercy,"javascript:showTeamPage(-100, 2002, 'WSO', 1, 184);",2002,1,2001-02,Women's Soccer,I
+WSO,Detroit Mercy,184,Detroit Mercy,"javascript:showTeamPage(-100, 2003, 'WSO', 1, 184);",2003,1,2002-03,Women's Soccer,I
+WSO,Detroit Mercy,184,Detroit Mercy,"javascript:showTeamPage(-100, 2004, 'WSO', 1, 184);",2004,1,2003-04,Women's Soccer,I
+WSO,Detroit Mercy,184,Detroit Mercy,"javascript:showTeamPage(-100, 2005, 'WSO', 1, 184);",2005,1,2004-05,Women's Soccer,I
+WSO,Detroit Mercy,184,Detroit Mercy,"javascript:showTeamPage(-100, 2006, 'WSO', 1, 184);",2006,1,2005-06,Women's Soccer,I
+WSO,Detroit Mercy,184,Detroit Mercy,"javascript:showTeamPage(-100, 2007, 'WSO', 1, 184);",2007,1,2006-07,Women's Soccer,I
+WSO,Detroit Mercy,184,Detroit Mercy,"javascript:showTeamPage(-100, 2008, 'WSO', 1, 184);",2008,1,2007-08,Women's Soccer,I
+WSO,Detroit Mercy,184,Detroit Mercy,"javascript:showTeamPage(-100, 2009, 'WSO', 1, 184);",2009,1,2008-09,Women's Soccer,I
+WSO,Detroit Mercy,184,Detroit Mercy,"javascript:showTeamPage(-100, 2010, 'WSO', 1, 184);",2010,1,2009-10,Women's Soccer,I
+WSO,Detroit Mercy,184,Detroit Mercy,"javascript:showTeamPage(-100, 2011, 'WSO', 1, 184);",2011,1,2010-11,Women's Soccer,I
+WSO,Detroit Mercy,184,Detroit Mercy,"javascript:showTeamPage(-100, 2012, 'WSO', 1, 184);",2012,1,2011-12,Women's Soccer,I
+WSO,Detroit Mercy,184,Detroit Mercy,"javascript:showTeamPage(-100, 2013, 'WSO', 1, 184);",2013,1,2012-13,Women's Soccer,I
+WSO,Detroit Mercy,184,Detroit Mercy,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 184);",2014,1,2013-14,Women's Soccer,I
+WSO,Detroit Mercy,184,Detroit Mercy,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 184);",2015,1,2014-15,Women's Soccer,I
+WSO,Detroit Mercy,184,Detroit Mercy,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 184);",2016,1,2015-16,Women's Soccer,I
+WSO,Detroit Mercy,184,Detroit Mercy,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 184);",2017,1,2016-17,Women's Soccer,I
 WSO,Dickinson,185,Dickinson,"javascript:showTeamPage(-100, 1999, 'WSO', 3, 185);",1999,3,1998-99,Women's Soccer,III
 WSO,Dickinson,185,Dickinson,"javascript:showTeamPage(-100, 2000, 'WSO', 3, 185);",2000,3,1999-00,Women's Soccer,III
 WSO,Dickinson,185,Dickinson,"javascript:showTeamPage(-100, 2001, 'WSO', 3, 185);",2001,3,2000-01,Women's Soccer,III
@@ -4084,24 +4076,6 @@ WSO,East Stroudsburg,197,East Stroudsburg,"javascript:showTeamPage(-100, 2014, '
 WSO,East Stroudsburg,197,East Stroudsburg,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 197);",2015,2,2014-15,Women's Soccer,II
 WSO,East Stroudsburg,197,East Stroudsburg,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 197);",2016,2,2015-16,Women's Soccer,II
 WSO,East Stroudsburg,197,East Stroudsburg,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 197);",2017,2,2016-17,Women's Soccer,II
-WSO,East Tenn. St.,198,ETSU,"javascript:showTeamPage(-100, 2000, 'WSO', 1, 198);",2000,1,1999-00,Women's Soccer,I
-WSO,East Tenn. St.,198,ETSU,"javascript:showTeamPage(-100, 2001, 'WSO', 1, 198);",2001,1,2000-01,Women's Soccer,I
-WSO,East Tenn. St.,198,ETSU,"javascript:showTeamPage(-100, 2002, 'WSO', 1, 198);",2002,1,2001-02,Women's Soccer,I
-WSO,East Tenn. St.,198,ETSU,"javascript:showTeamPage(-100, 2003, 'WSO', 1, 198);",2003,1,2002-03,Women's Soccer,I
-WSO,East Tenn. St.,198,ETSU,"javascript:showTeamPage(-100, 2004, 'WSO', 1, 198);",2004,1,2003-04,Women's Soccer,I
-WSO,East Tenn. St.,198,ETSU,"javascript:showTeamPage(-100, 2005, 'WSO', 1, 198);",2005,1,2004-05,Women's Soccer,I
-WSO,East Tenn. St.,198,ETSU,"javascript:showTeamPage(-100, 2006, 'WSO', 1, 198);",2006,1,2005-06,Women's Soccer,I
-WSO,East Tenn. St.,198,ETSU,"javascript:showTeamPage(-100, 2007, 'WSO', 1, 198);",2007,1,2006-07,Women's Soccer,I
-WSO,East Tenn. St.,198,ETSU,"javascript:showTeamPage(-100, 2008, 'WSO', 1, 198);",2008,1,2007-08,Women's Soccer,I
-WSO,East Tenn. St.,198,ETSU,"javascript:showTeamPage(-100, 2009, 'WSO', 1, 198);",2009,1,2008-09,Women's Soccer,I
-WSO,East Tenn. St.,198,ETSU,"javascript:showTeamPage(-100, 2010, 'WSO', 1, 198);",2010,1,2009-10,Women's Soccer,I
-WSO,East Tenn. St.,198,ETSU,"javascript:showTeamPage(-100, 2011, 'WSO', 1, 198);",2011,1,2010-11,Women's Soccer,I
-WSO,East Tenn. St.,198,ETSU,"javascript:showTeamPage(-100, 2012, 'WSO', 1, 198);",2012,1,2011-12,Women's Soccer,I
-WSO,East Tenn. St.,198,ETSU,"javascript:showTeamPage(-100, 2013, 'WSO', 1, 198);",2013,1,2012-13,Women's Soccer,I
-WSO,East Tenn. St.,198,ETSU,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 198);",2014,1,2013-14,Women's Soccer,I
-WSO,East Tenn. St.,198,ETSU,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 198);",2015,1,2014-15,Women's Soccer,I
-WSO,East Tenn. St.,198,ETSU,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 198);",2016,1,2015-16,Women's Soccer,I
-WSO,East Tenn. St.,198,ETSU,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 198);",2017,1,2016-17,Women's Soccer,I
 WSO,East Tex. Baptist,1062,East Tex. Baptist,"javascript:showTeamPage(-100, 2002, 'WSO', 3, 1062);",2002,3,2001-02,Women's Soccer,III
 WSO,East Tex. Baptist,1062,East Tex. Baptist,"javascript:showTeamPage(-100, 2003, 'WSO', 3, 1062);",2003,3,2002-03,Women's Soccer,III
 WSO,East Tex. Baptist,1062,East Tex. Baptist,"javascript:showTeamPage(-100, 2004, 'WSO', 3, 1062);",2004,3,2003-04,Women's Soccer,III
@@ -4424,6 +4398,8 @@ WSO,Elon,1068,Elon,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 1068);",2014,1
 WSO,Elon,1068,Elon,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 1068);",2015,1,2014-15,Women's Soccer,I
 WSO,Elon,1068,Elon,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 1068);",2016,1,2015-16,Women's Soccer,I
 WSO,Elon,1068,Elon,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 1068);",2017,1,2016-17,Women's Soccer,I
+WSO,Embry-Riddle (FL),9680,Embry-Riddle (FL),"javascript:showTeamPage(-100, 2016, 'WSO', 2, 9680);",2016,2,2015-16,Women's Soccer,II
+WSO,Embry-Riddle (FL),9680,Embry-Riddle (FL),"javascript:showTeamPage(-100, 2017, 'WSO', 2, 9680);",2017,2,2016-17,Women's Soccer,II
 WSO,Emerson,214,Emerson,"javascript:showTeamPage(-100, 1999, 'WSO', 3, 214);",1999,3,1998-99,Women's Soccer,III
 WSO,Emerson,214,Emerson,"javascript:showTeamPage(-100, 2000, 'WSO', 3, 214);",2000,3,1999-00,Women's Soccer,III
 WSO,Emerson,214,Emerson,"javascript:showTeamPage(-100, 2001, 'WSO', 3, 214);",2001,3,2000-01,Women's Soccer,III
@@ -4552,6 +4528,24 @@ WSO,Erskine,1072,Erskine,"javascript:showTeamPage(-100, 2014, 'WSO', 2, 1072);",
 WSO,Erskine,1072,Erskine,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 1072);",2015,2,2014-15,Women's Soccer,II
 WSO,Erskine,1072,Erskine,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 1072);",2016,2,2015-16,Women's Soccer,II
 WSO,Erskine,1072,Erskine,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 1072);",2017,2,2016-17,Women's Soccer,II
+WSO,ETSU,198,ETSU,"javascript:showTeamPage(-100, 2000, 'WSO', 1, 198);",2000,1,1999-00,Women's Soccer,I
+WSO,ETSU,198,ETSU,"javascript:showTeamPage(-100, 2001, 'WSO', 1, 198);",2001,1,2000-01,Women's Soccer,I
+WSO,ETSU,198,ETSU,"javascript:showTeamPage(-100, 2002, 'WSO', 1, 198);",2002,1,2001-02,Women's Soccer,I
+WSO,ETSU,198,ETSU,"javascript:showTeamPage(-100, 2003, 'WSO', 1, 198);",2003,1,2002-03,Women's Soccer,I
+WSO,ETSU,198,ETSU,"javascript:showTeamPage(-100, 2004, 'WSO', 1, 198);",2004,1,2003-04,Women's Soccer,I
+WSO,ETSU,198,ETSU,"javascript:showTeamPage(-100, 2005, 'WSO', 1, 198);",2005,1,2004-05,Women's Soccer,I
+WSO,ETSU,198,ETSU,"javascript:showTeamPage(-100, 2006, 'WSO', 1, 198);",2006,1,2005-06,Women's Soccer,I
+WSO,ETSU,198,ETSU,"javascript:showTeamPage(-100, 2007, 'WSO', 1, 198);",2007,1,2006-07,Women's Soccer,I
+WSO,ETSU,198,ETSU,"javascript:showTeamPage(-100, 2008, 'WSO', 1, 198);",2008,1,2007-08,Women's Soccer,I
+WSO,ETSU,198,ETSU,"javascript:showTeamPage(-100, 2009, 'WSO', 1, 198);",2009,1,2008-09,Women's Soccer,I
+WSO,ETSU,198,ETSU,"javascript:showTeamPage(-100, 2010, 'WSO', 1, 198);",2010,1,2009-10,Women's Soccer,I
+WSO,ETSU,198,ETSU,"javascript:showTeamPage(-100, 2011, 'WSO', 1, 198);",2011,1,2010-11,Women's Soccer,I
+WSO,ETSU,198,ETSU,"javascript:showTeamPage(-100, 2012, 'WSO', 1, 198);",2012,1,2011-12,Women's Soccer,I
+WSO,ETSU,198,ETSU,"javascript:showTeamPage(-100, 2013, 'WSO', 1, 198);",2013,1,2012-13,Women's Soccer,I
+WSO,ETSU,198,ETSU,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 198);",2014,1,2013-14,Women's Soccer,I
+WSO,ETSU,198,ETSU,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 198);",2015,1,2014-15,Women's Soccer,I
+WSO,ETSU,198,ETSU,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 198);",2016,1,2015-16,Women's Soccer,I
+WSO,ETSU,198,ETSU,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 198);",2017,1,2016-17,Women's Soccer,I
 WSO,Eureka,218,Eureka,"javascript:showTeamPage(-100, 2008, 'WSO', 3, 218);",2008,3,2007-08,Women's Soccer,III
 WSO,Eureka,218,Eureka,"javascript:showTeamPage(-100, 2009, 'WSO', 3, 218);",2009,3,2008-09,Women's Soccer,III
 WSO,Eureka,218,Eureka,"javascript:showTeamPage(-100, 2010, 'WSO', 3, 218);",2010,3,2009-10,Women's Soccer,III
@@ -4948,6 +4942,24 @@ WSO,Fort Lewis,1083,Fort Lewis,"javascript:showTeamPage(-100, 2014, 'WSO', 2, 10
 WSO,Fort Lewis,1083,Fort Lewis,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 1083);",2015,2,2014-15,Women's Soccer,II
 WSO,Fort Lewis,1083,Fort Lewis,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 1083);",2016,2,2015-16,Women's Soccer,II
 WSO,Fort Lewis,1083,Fort Lewis,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 1083);",2017,2,2016-17,Women's Soccer,II
+WSO,Fort Wayne,308,Fort Wayne,"javascript:showTeamPage(-100, 2000, 'WSO', 2, 308);",2000,2,1999-00,Women's Soccer,II
+WSO,Fort Wayne,308,Fort Wayne,"javascript:showTeamPage(-100, 2001, 'WSO', 2, 308);",2001,2,2000-01,Women's Soccer,II
+WSO,Fort Wayne,308,Fort Wayne,"javascript:showTeamPage(-100, 2002, 'WSO', 2, 308);",2002,2,2001-02,Women's Soccer,II
+WSO,Fort Wayne,308,Fort Wayne,"javascript:showTeamPage(-100, 2003, 'WSO', 1, 308);",2003,1,2002-03,Women's Soccer,I
+WSO,Fort Wayne,308,Fort Wayne,"javascript:showTeamPage(-100, 2004, 'WSO', 1, 308);",2004,1,2003-04,Women's Soccer,I
+WSO,Fort Wayne,308,Fort Wayne,"javascript:showTeamPage(-100, 2005, 'WSO', 1, 308);",2005,1,2004-05,Women's Soccer,I
+WSO,Fort Wayne,308,Fort Wayne,"javascript:showTeamPage(-100, 2006, 'WSO', 1, 308);",2006,1,2005-06,Women's Soccer,I
+WSO,Fort Wayne,308,Fort Wayne,"javascript:showTeamPage(-100, 2007, 'WSO', 1, 308);",2007,1,2006-07,Women's Soccer,I
+WSO,Fort Wayne,308,Fort Wayne,"javascript:showTeamPage(-100, 2008, 'WSO', 1, 308);",2008,1,2007-08,Women's Soccer,I
+WSO,Fort Wayne,308,Fort Wayne,"javascript:showTeamPage(-100, 2009, 'WSO', 1, 308);",2009,1,2008-09,Women's Soccer,I
+WSO,Fort Wayne,308,Fort Wayne,"javascript:showTeamPage(-100, 2010, 'WSO', 1, 308);",2010,1,2009-10,Women's Soccer,I
+WSO,Fort Wayne,308,Fort Wayne,"javascript:showTeamPage(-100, 2011, 'WSO', 1, 308);",2011,1,2010-11,Women's Soccer,I
+WSO,Fort Wayne,308,Fort Wayne,"javascript:showTeamPage(-100, 2012, 'WSO', 1, 308);",2012,1,2011-12,Women's Soccer,I
+WSO,Fort Wayne,308,Fort Wayne,"javascript:showTeamPage(-100, 2013, 'WSO', 1, 308);",2013,1,2012-13,Women's Soccer,I
+WSO,Fort Wayne,308,Fort Wayne,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 308);",2014,1,2013-14,Women's Soccer,I
+WSO,Fort Wayne,308,Fort Wayne,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 308);",2015,1,2014-15,Women's Soccer,I
+WSO,Fort Wayne,308,Fort Wayne,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 308);",2016,1,2015-16,Women's Soccer,I
+WSO,Fort Wayne,308,Fort Wayne,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 308);",2017,1,2016-17,Women's Soccer,I
 WSO,Framingham St.,238,Framingham St.,"javascript:showTeamPage(-100, 1999, 'WSO', 3, 238);",1999,3,1998-99,Women's Soccer,III
 WSO,Framingham St.,238,Framingham St.,"javascript:showTeamPage(-100, 2000, 'WSO', 3, 238);",2000,3,1999-00,Women's Soccer,III
 WSO,Framingham St.,238,Framingham St.,"javascript:showTeamPage(-100, 2001, 'WSO', 3, 238);",2001,3,2000-01,Women's Soccer,III
@@ -6255,6 +6267,7 @@ WSO,Idaho St.,294,Idaho St.,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 294);
 WSO,Idaho St.,294,Idaho St.,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 294);",2015,1,2014-15,Women's Soccer,I
 WSO,Idaho St.,294,Idaho St.,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 294);",2016,1,2015-16,Women's Soccer,I
 WSO,Idaho St.,294,Idaho St.,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 294);",2017,1,2016-17,Women's Soccer,I
+WSO,IIT,30172,IIT,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 30172);",2017,3,2016-17,Women's Soccer,III
 WSO,Ill. Wesleyan,300,Ill. Wesleyan,"javascript:showTeamPage(-100, 1999, 'WSO', 3, 300);",1999,3,1998-99,Women's Soccer,III
 WSO,Ill. Wesleyan,300,Ill. Wesleyan,"javascript:showTeamPage(-100, 2000, 'WSO', 3, 300);",2000,3,1999-00,Women's Soccer,III
 WSO,Ill. Wesleyan,300,Ill. Wesleyan,"javascript:showTeamPage(-100, 2001, 'WSO', 3, 300);",2001,3,2000-01,Women's Soccer,III
@@ -6490,24 +6503,6 @@ WSO,Iowa St.,311,Iowa St.,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 311);",
 WSO,Iowa Wesleyan,30173,Iowa Wesleyan,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 30173);",2015,3,2014-15,Women's Soccer,III
 WSO,Iowa Wesleyan,30173,Iowa Wesleyan,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 30173);",2016,3,2015-16,Women's Soccer,III
 WSO,Iowa Wesleyan,30173,Iowa Wesleyan,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 30173);",2017,3,2016-17,Women's Soccer,III
-WSO,IPFW,308,Fort Wayne,"javascript:showTeamPage(-100, 2000, 'WSO', 2, 308);",2000,2,1999-00,Women's Soccer,II
-WSO,IPFW,308,Fort Wayne,"javascript:showTeamPage(-100, 2001, 'WSO', 2, 308);",2001,2,2000-01,Women's Soccer,II
-WSO,IPFW,308,Fort Wayne,"javascript:showTeamPage(-100, 2002, 'WSO', 2, 308);",2002,2,2001-02,Women's Soccer,II
-WSO,IPFW,308,Fort Wayne,"javascript:showTeamPage(-100, 2003, 'WSO', 1, 308);",2003,1,2002-03,Women's Soccer,I
-WSO,IPFW,308,Fort Wayne,"javascript:showTeamPage(-100, 2004, 'WSO', 1, 308);",2004,1,2003-04,Women's Soccer,I
-WSO,IPFW,308,Fort Wayne,"javascript:showTeamPage(-100, 2005, 'WSO', 1, 308);",2005,1,2004-05,Women's Soccer,I
-WSO,IPFW,308,Fort Wayne,"javascript:showTeamPage(-100, 2006, 'WSO', 1, 308);",2006,1,2005-06,Women's Soccer,I
-WSO,IPFW,308,Fort Wayne,"javascript:showTeamPage(-100, 2007, 'WSO', 1, 308);",2007,1,2006-07,Women's Soccer,I
-WSO,IPFW,308,Fort Wayne,"javascript:showTeamPage(-100, 2008, 'WSO', 1, 308);",2008,1,2007-08,Women's Soccer,I
-WSO,IPFW,308,Fort Wayne,"javascript:showTeamPage(-100, 2009, 'WSO', 1, 308);",2009,1,2008-09,Women's Soccer,I
-WSO,IPFW,308,Fort Wayne,"javascript:showTeamPage(-100, 2010, 'WSO', 1, 308);",2010,1,2009-10,Women's Soccer,I
-WSO,IPFW,308,Fort Wayne,"javascript:showTeamPage(-100, 2011, 'WSO', 1, 308);",2011,1,2010-11,Women's Soccer,I
-WSO,IPFW,308,Fort Wayne,"javascript:showTeamPage(-100, 2012, 'WSO', 1, 308);",2012,1,2011-12,Women's Soccer,I
-WSO,IPFW,308,Fort Wayne,"javascript:showTeamPage(-100, 2013, 'WSO', 1, 308);",2013,1,2012-13,Women's Soccer,I
-WSO,IPFW,308,Fort Wayne,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 308);",2014,1,2013-14,Women's Soccer,I
-WSO,IPFW,308,Fort Wayne,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 308);",2015,1,2014-15,Women's Soccer,I
-WSO,IPFW,308,Fort Wayne,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 308);",2016,1,2015-16,Women's Soccer,I
-WSO,IPFW,308,Fort Wayne,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 308);",2017,1,2016-17,Women's Soccer,I
 WSO,Ithaca,313,Ithaca,"javascript:showTeamPage(-100, 1999, 'WSO', 3, 313);",1999,3,1998-99,Women's Soccer,III
 WSO,Ithaca,313,Ithaca,"javascript:showTeamPage(-100, 2000, 'WSO', 3, 313);",2000,3,1999-00,Women's Soccer,III
 WSO,Ithaca,313,Ithaca,"javascript:showTeamPage(-100, 2001, 'WSO', 3, 313);",2001,3,2000-01,Women's Soccer,III
@@ -7034,24 +7029,6 @@ WSO,La Verne,341,La Verne,"javascript:showTeamPage(-100, 2014, 'WSO', 3, 341);",
 WSO,La Verne,341,La Verne,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 341);",2015,3,2014-15,Women's Soccer,III
 WSO,La Verne,341,La Verne,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 341);",2016,3,2015-16,Women's Soccer,III
 WSO,La Verne,341,La Verne,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 341);",2017,3,2016-17,Women's Soccer,III
-WSO,La.-Lafayette,671,UL Lafayette,"javascript:showTeamPage(-100, 1993, 'WSO', 1, 671);",1993,1,1992-93,Women's Soccer,I
-WSO,La.-Lafayette,671,UL Lafayette,"javascript:showTeamPage(-100, 2001, 'WSO', 1, 671);",2001,1,2000-01,Women's Soccer,I
-WSO,La.-Lafayette,671,UL Lafayette,"javascript:showTeamPage(-100, 2002, 'WSO', 1, 671);",2002,1,2001-02,Women's Soccer,I
-WSO,La.-Lafayette,671,UL Lafayette,"javascript:showTeamPage(-100, 2003, 'WSO', 1, 671);",2003,1,2002-03,Women's Soccer,I
-WSO,La.-Lafayette,671,UL Lafayette,"javascript:showTeamPage(-100, 2004, 'WSO', 1, 671);",2004,1,2003-04,Women's Soccer,I
-WSO,La.-Lafayette,671,UL Lafayette,"javascript:showTeamPage(-100, 2005, 'WSO', 1, 671);",2005,1,2004-05,Women's Soccer,I
-WSO,La.-Lafayette,671,UL Lafayette,"javascript:showTeamPage(-100, 2006, 'WSO', 1, 671);",2006,1,2005-06,Women's Soccer,I
-WSO,La.-Lafayette,671,UL Lafayette,"javascript:showTeamPage(-100, 2007, 'WSO', 1, 671);",2007,1,2006-07,Women's Soccer,I
-WSO,La.-Lafayette,671,UL Lafayette,"javascript:showTeamPage(-100, 2008, 'WSO', 1, 671);",2008,1,2007-08,Women's Soccer,I
-WSO,La.-Lafayette,671,UL Lafayette,"javascript:showTeamPage(-100, 2009, 'WSO', 1, 671);",2009,1,2008-09,Women's Soccer,I
-WSO,La.-Lafayette,671,UL Lafayette,"javascript:showTeamPage(-100, 2010, 'WSO', 1, 671);",2010,1,2009-10,Women's Soccer,I
-WSO,La.-Lafayette,671,UL Lafayette,"javascript:showTeamPage(-100, 2011, 'WSO', 1, 671);",2011,1,2010-11,Women's Soccer,I
-WSO,La.-Lafayette,671,UL Lafayette,"javascript:showTeamPage(-100, 2012, 'WSO', 1, 671);",2012,1,2011-12,Women's Soccer,I
-WSO,La.-Lafayette,671,UL Lafayette,"javascript:showTeamPage(-100, 2013, 'WSO', 1, 671);",2013,1,2012-13,Women's Soccer,I
-WSO,La.-Lafayette,671,UL Lafayette,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 671);",2014,1,2013-14,Women's Soccer,I
-WSO,La.-Lafayette,671,UL Lafayette,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 671);",2015,1,2014-15,Women's Soccer,I
-WSO,La.-Lafayette,671,UL Lafayette,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 671);",2016,1,2015-16,Women's Soccer,I
-WSO,La.-Lafayette,671,UL Lafayette,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 671);",2017,1,2016-17,Women's Soccer,I
 WSO,La.-Monroe,498,La.-Monroe,"javascript:showTeamPage(-100, 2000, 'WSO', 1, 498);",2000,1,1999-00,Women's Soccer,I
 WSO,La.-Monroe,498,La.-Monroe,"javascript:showTeamPage(-100, 2001, 'WSO', 1, 498);",2001,1,2000-01,Women's Soccer,I
 WSO,La.-Monroe,498,La.-Monroe,"javascript:showTeamPage(-100, 2002, 'WSO', 1, 498);",2002,1,2001-02,Women's Soccer,I
@@ -7162,17 +7139,17 @@ WSO,Lakeland,1164,Lakeland,"javascript:showTeamPage(-100, 2014, 'WSO', 3, 1164);
 WSO,Lakeland,1164,Lakeland,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 1164);",2015,3,2014-15,Women's Soccer,III
 WSO,Lakeland,1164,Lakeland,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 1164);",2016,3,2015-16,Women's Soccer,III
 WSO,Lakeland,1164,Lakeland,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 1164);",2017,3,2016-17,Women's Soccer,III
-WSO,Lamar,346,Lamar University,"javascript:showTeamPage(-100, 2007, 'WSO', 1, 346);",2007,1,2006-07,Women's Soccer,I
-WSO,Lamar,346,Lamar University,"javascript:showTeamPage(-100, 2008, 'WSO', 1, 346);",2008,1,2007-08,Women's Soccer,I
-WSO,Lamar,346,Lamar University,"javascript:showTeamPage(-100, 2009, 'WSO', 1, 346);",2009,1,2008-09,Women's Soccer,I
-WSO,Lamar,346,Lamar University,"javascript:showTeamPage(-100, 2010, 'WSO', 1, 346);",2010,1,2009-10,Women's Soccer,I
-WSO,Lamar,346,Lamar University,"javascript:showTeamPage(-100, 2011, 'WSO', 1, 346);",2011,1,2010-11,Women's Soccer,I
-WSO,Lamar,346,Lamar University,"javascript:showTeamPage(-100, 2012, 'WSO', 1, 346);",2012,1,2011-12,Women's Soccer,I
-WSO,Lamar,346,Lamar University,"javascript:showTeamPage(-100, 2013, 'WSO', 1, 346);",2013,1,2012-13,Women's Soccer,I
-WSO,Lamar,346,Lamar University,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 346);",2014,1,2013-14,Women's Soccer,I
-WSO,Lamar,346,Lamar University,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 346);",2015,1,2014-15,Women's Soccer,I
-WSO,Lamar,346,Lamar University,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 346);",2016,1,2015-16,Women's Soccer,I
-WSO,Lamar,346,Lamar University,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 346);",2017,1,2016-17,Women's Soccer,I
+WSO,Lamar University,346,Lamar University,"javascript:showTeamPage(-100, 2007, 'WSO', 1, 346);",2007,1,2006-07,Women's Soccer,I
+WSO,Lamar University,346,Lamar University,"javascript:showTeamPage(-100, 2008, 'WSO', 1, 346);",2008,1,2007-08,Women's Soccer,I
+WSO,Lamar University,346,Lamar University,"javascript:showTeamPage(-100, 2009, 'WSO', 1, 346);",2009,1,2008-09,Women's Soccer,I
+WSO,Lamar University,346,Lamar University,"javascript:showTeamPage(-100, 2010, 'WSO', 1, 346);",2010,1,2009-10,Women's Soccer,I
+WSO,Lamar University,346,Lamar University,"javascript:showTeamPage(-100, 2011, 'WSO', 1, 346);",2011,1,2010-11,Women's Soccer,I
+WSO,Lamar University,346,Lamar University,"javascript:showTeamPage(-100, 2012, 'WSO', 1, 346);",2012,1,2011-12,Women's Soccer,I
+WSO,Lamar University,346,Lamar University,"javascript:showTeamPage(-100, 2013, 'WSO', 1, 346);",2013,1,2012-13,Women's Soccer,I
+WSO,Lamar University,346,Lamar University,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 346);",2014,1,2013-14,Women's Soccer,I
+WSO,Lamar University,346,Lamar University,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 346);",2015,1,2014-15,Women's Soccer,I
+WSO,Lamar University,346,Lamar University,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 346);",2016,1,2015-16,Women's Soccer,I
+WSO,Lamar University,346,Lamar University,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 346);",2017,1,2016-17,Women's Soccer,I
 WSO,Lancaster Bible,30085,Lancaster Bible,"javascript:showTeamPage(-100, 2011, 'WSO', 3, 30085);",2011,3,2010-11,Women's Soccer,III
 WSO,Lancaster Bible,30085,Lancaster Bible,"javascript:showTeamPage(-100, 2012, 'WSO', 3, 30085);",2012,3,2011-12,Women's Soccer,III
 WSO,Lancaster Bible,30085,Lancaster Bible,"javascript:showTeamPage(-100, 2013, 'WSO', 3, 30085);",2013,3,2012-13,Women's Soccer,III
@@ -7510,6 +7487,24 @@ WSO,Lipscomb,28600,Lipscomb,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 28600
 WSO,Lipscomb,28600,Lipscomb,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 28600);",2015,1,2014-15,Women's Soccer,I
 WSO,Lipscomb,28600,Lipscomb,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 28600);",2016,1,2015-16,Women's Soccer,I
 WSO,Lipscomb,28600,Lipscomb,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 28600);",2017,1,2016-17,Women's Soccer,I
+WSO,Little Rock,32,Little Rock,"javascript:showTeamPage(-100, 2000, 'WSO', 1, 32);",2000,1,1999-00,Women's Soccer,I
+WSO,Little Rock,32,Little Rock,"javascript:showTeamPage(-100, 2001, 'WSO', 1, 32);",2001,1,2000-01,Women's Soccer,I
+WSO,Little Rock,32,Little Rock,"javascript:showTeamPage(-100, 2002, 'WSO', 1, 32);",2002,1,2001-02,Women's Soccer,I
+WSO,Little Rock,32,Little Rock,"javascript:showTeamPage(-100, 2003, 'WSO', 1, 32);",2003,1,2002-03,Women's Soccer,I
+WSO,Little Rock,32,Little Rock,"javascript:showTeamPage(-100, 2004, 'WSO', 1, 32);",2004,1,2003-04,Women's Soccer,I
+WSO,Little Rock,32,Little Rock,"javascript:showTeamPage(-100, 2005, 'WSO', 1, 32);",2005,1,2004-05,Women's Soccer,I
+WSO,Little Rock,32,Little Rock,"javascript:showTeamPage(-100, 2006, 'WSO', 1, 32);",2006,1,2005-06,Women's Soccer,I
+WSO,Little Rock,32,Little Rock,"javascript:showTeamPage(-100, 2007, 'WSO', 1, 32);",2007,1,2006-07,Women's Soccer,I
+WSO,Little Rock,32,Little Rock,"javascript:showTeamPage(-100, 2008, 'WSO', 1, 32);",2008,1,2007-08,Women's Soccer,I
+WSO,Little Rock,32,Little Rock,"javascript:showTeamPage(-100, 2009, 'WSO', 1, 32);",2009,1,2008-09,Women's Soccer,I
+WSO,Little Rock,32,Little Rock,"javascript:showTeamPage(-100, 2010, 'WSO', 1, 32);",2010,1,2009-10,Women's Soccer,I
+WSO,Little Rock,32,Little Rock,"javascript:showTeamPage(-100, 2011, 'WSO', 1, 32);",2011,1,2010-11,Women's Soccer,I
+WSO,Little Rock,32,Little Rock,"javascript:showTeamPage(-100, 2012, 'WSO', 1, 32);",2012,1,2011-12,Women's Soccer,I
+WSO,Little Rock,32,Little Rock,"javascript:showTeamPage(-100, 2013, 'WSO', 1, 32);",2013,1,2012-13,Women's Soccer,I
+WSO,Little Rock,32,Little Rock,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 32);",2014,1,2013-14,Women's Soccer,I
+WSO,Little Rock,32,Little Rock,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 32);",2015,1,2014-15,Women's Soccer,I
+WSO,Little Rock,32,Little Rock,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 32);",2016,1,2015-16,Women's Soccer,I
+WSO,Little Rock,32,Little Rock,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 32);",2017,1,2016-17,Women's Soccer,I
 WSO,LIU Brooklyn,361,LIU Brooklyn,"javascript:showTeamPage(-100, 1999, 'WSO', 1, 361);",1999,1,1998-99,Women's Soccer,I
 WSO,LIU Brooklyn,361,LIU Brooklyn,"javascript:showTeamPage(-100, 2000, 'WSO', 1, 361);",2000,1,1999-00,Women's Soccer,I
 WSO,LIU Brooklyn,361,LIU Brooklyn,"javascript:showTeamPage(-100, 2001, 'WSO', 1, 361);",2001,1,2000-01,Women's Soccer,I
@@ -7624,6 +7619,24 @@ WSO,Loras,364,Loras,"javascript:showTeamPage(-100, 2014, 'WSO', 3, 364);",2014,3
 WSO,Loras,364,Loras,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 364);",2015,3,2014-15,Women's Soccer,III
 WSO,Loras,364,Loras,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 364);",2016,3,2015-16,Women's Soccer,III
 WSO,Loras,364,Loras,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 364);",2017,3,2016-17,Women's Soccer,III
+WSO,Louisiana,671,Louisiana,"javascript:showTeamPage(-100, 1993, 'WSO', 1, 671);",1993,1,1992-93,Women's Soccer,I
+WSO,Louisiana,671,Louisiana,"javascript:showTeamPage(-100, 2001, 'WSO', 1, 671);",2001,1,2000-01,Women's Soccer,I
+WSO,Louisiana,671,Louisiana,"javascript:showTeamPage(-100, 2002, 'WSO', 1, 671);",2002,1,2001-02,Women's Soccer,I
+WSO,Louisiana,671,Louisiana,"javascript:showTeamPage(-100, 2003, 'WSO', 1, 671);",2003,1,2002-03,Women's Soccer,I
+WSO,Louisiana,671,Louisiana,"javascript:showTeamPage(-100, 2004, 'WSO', 1, 671);",2004,1,2003-04,Women's Soccer,I
+WSO,Louisiana,671,Louisiana,"javascript:showTeamPage(-100, 2005, 'WSO', 1, 671);",2005,1,2004-05,Women's Soccer,I
+WSO,Louisiana,671,Louisiana,"javascript:showTeamPage(-100, 2006, 'WSO', 1, 671);",2006,1,2005-06,Women's Soccer,I
+WSO,Louisiana,671,Louisiana,"javascript:showTeamPage(-100, 2007, 'WSO', 1, 671);",2007,1,2006-07,Women's Soccer,I
+WSO,Louisiana,671,Louisiana,"javascript:showTeamPage(-100, 2008, 'WSO', 1, 671);",2008,1,2007-08,Women's Soccer,I
+WSO,Louisiana,671,Louisiana,"javascript:showTeamPage(-100, 2009, 'WSO', 1, 671);",2009,1,2008-09,Women's Soccer,I
+WSO,Louisiana,671,Louisiana,"javascript:showTeamPage(-100, 2010, 'WSO', 1, 671);",2010,1,2009-10,Women's Soccer,I
+WSO,Louisiana,671,Louisiana,"javascript:showTeamPage(-100, 2011, 'WSO', 1, 671);",2011,1,2010-11,Women's Soccer,I
+WSO,Louisiana,671,Louisiana,"javascript:showTeamPage(-100, 2012, 'WSO', 1, 671);",2012,1,2011-12,Women's Soccer,I
+WSO,Louisiana,671,Louisiana,"javascript:showTeamPage(-100, 2013, 'WSO', 1, 671);",2013,1,2012-13,Women's Soccer,I
+WSO,Louisiana,671,Louisiana,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 671);",2014,1,2013-14,Women's Soccer,I
+WSO,Louisiana,671,Louisiana,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 671);",2015,1,2014-15,Women's Soccer,I
+WSO,Louisiana,671,Louisiana,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 671);",2016,1,2015-16,Women's Soccer,I
+WSO,Louisiana,671,Louisiana,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 671);",2017,1,2016-17,Women's Soccer,I
 WSO,Louisiana Col.,1182,Louisiana Col.,"javascript:showTeamPage(-100, 2002, 'WSO', 3, 1182);",2002,3,2001-02,Women's Soccer,III
 WSO,Louisiana Col.,1182,Louisiana Col.,"javascript:showTeamPage(-100, 2003, 'WSO', 3, 1182);",2003,3,2002-03,Women's Soccer,III
 WSO,Louisiana Col.,1182,Louisiana Col.,"javascript:showTeamPage(-100, 2004, 'WSO', 3, 1182);",2004,3,2003-04,Women's Soccer,III
@@ -8379,25 +8392,25 @@ WSO,McMurry,8530,McMurry,"javascript:showTeamPage(-100, 2014, 'WSO', 2, 8530);",
 WSO,McMurry,8530,McMurry,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 8530);",2015,3,2014-15,Women's Soccer,III
 WSO,McMurry,8530,McMurry,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 8530);",2016,3,2015-16,Women's Soccer,III
 WSO,McMurry,8530,McMurry,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 8530);",2017,3,2016-17,Women's Soccer,III
-WSO,McNeese St.,402,McNeese,"javascript:showTeamPage(-100, 1999, 'WSO', 1, 402);",1999,1,1998-99,Women's Soccer,I
-WSO,McNeese St.,402,McNeese,"javascript:showTeamPage(-100, 2000, 'WSO', 1, 402);",2000,1,1999-00,Women's Soccer,I
-WSO,McNeese St.,402,McNeese,"javascript:showTeamPage(-100, 2001, 'WSO', 1, 402);",2001,1,2000-01,Women's Soccer,I
-WSO,McNeese St.,402,McNeese,"javascript:showTeamPage(-100, 2002, 'WSO', 1, 402);",2002,1,2001-02,Women's Soccer,I
-WSO,McNeese St.,402,McNeese,"javascript:showTeamPage(-100, 2003, 'WSO', 1, 402);",2003,1,2002-03,Women's Soccer,I
-WSO,McNeese St.,402,McNeese,"javascript:showTeamPage(-100, 2004, 'WSO', 1, 402);",2004,1,2003-04,Women's Soccer,I
-WSO,McNeese St.,402,McNeese,"javascript:showTeamPage(-100, 2005, 'WSO', 1, 402);",2005,1,2004-05,Women's Soccer,I
-WSO,McNeese St.,402,McNeese,"javascript:showTeamPage(-100, 2006, 'WSO', 1, 402);",2006,1,2005-06,Women's Soccer,I
-WSO,McNeese St.,402,McNeese,"javascript:showTeamPage(-100, 2007, 'WSO', 1, 402);",2007,1,2006-07,Women's Soccer,I
-WSO,McNeese St.,402,McNeese,"javascript:showTeamPage(-100, 2008, 'WSO', 1, 402);",2008,1,2007-08,Women's Soccer,I
-WSO,McNeese St.,402,McNeese,"javascript:showTeamPage(-100, 2009, 'WSO', 1, 402);",2009,1,2008-09,Women's Soccer,I
-WSO,McNeese St.,402,McNeese,"javascript:showTeamPage(-100, 2010, 'WSO', 1, 402);",2010,1,2009-10,Women's Soccer,I
-WSO,McNeese St.,402,McNeese,"javascript:showTeamPage(-100, 2011, 'WSO', 1, 402);",2011,1,2010-11,Women's Soccer,I
-WSO,McNeese St.,402,McNeese,"javascript:showTeamPage(-100, 2012, 'WSO', 1, 402);",2012,1,2011-12,Women's Soccer,I
-WSO,McNeese St.,402,McNeese,"javascript:showTeamPage(-100, 2013, 'WSO', 1, 402);",2013,1,2012-13,Women's Soccer,I
-WSO,McNeese St.,402,McNeese,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 402);",2014,1,2013-14,Women's Soccer,I
-WSO,McNeese St.,402,McNeese,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 402);",2015,1,2014-15,Women's Soccer,I
-WSO,McNeese St.,402,McNeese,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 402);",2016,1,2015-16,Women's Soccer,I
-WSO,McNeese St.,402,McNeese,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 402);",2017,1,2016-17,Women's Soccer,I
+WSO,McNeese,402,McNeese,"javascript:showTeamPage(-100, 1999, 'WSO', 1, 402);",1999,1,1998-99,Women's Soccer,I
+WSO,McNeese,402,McNeese,"javascript:showTeamPage(-100, 2000, 'WSO', 1, 402);",2000,1,1999-00,Women's Soccer,I
+WSO,McNeese,402,McNeese,"javascript:showTeamPage(-100, 2001, 'WSO', 1, 402);",2001,1,2000-01,Women's Soccer,I
+WSO,McNeese,402,McNeese,"javascript:showTeamPage(-100, 2002, 'WSO', 1, 402);",2002,1,2001-02,Women's Soccer,I
+WSO,McNeese,402,McNeese,"javascript:showTeamPage(-100, 2003, 'WSO', 1, 402);",2003,1,2002-03,Women's Soccer,I
+WSO,McNeese,402,McNeese,"javascript:showTeamPage(-100, 2004, 'WSO', 1, 402);",2004,1,2003-04,Women's Soccer,I
+WSO,McNeese,402,McNeese,"javascript:showTeamPage(-100, 2005, 'WSO', 1, 402);",2005,1,2004-05,Women's Soccer,I
+WSO,McNeese,402,McNeese,"javascript:showTeamPage(-100, 2006, 'WSO', 1, 402);",2006,1,2005-06,Women's Soccer,I
+WSO,McNeese,402,McNeese,"javascript:showTeamPage(-100, 2007, 'WSO', 1, 402);",2007,1,2006-07,Women's Soccer,I
+WSO,McNeese,402,McNeese,"javascript:showTeamPage(-100, 2008, 'WSO', 1, 402);",2008,1,2007-08,Women's Soccer,I
+WSO,McNeese,402,McNeese,"javascript:showTeamPage(-100, 2009, 'WSO', 1, 402);",2009,1,2008-09,Women's Soccer,I
+WSO,McNeese,402,McNeese,"javascript:showTeamPage(-100, 2010, 'WSO', 1, 402);",2010,1,2009-10,Women's Soccer,I
+WSO,McNeese,402,McNeese,"javascript:showTeamPage(-100, 2011, 'WSO', 1, 402);",2011,1,2010-11,Women's Soccer,I
+WSO,McNeese,402,McNeese,"javascript:showTeamPage(-100, 2012, 'WSO', 1, 402);",2012,1,2011-12,Women's Soccer,I
+WSO,McNeese,402,McNeese,"javascript:showTeamPage(-100, 2013, 'WSO', 1, 402);",2013,1,2012-13,Women's Soccer,I
+WSO,McNeese,402,McNeese,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 402);",2014,1,2013-14,Women's Soccer,I
+WSO,McNeese,402,McNeese,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 402);",2015,1,2014-15,Women's Soccer,I
+WSO,McNeese,402,McNeese,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 402);",2016,1,2015-16,Women's Soccer,I
+WSO,McNeese,402,McNeese,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 402);",2017,1,2016-17,Women's Soccer,I
 WSO,Me.-Farmington,379,Me.-Farmington,"javascript:showTeamPage(-100, 1999, 'WSO', 3, 379);",1999,3,1998-99,Women's Soccer,III
 WSO,Me.-Farmington,379,Me.-Farmington,"javascript:showTeamPage(-100, 2001, 'WSO', 3, 379);",2001,3,2000-01,Women's Soccer,III
 WSO,Me.-Farmington,379,Me.-Farmington,"javascript:showTeamPage(-100, 2002, 'WSO', 3, 379);",2002,3,2001-02,Women's Soccer,III
@@ -8610,25 +8623,6 @@ WSO,Methodist,412,Methodist,"javascript:showTeamPage(-100, 2014, 'WSO', 3, 412);
 WSO,Methodist,412,Methodist,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 412);",2015,3,2014-15,Women's Soccer,III
 WSO,Methodist,412,Methodist,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 412);",2016,3,2015-16,Women's Soccer,III
 WSO,Methodist,412,Methodist,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 412);",2017,3,2016-17,Women's Soccer,III
-WSO,Metro St.,413,MSU Denver,"javascript:showTeamPage(-100, 1999, 'WSO', 2, 413);",1999,2,1998-99,Women's Soccer,II
-WSO,Metro St.,413,MSU Denver,"javascript:showTeamPage(-100, 2000, 'WSO', 2, 413);",2000,2,1999-00,Women's Soccer,II
-WSO,Metro St.,413,MSU Denver,"javascript:showTeamPage(-100, 2001, 'WSO', 2, 413);",2001,2,2000-01,Women's Soccer,II
-WSO,Metro St.,413,MSU Denver,"javascript:showTeamPage(-100, 2002, 'WSO', 2, 413);",2002,2,2001-02,Women's Soccer,II
-WSO,Metro St.,413,MSU Denver,"javascript:showTeamPage(-100, 2003, 'WSO', 2, 413);",2003,2,2002-03,Women's Soccer,II
-WSO,Metro St.,413,MSU Denver,"javascript:showTeamPage(-100, 2004, 'WSO', 2, 413);",2004,2,2003-04,Women's Soccer,II
-WSO,Metro St.,413,MSU Denver,"javascript:showTeamPage(-100, 2005, 'WSO', 2, 413);",2005,2,2004-05,Women's Soccer,II
-WSO,Metro St.,413,MSU Denver,"javascript:showTeamPage(-100, 2006, 'WSO', 2, 413);",2006,2,2005-06,Women's Soccer,II
-WSO,Metro St.,413,MSU Denver,"javascript:showTeamPage(-100, 2007, 'WSO', 2, 413);",2007,2,2006-07,Women's Soccer,II
-WSO,Metro St.,413,MSU Denver,"javascript:showTeamPage(-100, 2008, 'WSO', 2, 413);",2008,2,2007-08,Women's Soccer,II
-WSO,Metro St.,413,MSU Denver,"javascript:showTeamPage(-100, 2009, 'WSO', 2, 413);",2009,2,2008-09,Women's Soccer,II
-WSO,Metro St.,413,MSU Denver,"javascript:showTeamPage(-100, 2010, 'WSO', 2, 413);",2010,2,2009-10,Women's Soccer,II
-WSO,Metro St.,413,MSU Denver,"javascript:showTeamPage(-100, 2011, 'WSO', 2, 413);",2011,2,2010-11,Women's Soccer,II
-WSO,Metro St.,413,MSU Denver,"javascript:showTeamPage(-100, 2012, 'WSO', 2, 413);",2012,2,2011-12,Women's Soccer,II
-WSO,Metro St.,413,MSU Denver,"javascript:showTeamPage(-100, 2013, 'WSO', 2, 413);",2013,2,2012-13,Women's Soccer,II
-WSO,Metro St.,413,MSU Denver,"javascript:showTeamPage(-100, 2014, 'WSO', 2, 413);",2014,2,2013-14,Women's Soccer,II
-WSO,Metro St.,413,MSU Denver,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 413);",2015,2,2014-15,Women's Soccer,II
-WSO,Metro St.,413,MSU Denver,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 413);",2016,2,2015-16,Women's Soccer,II
-WSO,Metro St.,413,MSU Denver,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 413);",2017,2,2016-17,Women's Soccer,II
 WSO,Miami (FL),415,Miami (FL),"javascript:showTeamPage(-100, 1999, 'WSO', 1, 415);",1999,1,1998-99,Women's Soccer,I
 WSO,Miami (FL),415,Miami (FL),"javascript:showTeamPage(-100, 2000, 'WSO', 1, 415);",2000,1,1999-00,Women's Soccer,I
 WSO,Miami (FL),415,Miami (FL),"javascript:showTeamPage(-100, 2001, 'WSO', 1, 415);",2001,1,2000-01,Women's Soccer,I
@@ -8879,44 +8873,6 @@ WSO,Minn. Duluth,427,Minn. Duluth,"javascript:showTeamPage(-100, 2014, 'WSO', 2,
 WSO,Minn. Duluth,427,Minn. Duluth,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 427);",2015,2,2014-15,Women's Soccer,II
 WSO,Minn. Duluth,427,Minn. Duluth,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 427);",2016,2,2015-16,Women's Soccer,II
 WSO,Minn. Duluth,427,Minn. Duluth,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 427);",2017,2,2016-17,Women's Soccer,II
-WSO,Minn. St. Mankato,383,Minnesota St.,"javascript:showTeamPage(-100, 1999, 'WSO', 2, 383);",1999,2,1998-99,Women's Soccer,II
-WSO,Minn. St. Mankato,383,Minnesota St.,"javascript:showTeamPage(-100, 2000, 'WSO', 2, 383);",2000,2,1999-00,Women's Soccer,II
-WSO,Minn. St. Mankato,383,Minnesota St.,"javascript:showTeamPage(-100, 2001, 'WSO', 2, 383);",2001,2,2000-01,Women's Soccer,II
-WSO,Minn. St. Mankato,383,Minnesota St.,"javascript:showTeamPage(-100, 2002, 'WSO', 2, 383);",2002,2,2001-02,Women's Soccer,II
-WSO,Minn. St. Mankato,383,Minnesota St.,"javascript:showTeamPage(-100, 2003, 'WSO', 2, 383);",2003,2,2002-03,Women's Soccer,II
-WSO,Minn. St. Mankato,383,Minnesota St.,"javascript:showTeamPage(-100, 2004, 'WSO', 2, 383);",2004,2,2003-04,Women's Soccer,II
-WSO,Minn. St. Mankato,383,Minnesota St.,"javascript:showTeamPage(-100, 2005, 'WSO', 2, 383);",2005,2,2004-05,Women's Soccer,II
-WSO,Minn. St. Mankato,383,Minnesota St.,"javascript:showTeamPage(-100, 2006, 'WSO', 2, 383);",2006,2,2005-06,Women's Soccer,II
-WSO,Minn. St. Mankato,383,Minnesota St.,"javascript:showTeamPage(-100, 2007, 'WSO', 2, 383);",2007,2,2006-07,Women's Soccer,II
-WSO,Minn. St. Mankato,383,Minnesota St.,"javascript:showTeamPage(-100, 2008, 'WSO', 2, 383);",2008,2,2007-08,Women's Soccer,II
-WSO,Minn. St. Mankato,383,Minnesota St.,"javascript:showTeamPage(-100, 2009, 'WSO', 2, 383);",2009,2,2008-09,Women's Soccer,II
-WSO,Minn. St. Mankato,383,Minnesota St.,"javascript:showTeamPage(-100, 2010, 'WSO', 2, 383);",2010,2,2009-10,Women's Soccer,II
-WSO,Minn. St. Mankato,383,Minnesota St.,"javascript:showTeamPage(-100, 2011, 'WSO', 2, 383);",2011,2,2010-11,Women's Soccer,II
-WSO,Minn. St. Mankato,383,Minnesota St.,"javascript:showTeamPage(-100, 2012, 'WSO', 2, 383);",2012,2,2011-12,Women's Soccer,II
-WSO,Minn. St. Mankato,383,Minnesota St.,"javascript:showTeamPage(-100, 2013, 'WSO', 2, 383);",2013,2,2012-13,Women's Soccer,II
-WSO,Minn. St. Mankato,383,Minnesota St.,"javascript:showTeamPage(-100, 2014, 'WSO', 2, 383);",2014,2,2013-14,Women's Soccer,II
-WSO,Minn. St. Mankato,383,Minnesota St.,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 383);",2015,2,2014-15,Women's Soccer,II
-WSO,Minn. St. Mankato,383,Minnesota St.,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 383);",2016,2,2015-16,Women's Soccer,II
-WSO,Minn. St. Mankato,383,Minnesota St.,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 383);",2017,2,2016-17,Women's Soccer,II
-WSO,Minn. St. Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 1999, 'WSO', 2, 1240);",1999,2,1998-99,Women's Soccer,II
-WSO,Minn. St. Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2000, 'WSO', 2, 1240);",2000,2,1999-00,Women's Soccer,II
-WSO,Minn. St. Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2001, 'WSO', 2, 1240);",2001,2,2000-01,Women's Soccer,II
-WSO,Minn. St. Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2002, 'WSO', 2, 1240);",2002,2,2001-02,Women's Soccer,II
-WSO,Minn. St. Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2003, 'WSO', 2, 1240);",2003,2,2002-03,Women's Soccer,II
-WSO,Minn. St. Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2004, 'WSO', 2, 1240);",2004,2,2003-04,Women's Soccer,II
-WSO,Minn. St. Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2005, 'WSO', 2, 1240);",2005,2,2004-05,Women's Soccer,II
-WSO,Minn. St. Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2006, 'WSO', 2, 1240);",2006,2,2005-06,Women's Soccer,II
-WSO,Minn. St. Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2007, 'WSO', 2, 1240);",2007,2,2006-07,Women's Soccer,II
-WSO,Minn. St. Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2008, 'WSO', 2, 1240);",2008,2,2007-08,Women's Soccer,II
-WSO,Minn. St. Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2009, 'WSO', 2, 1240);",2009,2,2008-09,Women's Soccer,II
-WSO,Minn. St. Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2010, 'WSO', 2, 1240);",2010,2,2009-10,Women's Soccer,II
-WSO,Minn. St. Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2011, 'WSO', 2, 1240);",2011,2,2010-11,Women's Soccer,II
-WSO,Minn. St. Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2012, 'WSO', 2, 1240);",2012,2,2011-12,Women's Soccer,II
-WSO,Minn. St. Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2013, 'WSO', 2, 1240);",2013,2,2012-13,Women's Soccer,II
-WSO,Minn. St. Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2014, 'WSO', 2, 1240);",2014,2,2013-14,Women's Soccer,II
-WSO,Minn. St. Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 1240);",2015,2,2014-15,Women's Soccer,II
-WSO,Minn. St. Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 1240);",2016,2,2015-16,Women's Soccer,II
-WSO,Minn. St. Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 1240);",2017,2,2016-17,Women's Soccer,II
 WSO,Minn.-Crookston,27854,Minn.-Crookston,"javascript:showTeamPage(-100, 2002, 'WSO', 2, 27854);",2002,2,2001-02,Women's Soccer,II
 WSO,Minn.-Crookston,27854,Minn.-Crookston,"javascript:showTeamPage(-100, 2003, 'WSO', 2, 27854);",2003,2,2002-03,Women's Soccer,II
 WSO,Minn.-Crookston,27854,Minn.-Crookston,"javascript:showTeamPage(-100, 2004, 'WSO', 2, 27854);",2004,2,2003-04,Women's Soccer,II
@@ -8970,6 +8926,25 @@ WSO,Minnesota,428,Minnesota,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 428);
 WSO,Minnesota,428,Minnesota,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 428);",2015,1,2014-15,Women's Soccer,I
 WSO,Minnesota,428,Minnesota,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 428);",2016,1,2015-16,Women's Soccer,I
 WSO,Minnesota,428,Minnesota,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 428);",2017,1,2016-17,Women's Soccer,I
+WSO,Minnesota St.,383,Minnesota St.,"javascript:showTeamPage(-100, 1999, 'WSO', 2, 383);",1999,2,1998-99,Women's Soccer,II
+WSO,Minnesota St.,383,Minnesota St.,"javascript:showTeamPage(-100, 2000, 'WSO', 2, 383);",2000,2,1999-00,Women's Soccer,II
+WSO,Minnesota St.,383,Minnesota St.,"javascript:showTeamPage(-100, 2001, 'WSO', 2, 383);",2001,2,2000-01,Women's Soccer,II
+WSO,Minnesota St.,383,Minnesota St.,"javascript:showTeamPage(-100, 2002, 'WSO', 2, 383);",2002,2,2001-02,Women's Soccer,II
+WSO,Minnesota St.,383,Minnesota St.,"javascript:showTeamPage(-100, 2003, 'WSO', 2, 383);",2003,2,2002-03,Women's Soccer,II
+WSO,Minnesota St.,383,Minnesota St.,"javascript:showTeamPage(-100, 2004, 'WSO', 2, 383);",2004,2,2003-04,Women's Soccer,II
+WSO,Minnesota St.,383,Minnesota St.,"javascript:showTeamPage(-100, 2005, 'WSO', 2, 383);",2005,2,2004-05,Women's Soccer,II
+WSO,Minnesota St.,383,Minnesota St.,"javascript:showTeamPage(-100, 2006, 'WSO', 2, 383);",2006,2,2005-06,Women's Soccer,II
+WSO,Minnesota St.,383,Minnesota St.,"javascript:showTeamPage(-100, 2007, 'WSO', 2, 383);",2007,2,2006-07,Women's Soccer,II
+WSO,Minnesota St.,383,Minnesota St.,"javascript:showTeamPage(-100, 2008, 'WSO', 2, 383);",2008,2,2007-08,Women's Soccer,II
+WSO,Minnesota St.,383,Minnesota St.,"javascript:showTeamPage(-100, 2009, 'WSO', 2, 383);",2009,2,2008-09,Women's Soccer,II
+WSO,Minnesota St.,383,Minnesota St.,"javascript:showTeamPage(-100, 2010, 'WSO', 2, 383);",2010,2,2009-10,Women's Soccer,II
+WSO,Minnesota St.,383,Minnesota St.,"javascript:showTeamPage(-100, 2011, 'WSO', 2, 383);",2011,2,2010-11,Women's Soccer,II
+WSO,Minnesota St.,383,Minnesota St.,"javascript:showTeamPage(-100, 2012, 'WSO', 2, 383);",2012,2,2011-12,Women's Soccer,II
+WSO,Minnesota St.,383,Minnesota St.,"javascript:showTeamPage(-100, 2013, 'WSO', 2, 383);",2013,2,2012-13,Women's Soccer,II
+WSO,Minnesota St.,383,Minnesota St.,"javascript:showTeamPage(-100, 2014, 'WSO', 2, 383);",2014,2,2013-14,Women's Soccer,II
+WSO,Minnesota St.,383,Minnesota St.,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 383);",2015,2,2014-15,Women's Soccer,II
+WSO,Minnesota St.,383,Minnesota St.,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 383);",2016,2,2015-16,Women's Soccer,II
+WSO,Minnesota St.,383,Minnesota St.,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 383);",2017,2,2016-17,Women's Soccer,II
 WSO,Minot St.,30125,Minot St.,"javascript:showTeamPage(-100, 2012, 'WSO', 2, 30125);",2012,2,2011-12,Women's Soccer,II
 WSO,Minot St.,30125,Minot St.,"javascript:showTeamPage(-100, 2013, 'WSO', 2, 30125);",2013,2,2012-13,Women's Soccer,II
 WSO,Minot St.,30125,Minot St.,"javascript:showTeamPage(-100, 2014, 'WSO', 2, 30125);",2014,2,2013-14,Women's Soccer,II
@@ -9476,6 +9451,44 @@ WSO,MSOE,20220,MSOE,"javascript:showTeamPage(-100, 2014, 'WSO', 3, 20220);",2014
 WSO,MSOE,20220,MSOE,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 20220);",2015,3,2014-15,Women's Soccer,III
 WSO,MSOE,20220,MSOE,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 20220);",2016,3,2015-16,Women's Soccer,III
 WSO,MSOE,20220,MSOE,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 20220);",2017,3,2016-17,Women's Soccer,III
+WSO,MSU Denver,413,MSU Denver,"javascript:showTeamPage(-100, 1999, 'WSO', 2, 413);",1999,2,1998-99,Women's Soccer,II
+WSO,MSU Denver,413,MSU Denver,"javascript:showTeamPage(-100, 2000, 'WSO', 2, 413);",2000,2,1999-00,Women's Soccer,II
+WSO,MSU Denver,413,MSU Denver,"javascript:showTeamPage(-100, 2001, 'WSO', 2, 413);",2001,2,2000-01,Women's Soccer,II
+WSO,MSU Denver,413,MSU Denver,"javascript:showTeamPage(-100, 2002, 'WSO', 2, 413);",2002,2,2001-02,Women's Soccer,II
+WSO,MSU Denver,413,MSU Denver,"javascript:showTeamPage(-100, 2003, 'WSO', 2, 413);",2003,2,2002-03,Women's Soccer,II
+WSO,MSU Denver,413,MSU Denver,"javascript:showTeamPage(-100, 2004, 'WSO', 2, 413);",2004,2,2003-04,Women's Soccer,II
+WSO,MSU Denver,413,MSU Denver,"javascript:showTeamPage(-100, 2005, 'WSO', 2, 413);",2005,2,2004-05,Women's Soccer,II
+WSO,MSU Denver,413,MSU Denver,"javascript:showTeamPage(-100, 2006, 'WSO', 2, 413);",2006,2,2005-06,Women's Soccer,II
+WSO,MSU Denver,413,MSU Denver,"javascript:showTeamPage(-100, 2007, 'WSO', 2, 413);",2007,2,2006-07,Women's Soccer,II
+WSO,MSU Denver,413,MSU Denver,"javascript:showTeamPage(-100, 2008, 'WSO', 2, 413);",2008,2,2007-08,Women's Soccer,II
+WSO,MSU Denver,413,MSU Denver,"javascript:showTeamPage(-100, 2009, 'WSO', 2, 413);",2009,2,2008-09,Women's Soccer,II
+WSO,MSU Denver,413,MSU Denver,"javascript:showTeamPage(-100, 2010, 'WSO', 2, 413);",2010,2,2009-10,Women's Soccer,II
+WSO,MSU Denver,413,MSU Denver,"javascript:showTeamPage(-100, 2011, 'WSO', 2, 413);",2011,2,2010-11,Women's Soccer,II
+WSO,MSU Denver,413,MSU Denver,"javascript:showTeamPage(-100, 2012, 'WSO', 2, 413);",2012,2,2011-12,Women's Soccer,II
+WSO,MSU Denver,413,MSU Denver,"javascript:showTeamPage(-100, 2013, 'WSO', 2, 413);",2013,2,2012-13,Women's Soccer,II
+WSO,MSU Denver,413,MSU Denver,"javascript:showTeamPage(-100, 2014, 'WSO', 2, 413);",2014,2,2013-14,Women's Soccer,II
+WSO,MSU Denver,413,MSU Denver,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 413);",2015,2,2014-15,Women's Soccer,II
+WSO,MSU Denver,413,MSU Denver,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 413);",2016,2,2015-16,Women's Soccer,II
+WSO,MSU Denver,413,MSU Denver,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 413);",2017,2,2016-17,Women's Soccer,II
+WSO,MSU Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 1999, 'WSO', 2, 1240);",1999,2,1998-99,Women's Soccer,II
+WSO,MSU Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2000, 'WSO', 2, 1240);",2000,2,1999-00,Women's Soccer,II
+WSO,MSU Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2001, 'WSO', 2, 1240);",2001,2,2000-01,Women's Soccer,II
+WSO,MSU Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2002, 'WSO', 2, 1240);",2002,2,2001-02,Women's Soccer,II
+WSO,MSU Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2003, 'WSO', 2, 1240);",2003,2,2002-03,Women's Soccer,II
+WSO,MSU Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2004, 'WSO', 2, 1240);",2004,2,2003-04,Women's Soccer,II
+WSO,MSU Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2005, 'WSO', 2, 1240);",2005,2,2004-05,Women's Soccer,II
+WSO,MSU Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2006, 'WSO', 2, 1240);",2006,2,2005-06,Women's Soccer,II
+WSO,MSU Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2007, 'WSO', 2, 1240);",2007,2,2006-07,Women's Soccer,II
+WSO,MSU Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2008, 'WSO', 2, 1240);",2008,2,2007-08,Women's Soccer,II
+WSO,MSU Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2009, 'WSO', 2, 1240);",2009,2,2008-09,Women's Soccer,II
+WSO,MSU Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2010, 'WSO', 2, 1240);",2010,2,2009-10,Women's Soccer,II
+WSO,MSU Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2011, 'WSO', 2, 1240);",2011,2,2010-11,Women's Soccer,II
+WSO,MSU Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2012, 'WSO', 2, 1240);",2012,2,2011-12,Women's Soccer,II
+WSO,MSU Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2013, 'WSO', 2, 1240);",2013,2,2012-13,Women's Soccer,II
+WSO,MSU Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2014, 'WSO', 2, 1240);",2014,2,2013-14,Women's Soccer,II
+WSO,MSU Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 1240);",2015,2,2014-15,Women's Soccer,II
+WSO,MSU Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 1240);",2016,2,2015-16,Women's Soccer,II
+WSO,MSU Moorhead,1240,MSU Moorhead,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 1240);",2017,2,2016-17,Women's Soccer,II
 WSO,Mt. Aloysius,506043,Mt. Aloysius,"javascript:showTeamPage(-100, 2005, 'WSO', 3, 506043);",2005,3,2004-05,Women's Soccer,III
 WSO,Mt. Aloysius,506043,Mt. Aloysius,"javascript:showTeamPage(-100, 2007, 'WSO', 3, 506043);",2007,3,2006-07,Women's Soccer,III
 WSO,Mt. Aloysius,506043,Mt. Aloysius,"javascript:showTeamPage(-100, 2008, 'WSO', 3, 506043);",2008,3,2007-08,Women's Soccer,III
@@ -10434,24 +10447,24 @@ WSO,Northwestern-St.Paul,30031,Northwestern-St.Paul,"javascript:showTeamPage(-10
 WSO,Northwestern-St.Paul,30031,Northwestern-St.Paul,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 30031);",2015,3,2014-15,Women's Soccer,III
 WSO,Northwestern-St.Paul,30031,Northwestern-St.Paul,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 30031);",2016,3,2015-16,Women's Soccer,III
 WSO,Northwestern-St.Paul,30031,Northwestern-St.Paul,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 30031);",2017,3,2016-17,Women's Soccer,III
-WSO,Northwood (MI),510,Northwood,"javascript:showTeamPage(-100, 1999, 'WSO', 2, 510);",1999,2,1998-99,Women's Soccer,II
-WSO,Northwood (MI),510,Northwood,"javascript:showTeamPage(-100, 2000, 'WSO', 2, 510);",2000,2,1999-00,Women's Soccer,II
-WSO,Northwood (MI),510,Northwood,"javascript:showTeamPage(-100, 2002, 'WSO', 2, 510);",2002,2,2001-02,Women's Soccer,II
-WSO,Northwood (MI),510,Northwood,"javascript:showTeamPage(-100, 2003, 'WSO', 2, 510);",2003,2,2002-03,Women's Soccer,II
-WSO,Northwood (MI),510,Northwood,"javascript:showTeamPage(-100, 2004, 'WSO', 2, 510);",2004,2,2003-04,Women's Soccer,II
-WSO,Northwood (MI),510,Northwood,"javascript:showTeamPage(-100, 2005, 'WSO', 2, 510);",2005,2,2004-05,Women's Soccer,II
-WSO,Northwood (MI),510,Northwood,"javascript:showTeamPage(-100, 2006, 'WSO', 2, 510);",2006,2,2005-06,Women's Soccer,II
-WSO,Northwood (MI),510,Northwood,"javascript:showTeamPage(-100, 2007, 'WSO', 2, 510);",2007,2,2006-07,Women's Soccer,II
-WSO,Northwood (MI),510,Northwood,"javascript:showTeamPage(-100, 2008, 'WSO', 2, 510);",2008,2,2007-08,Women's Soccer,II
-WSO,Northwood (MI),510,Northwood,"javascript:showTeamPage(-100, 2009, 'WSO', 2, 510);",2009,2,2008-09,Women's Soccer,II
-WSO,Northwood (MI),510,Northwood,"javascript:showTeamPage(-100, 2010, 'WSO', 2, 510);",2010,2,2009-10,Women's Soccer,II
-WSO,Northwood (MI),510,Northwood,"javascript:showTeamPage(-100, 2011, 'WSO', 2, 510);",2011,2,2010-11,Women's Soccer,II
-WSO,Northwood (MI),510,Northwood,"javascript:showTeamPage(-100, 2012, 'WSO', 2, 510);",2012,2,2011-12,Women's Soccer,II
-WSO,Northwood (MI),510,Northwood,"javascript:showTeamPage(-100, 2013, 'WSO', 2, 510);",2013,2,2012-13,Women's Soccer,II
-WSO,Northwood (MI),510,Northwood,"javascript:showTeamPage(-100, 2014, 'WSO', 2, 510);",2014,2,2013-14,Women's Soccer,II
-WSO,Northwood (MI),510,Northwood,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 510);",2015,2,2014-15,Women's Soccer,II
-WSO,Northwood (MI),510,Northwood,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 510);",2016,2,2015-16,Women's Soccer,II
-WSO,Northwood (MI),510,Northwood,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 510);",2017,2,2016-17,Women's Soccer,II
+WSO,Northwood,510,Northwood,"javascript:showTeamPage(-100, 1999, 'WSO', 2, 510);",1999,2,1998-99,Women's Soccer,II
+WSO,Northwood,510,Northwood,"javascript:showTeamPage(-100, 2000, 'WSO', 2, 510);",2000,2,1999-00,Women's Soccer,II
+WSO,Northwood,510,Northwood,"javascript:showTeamPage(-100, 2002, 'WSO', 2, 510);",2002,2,2001-02,Women's Soccer,II
+WSO,Northwood,510,Northwood,"javascript:showTeamPage(-100, 2003, 'WSO', 2, 510);",2003,2,2002-03,Women's Soccer,II
+WSO,Northwood,510,Northwood,"javascript:showTeamPage(-100, 2004, 'WSO', 2, 510);",2004,2,2003-04,Women's Soccer,II
+WSO,Northwood,510,Northwood,"javascript:showTeamPage(-100, 2005, 'WSO', 2, 510);",2005,2,2004-05,Women's Soccer,II
+WSO,Northwood,510,Northwood,"javascript:showTeamPage(-100, 2006, 'WSO', 2, 510);",2006,2,2005-06,Women's Soccer,II
+WSO,Northwood,510,Northwood,"javascript:showTeamPage(-100, 2007, 'WSO', 2, 510);",2007,2,2006-07,Women's Soccer,II
+WSO,Northwood,510,Northwood,"javascript:showTeamPage(-100, 2008, 'WSO', 2, 510);",2008,2,2007-08,Women's Soccer,II
+WSO,Northwood,510,Northwood,"javascript:showTeamPage(-100, 2009, 'WSO', 2, 510);",2009,2,2008-09,Women's Soccer,II
+WSO,Northwood,510,Northwood,"javascript:showTeamPage(-100, 2010, 'WSO', 2, 510);",2010,2,2009-10,Women's Soccer,II
+WSO,Northwood,510,Northwood,"javascript:showTeamPage(-100, 2011, 'WSO', 2, 510);",2011,2,2010-11,Women's Soccer,II
+WSO,Northwood,510,Northwood,"javascript:showTeamPage(-100, 2012, 'WSO', 2, 510);",2012,2,2011-12,Women's Soccer,II
+WSO,Northwood,510,Northwood,"javascript:showTeamPage(-100, 2013, 'WSO', 2, 510);",2013,2,2012-13,Women's Soccer,II
+WSO,Northwood,510,Northwood,"javascript:showTeamPage(-100, 2014, 'WSO', 2, 510);",2014,2,2013-14,Women's Soccer,II
+WSO,Northwood,510,Northwood,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 510);",2015,2,2014-15,Women's Soccer,II
+WSO,Northwood,510,Northwood,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 510);",2016,2,2015-16,Women's Soccer,II
+WSO,Northwood,510,Northwood,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 510);",2017,2,2016-17,Women's Soccer,II
 WSO,Norwich,511,Norwich,"javascript:showTeamPage(-100, 1999, 'WSO', 3, 511);",1999,3,1998-99,Women's Soccer,III
 WSO,Norwich,511,Norwich,"javascript:showTeamPage(-100, 2001, 'WSO', 3, 511);",2001,3,2000-01,Women's Soccer,III
 WSO,Norwich,511,Norwich,"javascript:showTeamPage(-100, 2002, 'WSO', 3, 511);",2002,3,2001-02,Women's Soccer,III
@@ -10779,6 +10792,8 @@ WSO,Ohio Wesleyan,520,Ohio Wesleyan,"javascript:showTeamPage(-100, 2014, 'WSO', 
 WSO,Ohio Wesleyan,520,Ohio Wesleyan,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 520);",2015,3,2014-15,Women's Soccer,III
 WSO,Ohio Wesleyan,520,Ohio Wesleyan,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 520);",2016,3,2015-16,Women's Soccer,III
 WSO,Ohio Wesleyan,520,Ohio Wesleyan,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 520);",2017,3,2016-17,Women's Soccer,III
+WSO,Okla. Baptist,30202,Okla. Baptist,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 30202);",2016,2,2015-16,Women's Soccer,II
+WSO,Okla. Baptist,30202,Okla. Baptist,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 30202);",2017,2,2016-17,Women's Soccer,II
 WSO,Okla. Christian,30179,Okla. Christian,"javascript:showTeamPage(-100, 2014, 'WSO', 2, 30179);",2014,2,2013-14,Women's Soccer,II
 WSO,Okla. Christian,30179,Okla. Christian,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 30179);",2015,2,2014-15,Women's Soccer,II
 WSO,Okla. Christian,30179,Okla. Christian,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 30179);",2016,2,2015-16,Women's Soccer,II
@@ -11982,6 +11997,25 @@ WSO,Ripon,577,Ripon,"javascript:showTeamPage(-100, 2014, 'WSO', 3, 577);",2014,3
 WSO,Ripon,577,Ripon,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 577);",2015,3,2014-15,Women's Soccer,III
 WSO,Ripon,577,Ripon,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 577);",2016,3,2015-16,Women's Soccer,III
 WSO,Ripon,577,Ripon,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 577);",2017,3,2016-17,Women's Soccer,III
+WSO,RIT,580,RIT,"javascript:showTeamPage(-100, 1999, 'WSO', 3, 580);",1999,3,1998-99,Women's Soccer,III
+WSO,RIT,580,RIT,"javascript:showTeamPage(-100, 2000, 'WSO', 3, 580);",2000,3,1999-00,Women's Soccer,III
+WSO,RIT,580,RIT,"javascript:showTeamPage(-100, 2001, 'WSO', 3, 580);",2001,3,2000-01,Women's Soccer,III
+WSO,RIT,580,RIT,"javascript:showTeamPage(-100, 2002, 'WSO', 3, 580);",2002,3,2001-02,Women's Soccer,III
+WSO,RIT,580,RIT,"javascript:showTeamPage(-100, 2003, 'WSO', 3, 580);",2003,3,2002-03,Women's Soccer,III
+WSO,RIT,580,RIT,"javascript:showTeamPage(-100, 2004, 'WSO', 3, 580);",2004,3,2003-04,Women's Soccer,III
+WSO,RIT,580,RIT,"javascript:showTeamPage(-100, 2005, 'WSO', 3, 580);",2005,3,2004-05,Women's Soccer,III
+WSO,RIT,580,RIT,"javascript:showTeamPage(-100, 2006, 'WSO', 3, 580);",2006,3,2005-06,Women's Soccer,III
+WSO,RIT,580,RIT,"javascript:showTeamPage(-100, 2007, 'WSO', 3, 580);",2007,3,2006-07,Women's Soccer,III
+WSO,RIT,580,RIT,"javascript:showTeamPage(-100, 2008, 'WSO', 3, 580);",2008,3,2007-08,Women's Soccer,III
+WSO,RIT,580,RIT,"javascript:showTeamPage(-100, 2009, 'WSO', 3, 580);",2009,3,2008-09,Women's Soccer,III
+WSO,RIT,580,RIT,"javascript:showTeamPage(-100, 2010, 'WSO', 3, 580);",2010,3,2009-10,Women's Soccer,III
+WSO,RIT,580,RIT,"javascript:showTeamPage(-100, 2011, 'WSO', 3, 580);",2011,3,2010-11,Women's Soccer,III
+WSO,RIT,580,RIT,"javascript:showTeamPage(-100, 2012, 'WSO', 3, 580);",2012,3,2011-12,Women's Soccer,III
+WSO,RIT,580,RIT,"javascript:showTeamPage(-100, 2013, 'WSO', 3, 580);",2013,3,2012-13,Women's Soccer,III
+WSO,RIT,580,RIT,"javascript:showTeamPage(-100, 2014, 'WSO', 3, 580);",2014,3,2013-14,Women's Soccer,III
+WSO,RIT,580,RIT,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 580);",2015,3,2014-15,Women's Soccer,III
+WSO,RIT,580,RIT,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 580);",2016,3,2015-16,Women's Soccer,III
+WSO,RIT,580,RIT,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 580);",2017,3,2016-17,Women's Soccer,III
 WSO,Rivier,18422,Rivier,"javascript:showTeamPage(-100, 2000, 'WSO', 3, 18422);",2000,3,1999-00,Women's Soccer,III
 WSO,Rivier,18422,Rivier,"javascript:showTeamPage(-100, 2001, 'WSO', 3, 18422);",2001,3,2000-01,Women's Soccer,III
 WSO,Rivier,18422,Rivier,"javascript:showTeamPage(-100, 2002, 'WSO', 3, 18422);",2002,3,2001-02,Women's Soccer,III
@@ -12061,25 +12095,6 @@ WSO,Rochester (NY),581,Rochester (NY),"javascript:showTeamPage(-100, 2014, 'WSO'
 WSO,Rochester (NY),581,Rochester (NY),"javascript:showTeamPage(-100, 2015, 'WSO', 3, 581);",2015,3,2014-15,Women's Soccer,III
 WSO,Rochester (NY),581,Rochester (NY),"javascript:showTeamPage(-100, 2016, 'WSO', 3, 581);",2016,3,2015-16,Women's Soccer,III
 WSO,Rochester (NY),581,Rochester (NY),"javascript:showTeamPage(-100, 2017, 'WSO', 3, 581);",2017,3,2016-17,Women's Soccer,III
-WSO,Rochester Inst.,580,RIT,"javascript:showTeamPage(-100, 1999, 'WSO', 3, 580);",1999,3,1998-99,Women's Soccer,III
-WSO,Rochester Inst.,580,RIT,"javascript:showTeamPage(-100, 2000, 'WSO', 3, 580);",2000,3,1999-00,Women's Soccer,III
-WSO,Rochester Inst.,580,RIT,"javascript:showTeamPage(-100, 2001, 'WSO', 3, 580);",2001,3,2000-01,Women's Soccer,III
-WSO,Rochester Inst.,580,RIT,"javascript:showTeamPage(-100, 2002, 'WSO', 3, 580);",2002,3,2001-02,Women's Soccer,III
-WSO,Rochester Inst.,580,RIT,"javascript:showTeamPage(-100, 2003, 'WSO', 3, 580);",2003,3,2002-03,Women's Soccer,III
-WSO,Rochester Inst.,580,RIT,"javascript:showTeamPage(-100, 2004, 'WSO', 3, 580);",2004,3,2003-04,Women's Soccer,III
-WSO,Rochester Inst.,580,RIT,"javascript:showTeamPage(-100, 2005, 'WSO', 3, 580);",2005,3,2004-05,Women's Soccer,III
-WSO,Rochester Inst.,580,RIT,"javascript:showTeamPage(-100, 2006, 'WSO', 3, 580);",2006,3,2005-06,Women's Soccer,III
-WSO,Rochester Inst.,580,RIT,"javascript:showTeamPage(-100, 2007, 'WSO', 3, 580);",2007,3,2006-07,Women's Soccer,III
-WSO,Rochester Inst.,580,RIT,"javascript:showTeamPage(-100, 2008, 'WSO', 3, 580);",2008,3,2007-08,Women's Soccer,III
-WSO,Rochester Inst.,580,RIT,"javascript:showTeamPage(-100, 2009, 'WSO', 3, 580);",2009,3,2008-09,Women's Soccer,III
-WSO,Rochester Inst.,580,RIT,"javascript:showTeamPage(-100, 2010, 'WSO', 3, 580);",2010,3,2009-10,Women's Soccer,III
-WSO,Rochester Inst.,580,RIT,"javascript:showTeamPage(-100, 2011, 'WSO', 3, 580);",2011,3,2010-11,Women's Soccer,III
-WSO,Rochester Inst.,580,RIT,"javascript:showTeamPage(-100, 2012, 'WSO', 3, 580);",2012,3,2011-12,Women's Soccer,III
-WSO,Rochester Inst.,580,RIT,"javascript:showTeamPage(-100, 2013, 'WSO', 3, 580);",2013,3,2012-13,Women's Soccer,III
-WSO,Rochester Inst.,580,RIT,"javascript:showTeamPage(-100, 2014, 'WSO', 3, 580);",2014,3,2013-14,Women's Soccer,III
-WSO,Rochester Inst.,580,RIT,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 580);",2015,3,2014-15,Women's Soccer,III
-WSO,Rochester Inst.,580,RIT,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 580);",2016,3,2015-16,Women's Soccer,III
-WSO,Rochester Inst.,580,RIT,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 580);",2017,3,2016-17,Women's Soccer,III
 WSO,Rockford,582,Rockford,"javascript:showTeamPage(-100, 1999, 'WSO', 3, 582);",1999,3,1998-99,Women's Soccer,III
 WSO,Rockford,582,Rockford,"javascript:showTeamPage(-100, 2000, 'WSO', 3, 582);",2000,3,1999-00,Women's Soccer,III
 WSO,Rockford,582,Rockford,"javascript:showTeamPage(-100, 2001, 'WSO', 3, 582);",2001,3,2000-01,Women's Soccer,III
@@ -12450,6 +12465,25 @@ WSO,Saint Martin's,1343,Saint Martin's,"javascript:showTeamPage(-100, 2014, 'WSO
 WSO,Saint Martin's,1343,Saint Martin's,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 1343);",2015,2,2014-15,Women's Soccer,II
 WSO,Saint Martin's,1343,Saint Martin's,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 1343);",2016,2,2015-16,Women's Soccer,II
 WSO,Saint Martin's,1343,Saint Martin's,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 1343);",2017,2,2016-17,Women's Soccer,II
+WSO,Saint Mary's (CA),610,Saint Mary's (CA),"javascript:showTeamPage(-100, 1999, 'WSO', 1, 610);",1999,1,1998-99,Women's Soccer,I
+WSO,Saint Mary's (CA),610,Saint Mary's (CA),"javascript:showTeamPage(-100, 2000, 'WSO', 1, 610);",2000,1,1999-00,Women's Soccer,I
+WSO,Saint Mary's (CA),610,Saint Mary's (CA),"javascript:showTeamPage(-100, 2001, 'WSO', 1, 610);",2001,1,2000-01,Women's Soccer,I
+WSO,Saint Mary's (CA),610,Saint Mary's (CA),"javascript:showTeamPage(-100, 2002, 'WSO', 1, 610);",2002,1,2001-02,Women's Soccer,I
+WSO,Saint Mary's (CA),610,Saint Mary's (CA),"javascript:showTeamPage(-100, 2003, 'WSO', 1, 610);",2003,1,2002-03,Women's Soccer,I
+WSO,Saint Mary's (CA),610,Saint Mary's (CA),"javascript:showTeamPage(-100, 2004, 'WSO', 1, 610);",2004,1,2003-04,Women's Soccer,I
+WSO,Saint Mary's (CA),610,Saint Mary's (CA),"javascript:showTeamPage(-100, 2005, 'WSO', 1, 610);",2005,1,2004-05,Women's Soccer,I
+WSO,Saint Mary's (CA),610,Saint Mary's (CA),"javascript:showTeamPage(-100, 2006, 'WSO', 1, 610);",2006,1,2005-06,Women's Soccer,I
+WSO,Saint Mary's (CA),610,Saint Mary's (CA),"javascript:showTeamPage(-100, 2007, 'WSO', 1, 610);",2007,1,2006-07,Women's Soccer,I
+WSO,Saint Mary's (CA),610,Saint Mary's (CA),"javascript:showTeamPage(-100, 2008, 'WSO', 1, 610);",2008,1,2007-08,Women's Soccer,I
+WSO,Saint Mary's (CA),610,Saint Mary's (CA),"javascript:showTeamPage(-100, 2009, 'WSO', 1, 610);",2009,1,2008-09,Women's Soccer,I
+WSO,Saint Mary's (CA),610,Saint Mary's (CA),"javascript:showTeamPage(-100, 2010, 'WSO', 1, 610);",2010,1,2009-10,Women's Soccer,I
+WSO,Saint Mary's (CA),610,Saint Mary's (CA),"javascript:showTeamPage(-100, 2011, 'WSO', 1, 610);",2011,1,2010-11,Women's Soccer,I
+WSO,Saint Mary's (CA),610,Saint Mary's (CA),"javascript:showTeamPage(-100, 2012, 'WSO', 1, 610);",2012,1,2011-12,Women's Soccer,I
+WSO,Saint Mary's (CA),610,Saint Mary's (CA),"javascript:showTeamPage(-100, 2013, 'WSO', 1, 610);",2013,1,2012-13,Women's Soccer,I
+WSO,Saint Mary's (CA),610,Saint Mary's (CA),"javascript:showTeamPage(-100, 2014, 'WSO', 1, 610);",2014,1,2013-14,Women's Soccer,I
+WSO,Saint Mary's (CA),610,Saint Mary's (CA),"javascript:showTeamPage(-100, 2015, 'WSO', 1, 610);",2015,1,2014-15,Women's Soccer,I
+WSO,Saint Mary's (CA),610,Saint Mary's (CA),"javascript:showTeamPage(-100, 2016, 'WSO', 1, 610);",2016,1,2015-16,Women's Soccer,I
+WSO,Saint Mary's (CA),610,Saint Mary's (CA),"javascript:showTeamPage(-100, 2017, 'WSO', 1, 610);",2017,1,2016-17,Women's Soccer,I
 WSO,Saint Mary's (MN),612,Saint Mary's (MN),"javascript:showTeamPage(-100, 1999, 'WSO', 3, 612);",1999,3,1998-99,Women's Soccer,III
 WSO,Saint Mary's (MN),612,Saint Mary's (MN),"javascript:showTeamPage(-100, 2000, 'WSO', 3, 612);",2000,3,1999-00,Women's Soccer,III
 WSO,Saint Mary's (MN),612,Saint Mary's (MN),"javascript:showTeamPage(-100, 2001, 'WSO', 3, 612);",2001,3,2000-01,Women's Soccer,III
@@ -12811,22 +12845,6 @@ WSO,Scranton,633,Scranton,"javascript:showTeamPage(-100, 2014, 'WSO', 3, 633);",
 WSO,Scranton,633,Scranton,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 633);",2015,3,2014-15,Women's Soccer,III
 WSO,Scranton,633,Scranton,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 633);",2016,3,2015-16,Women's Soccer,III
 WSO,Scranton,633,Scranton,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 633);",2017,3,2016-17,Women's Soccer,III
-WSO,Seattle,1356,Seattle,"javascript:showTeamPage(-100, 2002, 'WSO', 2, 1356);",2002,2,2001-02,Women's Soccer,II
-WSO,Seattle,1356,Seattle,"javascript:showTeamPage(-100, 2003, 'WSO', 2, 1356);",2003,2,2002-03,Women's Soccer,II
-WSO,Seattle,1356,Seattle,"javascript:showTeamPage(-100, 2004, 'WSO', 2, 1356);",2004,2,2003-04,Women's Soccer,II
-WSO,Seattle,1356,Seattle,"javascript:showTeamPage(-100, 2005, 'WSO', 2, 1356);",2005,2,2004-05,Women's Soccer,II
-WSO,Seattle,1356,Seattle,"javascript:showTeamPage(-100, 2006, 'WSO', 2, 1356);",2006,2,2005-06,Women's Soccer,II
-WSO,Seattle,1356,Seattle,"javascript:showTeamPage(-100, 2007, 'WSO', 2, 1356);",2007,2,2006-07,Women's Soccer,II
-WSO,Seattle,1356,Seattle,"javascript:showTeamPage(-100, 2008, 'WSO', 2, 1356);",2008,2,2007-08,Women's Soccer,II
-WSO,Seattle,1356,Seattle,"javascript:showTeamPage(-100, 2009, 'WSO', 1, 1356);",2009,1,2008-09,Women's Soccer,I
-WSO,Seattle,1356,Seattle,"javascript:showTeamPage(-100, 2010, 'WSO', 1, 1356);",2010,1,2009-10,Women's Soccer,I
-WSO,Seattle,1356,Seattle,"javascript:showTeamPage(-100, 2011, 'WSO', 1, 1356);",2011,1,2010-11,Women's Soccer,I
-WSO,Seattle,1356,Seattle,"javascript:showTeamPage(-100, 2012, 'WSO', 1, 1356);",2012,1,2011-12,Women's Soccer,I
-WSO,Seattle,1356,Seattle,"javascript:showTeamPage(-100, 2013, 'WSO', 1, 1356);",2013,1,2012-13,Women's Soccer,I
-WSO,Seattle,1356,Seattle,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 1356);",2014,1,2013-14,Women's Soccer,I
-WSO,Seattle,1356,Seattle,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 1356);",2015,1,2014-15,Women's Soccer,I
-WSO,Seattle,1356,Seattle,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 1356);",2016,1,2015-16,Women's Soccer,I
-WSO,Seattle,1356,Seattle,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 1356);",2017,1,2016-17,Women's Soccer,I
 WSO,Seattle Pacific,634,Seattle Pacific,"javascript:showTeamPage(-100, 2002, 'WSO', 2, 634);",2002,2,2001-02,Women's Soccer,II
 WSO,Seattle Pacific,634,Seattle Pacific,"javascript:showTeamPage(-100, 2003, 'WSO', 2, 634);",2003,2,2002-03,Women's Soccer,II
 WSO,Seattle Pacific,634,Seattle Pacific,"javascript:showTeamPage(-100, 2004, 'WSO', 2, 634);",2004,2,2003-04,Women's Soccer,II
@@ -12843,6 +12861,22 @@ WSO,Seattle Pacific,634,Seattle Pacific,"javascript:showTeamPage(-100, 2014, 'WS
 WSO,Seattle Pacific,634,Seattle Pacific,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 634);",2015,2,2014-15,Women's Soccer,II
 WSO,Seattle Pacific,634,Seattle Pacific,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 634);",2016,2,2015-16,Women's Soccer,II
 WSO,Seattle Pacific,634,Seattle Pacific,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 634);",2017,2,2016-17,Women's Soccer,II
+WSO,Seattle U,1356,Seattle U,"javascript:showTeamPage(-100, 2002, 'WSO', 2, 1356);",2002,2,2001-02,Women's Soccer,II
+WSO,Seattle U,1356,Seattle U,"javascript:showTeamPage(-100, 2003, 'WSO', 2, 1356);",2003,2,2002-03,Women's Soccer,II
+WSO,Seattle U,1356,Seattle U,"javascript:showTeamPage(-100, 2004, 'WSO', 2, 1356);",2004,2,2003-04,Women's Soccer,II
+WSO,Seattle U,1356,Seattle U,"javascript:showTeamPage(-100, 2005, 'WSO', 2, 1356);",2005,2,2004-05,Women's Soccer,II
+WSO,Seattle U,1356,Seattle U,"javascript:showTeamPage(-100, 2006, 'WSO', 2, 1356);",2006,2,2005-06,Women's Soccer,II
+WSO,Seattle U,1356,Seattle U,"javascript:showTeamPage(-100, 2007, 'WSO', 2, 1356);",2007,2,2006-07,Women's Soccer,II
+WSO,Seattle U,1356,Seattle U,"javascript:showTeamPage(-100, 2008, 'WSO', 2, 1356);",2008,2,2007-08,Women's Soccer,II
+WSO,Seattle U,1356,Seattle U,"javascript:showTeamPage(-100, 2009, 'WSO', 1, 1356);",2009,1,2008-09,Women's Soccer,I
+WSO,Seattle U,1356,Seattle U,"javascript:showTeamPage(-100, 2010, 'WSO', 1, 1356);",2010,1,2009-10,Women's Soccer,I
+WSO,Seattle U,1356,Seattle U,"javascript:showTeamPage(-100, 2011, 'WSO', 1, 1356);",2011,1,2010-11,Women's Soccer,I
+WSO,Seattle U,1356,Seattle U,"javascript:showTeamPage(-100, 2012, 'WSO', 1, 1356);",2012,1,2011-12,Women's Soccer,I
+WSO,Seattle U,1356,Seattle U,"javascript:showTeamPage(-100, 2013, 'WSO', 1, 1356);",2013,1,2012-13,Women's Soccer,I
+WSO,Seattle U,1356,Seattle U,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 1356);",2014,1,2013-14,Women's Soccer,I
+WSO,Seattle U,1356,Seattle U,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 1356);",2015,1,2014-15,Women's Soccer,I
+WSO,Seattle U,1356,Seattle U,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 1356);",2016,1,2015-16,Women's Soccer,I
+WSO,Seattle U,1356,Seattle U,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 1356);",2017,1,2016-17,Women's Soccer,I
 WSO,Seton Hall,635,Seton Hall,"javascript:showTeamPage(-100, 1999, 'WSO', 1, 635);",1999,1,1998-99,Women's Soccer,I
 WSO,Seton Hall,635,Seton Hall,"javascript:showTeamPage(-100, 2000, 'WSO', 1, 635);",2000,1,1999-00,Women's Soccer,I
 WSO,Seton Hall,635,Seton Hall,"javascript:showTeamPage(-100, 2001, 'WSO', 1, 635);",2001,1,2000-01,Women's Soccer,I
@@ -12888,6 +12922,25 @@ WSO,Sewanee,652,Sewanee,"javascript:showTeamPage(-100, 2014, 'WSO', 3, 652);",20
 WSO,Sewanee,652,Sewanee,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 652);",2015,3,2014-15,Women's Soccer,III
 WSO,Sewanee,652,Sewanee,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 652);",2016,3,2015-16,Women's Soccer,III
 WSO,Sewanee,652,Sewanee,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 652);",2017,3,2016-17,Women's Soccer,III
+WSO,SFA,676,SFA,"javascript:showTeamPage(-100, 1999, 'WSO', 1, 676);",1999,1,1998-99,Women's Soccer,I
+WSO,SFA,676,SFA,"javascript:showTeamPage(-100, 2000, 'WSO', 1, 676);",2000,1,1999-00,Women's Soccer,I
+WSO,SFA,676,SFA,"javascript:showTeamPage(-100, 2001, 'WSO', 1, 676);",2001,1,2000-01,Women's Soccer,I
+WSO,SFA,676,SFA,"javascript:showTeamPage(-100, 2002, 'WSO', 1, 676);",2002,1,2001-02,Women's Soccer,I
+WSO,SFA,676,SFA,"javascript:showTeamPage(-100, 2003, 'WSO', 1, 676);",2003,1,2002-03,Women's Soccer,I
+WSO,SFA,676,SFA,"javascript:showTeamPage(-100, 2004, 'WSO', 1, 676);",2004,1,2003-04,Women's Soccer,I
+WSO,SFA,676,SFA,"javascript:showTeamPage(-100, 2005, 'WSO', 1, 676);",2005,1,2004-05,Women's Soccer,I
+WSO,SFA,676,SFA,"javascript:showTeamPage(-100, 2006, 'WSO', 1, 676);",2006,1,2005-06,Women's Soccer,I
+WSO,SFA,676,SFA,"javascript:showTeamPage(-100, 2007, 'WSO', 1, 676);",2007,1,2006-07,Women's Soccer,I
+WSO,SFA,676,SFA,"javascript:showTeamPage(-100, 2008, 'WSO', 1, 676);",2008,1,2007-08,Women's Soccer,I
+WSO,SFA,676,SFA,"javascript:showTeamPage(-100, 2009, 'WSO', 1, 676);",2009,1,2008-09,Women's Soccer,I
+WSO,SFA,676,SFA,"javascript:showTeamPage(-100, 2010, 'WSO', 1, 676);",2010,1,2009-10,Women's Soccer,I
+WSO,SFA,676,SFA,"javascript:showTeamPage(-100, 2011, 'WSO', 1, 676);",2011,1,2010-11,Women's Soccer,I
+WSO,SFA,676,SFA,"javascript:showTeamPage(-100, 2012, 'WSO', 1, 676);",2012,1,2011-12,Women's Soccer,I
+WSO,SFA,676,SFA,"javascript:showTeamPage(-100, 2013, 'WSO', 1, 676);",2013,1,2012-13,Women's Soccer,I
+WSO,SFA,676,SFA,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 676);",2014,1,2013-14,Women's Soccer,I
+WSO,SFA,676,SFA,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 676);",2015,1,2014-15,Women's Soccer,I
+WSO,SFA,676,SFA,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 676);",2016,1,2015-16,Women's Soccer,I
+WSO,SFA,676,SFA,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 676);",2017,1,2016-17,Women's Soccer,I
 WSO,Shenandoah,637,Shenandoah,"javascript:showTeamPage(-100, 1999, 'WSO', 3, 637);",1999,3,1998-99,Women's Soccer,III
 WSO,Shenandoah,637,Shenandoah,"javascript:showTeamPage(-100, 2000, 'WSO', 3, 637);",2000,3,1999-00,Women's Soccer,III
 WSO,Shenandoah,637,Shenandoah,"javascript:showTeamPage(-100, 2001, 'WSO', 3, 637);",2001,3,2000-01,Women's Soccer,III
@@ -13839,25 +13892,6 @@ WSO,St. Lawrence,607,St. Lawrence,"javascript:showTeamPage(-100, 2014, 'WSO', 3,
 WSO,St. Lawrence,607,St. Lawrence,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 607);",2015,3,2014-15,Women's Soccer,III
 WSO,St. Lawrence,607,St. Lawrence,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 607);",2016,3,2015-16,Women's Soccer,III
 WSO,St. Lawrence,607,St. Lawrence,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 607);",2017,3,2016-17,Women's Soccer,III
-WSO,St. Mary's (CA),610,St. Mary's (CA),"javascript:showTeamPage(-100, 1999, 'WSO', 1, 610);",1999,1,1998-99,Women's Soccer,I
-WSO,St. Mary's (CA),610,St. Mary's (CA),"javascript:showTeamPage(-100, 2000, 'WSO', 1, 610);",2000,1,1999-00,Women's Soccer,I
-WSO,St. Mary's (CA),610,St. Mary's (CA),"javascript:showTeamPage(-100, 2001, 'WSO', 1, 610);",2001,1,2000-01,Women's Soccer,I
-WSO,St. Mary's (CA),610,St. Mary's (CA),"javascript:showTeamPage(-100, 2002, 'WSO', 1, 610);",2002,1,2001-02,Women's Soccer,I
-WSO,St. Mary's (CA),610,St. Mary's (CA),"javascript:showTeamPage(-100, 2003, 'WSO', 1, 610);",2003,1,2002-03,Women's Soccer,I
-WSO,St. Mary's (CA),610,St. Mary's (CA),"javascript:showTeamPage(-100, 2004, 'WSO', 1, 610);",2004,1,2003-04,Women's Soccer,I
-WSO,St. Mary's (CA),610,St. Mary's (CA),"javascript:showTeamPage(-100, 2005, 'WSO', 1, 610);",2005,1,2004-05,Women's Soccer,I
-WSO,St. Mary's (CA),610,St. Mary's (CA),"javascript:showTeamPage(-100, 2006, 'WSO', 1, 610);",2006,1,2005-06,Women's Soccer,I
-WSO,St. Mary's (CA),610,St. Mary's (CA),"javascript:showTeamPage(-100, 2007, 'WSO', 1, 610);",2007,1,2006-07,Women's Soccer,I
-WSO,St. Mary's (CA),610,St. Mary's (CA),"javascript:showTeamPage(-100, 2008, 'WSO', 1, 610);",2008,1,2007-08,Women's Soccer,I
-WSO,St. Mary's (CA),610,St. Mary's (CA),"javascript:showTeamPage(-100, 2009, 'WSO', 1, 610);",2009,1,2008-09,Women's Soccer,I
-WSO,St. Mary's (CA),610,St. Mary's (CA),"javascript:showTeamPage(-100, 2010, 'WSO', 1, 610);",2010,1,2009-10,Women's Soccer,I
-WSO,St. Mary's (CA),610,St. Mary's (CA),"javascript:showTeamPage(-100, 2011, 'WSO', 1, 610);",2011,1,2010-11,Women's Soccer,I
-WSO,St. Mary's (CA),610,St. Mary's (CA),"javascript:showTeamPage(-100, 2012, 'WSO', 1, 610);",2012,1,2011-12,Women's Soccer,I
-WSO,St. Mary's (CA),610,St. Mary's (CA),"javascript:showTeamPage(-100, 2013, 'WSO', 1, 610);",2013,1,2012-13,Women's Soccer,I
-WSO,St. Mary's (CA),610,St. Mary's (CA),"javascript:showTeamPage(-100, 2014, 'WSO', 1, 610);",2014,1,2013-14,Women's Soccer,I
-WSO,St. Mary's (CA),610,St. Mary's (CA),"javascript:showTeamPage(-100, 2015, 'WSO', 1, 610);",2015,1,2014-15,Women's Soccer,I
-WSO,St. Mary's (CA),610,St. Mary's (CA),"javascript:showTeamPage(-100, 2016, 'WSO', 1, 610);",2016,1,2015-16,Women's Soccer,I
-WSO,St. Mary's (CA),610,St. Mary's (CA),"javascript:showTeamPage(-100, 2017, 'WSO', 1, 610);",2017,1,2016-17,Women's Soccer,I
 WSO,St. Mary's (IN),8688,St. Mary's (IN),"javascript:showTeamPage(-100, 1999, 'WSO', 3, 8688);",1999,3,1998-99,Women's Soccer,III
 WSO,St. Mary's (IN),8688,St. Mary's (IN),"javascript:showTeamPage(-100, 2000, 'WSO', 3, 8688);",2000,3,1999-00,Women's Soccer,III
 WSO,St. Mary's (IN),8688,St. Mary's (IN),"javascript:showTeamPage(-100, 2001, 'WSO', 3, 8688);",2001,3,2000-01,Women's Soccer,III
@@ -14022,6 +14056,24 @@ WSO,Stanford,674,Stanford,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 674);",
 WSO,Stanford,674,Stanford,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 674);",2015,1,2014-15,Women's Soccer,I
 WSO,Stanford,674,Stanford,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 674);",2016,1,2015-16,Women's Soccer,I
 WSO,Stanford,674,Stanford,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 674);",2017,1,2016-17,Women's Soccer,I
+WSO,Stanislaus St.,103,Stanislaus St.,"javascript:showTeamPage(-100, 1999, 'WSO', 2, 103);",1999,2,1998-99,Women's Soccer,II
+WSO,Stanislaus St.,103,Stanislaus St.,"javascript:showTeamPage(-100, 2001, 'WSO', 2, 103);",2001,2,2000-01,Women's Soccer,II
+WSO,Stanislaus St.,103,Stanislaus St.,"javascript:showTeamPage(-100, 2002, 'WSO', 2, 103);",2002,2,2001-02,Women's Soccer,II
+WSO,Stanislaus St.,103,Stanislaus St.,"javascript:showTeamPage(-100, 2003, 'WSO', 2, 103);",2003,2,2002-03,Women's Soccer,II
+WSO,Stanislaus St.,103,Stanislaus St.,"javascript:showTeamPage(-100, 2004, 'WSO', 2, 103);",2004,2,2003-04,Women's Soccer,II
+WSO,Stanislaus St.,103,Stanislaus St.,"javascript:showTeamPage(-100, 2005, 'WSO', 2, 103);",2005,2,2004-05,Women's Soccer,II
+WSO,Stanislaus St.,103,Stanislaus St.,"javascript:showTeamPage(-100, 2006, 'WSO', 2, 103);",2006,2,2005-06,Women's Soccer,II
+WSO,Stanislaus St.,103,Stanislaus St.,"javascript:showTeamPage(-100, 2007, 'WSO', 2, 103);",2007,2,2006-07,Women's Soccer,II
+WSO,Stanislaus St.,103,Stanislaus St.,"javascript:showTeamPage(-100, 2008, 'WSO', 2, 103);",2008,2,2007-08,Women's Soccer,II
+WSO,Stanislaus St.,103,Stanislaus St.,"javascript:showTeamPage(-100, 2009, 'WSO', 2, 103);",2009,2,2008-09,Women's Soccer,II
+WSO,Stanislaus St.,103,Stanislaus St.,"javascript:showTeamPage(-100, 2010, 'WSO', 2, 103);",2010,2,2009-10,Women's Soccer,II
+WSO,Stanislaus St.,103,Stanislaus St.,"javascript:showTeamPage(-100, 2011, 'WSO', 2, 103);",2011,2,2010-11,Women's Soccer,II
+WSO,Stanislaus St.,103,Stanislaus St.,"javascript:showTeamPage(-100, 2012, 'WSO', 2, 103);",2012,2,2011-12,Women's Soccer,II
+WSO,Stanislaus St.,103,Stanislaus St.,"javascript:showTeamPage(-100, 2013, 'WSO', 2, 103);",2013,2,2012-13,Women's Soccer,II
+WSO,Stanislaus St.,103,Stanislaus St.,"javascript:showTeamPage(-100, 2014, 'WSO', 2, 103);",2014,2,2013-14,Women's Soccer,II
+WSO,Stanislaus St.,103,Stanislaus St.,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 103);",2015,2,2014-15,Women's Soccer,II
+WSO,Stanislaus St.,103,Stanislaus St.,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 103);",2016,2,2015-16,Women's Soccer,II
+WSO,Stanislaus St.,103,Stanislaus St.,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 103);",2017,2,2016-17,Women's Soccer,II
 WSO,Staten Island,675,Staten Island,"javascript:showTeamPage(-100, 2005, 'WSO', 3, 675);",2005,3,2004-05,Women's Soccer,III
 WSO,Staten Island,675,Staten Island,"javascript:showTeamPage(-100, 2006, 'WSO', 3, 675);",2006,3,2005-06,Women's Soccer,III
 WSO,Staten Island,675,Staten Island,"javascript:showTeamPage(-100, 2007, 'WSO', 3, 675);",2007,3,2006-07,Women's Soccer,III
@@ -14035,25 +14087,6 @@ WSO,Staten Island,675,Staten Island,"javascript:showTeamPage(-100, 2014, 'WSO', 
 WSO,Staten Island,675,Staten Island,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 675);",2015,3,2014-15,Women's Soccer,III
 WSO,Staten Island,675,Staten Island,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 675);",2016,3,2015-16,Women's Soccer,III
 WSO,Staten Island,675,Staten Island,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 675);",2017,3,2016-17,Women's Soccer,III
-WSO,Stephen F. Austin,676,SFA,"javascript:showTeamPage(-100, 1999, 'WSO', 1, 676);",1999,1,1998-99,Women's Soccer,I
-WSO,Stephen F. Austin,676,SFA,"javascript:showTeamPage(-100, 2000, 'WSO', 1, 676);",2000,1,1999-00,Women's Soccer,I
-WSO,Stephen F. Austin,676,SFA,"javascript:showTeamPage(-100, 2001, 'WSO', 1, 676);",2001,1,2000-01,Women's Soccer,I
-WSO,Stephen F. Austin,676,SFA,"javascript:showTeamPage(-100, 2002, 'WSO', 1, 676);",2002,1,2001-02,Women's Soccer,I
-WSO,Stephen F. Austin,676,SFA,"javascript:showTeamPage(-100, 2003, 'WSO', 1, 676);",2003,1,2002-03,Women's Soccer,I
-WSO,Stephen F. Austin,676,SFA,"javascript:showTeamPage(-100, 2004, 'WSO', 1, 676);",2004,1,2003-04,Women's Soccer,I
-WSO,Stephen F. Austin,676,SFA,"javascript:showTeamPage(-100, 2005, 'WSO', 1, 676);",2005,1,2004-05,Women's Soccer,I
-WSO,Stephen F. Austin,676,SFA,"javascript:showTeamPage(-100, 2006, 'WSO', 1, 676);",2006,1,2005-06,Women's Soccer,I
-WSO,Stephen F. Austin,676,SFA,"javascript:showTeamPage(-100, 2007, 'WSO', 1, 676);",2007,1,2006-07,Women's Soccer,I
-WSO,Stephen F. Austin,676,SFA,"javascript:showTeamPage(-100, 2008, 'WSO', 1, 676);",2008,1,2007-08,Women's Soccer,I
-WSO,Stephen F. Austin,676,SFA,"javascript:showTeamPage(-100, 2009, 'WSO', 1, 676);",2009,1,2008-09,Women's Soccer,I
-WSO,Stephen F. Austin,676,SFA,"javascript:showTeamPage(-100, 2010, 'WSO', 1, 676);",2010,1,2009-10,Women's Soccer,I
-WSO,Stephen F. Austin,676,SFA,"javascript:showTeamPage(-100, 2011, 'WSO', 1, 676);",2011,1,2010-11,Women's Soccer,I
-WSO,Stephen F. Austin,676,SFA,"javascript:showTeamPage(-100, 2012, 'WSO', 1, 676);",2012,1,2011-12,Women's Soccer,I
-WSO,Stephen F. Austin,676,SFA,"javascript:showTeamPage(-100, 2013, 'WSO', 1, 676);",2013,1,2012-13,Women's Soccer,I
-WSO,Stephen F. Austin,676,SFA,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 676);",2014,1,2013-14,Women's Soccer,I
-WSO,Stephen F. Austin,676,SFA,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 676);",2015,1,2014-15,Women's Soccer,I
-WSO,Stephen F. Austin,676,SFA,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 676);",2016,1,2015-16,Women's Soccer,I
-WSO,Stephen F. Austin,676,SFA,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 676);",2017,1,2016-17,Women's Soccer,I
 WSO,Stephens College,2756,Stephens College,"javascript:showTeamPage(-100, 2002, 'WSO', 3, 2756);",2002,3,2001-02,Women's Soccer,III
 WSO,Stephens College,2756,Stephens College,"javascript:showTeamPage(-100, 2003, 'WSO', 3, 2756);",2003,3,2002-03,Women's Soccer,III
 WSO,Stephens College,2756,Stephens College,"javascript:showTeamPage(-100, 2004, 'WSO', 3, 2756);",2004,3,2003-04,Women's Soccer,III
@@ -14196,22 +14229,6 @@ WSO,Suffolk,684,Suffolk,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 684);",20
 WSO,Suffolk,684,Suffolk,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 684);",2017,3,2016-17,Women's Soccer,III
 WSO,Sul Ross St.,1390,Sul Ross St.,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 1390);",2016,3,2015-16,Women's Soccer,III
 WSO,Sul Ross St.,1390,Sul Ross St.,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 1390);",2017,3,2016-17,Women's Soccer,III
-WSO,Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2002, 'WSO', 3, 958);",2002,3,2001-02,Women's Soccer,III
-WSO,Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2003, 'WSO', 3, 958);",2003,3,2002-03,Women's Soccer,III
-WSO,Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2004, 'WSO', 3, 958);",2004,3,2003-04,Women's Soccer,III
-WSO,Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2005, 'WSO', 3, 958);",2005,3,2004-05,Women's Soccer,III
-WSO,Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2006, 'WSO', 3, 958);",2006,3,2005-06,Women's Soccer,III
-WSO,Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2007, 'WSO', 3, 958);",2007,3,2006-07,Women's Soccer,III
-WSO,Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2008, 'WSO', 3, 958);",2008,3,2007-08,Women's Soccer,III
-WSO,Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2009, 'WSO', 3, 958);",2009,3,2008-09,Women's Soccer,III
-WSO,Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2010, 'WSO', 3, 958);",2010,3,2009-10,Women's Soccer,III
-WSO,Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2011, 'WSO', 3, 958);",2011,3,2010-11,Women's Soccer,III
-WSO,Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2012, 'WSO', 3, 958);",2012,3,2011-12,Women's Soccer,III
-WSO,Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2013, 'WSO', 3, 958);",2013,3,2012-13,Women's Soccer,III
-WSO,Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2014, 'WSO', 3, 958);",2014,3,2013-14,Women's Soccer,III
-WSO,Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 958);",2015,3,2014-15,Women's Soccer,III
-WSO,Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 958);",2016,3,2015-16,Women's Soccer,III
-WSO,Summit,958,Clarks Summit,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 958);",2017,3,2016-17,Women's Soccer,III
 WSO,SUNY Canton,30165,SUNY Canton,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 30165);",2015,3,2014-15,Women's Soccer,III
 WSO,SUNY Canton,30165,SUNY Canton,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 30165);",2016,3,2015-16,Women's Soccer,III
 WSO,SUNY Canton,30165,SUNY Canton,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 30165);",2017,3,2016-17,Women's Soccer,III
@@ -14568,9 +14585,6 @@ WSO,Tex. Permian Basin,30088,Tex. Permian Basin,"javascript:showTeamPage(-100, 2
 WSO,Tex. Permian Basin,30088,Tex. Permian Basin,"javascript:showTeamPage(-100, 2015, 'WSO', 2, 30088);",2015,2,2014-15,Women's Soccer,II
 WSO,Tex. Permian Basin,30088,Tex. Permian Basin,"javascript:showTeamPage(-100, 2016, 'WSO', 2, 30088);",2016,2,2015-16,Women's Soccer,II
 WSO,Tex. Permian Basin,30088,Tex. Permian Basin,"javascript:showTeamPage(-100, 2017, 'WSO', 2, 30088);",2017,2,2016-17,Women's Soccer,II
-WSO,Tex.-Pan American,536,UTRGV,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 536);",2015,1,2014-15,Women's Soccer,I
-WSO,Tex.-Pan American,536,UTRGV,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 536);",2016,1,2015-16,Women's Soccer,I
-WSO,Tex.-Pan American,536,UTRGV,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 536);",2017,1,2016-17,Women's Soccer,I
 WSO,Texas,703,Texas,"javascript:showTeamPage(-100, 1999, 'WSO', 1, 703);",1999,1,1998-99,Women's Soccer,I
 WSO,Texas,703,Texas,"javascript:showTeamPage(-100, 2000, 'WSO', 1, 703);",2000,1,1999-00,Women's Soccer,I
 WSO,Texas,703,Texas,"javascript:showTeamPage(-100, 2001, 'WSO', 1, 703);",2001,1,2000-01,Women's Soccer,I
@@ -14730,6 +14744,22 @@ WSO,Texas-Tyler,30028,Texas-Tyler,"javascript:showTeamPage(-100, 2014, 'WSO', 3,
 WSO,Texas-Tyler,30028,Texas-Tyler,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 30028);",2015,3,2014-15,Women's Soccer,III
 WSO,Texas-Tyler,30028,Texas-Tyler,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 30028);",2016,3,2015-16,Women's Soccer,III
 WSO,Texas-Tyler,30028,Texas-Tyler,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 30028);",2017,3,2016-17,Women's Soccer,III
+WSO,The Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2002, 'WSO', 1, 141);",2002,1,2001-02,Women's Soccer,I
+WSO,The Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2003, 'WSO', 1, 141);",2003,1,2002-03,Women's Soccer,I
+WSO,The Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2004, 'WSO', 1, 141);",2004,1,2003-04,Women's Soccer,I
+WSO,The Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2005, 'WSO', 1, 141);",2005,1,2004-05,Women's Soccer,I
+WSO,The Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2006, 'WSO', 1, 141);",2006,1,2005-06,Women's Soccer,I
+WSO,The Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2007, 'WSO', 1, 141);",2007,1,2006-07,Women's Soccer,I
+WSO,The Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2008, 'WSO', 1, 141);",2008,1,2007-08,Women's Soccer,I
+WSO,The Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2009, 'WSO', 1, 141);",2009,1,2008-09,Women's Soccer,I
+WSO,The Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2010, 'WSO', 1, 141);",2010,1,2009-10,Women's Soccer,I
+WSO,The Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2011, 'WSO', 1, 141);",2011,1,2010-11,Women's Soccer,I
+WSO,The Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2012, 'WSO', 1, 141);",2012,1,2011-12,Women's Soccer,I
+WSO,The Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2013, 'WSO', 1, 141);",2013,1,2012-13,Women's Soccer,I
+WSO,The Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 141);",2014,1,2013-14,Women's Soccer,I
+WSO,The Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 141);",2015,1,2014-15,Women's Soccer,I
+WSO,The Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 141);",2016,1,2015-16,Women's Soccer,I
+WSO,The Citadel,141,The Citadel,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 141);",2017,1,2016-17,Women's Soccer,I
 WSO,Thiel,707,Thiel,"javascript:showTeamPage(-100, 1999, 'WSO', 3, 707);",1999,3,1998-99,Women's Soccer,III
 WSO,Thiel,707,Thiel,"javascript:showTeamPage(-100, 2000, 'WSO', 3, 707);",2000,3,1999-00,Women's Soccer,III
 WSO,Thiel,707,Thiel,"javascript:showTeamPage(-100, 2002, 'WSO', 3, 707);",2002,3,2001-02,Women's Soccer,III
@@ -15061,24 +15091,6 @@ WSO,UAB,9,UAB,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 9);",2014,1,2013-14
 WSO,UAB,9,UAB,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 9);",2015,1,2014-15,Women's Soccer,I
 WSO,UAB,9,UAB,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 9);",2016,1,2015-16,Women's Soccer,I
 WSO,UAB,9,UAB,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 9);",2017,1,2016-17,Women's Soccer,I
-WSO,UALR,32,Little Rock,"javascript:showTeamPage(-100, 2000, 'WSO', 1, 32);",2000,1,1999-00,Women's Soccer,I
-WSO,UALR,32,Little Rock,"javascript:showTeamPage(-100, 2001, 'WSO', 1, 32);",2001,1,2000-01,Women's Soccer,I
-WSO,UALR,32,Little Rock,"javascript:showTeamPage(-100, 2002, 'WSO', 1, 32);",2002,1,2001-02,Women's Soccer,I
-WSO,UALR,32,Little Rock,"javascript:showTeamPage(-100, 2003, 'WSO', 1, 32);",2003,1,2002-03,Women's Soccer,I
-WSO,UALR,32,Little Rock,"javascript:showTeamPage(-100, 2004, 'WSO', 1, 32);",2004,1,2003-04,Women's Soccer,I
-WSO,UALR,32,Little Rock,"javascript:showTeamPage(-100, 2005, 'WSO', 1, 32);",2005,1,2004-05,Women's Soccer,I
-WSO,UALR,32,Little Rock,"javascript:showTeamPage(-100, 2006, 'WSO', 1, 32);",2006,1,2005-06,Women's Soccer,I
-WSO,UALR,32,Little Rock,"javascript:showTeamPage(-100, 2007, 'WSO', 1, 32);",2007,1,2006-07,Women's Soccer,I
-WSO,UALR,32,Little Rock,"javascript:showTeamPage(-100, 2008, 'WSO', 1, 32);",2008,1,2007-08,Women's Soccer,I
-WSO,UALR,32,Little Rock,"javascript:showTeamPage(-100, 2009, 'WSO', 1, 32);",2009,1,2008-09,Women's Soccer,I
-WSO,UALR,32,Little Rock,"javascript:showTeamPage(-100, 2010, 'WSO', 1, 32);",2010,1,2009-10,Women's Soccer,I
-WSO,UALR,32,Little Rock,"javascript:showTeamPage(-100, 2011, 'WSO', 1, 32);",2011,1,2010-11,Women's Soccer,I
-WSO,UALR,32,Little Rock,"javascript:showTeamPage(-100, 2012, 'WSO', 1, 32);",2012,1,2011-12,Women's Soccer,I
-WSO,UALR,32,Little Rock,"javascript:showTeamPage(-100, 2013, 'WSO', 1, 32);",2013,1,2012-13,Women's Soccer,I
-WSO,UALR,32,Little Rock,"javascript:showTeamPage(-100, 2014, 'WSO', 1, 32);",2014,1,2013-14,Women's Soccer,I
-WSO,UALR,32,Little Rock,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 32);",2015,1,2014-15,Women's Soccer,I
-WSO,UALR,32,Little Rock,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 32);",2016,1,2015-16,Women's Soccer,I
-WSO,UALR,32,Little Rock,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 32);",2017,1,2016-17,Women's Soccer,I
 WSO,UC Davis,108,UC Davis,"javascript:showTeamPage(-100, 1999, 'WSO', 2, 108);",1999,2,1998-99,Women's Soccer,II
 WSO,UC Davis,108,UC Davis,"javascript:showTeamPage(-100, 2000, 'WSO', 2, 108);",2000,2,1999-00,Women's Soccer,II
 WSO,UC Davis,108,UC Davis,"javascript:showTeamPage(-100, 2001, 'WSO', 2, 108);",2001,2,2000-01,Women's Soccer,II
@@ -15661,6 +15673,9 @@ WSO,Utica,733,Utica,"javascript:showTeamPage(-100, 2014, 'WSO', 3, 733);",2014,3
 WSO,Utica,733,Utica,"javascript:showTeamPage(-100, 2015, 'WSO', 3, 733);",2015,3,2014-15,Women's Soccer,III
 WSO,Utica,733,Utica,"javascript:showTeamPage(-100, 2016, 'WSO', 3, 733);",2016,3,2015-16,Women's Soccer,III
 WSO,Utica,733,Utica,"javascript:showTeamPage(-100, 2017, 'WSO', 3, 733);",2017,3,2016-17,Women's Soccer,III
+WSO,UTRGV,536,UTRGV,"javascript:showTeamPage(-100, 2015, 'WSO', 1, 536);",2015,1,2014-15,Women's Soccer,I
+WSO,UTRGV,536,UTRGV,"javascript:showTeamPage(-100, 2016, 'WSO', 1, 536);",2016,1,2015-16,Women's Soccer,I
+WSO,UTRGV,536,UTRGV,"javascript:showTeamPage(-100, 2017, 'WSO', 1, 536);",2017,1,2016-17,Women's Soccer,I
 WSO,UTSA,706,UTSA,"javascript:showTeamPage(-100, 2007, 'WSO', 1, 706);",2007,1,2006-07,Women's Soccer,I
 WSO,UTSA,706,UTSA,"javascript:showTeamPage(-100, 2008, 'WSO', 1, 706);",2008,1,2007-08,Women's Soccer,I
 WSO,UTSA,706,UTSA,"javascript:showTeamPage(-100, 2009, 'WSO', 1, 706);",2009,1,2008-09,Women's Soccer,I
@@ -16587,6 +16602,8 @@ WSO,Westminster (PA),1451,Westminster (PA),"javascript:showTeamPage(-100, 2014, 
 WSO,Westminster (PA),1451,Westminster (PA),"javascript:showTeamPage(-100, 2015, 'WSO', 3, 1451);",2015,3,2014-15,Women's Soccer,III
 WSO,Westminster (PA),1451,Westminster (PA),"javascript:showTeamPage(-100, 2016, 'WSO', 3, 1451);",2016,3,2015-16,Women's Soccer,III
 WSO,Westminster (PA),1451,Westminster (PA),"javascript:showTeamPage(-100, 2017, 'WSO', 3, 1451);",2017,3,2016-17,Women's Soccer,III
+WSO,Westminster (UT),30209,Westminster (UT),"javascript:showTeamPage(-100, 2016, 'WSO', 2, 30209);",2016,2,2015-16,Women's Soccer,II
+WSO,Westminster (UT),30209,Westminster (UT),"javascript:showTeamPage(-100, 2017, 'WSO', 2, 30209);",2017,2,2016-17,Women's Soccer,II
 WSO,Wheaton (IL),778,Wheaton (IL),"javascript:showTeamPage(-100, 1999, 'WSO', 3, 778);",1999,3,1998-99,Women's Soccer,III
 WSO,Wheaton (IL),778,Wheaton (IL),"javascript:showTeamPage(-100, 2000, 'WSO', 3, 778);",2000,3,1999-00,Women's Soccer,III
 WSO,Wheaton (IL),778,Wheaton (IL),"javascript:showTeamPage(-100, 2001, 'WSO', 3, 778);",2001,3,2000-01,Women's Soccer,III
