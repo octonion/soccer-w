@@ -14,7 +14,7 @@ retries = 4
 year = ARGV[0].to_i
 division = ARGV[1]
 
-ncaa_teams = CSV.read("csv/ncaa_teams_#{year}_#{division}.csv","r",{:col_sep => "\t", :headers => TRUE})
+ncaa_teams = CSV.read("csv/ncaa_teams_#{year}_#{division}.csv","r",{:col_sep => "\t", :headers => true})
 ncaa_player_summaries = CSV.open("csv/ncaa_player_summaries_#{year}_#{division}.csv","w",{:col_sep => "\t"})
 ncaa_team_summaries = CSV.open("csv/ncaa_team_summaries_#{year}_#{division}.csv","w",{:col_sep => "\t"})
 
@@ -76,7 +76,9 @@ ncaa_teams.each do |team|
 
   teams_xpath = '//*[@id="stat_grid"]/tfoot/tr' #[position()>1]'
 
-  stat_url = "http://stats.ncaa.org/team/stats?org_id=#{team_id}&sport_year_ctl_id=#{year_id}"
+  stat_url = "http://stats.ncaa.org/team/#{team_id}/stats?id=#{year_id}"
+
+  #stat_url = "http://stats.ncaa.org/team/stats?org_id=#{team_id}&sport_year_ctl_id=#{year_id}"
 
   #print "Sleep #{sleep_time} ... "
   #sleep sleep_time
